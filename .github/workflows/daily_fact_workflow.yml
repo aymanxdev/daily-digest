@@ -28,10 +28,10 @@ jobs:
       env:  # Declare the secrets as environment variables
         GIT_USERNAME: ${{ secrets.GIT_USERNAME }}
         GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
-      run: python ./.github/workflows/daily_fact_bot.py
+      run: python ./daily_fact_bot.py
 
     - name: Push changes
-      uses: ad-m/github-push-action@master
+      uses: ad-m/github-push-action@main
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
