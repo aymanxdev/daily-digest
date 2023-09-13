@@ -1,0 +1,37 @@
+name: Daily Fact Committer
+
+on:
+  schedule:
+    - cron: '0 15 * * *' # This means it will run daily at 3 pm UTC.
+
+jobs:
+  commit_daily_fact:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      with:
+        persist-credentials: false
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install random
+
+    - name: Run daily fact bot
+      env:  # Declare the secrets as environment variables
+        GIT_USERNAME: ${{ secrets.GIT_USERNAME }}
+        GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
+      run: python ./.github/workflows/daily_fact_bot.py
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
