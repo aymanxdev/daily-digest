@@ -1,4 +1,4 @@
-name: Daily Fact Committer
+name: Daily Fact Bot
 
 on:
   schedule:
