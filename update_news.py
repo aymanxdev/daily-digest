@@ -19,7 +19,7 @@ for story_id in top_stories:
     news_list.append((item['title'], item['url']))
 
 # Current date for the title
-current_date = datetime.now().strftime('%Y-%m-%d')
+current_date = datetime.now().strftime('%d-%m-%Y')
 
 # Determine if it's morning or afternoon/evening
 current_hour = datetime.now().hour
