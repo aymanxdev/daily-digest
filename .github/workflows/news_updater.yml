@@ -26,6 +26,9 @@ jobs:
           pip install requests
 
       - name: Update daily dev news
+        env: # Declare the secrets as environment variables
+          GIT_USERNAME: ${{ secrets.GIT_USERNAME }}
+          GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
         run: python ./update_news.py
 
       - name: Push changes
