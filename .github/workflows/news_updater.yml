@@ -1,4 +1,4 @@
-name: Daily Dev News Updater
+name: Daily Dev Newss
 
 on:
   schedule:
@@ -30,6 +30,17 @@ jobs:
           GIT_USERNAME: ${{ secrets.GIT_USERNAME }}
           GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
         run: python ./update_news.py
+
+      - name: Setup git
+        run: |
+          git config user.name "${{ secrets.GIT_USERNAME }}"
+          git config user.email "${{ secrets.GIT_EMAIL }}"
+
+      - name: Commit and push if there are changes
+        run: |
+          git add .
+          git diff --quiet && git diff --staged --quiet || git commit -m "Updated Daily Dev News"
+          # If no changes are present, the commit command above will fail, but we'll continue.
 
       - name: Push changes
         uses: ad-m/github-push-action@master
