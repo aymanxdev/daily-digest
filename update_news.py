@@ -36,7 +36,7 @@ for title, url in news_list:
 
 # Write to the news Markdown file
 with open("daily_news.md", 'a') as file:  
-    f.write(formatted_data)
+    file.write(formatted_data)
 
 # with open(README_PATH, 'a') as readme:
 #     readme.write(f"\n[Click here for the {time_of_day} Digest - {current_date}](daily_news.md)")
