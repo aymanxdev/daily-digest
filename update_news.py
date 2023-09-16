@@ -4,7 +4,7 @@ from datetime import datetime
 
 API_URL = "https://hacker-news.firebaseio.com/v0/topstories.json?print=pretty"
 ITEM_URL = "https://hacker-news.firebaseio.com/v0/item/{}.json?print=pretty"
-NEWS_FILE_PATH = "daily_news.md"
+# NEWS_FILE_PATH = "daily_news.md"
 README_PATH = "README.md"
 
 # Fetch the IDs of the top stories
@@ -35,7 +35,7 @@ for title, url in news_list:
     formatted_data += f"- [{title}]({url})\n"
 
 # Write to the news Markdown file
-with open(NEWS_FILE_PATH, 'a') as f:  
+with open("daily_news.md", 'a') as file:  
     f.write(formatted_data)
 
 # with open(README_PATH, 'a') as readme:
