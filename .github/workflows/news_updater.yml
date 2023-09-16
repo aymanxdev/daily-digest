@@ -1,4 +1,4 @@
-name: Daily Dev Newss
+name: Daily Dev News
 
 on:
   schedule:
