@@ -30,7 +30,7 @@ else:
 
 # Format data for Markdown
 # formatted_data = "# Daily Dev News Summary\n\n"
-formatted_data += f"## {time_of_day} Digest - {current_date}\n\n"
+formatted_data = f"## {time_of_day} Digest - {current_date}\n\n"
 for title, url in news_list:
     formatted_data += f"- [{title}]({url})\n"
 
