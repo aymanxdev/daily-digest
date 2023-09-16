@@ -25,4 +25,4 @@ with open("facts.txt", "a") as file:
 os.system(f"git config --global user.name '{git_username}'")
 os.system(f"git config --global user.email '{git_email}'")
 os.system("git add facts.txt")
-os.system('git commit -m "Add new fact"')
+os.system('git commit -m "Add a cat fact"')
