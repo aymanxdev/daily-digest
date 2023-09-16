@@ -35,10 +35,8 @@ for title, url in news_list:
     formatted_data += f"- [{title}]({url})\n"
 
 # Write to the news Markdown file
-with open(NEWS_FILE_PATH, 'a') as f:  # Using 'a' to append the new digest to the existing content
+with open(NEWS_FILE_PATH, 'a') as f:  
     f.write(formatted_data)
 
-# Update the main README to include a link to the news file
-# You can remove this part if you don't want to update the main README every time.
-with open(README_PATH, 'a') as readme:
-    readme.write(f"\n[Click here for the {time_of_day} Digest - {current_date}](daily_news.md)")
+# with open(README_PATH, 'a') as readme:
+#     readme.write(f"\n[Click here for the {time_of_day} Digest - {current_date}](daily_news.md)")
