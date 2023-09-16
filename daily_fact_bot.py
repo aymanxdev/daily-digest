@@ -1,21 +1,21 @@
 import os
 import random
+import requests
+
 
 git_username = os.environ.get("GIT_USERNAME")
 git_email = os.environ.get("GIT_EMAIL")
 
 # List of random lines
-lines = [
-    "The sun is approximately 93 million miles away from Earth.",
-    "Mount Everest is the tallest mountain on Earth.",
-    "The Eiffel Tower can grow 6 inches in summer due to metal expansion.",
-    "Light travels at 299,792,458 meters per second in a vacuum.",
-    "Elephants are the only animals that can't jump.",
-    # ... add more 
-]
+def get_cat_facts():
+    response = requests.get("https://catfact.ninja/fact?max_length=100")
+    if response.status_code == 200:
+        return response.json()["fact"]
+    else:
+        return None
 
 # Choose a random line
-line = random.choice(lines)
+fact = get_cat_facts()
 
 # Append the line to the file
 with open("facts.txt", "a") as file:
