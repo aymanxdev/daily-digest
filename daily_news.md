@@ -10,3 +10,8 @@
 - [Adobe will charge “credits” for generative AI](https://helpx.adobe.com/firefly/using/generative-credits-faq.html)
 - [Show HN: Every Breath You Take – Heart Rate Variability Training](https://github.com/kbre93/every-breath-you-take)
 - [Java 21 makes me like Java again](https://wscp.dev/posts/tech/java-pattern-matching/)
+## Morning Digest - 17-09-2023
+
+- [A look at Apple’s new Transformer-powered predictive text model](https://jackcook.com/2023/09/08/predictive-text.html)
+- [A High Throughput B+tree for SIMD Architectures (2020) [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
+- [Cystic fibrosis treatment wins Breakthrough Prize](https://www.nature.com/articles/d41586-023-02890-1)
