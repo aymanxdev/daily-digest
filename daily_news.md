@@ -15,3 +15,8 @@
 - [A look at Apple’s new Transformer-powered predictive text model](https://jackcook.com/2023/09/08/predictive-text.html)
 - [A High Throughput B+tree for SIMD Architectures (2020) [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
 - [Cystic fibrosis treatment wins Breakthrough Prize](https://www.nature.com/articles/d41586-023-02890-1)
+## Afternoon/Evening Digest - 17-09-2023
+
+- [Close to 2k Environmental Activists Killed over Last Decade](https://e360.yale.edu/digest/environmental-defenders-murdered-2022)
+- [Comp.lang.c is now full of spam from Google Groups](https://groups.google.com/g/comp.lang.c)
+- [Linear Book Scanner – The open-source automatic book scanner](https://linearbookscanner.org/)
