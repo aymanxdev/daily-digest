@@ -2,7 +2,7 @@ name: Daily Fact Bot
 
 on:
   schedule:
-    - cron: '0 15 * * *' # This means it will run daily at 3 pm UTC.
+    - cron: '0 16 * * *' # This means it will run daily at 4 pm UTC.
   workflow_dispatch:
 
 jobs:
@@ -10,29 +10,35 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-      with:
-        persist-credentials: false
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.8
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install requests
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
 
-    - name: Run daily fact bot
-      env:  # Declare the secrets as environment variables
-        GIT_USERNAME: ${{ secrets.GIT_USERNAME }}
-        GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
-      run: python ./daily_fact_bot.py
+      - name: Run daily fact bot
+        env: # Declare the secrets as environment variables
+          GIT_USERNAME: ${{ secrets.GIT_USERNAME }}
+          GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
+        run: python ./daily_fact_bot.py
 
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GH_PAT }}
-        branch: ${{ github.ref }}
+      - name: Commit changes
+        run: |
+          git config user.name "${GIT_USERNAME}"
+          git config user.email "${GIT_EMAIL}"
+          git pull --rebase origin main
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GH_PAT }}
+          branch: ${{ github.ref }}
