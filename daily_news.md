@@ -20,3 +20,8 @@
 - [Close to 2k Environmental Activists Killed over Last Decade](https://e360.yale.edu/digest/environmental-defenders-murdered-2022)
 - [Comp.lang.c is now full of spam from Google Groups](https://groups.google.com/g/comp.lang.c)
 - [Linear Book Scanner – The open-source automatic book scanner](https://linearbookscanner.org/)
+## Morning Digest - 18-09-2023
+
+- [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
+- [Pollution in 1/8 (2010)](https://labs.ripe.net/author/franz/pollution-in-18/)
+- [Introduction to Immutable Linux Systems](https://dataswamp.org/~solene/2023-07-12-intro-to-immutable-os.html)
