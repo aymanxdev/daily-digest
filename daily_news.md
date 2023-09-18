@@ -25,3 +25,8 @@
 - [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
 - [Pollution in 1/8 (2010)](https://labs.ripe.net/author/franz/pollution-in-18/)
 - [Introduction to Immutable Linux Systems](https://dataswamp.org/~solene/2023-07-12-intro-to-immutable-os.html)
+## Afternoon/Evening Digest - 18-09-2023
+
+- [When Zig Outshines Rust – Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums)
+- [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
+- [Replanting Logged Forests with Diverse Seedlings Accelerates Restoration](https://www.technologynetworks.com/applied-sciences/news/replanting-logged-forests-with-diverse-mixtures-of-seedlings-accelerates-restoration-378916)
