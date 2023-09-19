@@ -30,3 +30,8 @@
 - [When Zig Outshines Rust – Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums)
 - [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
 - [Replanting Logged Forests with Diverse Seedlings Accelerates Restoration](https://www.technologynetworks.com/applied-sciences/news/replanting-logged-forests-with-diverse-mixtures-of-seedlings-accelerates-restoration-378916)
+## Morning Digest - 19-09-2023
+
+- [I digitalized Berlin's registration form](https://nicolasbouliane.com/projects/anmeldung-form-filler)
+- [Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
+- [Opera's browser is now available with chess baked in](https://blogs.opera.com/news/2023/09/opera-launches-custom-chess-browser/)
