@@ -35,3 +35,8 @@
 - [I digitalized Berlin's registration form](https://nicolasbouliane.com/projects/anmeldung-form-filler)
 - [Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
 - [Opera's browser is now available with chess baked in](https://blogs.opera.com/news/2023/09/opera-launches-custom-chess-browser/)
+## Afternoon/Evening Digest - 19-09-2023
+
+- [Snowden leak: Cavium networking hardware may contain NSA backdoor](https://twitter.com/matthew_d_green/status/1703959863796158678)
+- [JDK 21 Release Notes](https://jdk.java.net/21/release-notes)
+- [Java 21 Released](https://mail.openjdk.org/pipermail/jdk-dev/2023-September/008267.html)
