@@ -40,3 +40,8 @@
 - [Snowden leak: Cavium networking hardware may contain NSA backdoor](https://twitter.com/matthew_d_green/status/1703959863796158678)
 - [JDK 21 Release Notes](https://jdk.java.net/21/release-notes)
 - [Java 21 Released](https://mail.openjdk.org/pipermail/jdk-dev/2023-September/008267.html)
+## Morning Digest - 20-09-2023
+
+- [OpenTF renames itself to OpenTofu](https://github.com/opentofu)
+- [FAA authorizes Zipline to deliver commercial packages using drones](https://www.faa.gov/newsroom/faa-authorizes-zipline-deliver-commercial-packages-beyond-line-sight)
+- [Can’t send email more than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
