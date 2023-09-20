@@ -45,3 +45,8 @@
 - [OpenTF renames itself to OpenTofu](https://github.com/opentofu)
 - [FAA authorizes Zipline to deliver commercial packages using drones](https://www.faa.gov/newsroom/faa-authorizes-zipline-deliver-commercial-packages-beyond-line-sight)
 - [Can’t send email more than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
+## Afternoon/Evening Digest - 20-09-2023
+
+- [Svelte 5: Runes](https://svelte.dev/blog/runes)
+- [Show HN: uBlock Origin filters to remove distractions](https://github.com/mig4ng/ublock-origin-filters)
+- [Show HN: ElectricSQL, Postgres to SQLite active-active sync for local-first apps](https://electric-sql.com/)
