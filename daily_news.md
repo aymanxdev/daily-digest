@@ -50,3 +50,8 @@
 - [Svelte 5: Runes](https://svelte.dev/blog/runes)
 - [Show HN: uBlock Origin filters to remove distractions](https://github.com/mig4ng/ublock-origin-filters)
 - [Show HN: ElectricSQL, Postgres to SQLite active-active sync for local-first apps](https://electric-sql.com/)
+## Morning Digest - 21-09-2023
+
+- [OpenBSD/ARM64 on Hetzner Cloud](https://www.undeadly.org/cgi?action=article;sid=20230921073556)
+- [Philips Hue will soon force users to create an account](https://defcon.social/@mysk/111097362983335713)
+- [Terry Tao's generals (2012)](https://web.math.princeton.edu/generals/tao_terence)
