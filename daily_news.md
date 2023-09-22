@@ -60,3 +60,8 @@
 - [Cisco Acquires Splunk](https://www.splunk.com/en_us/blog/leadership/splunk-and-cisco-unite-to-accelerate-digital-resilience-as-one-of-the-leading-global-software-companies.html)
 - [Nippon Television has just acquired Studio Ghibli](https://www.catsuka.com/breves/2023-09-21/nippon-television-rachete-le-studio-ghibli)
 - [BrainTree has been down for more than 7 hours now](https://www.paypal-status.com/incident/production)
+## Morning Digest - 22-09-2023
+
+- [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10)
+- [AWS Customers Cannot Escape IPv4](https://tty.neveragain.de/2023/09/21/aws-cannot-escape-ipv4.html)
+- [The Bogus CVE Problem](https://lwn.net/Articles/944209/)
