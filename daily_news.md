@@ -65,3 +65,8 @@
 - [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10)
 - [AWS Customers Cannot Escape IPv4](https://tty.neveragain.de/2023/09/21/aws-cannot-escape-ipv4.html)
 - [The Bogus CVE Problem](https://lwn.net/Articles/944209/)
+## Afternoon/Evening Digest - 22-09-2023
+
+- [Valve is a wonderful upstream contributor to Linux and the open-source community](https://www.phoronix.com/news/Valve-Upstream-Everything-OSS)
+- [Tailscale Kubernetes Operator](https://tailscale.com/kb/1236/kubernetes-operator/)
+- [Signal: The Pqxdh Key Agreement Protocol](https://signal.org/docs/specifications/pqxdh/)
