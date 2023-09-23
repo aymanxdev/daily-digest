@@ -70,3 +70,8 @@
 - [Valve is a wonderful upstream contributor to Linux and the open-source community](https://www.phoronix.com/news/Valve-Upstream-Everything-OSS)
 - [Tailscale Kubernetes Operator](https://tailscale.com/kb/1236/kubernetes-operator/)
 - [Signal: The Pqxdh Key Agreement Protocol](https://signal.org/docs/specifications/pqxdh/)
+## Morning Digest - 23-09-2023
+
+- [0-days exploited by commercial surveillance vendor in Egypt](https://blog.google/threat-analysis-group/0-days-exploited-by-commercial-surveillance-vendor-in-egypt/)
+- [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
+- [It's okay to make something nobody wants](https://zhangluyao.com/blog/make-something-nobody-wants/)
