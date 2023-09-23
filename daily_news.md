@@ -75,3 +75,8 @@
 - [0-days exploited by commercial surveillance vendor in Egypt](https://blog.google/threat-analysis-group/0-days-exploited-by-commercial-surveillance-vendor-in-egypt/)
 - [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
 - [It's okay to make something nobody wants](https://zhangluyao.com/blog/make-something-nobody-wants/)
+## Afternoon/Evening Digest - 23-09-2023
+
+- [My solopreneur story: zero to $45K/mo in 2 years](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo)
+- [Coding Guidelines for Prolog (2011)](https://arxiv.org/abs/0911.2899)
+- [Jewel of the forest: New electric blue tarantula species discovered in Thailand](https://phys.org/news/2023-09-jewel-forest-electric-blue-tarantula.html)
