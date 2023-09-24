@@ -80,3 +80,8 @@
 - [My solopreneur story: zero to $45K/mo in 2 years](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo)
 - [Coding Guidelines for Prolog (2011)](https://arxiv.org/abs/0911.2899)
 - [Jewel of the forest: New electric blue tarantula species discovered in Thailand](https://phys.org/news/2023-09-jewel-forest-electric-blue-tarantula.html)
+## Morning Digest - 24-09-2023
+
+- [Platform that enables Windows driver development in Rust](https://github.com/microsoft/windows-drivers-rs)
+- [Usability of Old Computers](https://blog.karthikkumar.org/usability-of-old-computers-f06a7f00f72e?gi=ce330599bc0f)
+- [Bottlerocket – Minimal, immutable Linux OS with verified boot](https://bottlerocket.dev)
