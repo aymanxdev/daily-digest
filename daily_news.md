@@ -85,3 +85,8 @@
 - [Platform that enables Windows driver development in Rust](https://github.com/microsoft/windows-drivers-rs)
 - [Usability of Old Computers](https://blog.karthikkumar.org/usability-of-old-computers-f06a7f00f72e?gi=ce330599bc0f)
 - [Bottlerocket – Minimal, immutable Linux OS with verified boot](https://bottlerocket.dev)
+## Afternoon/Evening Digest - 24-09-2023
+
+- [Full Resolution Photo Archive](http://aurelm.com/portfolio/aurel-manea-photo-archive/)
+- [The myth of the myth of learning styles](https://nedbatchelder.com/blog/202309/the_myth_of_the_myth_of_learning_styles.html)
+- [Show HN: OSS PostgreSQL RDS with Supabase,PGML,Vector,HA,PITR,Monitor,&100+ Exts](https://github.com/Vonng/pigsty)
