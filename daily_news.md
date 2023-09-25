@@ -90,3 +90,8 @@
 - [Full Resolution Photo Archive](http://aurelm.com/portfolio/aurel-manea-photo-archive/)
 - [The myth of the myth of learning styles](https://nedbatchelder.com/blog/202309/the_myth_of_the_myth_of_learning_styles.html)
 - [Show HN: OSS PostgreSQL RDS with Supabase,PGML,Vector,HA,PITR,Monitor,&100+ Exts](https://github.com/Vonng/pigsty)
+## Morning Digest - 25-09-2023
+
+- [Amazon will invest up to $4B in Anthropic](https://www.anthropic.com/index/anthropic-amazon)
+- [Bitwarden: Free, open-source password manager](https://bitwarden.com/)
+- [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
