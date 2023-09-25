@@ -95,3 +95,8 @@
 - [Amazon will invest up to $4B in Anthropic](https://www.anthropic.com/index/anthropic-amazon)
 - [Bitwarden: Free, open-source password manager](https://bitwarden.com/)
 - [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
+## Afternoon/Evening Digest - 25-09-2023
+
+- [Show HN: E-Ink Day Schedule](https://github.com/davidhampgonsalves/life-dashboard)
+- [Rhythm 0](https://en.wikipedia.org/wiki/Rhythm_0)
+- [Show HN: Online Oscilloscope with Waveform Generators](https://csurgay.com/syggen/)
