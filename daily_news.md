@@ -105,3 +105,8 @@
 - [macOS Containers v0.0.1](https://macoscontainers.org/)
 - [Quadlets might make me finally stop using Docker-compose – Major Hayden](https://major.io/p/quadlets-replace-docker-compose/)
 - [The Casino in Your Pocket](https://blog.curtii.com/blog/posts/wordscapes-the-casino-in-your-pocket/)
+## Afternoon/Evening Digest - 26-09-2023
+
+- [Quadlets might make me finally stop using docker-compose](https://major.io/p/quadlets-replace-docker-compose/)
+- [Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond](https://pytorch.org/blog/inside-the-matrix/)
+- [Google Ngram Viewer n-grams are wrong](https://www.etymonline.com/columns/post/who-lusts-for-certainty-lusts-for-lies)
