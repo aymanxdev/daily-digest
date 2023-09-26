@@ -100,3 +100,8 @@
 - [Show HN: E-Ink Day Schedule](https://github.com/davidhampgonsalves/life-dashboard)
 - [Rhythm 0](https://en.wikipedia.org/wiki/Rhythm_0)
 - [Show HN: Online Oscilloscope with Waveform Generators](https://csurgay.com/syggen/)
+## Morning Digest - 26-09-2023
+
+- [macOS Containers v0.0.1](https://macoscontainers.org/)
+- [Quadlets might make me finally stop using Docker-compose – Major Hayden](https://major.io/p/quadlets-replace-docker-compose/)
+- [The Casino in Your Pocket](https://blog.curtii.com/blog/posts/wordscapes-the-casino-in-your-pocket/)
