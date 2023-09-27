@@ -110,3 +110,8 @@
 - [Quadlets might make me finally stop using docker-compose](https://major.io/p/quadlets-replace-docker-compose/)
 - [Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond](https://pytorch.org/blog/inside-the-matrix/)
 - [Google Ngram Viewer n-grams are wrong](https://www.etymonline.com/columns/post/who-lusts-for-certainty-lusts-for-lies)
+## Morning Digest - 27-09-2023
+
+- [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)
+- [Writing a debugger from scratch: Breakpoints](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/)
+- [A journey into the shaken baby syndrome/abusive head trauma controversy](https://www.cambridgeblog.org/2023/05/a-journey-into-the-shaken-baby-syndrome-abusive-head-trauma-controversy/)
