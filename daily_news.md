@@ -115,3 +115,8 @@
 - [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)
 - [Writing a debugger from scratch: Breakpoints](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/)
 - [A journey into the shaken baby syndrome/abusive head trauma controversy](https://www.cambridgeblog.org/2023/05/a-journey-into-the-shaken-baby-syndrome-abusive-head-trauma-controversy/)
+## Afternoon/Evening Digest - 27-09-2023
+
+- [The most copied StackOverflow snippet of all time is flawed](https://programming.guide/worlds-most-copied-so-snippet.html)
+- [Be My Eyes’ AI assistant starts rolling out](https://www.bemyeyes.com/blog/announcing-be-my-ai)
+- [Mistral 7B, the most powerful language model for its size to date, Apache 2.0](https://mistral.ai/news/announcing-mistral-7b/)
