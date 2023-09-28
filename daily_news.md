@@ -125,3 +125,8 @@
 - [Why does trying to break into the NT 3.1 kernel reboot my 486DX4 machine?](https://retrocomputing.stackexchange.com/questions/19655/why-does-trying-to-break-into-the-nt-3-1-kernel-reboot-my-486dx4-machine)
 - [Inhibition of fatty acid oxidation enables heart regeneration in adult mice](https://www.nature.com/articles/s41586-023-06585-5)
 - [As We May Think (1945)](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
+## Afternoon/Evening Digest - 28-09-2023
+
+- [Very high number of workplace accidents at Tesla factory in Germany](https://globeecho.com/news/europe/germany/a-striking-number-of-work-accidents-in-the-tesla-factory-in-grunheide/)
+- [X CEO Says Platform Should Turn Profit in 2024](https://www.wsj.com/tech/x-ceo-linda-yaccarino-says-platform-should-turn-profit-in-2024-8575a1c)
+- [WebGPU Technical Report](https://chromium.googlesource.com/chromium/src/+/main/docs/security/research/graphics/webgpu_technical_report.md)
