@@ -135,3 +135,8 @@
 - [Richard Stallman reveals he has cancer in the GNU 40 Hacker Meeting talk](https://audio-video.gnu.org/video/gnu40/rms-gnu40.webm)
 - [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
 - [JAX – NumPy on the CPU, GPU, and TPU](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
+## Afternoon/Evening Digest - 29-09-2023
+
+- [Red Blob Games: Interactive visual explanations of math and algorithms](https://www.redblobgames.com/)
+- [Visual Node Graph with ImGui](https://gboisse.github.io/posts/node-graph/)
+- [Official U.S. government information about the Global Positioning System (GPS)](https://www.gps.gov/)
