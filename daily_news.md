@@ -130,3 +130,8 @@
 - [Very high number of workplace accidents at Tesla factory in Germany](https://globeecho.com/news/europe/germany/a-striking-number-of-work-accidents-in-the-tesla-factory-in-grunheide/)
 - [X CEO Says Platform Should Turn Profit in 2024](https://www.wsj.com/tech/x-ceo-linda-yaccarino-says-platform-should-turn-profit-in-2024-8575a1c)
 - [WebGPU Technical Report](https://chromium.googlesource.com/chromium/src/+/main/docs/security/research/graphics/webgpu_technical_report.md)
+## Morning Digest - 29-09-2023
+
+- [Richard Stallman reveals he has cancer in the GNU 40 Hacker Meeting talk](https://audio-video.gnu.org/video/gnu40/rms-gnu40.webm)
+- [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
+- [JAX – NumPy on the CPU, GPU, and TPU](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
