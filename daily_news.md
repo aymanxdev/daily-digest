@@ -140,3 +140,8 @@
 - [Red Blob Games: Interactive visual explanations of math and algorithms](https://www.redblobgames.com/)
 - [Visual Node Graph with ImGui](https://gboisse.github.io/posts/node-graph/)
 - [Official U.S. government information about the Global Positioning System (GPS)](https://www.gps.gov/)
+## Morning Digest - 30-09-2023
+
+- [A couple of messages about changes to ianVisits: Copyright trolls](https://www.ianvisits.co.uk/articles/a-couple-of-messages-about-changes-to-ianvisits-66081/)
+- [My Lobotomy: Howard Dully's Journey (2005)](https://www.npr.org/2005/11/16/5014080/my-lobotomy-howard-dullys-journey)
+- [RealFill: Image completion using diffusion models](https://realfill.github.io/)
