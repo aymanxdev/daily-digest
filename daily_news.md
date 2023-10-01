@@ -150,3 +150,8 @@
 - [PruningRadixTrie – Faster Radix trie for prefix search and auto-complete](https://github.com/wolfgarbe/PruningRadixTrie)
 - [They Studied Dishonesty. Was Their Work a Lie?](https://www.newyorker.com/magazine/2023/10/09/they-studied-dishonesty-was-their-work-a-lie)
 - [A Revelation About Trees Is Messing with Climate Calculations](https://web.archive.org/web/20230930090902/https://www.wired.com/story/a-revelation-about-trees-is-messing-with-climate-calculations/)
+## Morning Digest - 01-10-2023
+
+- [India’s pickle people: Decades-old culinary heirlooms, nostalgia](https://www.aljazeera.com/features/2023/9/29/indias-pickle-people-decades-old-culinary-heirlooms-nostalgia)
+- [The presumption that computers are working correctly](https://emptycity.substack.com/p/computer-says-guilty-an-introduction)
+- [Many of today’s unhealthy foods were brought to you by Big Tobacco](https://www.washingtonpost.com/wellness/2023/09/19/addiction-foods-hyperpalatable-tobacco/)
