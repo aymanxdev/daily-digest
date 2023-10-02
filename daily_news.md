@@ -160,3 +160,8 @@
 - [Pulsars, not dark matter, explain the Milky Way’s antimatter](https://bigthink.com/starts-with-a-bang/pulsars-dark-matter-milky-way-antimatter/)
 - [FlashAttention: Fast Transformer training with long sequences](https://www.adept.ai/blog/flashier-attention)
 - [MP3 vs. AAC vs. FLAC vs. CD](https://www.stereophile.com/features/308mp3cd/index.html)
+## Morning Digest - 02-10-2023
+
+- [Nomnoml](https://nomnoml.com/)
+- [Goodbye integers, hello UUIDv7](https://buildkite.com/blog/goodbye-integers-hello-uuids)
+- [Floorp – a customisable Firefox fork from Japan](https://floorp.app/en/)
