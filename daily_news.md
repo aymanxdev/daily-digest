@@ -165,3 +165,8 @@
 - [Nomnoml](https://nomnoml.com/)
 - [Goodbye integers, hello UUIDv7](https://buildkite.com/blog/goodbye-integers-hello-uuids)
 - [Floorp – a customisable Firefox fork from Japan](https://floorp.app/en/)
+## Afternoon/Evening Digest - 02-10-2023
+
+- [DOE: Pathways to Commercial Liftoff: Virtual Power Plants](https://liftoff.energy.gov/vpp/)
+- [Nomnoml](https://nomnoml.com/)
+- [The minimum every software developer must know about Unicode in 2023](https://tonsky.me/blog/unicode/)
