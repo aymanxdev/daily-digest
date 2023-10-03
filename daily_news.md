@@ -170,3 +170,8 @@
 - [DOE: Pathways to Commercial Liftoff: Virtual Power Plants](https://liftoff.energy.gov/vpp/)
 - [Nomnoml](https://nomnoml.com/)
 - [The minimum every software developer must know about Unicode in 2023](https://tonsky.me/blog/unicode/)
+## Morning Digest - 03-10-2023
+
+- [PicoCalc: A fully-functional clone of VisiCalc for the PICO-8](https://www.lexaloffle.com/bbs/?tid=41739)
+- [Windows NT 3.1 on Dec Alpha AXP](https://virtuallyfun.com/2023/10/02/windows-nt-3-1-on-dec-alpha-axp/)
+- [Illustrated A64 SIMD Instruction List: SVE Instructions](https://dougallj.github.io/asil/)
