@@ -175,3 +175,8 @@
 - [PicoCalc: A fully-functional clone of VisiCalc for the PICO-8](https://www.lexaloffle.com/bbs/?tid=41739)
 - [Windows NT 3.1 on Dec Alpha AXP](https://virtuallyfun.com/2023/10/02/windows-nt-3-1-on-dec-alpha-axp/)
 - [Illustrated A64 SIMD Instruction List: SVE Instructions](https://dougallj.github.io/asil/)
+## Afternoon/Evening Digest - 03-10-2023
+
+- [Daktilo: Turn Your Keyboard into a Typewriter](https://github.com/orhun/daktilo)
+- [Detroit man steals 800 gallons using Bluetooth to hack gas pumps at station](https://www.fox2detroit.com/news/detroit-man-steals-800-gallons-using-bluetooth-to-hack-gas-pumps-at-station)
+- [Hey, Computer, Make Me a Font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
