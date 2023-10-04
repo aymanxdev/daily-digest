@@ -185,3 +185,8 @@
 - [The time Terry Pratchett’s German publisher inserted a soup ad into his novel (2011)](https://lithub.com/the-time-terry-pratchetts-german-publisher-inserted-a-soup-ad-into-his-novel/)
 - [Enabling IPv6 support for IPv4-only apps on Linux](https://blog.apnic.net/2023/06/21/enabling-ipv6-support-for-ipv4-only-apps-on-linux/)
 - [Extracting Hacker News Book Recommendations with the ChatGPT API](https://blog.reyem.dev/post/extracting_hn_book_recommendations_with_chatgpt_api/)
+## Afternoon/Evening Digest - 04-10-2023
+
+- [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
+- [Show HN: Classic Video Poker (Godot is awesome!)](https://lfgslots.com/classicvideopoker/)
+- [1.3B Worldcat scrape and data science mini-competition](https://annas-blog.org/worldcat-scrape.html)
