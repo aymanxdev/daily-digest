@@ -180,3 +180,8 @@
 - [Daktilo: Turn Your Keyboard into a Typewriter](https://github.com/orhun/daktilo)
 - [Detroit man steals 800 gallons using Bluetooth to hack gas pumps at station](https://www.fox2detroit.com/news/detroit-man-steals-800-gallons-using-bluetooth-to-hack-gas-pumps-at-station)
 - [Hey, Computer, Make Me a Font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
+## Morning Digest - 04-10-2023
+
+- [The time Terry Pratchett’s German publisher inserted a soup ad into his novel (2011)](https://lithub.com/the-time-terry-pratchetts-german-publisher-inserted-a-soup-ad-into-his-novel/)
+- [Enabling IPv6 support for IPv4-only apps on Linux](https://blog.apnic.net/2023/06/21/enabling-ipv6-support-for-ipv4-only-apps-on-linux/)
+- [Extracting Hacker News Book Recommendations with the ChatGPT API](https://blog.reyem.dev/post/extracting_hn_book_recommendations_with_chatgpt_api/)
