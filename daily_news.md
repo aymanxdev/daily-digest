@@ -190,3 +190,8 @@
 - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
 - [Show HN: Classic Video Poker (Godot is awesome!)](https://lfgslots.com/classicvideopoker/)
 - [1.3B Worldcat scrape and data science mini-competition](https://annas-blog.org/worldcat-scrape.html)
+## Morning Digest - 05-10-2023
+
+- [Product Strategy in the Age of AI](https://www.intercom.com/blog/videos/intercom-on-product-ep21/)
+- [Pythagorean Theorem found on clay tablet 1k years older than Pythagoras](https://link.springer.com/article/10.1057/jt.2009.16)
+- [Celestial Reference Frame Department](https://crf.usno.navy.mil/home)
