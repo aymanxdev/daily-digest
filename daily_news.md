@@ -195,3 +195,8 @@
 - [Product Strategy in the Age of AI](https://www.intercom.com/blog/videos/intercom-on-product-ep21/)
 - [Pythagorean Theorem found on clay tablet 1k years older than Pythagoras](https://link.springer.com/article/10.1057/jt.2009.16)
 - [Celestial Reference Frame Department](https://crf.usno.navy.mil/home)
+## Afternoon/Evening Digest - 05-10-2023
+
+- [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
+- [Why HTTP/3 is eating the world](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
+- [Introducing “Database Performance at Scale”: A Free, Open Source Book](https://www.scylladb.com/2023/10/02/introducing-database-performance-at-scale-a-free-open-source-book/)
