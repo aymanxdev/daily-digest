@@ -205,3 +205,8 @@
 - [CCC Invites to the 37th Chaos Communication Congress in Hamburg](https://www.ccc.de/en/updates/2023/37C3)
 - [NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
 - [Gboard Hat Version](https://landing.google.co.jp/caps/)
+## Afternoon/Evening Digest - 06-10-2023
+
+- [Thread-per-core](https://without.boats/blog/thread-per-core/)
+- [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
+- [EU Grabs ARM for First ExaFLOP Supercomputer, x86 Misses Out](https://www.hpcwire.com/2023/10/04/eu-grabs-arm-for-first-exaflop-supercomputer-x86-misses-out/)
