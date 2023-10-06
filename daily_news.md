@@ -200,3 +200,8 @@
 - [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
 - [Why HTTP/3 is eating the world](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
 - [Introducing “Database Performance at Scale”: A Free, Open Source Book](https://www.scylladb.com/2023/10/02/introducing-database-performance-at-scale-a-free-open-source-book/)
+## Morning Digest - 06-10-2023
+
+- [CCC Invites to the 37th Chaos Communication Congress in Hamburg](https://www.ccc.de/en/updates/2023/37C3)
+- [NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
+- [Gboard Hat Version](https://landing.google.co.jp/caps/)
