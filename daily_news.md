@@ -215,3 +215,8 @@
 - [Documented source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
 - [The Honeypot Diaries: Thousands of Daily Attacks on My Home Network](https://simone.org/honeypot-diaries/)
 - [AMD may get across the CUDA moat](https://www.hpcwire.com/2023/10/05/how-amd-may-get-across-the-cuda-moat/)
+## Afternoon/Evening Digest - 07-10-2023
+
+- [Paperless-ngx – Open source document management system](https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/)
+- [Meta in Myanmar, Part III. The Inside View](https://erinkissane.com/meta-in-myanmar-part-iii-the-inside-view)
+- [”Be Useful”](https://www.npr.org/2023/10/06/1203694351/arnold-schwarzenegger-has-one-main-guiding-principle-be-useful)
