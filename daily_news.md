@@ -210,3 +210,8 @@
 - [Thread-per-core](https://without.boats/blog/thread-per-core/)
 - [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
 - [EU Grabs ARM for First ExaFLOP Supercomputer, x86 Misses Out](https://www.hpcwire.com/2023/10/04/eu-grabs-arm-for-first-exaflop-supercomputer-x86-misses-out/)
+## Morning Digest - 07-10-2023
+
+- [Documented source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
+- [The Honeypot Diaries: Thousands of Daily Attacks on My Home Network](https://simone.org/honeypot-diaries/)
+- [AMD may get across the CUDA moat](https://www.hpcwire.com/2023/10/05/how-amd-may-get-across-the-cuda-moat/)
