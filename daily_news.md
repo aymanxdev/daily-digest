@@ -225,3 +225,8 @@
 - [Decomposing language models into understandable components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)
 - [Role of Algorithms](https://matklad.github.io/2023/08/13/role-of-algorithms.html)
 - [Organization probably doesn't want to improve things](https://ludic.mataroa.blog/blog/your-organization-probably-doesnt-want-to-improve-things/)
+## Afternoon/Evening Digest - 08-10-2023
+
+- [Homebrew to deprecate and add caveat for HashiCorp](https://github.com/Homebrew/homebrew-core/pull/139538)
+- [Strong Evidence Is Common](https://markxu.com/strong-evidence)
+- [Austria rail operator OeBB unveils new night trains](https://techxplore.com/news/2023-09-austria-rail-oebb-unveils-night.html)
