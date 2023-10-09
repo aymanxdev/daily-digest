@@ -230,3 +230,8 @@
 - [Homebrew to deprecate and add caveat for HashiCorp](https://github.com/Homebrew/homebrew-core/pull/139538)
 - [Strong Evidence Is Common](https://markxu.com/strong-evidence)
 - [Austria rail operator OeBB unveils new night trains](https://techxplore.com/news/2023-09-austria-rail-oebb-unveils-night.html)
+## Morning Digest - 09-10-2023
+
+- [Blackmagic Camera for iPhone](https://www.blackmagicdesign.com/products/blackmagiccamera)
+- [What we learned making a plastic injection mold with a Chinese mold maker](https://www.airgradient.com/blog/lessons-learned-plastic-injection-mold-making/)
+- [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
