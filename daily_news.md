@@ -235,3 +235,8 @@
 - [Blackmagic Camera for iPhone](https://www.blackmagicdesign.com/products/blackmagiccamera)
 - [What we learned making a plastic injection mold with a Chinese mold maker](https://www.airgradient.com/blog/lessons-learned-plastic-injection-mold-making/)
 - [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
+## Afternoon/Evening Digest - 09-10-2023
+
+- [ZeroMQ – Relicense from LGPL3 and exceptions to MPL 2.0](https://github.com/zeromq/libzmq/pull/4555)
+- [Announcing Chapel 1.32](https://chapel-lang.org/blog/posts/announcing-chapel-1.32/)
+- [Are logos all starting to look the same?](https://www.creativebloq.com/news/logos-look-the-same)
