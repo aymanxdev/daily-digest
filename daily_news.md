@@ -250,3 +250,8 @@
 - [Google mitigated the largest DDoS attack to date, peaking above 398M rps](https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps/)
 - [The novel HTTP/2 'Rapid Reset' DDoS attack](https://cloud.google.com/blog/products/identity-security/how-it-works-the-novel-http2-rapid-reset-ddos-attack)
 - [Firefox tooltip bug fixed after 22 years](https://bugzilla.mozilla.org/show_bug.cgi?id=148624)
+## Morning Digest - 11-10-2023
+
+- [Log is the "Pro" in iPhone 15 Pro](https://prolost.com/blog/applelog)
+- [Spacedrive – an open source cross-platform file explorer](https://github.com/spacedriveapp/spacedrive)
+- [Multifault earthquake threat for Seattle region revealed by mass tree mortality](https://www.science.org/doi/10.1126/sciadv.adh4973)
