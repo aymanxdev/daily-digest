@@ -255,3 +255,8 @@
 - [Log is the "Pro" in iPhone 15 Pro](https://prolost.com/blog/applelog)
 - [Spacedrive – an open source cross-platform file explorer](https://github.com/spacedriveapp/spacedrive)
 - [Multifault earthquake threat for Seattle region revealed by mass tree mortality](https://www.science.org/doi/10.1126/sciadv.adh4973)
+## Afternoon/Evening Digest - 11-10-2023
+
+- [Bad Emacs Defaults](https://idiomdrottning.org/bad-emacs-defaults)
+- [Modern Pascal is still in the race (2022)](https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race)
+- [New Vulkan Documentation Website](https://docs.vulkan.org/)
