@@ -260,3 +260,8 @@
 - [Bad Emacs Defaults](https://idiomdrottning.org/bad-emacs-defaults)
 - [Modern Pascal is still in the race (2022)](https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race)
 - [New Vulkan Documentation Website](https://docs.vulkan.org/)
+## Morning Digest - 12-10-2023
+
+- [A Journey building a fast JSON parser and full JSONPath](https://github.com/ohler55/ojg/blob/develop/design.md)
+- [Grind – A first person shooter for Amiga 500](https://www.indieretronews.com/2023/10/grind-first-person-shooter-for-amiga.html)
+- [Using OpenBSD Relayd(8) as an Application Layer Gateway](https://www.tumfatig.net/2023/using-openbsd-relayd8-as-an-application-layer-gateway/)
