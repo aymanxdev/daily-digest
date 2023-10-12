@@ -265,3 +265,8 @@
 - [A Journey building a fast JSON parser and full JSONPath](https://github.com/ohler55/ojg/blob/develop/design.md)
 - [Grind – A first person shooter for Amiga 500](https://www.indieretronews.com/2023/10/grind-first-person-shooter-for-amiga.html)
 - [Using OpenBSD Relayd(8) as an Application Layer Gateway](https://www.tumfatig.net/2023/using-openbsd-relayd8-as-an-application-layer-gateway/)
+## Afternoon/Evening Digest - 12-10-2023
+
+- [The Twelve-Factor App](https://12factor.net/)
+- [Introduction to Modern Statistics](https://openintro-ims2.netlify.app/)
+- [Boox Palma review: A phone-shaped e-reader](https://sixcolors.com/post/2023/10/boox-palma-review-a-phone-shaped-e-reader/)
