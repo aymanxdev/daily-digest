@@ -270,3 +270,8 @@
 - [The Twelve-Factor App](https://12factor.net/)
 - [Introduction to Modern Statistics](https://openintro-ims2.netlify.app/)
 - [Boox Palma review: A phone-shaped e-reader](https://sixcolors.com/post/2023/10/boox-palma-review-a-phone-shaped-e-reader/)
+## Morning Digest - 13-10-2023
+
+- [How to fit a large program into a small machine (1999)](https://mud.co.uk/richard/htflpism.htm)
+- [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
+- [The Thumb Calendar](http://thumbcalendar.com/)
