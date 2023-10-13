@@ -275,3 +275,8 @@
 - [How to fit a large program into a small machine (1999)](https://mud.co.uk/richard/htflpism.htm)
 - [First word discovered in unopened Herculaneum scroll by CS student](https://scrollprize.org/firstletters)
 - [The Thumb Calendar](http://thumbcalendar.com/)
+## Afternoon/Evening Digest - 13-10-2023
+
+- [Every app that adds AI looks like this](https://botharetrue.substack.com/p/every-app-that-adds-ai-looks-like)
+- [Tainting the CSAM client-side scanning database](https://blog.xot.nl/2023/10/11/tainting-the-csam-client-side-scanning-database/index.html)
+- [The Interface of Kai Krause's Software (2003)](https://mprove.de/script/99/kai/)
