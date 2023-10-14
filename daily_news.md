@@ -280,3 +280,8 @@
 - [Every app that adds AI looks like this](https://botharetrue.substack.com/p/every-app-that-adds-ai-looks-like)
 - [Tainting the CSAM client-side scanning database](https://blog.xot.nl/2023/10/11/tainting-the-csam-client-side-scanning-database/index.html)
 - [The Interface of Kai Krause's Software (2003)](https://mprove.de/script/99/kai/)
+## Morning Digest - 14-10-2023
+
+- [How to cook ground meat perfectly without vision](https://theblindkitchen.com/how-to-cook-ground-meat-perfectly-every-time/)
+- [Gsplat: CUDA accelerated rasterization of gaussians with Python bindings](https://docs.gsplat.studio/)
+- [Words that deserve wider use](https://wordwarriors.wayne.edu/list)
