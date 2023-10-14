@@ -285,3 +285,8 @@
 - [How to cook ground meat perfectly without vision](https://theblindkitchen.com/how-to-cook-ground-meat-perfectly-every-time/)
 - [Gsplat: CUDA accelerated rasterization of gaussians with Python bindings](https://docs.gsplat.studio/)
 - [Words that deserve wider use](https://wordwarriors.wayne.edu/list)
+## Afternoon/Evening Digest - 14-10-2023
+
+- [Tumor-destroying sound waves receive FDA approval for liver treatment in humans](https://news.umich.edu/tumor-destroying-sound-waves-receive-fda-approval-for-liver-treatment-in-humans/)
+- [Undermining Democracy: The EU Commission's Controversial Push for Surveillance](https://dannymekic.com/202310/undermining-democracy-the-european-commissions-controversial-push-for-digital-surveillance)
+- [Tuning Linux for Performance](https://www.brendangregg.com/linuxperf.html)
