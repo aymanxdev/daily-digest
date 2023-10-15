@@ -290,3 +290,8 @@
 - [Tumor-destroying sound waves receive FDA approval for liver treatment in humans](https://news.umich.edu/tumor-destroying-sound-waves-receive-fda-approval-for-liver-treatment-in-humans/)
 - [Undermining Democracy: The EU Commission's Controversial Push for Surveillance](https://dannymekic.com/202310/undermining-democracy-the-european-commissions-controversial-push-for-digital-surveillance)
 - [Tuning Linux for Performance](https://www.brendangregg.com/linuxperf.html)
+## Morning Digest - 15-10-2023
+
+- [BeagleV-Ahead open-source RISC-V single board computer](https://www.beagleboard.org/boards/beaglev-ahead)
+- [Sessionic: A cross-browser extension to save, manage, restore tabs and sessions](https://github.com/navorite/sessionic)
+- [Google has sent internet into 'spiral of decline', claims DeepMind co-founder](https://www.telegraph.co.uk/business/2023/10/14/google-internet-spiral-of-decline-deepmind-mustafa-suleyman/)
