@@ -295,3 +295,8 @@
 - [BeagleV-Ahead open-source RISC-V single board computer](https://www.beagleboard.org/boards/beaglev-ahead)
 - [Sessionic: A cross-browser extension to save, manage, restore tabs and sessions](https://github.com/navorite/sessionic)
 - [Google has sent internet into 'spiral of decline', claims DeepMind co-founder](https://www.telegraph.co.uk/business/2023/10/14/google-internet-spiral-of-decline-deepmind-mustafa-suleyman/)
+## Afternoon/Evening Digest - 15-10-2023
+
+- [Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
+- [Trying out C++20's modules with Clang and Make](https://0x1.pt/2023/10/15/trying-out-c++20s-modules-with-clang-and-make/)
+- [Show HN: "Interactive" Italian Poetry for English Speakers](https://italianpoetry.it/)
