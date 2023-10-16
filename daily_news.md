@@ -305,3 +305,8 @@
 - [Google's dominance under siege: Antitrust trial threatens sweeping changes](https://www.livenowfox.com/news/googles-internet-dominance-under-siege-antitrust-trial-threatens-sweeping-changes)
 - [Percent Jobs](https://evertpot.com/on-80-percent-jobs/)
 - [PaLI-3 Vision Language Models](https://arxiv.org/abs/2310.09199)
+## Afternoon/Evening Digest - 16-10-2023
+
+- [Better HTTP server routing in Go 1.22](https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/)
+- [OpenBSD 7.4](https://www.openbsd.org/74.html)
+- [GPU Embedding with GGML](https://bloop.ai/blog/gpu_with_ggml)
