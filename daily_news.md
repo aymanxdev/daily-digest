@@ -300,3 +300,8 @@
 - [Lotus 1-2-3 For Linux](https://lock.cmpxchg8b.com/linux123.html)
 - [Trying out C++20's modules with Clang and Make](https://0x1.pt/2023/10/15/trying-out-c++20s-modules-with-clang-and-make/)
 - [Show HN: "Interactive" Italian Poetry for English Speakers](https://italianpoetry.it/)
+## Morning Digest - 16-10-2023
+
+- [Google's dominance under siege: Antitrust trial threatens sweeping changes](https://www.livenowfox.com/news/googles-internet-dominance-under-siege-antitrust-trial-threatens-sweeping-changes)
+- [Percent Jobs](https://evertpot.com/on-80-percent-jobs/)
+- [PaLI-3 Vision Language Models](https://arxiv.org/abs/2310.09199)
