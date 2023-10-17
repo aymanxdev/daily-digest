@@ -310,3 +310,8 @@
 - [Better HTTP server routing in Go 1.22](https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/)
 - [OpenBSD 7.4](https://www.openbsd.org/74.html)
 - [GPU Embedding with GGML](https://bloop.ai/blog/gpu_with_ggml)
+## Morning Digest - 17-10-2023
+
+- [BB(3, 3) is Hard](https://www.sligocki.com//2023/10/16/bb-3-3-is-hard.html)
+- [SiFive Rolls Out RISC-V Cores Aimed at Generative AI and ML](https://www.allaboutcircuits.com/news/sifive-rolls-out-risc-v-cores-aimed-at-generative-ai-and-ml/)
+- [Unfounded concerns about photovoltaic toxicity and waste slowing decarbonization](https://www.nature.com/articles/s41567-023-02230-0)
