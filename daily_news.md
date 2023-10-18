@@ -325,3 +325,8 @@
 - [C++ Modules: Packaging Story](https://blog.conan.io/2023/10/17/modules-the-packaging-story.html)
 - [4K4D: Real-Time 4D View Synthesis at 4K Resolution](https://zju3dv.github.io/4k4d/)
 - [Psytrance Guide](https://psytranceguide.com/)
+## Afternoon/Evening Digest - 18-10-2023
+
+- [What is the Demoscene? An obscure but influential art form](https://onthearts.com/p/what-is-the-demoscene)
+- [USB-C teardown with CT scans: Thunderbolt and more](https://www.lumafield.com/article/usb-c-cable-charger-head-to-head-comparison-apple-thunderbolt-amazon-basics)
+- [How would we know whether there is life on Earth? This bold experiment found out](https://www.nature.com/articles/d41586-023-03230-z)
