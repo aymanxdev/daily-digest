@@ -320,3 +320,8 @@
 - [Swedish union declares strike for Tesla employees](https://www.ifmetall.se/aktuellt/tesla/background-information-on-if-metalls-conflict-at-tesla/)
 - [Encrypting private data and private communications is now an ethical duty](https://blog.tripu.info/encrypt/)
 - [Small business owners say they're pressured to hire off-duty cops for security](https://minnesotareformer.com/2023/10/17/small-business-owners-they-are-pressured-to-hire-off-duty-mpd-cops-for-security/)
+## Morning Digest - 18-10-2023
+
+- [C++ Modules: Packaging Story](https://blog.conan.io/2023/10/17/modules-the-packaging-story.html)
+- [4K4D: Real-Time 4D View Synthesis at 4K Resolution](https://zju3dv.github.io/4k4d/)
+- [Psytrance Guide](https://psytranceguide.com/)
