@@ -335,3 +335,8 @@
 - [Localsend: Open-Source Airdrop Alternative](https://github.com/localsend/localsend)
 - [Write more "useless" software](https://ntietz.com/blog/write-more-useless-software/)
 - [Bandcamp's Entire Union Bargaining Team Was Laid Off](https://www.404media.co/bandcamps-entire-union-bargaining-team-was-laid-off/)
+## Afternoon/Evening Digest - 19-10-2023
+
+- [Build your own BitTorrent](https://app.codecrafters.io/courses/bittorrent/overview)
+- [Linux runtime security agent powered by eBPF](https://github.com/Exein-io/pulsar)
+- [Apache HTTP Server 2.4.58 (CVE fixes)](https://downloads.apache.org/httpd/CHANGES_2.4.58)
