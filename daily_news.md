@@ -330,3 +330,8 @@
 - [What is the Demoscene? An obscure but influential art form](https://onthearts.com/p/what-is-the-demoscene)
 - [USB-C teardown with CT scans: Thunderbolt and more](https://www.lumafield.com/article/usb-c-cable-charger-head-to-head-comparison-apple-thunderbolt-amazon-basics)
 - [How would we know whether there is life on Earth? This bold experiment found out](https://www.nature.com/articles/d41586-023-03230-z)
+## Morning Digest - 19-10-2023
+
+- [Localsend: Open-Source Airdrop Alternative](https://github.com/localsend/localsend)
+- [Write more "useless" software](https://ntietz.com/blog/write-more-useless-software/)
+- [Bandcamp's Entire Union Bargaining Team Was Laid Off](https://www.404media.co/bandcamps-entire-union-bargaining-team-was-laid-off/)
