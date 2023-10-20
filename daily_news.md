@@ -345,3 +345,8 @@
 - [Using extra Firefox profiles to make my life better](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxExtraProfilesHack)
 - [Nota is a language for writing documents, like academic papers and blog posts](https://nota-lang.org/#def-nota)
 - [Apple's use of Swift and SwiftUI in iOS 17](https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/)
+## Afternoon/Evening Digest - 20-10-2023
+
+- [In search of the least viewed article on Wikipedia](http://colinmorris.github.io/blog/unpopular-wiki-articles)
+- [Nakatomi Space](https://www.bldgblog.com/2010/01/nakatomi-space/)
+- [Find the date of your birthday in the number pi](https://www.mypiday.com/)
