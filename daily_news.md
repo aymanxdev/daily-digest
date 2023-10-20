@@ -340,3 +340,8 @@
 - [Build your own BitTorrent](https://app.codecrafters.io/courses/bittorrent/overview)
 - [Linux runtime security agent powered by eBPF](https://github.com/Exein-io/pulsar)
 - [Apache HTTP Server 2.4.58 (CVE fixes)](https://downloads.apache.org/httpd/CHANGES_2.4.58)
+## Morning Digest - 20-10-2023
+
+- [Using extra Firefox profiles to make my life better](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxExtraProfilesHack)
+- [Nota is a language for writing documents, like academic papers and blog posts](https://nota-lang.org/#def-nota)
+- [Apple's use of Swift and SwiftUI in iOS 17](https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/)
