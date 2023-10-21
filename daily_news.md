@@ -350,3 +350,8 @@
 - [In search of the least viewed article on Wikipedia](http://colinmorris.github.io/blog/unpopular-wiki-articles)
 - [Nakatomi Space](https://www.bldgblog.com/2010/01/nakatomi-space/)
 - [Find the date of your birthday in the number pi](https://www.mypiday.com/)
+## Morning Digest - 21-10-2023
+
+- [Microwatt: A tiny Open POWER ISA softcore written in VHDL 2008](https://github.com/antonblanchard/microwatt)
+- [The next Raptor OpenPOWER systems are coming, but they won't be Power10](https://www.talospace.com/2023/10/the-next-raptor-openpower-systems-are.html)
+- [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
