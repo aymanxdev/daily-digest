@@ -355,3 +355,8 @@
 - [Microwatt: A tiny Open POWER ISA softcore written in VHDL 2008](https://github.com/antonblanchard/microwatt)
 - [The next Raptor OpenPOWER systems are coming, but they won't be Power10](https://www.talospace.com/2023/10/the-next-raptor-openpower-systems-are.html)
 - [Progress on No-GIL CPython](https://lwn.net/Articles/947138/)
+## Afternoon/Evening Digest - 21-10-2023
+
+- [We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html)
+- [Refactoring has a price. Not refactoring has a cost. Either way, you pay](https://www.germanvelasco.com/blog/refactoring-is-a-habit)
+- [Pushing devs for lower estimates is like asking a meteorologist for sunshine](https://smartguess.is/blog/your-estimate-is-less-than-that/)
