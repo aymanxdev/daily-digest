@@ -360,3 +360,8 @@
 - [We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html)
 - [Refactoring has a price. Not refactoring has a cost. Either way, you pay](https://www.germanvelasco.com/blog/refactoring-is-a-habit)
 - [Pushing devs for lower estimates is like asking a meteorologist for sunshine](https://smartguess.is/blog/your-estimate-is-less-than-that/)
+## Morning Digest - 22-10-2023
+
+- [The White Furnace Test](https://lousodrome.net/blog/light/2023/10/21/the-white-furnace-test/)
+- [Open Source Firmware Conference](https://www.osfc.io/)
+- [Inkscape Cloud Architect](https://github.com/mipmip/inkscape-cloud-architect)
