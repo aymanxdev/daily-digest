@@ -365,3 +365,8 @@
 - [The White Furnace Test](https://lousodrome.net/blog/light/2023/10/21/the-white-furnace-test/)
 - [Open Source Firmware Conference](https://www.osfc.io/)
 - [Inkscape Cloud Architect](https://github.com/mipmip/inkscape-cloud-architect)
+## Afternoon/Evening Digest - 22-10-2023
+
+- [Bifrost: A peer-to-peer communications engine with pluggable transports](https://github.com/aperturerobotics/bifrost)
+- [Microsoft Account's OAuth tokens leaking via open redirect in Harvest](https://eval.blog/research/microsoft-account-token-leaks-in-harvest/)
+- [The C4 model for visualising software architecture](https://c4model.com/)
