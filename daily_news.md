@@ -370,3 +370,8 @@
 - [Bifrost: A peer-to-peer communications engine with pluggable transports](https://github.com/aperturerobotics/bifrost)
 - [Microsoft Account's OAuth tokens leaking via open redirect in Harvest](https://eval.blog/research/microsoft-account-token-leaks-in-harvest/)
 - [The C4 model for visualising software architecture](https://c4model.com/)
+## Morning Digest - 23-10-2023
+
+- [Building a unikernel that runs WebAssembly – part 1](https://flavio.castelli.me/2023/02/07/building-a-unikernel-that-runs-webassembly---part-1/)
+- [Why Japan Has Blue Traffic Lights Instead of Green](https://www.rd.com/article/heres-japan-blue-traffic-lights/)
+- [Base64 Encoding, Explained](https://www.akshaykhot.com/base64-encoding-explained/)
