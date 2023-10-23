@@ -375,3 +375,8 @@
 - [Building a unikernel that runs WebAssembly – part 1](https://flavio.castelli.me/2023/02/07/building-a-unikernel-that-runs-webassembly---part-1/)
 - [Why Japan Has Blue Traffic Lights Instead of Green](https://www.rd.com/article/heres-japan-blue-traffic-lights/)
 - [Base64 Encoding, Explained](https://www.akshaykhot.com/base64-encoding-explained/)
+## Afternoon/Evening Digest - 23-10-2023
+
+- [Driver's failure to laugh at odd question during stop not Reasonable Suspicion](http://fourthamendment.com/?p=56109)
+- [Software Disenchantment](https://tonsky.me/blog/disenchantment/)
+- [Java implementation of a quantum computing resistant cryptographic algorithm](https://github.com/mthiim/dilithium-java)
