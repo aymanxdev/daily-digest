@@ -385,3 +385,8 @@
 - [Major Changes at RISC-V Designer SiFive](https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on)
 - [Unified versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
 - [SumatraPDF Reader](https://github.com/sumatrapdfreader/sumatrapdf)
+## Afternoon/Evening Digest - 24-10-2023
+
+- [Animated AI](https://animatedai.github.io/)
+- [BioNTech Presents Positive Phase 1/2 Data for Car-T Cell Therapy Candidate](https://investors.biontech.de/news-releases/news-release-details/biontech-presents-positive-phase-12-data-update-car-t-cell/)
+- [Covid's Damage Lingers in the Heart](https://magazine.hms.harvard.edu/articles/covids-damage-lingers-heart)
