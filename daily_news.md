@@ -380,3 +380,8 @@
 - [Driver's failure to laugh at odd question during stop not Reasonable Suspicion](http://fourthamendment.com/?p=56109)
 - [Software Disenchantment](https://tonsky.me/blog/disenchantment/)
 - [Java implementation of a quantum computing resistant cryptographic algorithm](https://github.com/mthiim/dilithium-java)
+## Morning Digest - 24-10-2023
+
+- [Major Changes at RISC-V Designer SiFive](https://morethanmoore.substack.com/p/the-risk-of-risc-v-whats-going-on)
+- [Unified versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
+- [SumatraPDF Reader](https://github.com/sumatrapdfreader/sumatrapdf)
