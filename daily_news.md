@@ -395,3 +395,8 @@
 - [California suspends Cruise's autonomous vehicle deployment](https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/)
 - [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/)
 - [Judas goat](https://en.wikipedia.org/wiki/Judas_goat)
+## Afternoon/Evening Digest - 25-10-2023
+
+- [Show HN: OpenAPI DevTools – Chrome ext. that generates an API spec as you browse](https://github.com/AndrewWalsh/openapi-devtools)
+- [Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/)
+- [First malaria vaccine slashes early childhood mortality](https://www.science.org/content/article/first-malaria-vaccine-slashes-early-childhood-deaths)
