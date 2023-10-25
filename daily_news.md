@@ -390,3 +390,8 @@
 - [Animated AI](https://animatedai.github.io/)
 - [BioNTech Presents Positive Phase 1/2 Data for Car-T Cell Therapy Candidate](https://investors.biontech.de/news-releases/news-release-details/biontech-presents-positive-phase-12-data-update-car-t-cell/)
 - [Covid's Damage Lingers in the Heart](https://magazine.hms.harvard.edu/articles/covids-damage-lingers-heart)
+## Morning Digest - 25-10-2023
+
+- [California suspends Cruise's autonomous vehicle deployment](https://www.reuters.com/business/autos-transportation/california-suspends-gm-cruises-driverless-autonomous-vehicle-permits-2023-10-24/)
+- [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/)
+- [Judas goat](https://en.wikipedia.org/wiki/Judas_goat)
