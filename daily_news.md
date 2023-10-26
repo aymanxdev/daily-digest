@@ -400,3 +400,8 @@
 - [Show HN: OpenAPI DevTools – Chrome ext. that generates an API spec as you browse](https://github.com/AndrewWalsh/openapi-devtools)
 - [Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/)
 - [First malaria vaccine slashes early childhood mortality](https://www.science.org/content/article/first-malaria-vaccine-slashes-early-childhood-deaths)
+## Morning Digest - 26-10-2023
+
+- [Jina AI launches open-source 8k text embedding](https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/)
+- [Running the "Reflections on Trusting Trust" Compiler](https://research.swtch.com/nih)
+- [How to find a lost phone in a no-cell-coverage camping site?](https://manas.tech/blog/2023/10/25/approaching-unconventional-problems/)
