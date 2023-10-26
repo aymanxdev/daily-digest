@@ -405,3 +405,8 @@
 - [Jina AI launches open-source 8k text embedding](https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/)
 - [Running the "Reflections on Trusting Trust" Compiler](https://research.swtch.com/nih)
 - [How to find a lost phone in a no-cell-coverage camping site?](https://manas.tech/blog/2023/10/25/approaching-unconventional-problems/)
+## Afternoon/Evening Digest - 26-10-2023
+
+- [Oxide: The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
+- [Mars has a surprise layer of molten rock inside](https://www.nature.com/articles/d41586-023-03271-4)
+- [Cold war satellite images reveal hundreds of unknown Roman forts](https://www.theguardian.com/science/2023/oct/26/cold-war-satellite-images-hundreds-unknown-roman-forts)
