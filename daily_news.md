@@ -415,3 +415,8 @@
 - [Let me tell you about me Gear Fabrication Syndrome](https://weenoisemaker.com/blog/2023/10/21/gear-fabrication-syndrome.html)
 - [Lean4 helped Terence Tao discover a small bug in his recent paper](https://mathstodon.xyz/@tao/111287749336059662)
 - [WebSDR – Internet-connected Software-Defined Radios](http://www.websdr.org/)
+## Afternoon/Evening Digest - 27-10-2023
+
+- [The slow death of authenticity in an attention economy](https://www.coryzue.com/writing/authenticity-and-engagement/)
+- [EPA moves towards banning leaded aviation gas](https://www.federalregister.gov/documents/2023/10/20/2023-23247/finding-that-lead-emissions-from-aircraft-engines-that-operate-on-leaded-fuel-cause-or-contribute-to)
+- [Study shows antibodies against PEG in 83% of the German population](https://www.mpip-mainz.mpg.de/en/press/pr-2022-22)
