@@ -410,3 +410,8 @@
 - [Oxide: The Cloud Computer](https://oxide.computer/blog/the-cloud-computer)
 - [Mars has a surprise layer of molten rock inside](https://www.nature.com/articles/d41586-023-03271-4)
 - [Cold war satellite images reveal hundreds of unknown Roman forts](https://www.theguardian.com/science/2023/oct/26/cold-war-satellite-images-hundreds-unknown-roman-forts)
+## Morning Digest - 27-10-2023
+
+- [Let me tell you about me Gear Fabrication Syndrome](https://weenoisemaker.com/blog/2023/10/21/gear-fabrication-syndrome.html)
+- [Lean4 helped Terence Tao discover a small bug in his recent paper](https://mathstodon.xyz/@tao/111287749336059662)
+- [WebSDR – Internet-connected Software-Defined Radios](http://www.websdr.org/)
