@@ -420,3 +420,8 @@
 - [The slow death of authenticity in an attention economy](https://www.coryzue.com/writing/authenticity-and-engagement/)
 - [EPA moves towards banning leaded aviation gas](https://www.federalregister.gov/documents/2023/10/20/2023-23247/finding-that-lead-emissions-from-aircraft-engines-that-operate-on-leaded-fuel-cause-or-contribute-to)
 - [Study shows antibodies against PEG in 83% of the German population](https://www.mpip-mainz.mpg.de/en/press/pr-2022-22)
+## Morning Digest - 28-10-2023
+
+- [The fun factor of the video game Uplink](https://vertette.github.io/post/funfactoruplink)
+- [WinterJS](https://wasmer.io/posts/announcing-winterjs-service-workers)
+- [Cortex X2: ARM aims high](https://chipsandcheese.com/2023/10/27/cortex-x2-arm-aims-high/)
