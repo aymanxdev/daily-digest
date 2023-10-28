@@ -425,3 +425,8 @@
 - [The fun factor of the video game Uplink](https://vertette.github.io/post/funfactoruplink)
 - [WinterJS](https://wasmer.io/posts/announcing-winterjs-service-workers)
 - [Cortex X2: ARM aims high](https://chipsandcheese.com/2023/10/27/cortex-x2-arm-aims-high/)
+## Afternoon/Evening Digest - 28-10-2023
+
+- [MagicaVoxel – A free voxel art editor and interactive path tracing renderer](https://ephtracy.github.io/)
+- [Google to invest up to $2B in Anthropic](https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/)
+- [The fun factor of the video game Uplink](https://vertette.github.io/post/funfactoruplink)
