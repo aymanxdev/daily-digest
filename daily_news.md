@@ -430,3 +430,8 @@
 - [MagicaVoxel – A free voxel art editor and interactive path tracing renderer](https://ephtracy.github.io/)
 - [Google to invest up to $2B in Anthropic](https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/)
 - [The fun factor of the video game Uplink](https://vertette.github.io/post/funfactoruplink)
+## Morning Digest - 29-10-2023
+
+- [Why are you so slow?](https://www.allendowney.com/blog/2023/10/28/why-are-you-so-slow/)
+- [Exploiting DNS response parsing on the Wii U](https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html)
+- [All GB/s without FLOPS – Nvidia CMP 170HX Review](https://niconiconi.neocities.org/tech-notes/nvidia-cmp-170hx-review/)
