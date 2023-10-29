@@ -435,3 +435,8 @@
 - [Why are you so slow?](https://www.allendowney.com/blog/2023/10/28/why-are-you-so-slow/)
 - [Exploiting DNS response parsing on the Wii U](https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html)
 - [All GB/s without FLOPS – Nvidia CMP 170HX Review](https://niconiconi.neocities.org/tech-notes/nvidia-cmp-170hx-review/)
+## Afternoon/Evening Digest - 29-10-2023
+
+- [NixOS Reproducible Builds: minimal ISO successfully independently rebuilt](https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756)
+- [Mars Lost Its Magnetic Field – and Then Its Oceans](https://daily.jstor.org/how-mars-lost-its-magnetic-field-and-then-its-oceans/)
+- [(Learn 'Scheme)](http://jaredkrinke.github.io/learn-scheme/toc.html)
