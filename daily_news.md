@@ -440,3 +440,8 @@
 - [NixOS Reproducible Builds: minimal ISO successfully independently rebuilt](https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756)
 - [Mars Lost Its Magnetic Field – and Then Its Oceans](https://daily.jstor.org/how-mars-lost-its-magnetic-field-and-then-its-oceans/)
 - [(Learn 'Scheme)](http://jaredkrinke.github.io/learn-scheme/toc.html)
+## Morning Digest - 30-10-2023
+
+- [New signs appear to ban phones from Temple Quay](https://www.bristol247.com/news-and-features/news/new-signs-appear-ban-phones-temple-quay/)
+- [Web FM synthesizer made with HTML5](https://www.taktech.org/takm/WebFMSynth/)
+- [The death of a public intellectual](https://thmsmlr.com/public-intellectuals)
