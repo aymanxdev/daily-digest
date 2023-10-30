@@ -445,3 +445,8 @@
 - [New signs appear to ban phones from Temple Quay](https://www.bristol247.com/news-and-features/news/new-signs-appear-ban-phones-temple-quay/)
 - [Web FM synthesizer made with HTML5](https://www.taktech.org/takm/WebFMSynth/)
 - [The death of a public intellectual](https://thmsmlr.com/public-intellectuals)
+## Afternoon/Evening Digest - 30-10-2023
+
+- [The costs of microservices (2020)](https://robertovitillo.com/costs-of-microservices/)
+- [Biden to issue first regulations on artificial intelligence systems](https://www.nytimes.com/2023/10/30/us/politics/biden-artificial-intelligence.html)
+- [Bakhshali manuscript](https://en.wikipedia.org/wiki/Bakhshali_manuscript)
