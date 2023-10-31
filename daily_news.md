@@ -450,3 +450,8 @@
 - [The costs of microservices (2020)](https://robertovitillo.com/costs-of-microservices/)
 - [Biden to issue first regulations on artificial intelligence systems](https://www.nytimes.com/2023/10/30/us/politics/biden-artificial-intelligence.html)
 - [Bakhshali manuscript](https://en.wikipedia.org/wiki/Bakhshali_manuscript)
+## Morning Digest - 31-10-2023
+
+- [German court declares Do Not Track to be legally binding](https://www.vzbv.de/urteile/gericht-untersagt-datenschutzverstoesse-von-linkedin)
+- [Android and RISC-V: What you need to know to be ready](https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html)
+- [Gmail, Yahoo announce new 2024 authentication requirements for bulk senders](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)
