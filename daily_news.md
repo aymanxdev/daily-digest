@@ -455,3 +455,8 @@
 - [German court declares Do Not Track to be legally binding](https://www.vzbv.de/urteile/gericht-untersagt-datenschutzverstoesse-von-linkedin)
 - [Android and RISC-V: What you need to know to be ready](https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html)
 - [Gmail, Yahoo announce new 2024 authentication requirements for bulk senders](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)
+## Afternoon/Evening Digest - 31-10-2023
+
+- [AV1 video codec gains broader hardware support](https://fullystacked.net/posts/av1/)
+- [I've overlayed stays on a light pollution satellite map](https://darkhotels.co)
+- [.us harbors prolific malicious link shortening service](https://krebsonsecurity.com/2023/10/us-harbors-prolific-malicious-link-shortening-service/)
