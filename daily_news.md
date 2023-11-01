@@ -460,3 +460,8 @@
 - [AV1 video codec gains broader hardware support](https://fullystacked.net/posts/av1/)
 - [I've overlayed stays on a light pollution satellite map](https://darkhotels.co)
 - [.us harbors prolific malicious link shortening service](https://krebsonsecurity.com/2023/10/us-harbors-prolific-malicious-link-shortening-service/)
+## Morning Digest - 01-11-2023
+
+- [Bear Does Analytics with CSS](https://herman.bearblog.dev/how-bear-does-analytics-with-css/)
+- [macOS Sonoma Boot Failures](https://github.com/AsahiLinux/docs/wiki/macOS-Sonoma-Boot-Failures)
+- [Copying Angry Birds with nothing but AI](https://twitter.com/javilopen/status/1719363262179938401)
