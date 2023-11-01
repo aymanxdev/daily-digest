@@ -465,3 +465,8 @@
 - [Bear Does Analytics with CSS](https://herman.bearblog.dev/how-bear-does-analytics-with-css/)
 - [macOS Sonoma Boot Failures](https://github.com/AsahiLinux/docs/wiki/macOS-Sonoma-Boot-Failures)
 - [Copying Angry Birds with nothing but AI](https://twitter.com/javilopen/status/1719363262179938401)
+## Afternoon/Evening Digest - 01-11-2023
+
+- [C++23: Removing garbage collection support](https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection)
+- [Improving deep sleep may prevent dementia, study finds](https://www.monash.edu/news/articles/improving-deep-sleep-may-prevent-dementia,-study-finds)
+- [Sentry: From the Beginning](https://cra.mr/sentry-from-the-beginning/)
