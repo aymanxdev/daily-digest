@@ -475,3 +475,8 @@
 - [Biohacking Lite](http://karpathy.github.io/2020/06/11/biohacking-lite/)
 - [EU Digital Identity framework (eIDAS) another kind of chat control? – Mullvad](https://mullvad.net/en/blog/2023/11/2/eu-digital-identity-framework-eidas-another-kind-of-chat-control/)
 - [A modern, open-source spreadsheet that goes beyond the grid](https://github.com/gristlabs/grist-core)
+## Afternoon/Evening Digest - 02-11-2023
+
+- [EU data regulator bans personalised advertising on Facebook and Instagram](https://dig.watch/updates/eu-data-regulator-decided-to-ban-personalised-advetising-on-facebook-and-instagram)
+- [Programming in Rust is like being in an emotionally abusive relationship](https://lwn.net/Articles/948878/#Comments)
+- [Talk-Llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama)
