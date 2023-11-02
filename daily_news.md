@@ -470,3 +470,8 @@
 - [C++23: Removing garbage collection support](https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection)
 - [Improving deep sleep may prevent dementia, study finds](https://www.monash.edu/news/articles/improving-deep-sleep-may-prevent-dementia,-study-finds)
 - [Sentry: From the Beginning](https://cra.mr/sentry-from-the-beginning/)
+## Morning Digest - 02-11-2023
+
+- [Biohacking Lite](http://karpathy.github.io/2020/06/11/biohacking-lite/)
+- [EU Digital Identity framework (eIDAS) another kind of chat control? – Mullvad](https://mullvad.net/en/blog/2023/11/2/eu-digital-identity-framework-eidas-another-kind-of-chat-control/)
+- [A modern, open-source spreadsheet that goes beyond the grid](https://github.com/gristlabs/grist-core)
