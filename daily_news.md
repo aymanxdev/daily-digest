@@ -485,3 +485,8 @@
 - [Bring garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
 - [In 1886, the US commissioned watercolor paintings of every known fruit (2019)](https://www.openculture.com/2019/06/the-us-government-commissioned-7500-watercolor-paintings.html)
 - [Enable ARMv9 Memory Tagging Extension (MTE) on Pixel 8](https://outflux.net/blog/archives/2023/10/26/enable-mte-on-pixel-8/)
+## Afternoon/Evening Digest - 03-11-2023
+
+- [Bring garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
+- [No dogs were harmed in the making of this app](https://shmck.substack.com/p/no-dogs-were-harmed-in-the-making)
+- [Rwanda joins Kenya to initiate visa-free travel for all Africans](https://africa.businessinsider.com/local/leaders/from-barriers-to-unity-rwanda-joins-kenya-to-initiate-visa-free-travel-for-all/hhqe29q)
