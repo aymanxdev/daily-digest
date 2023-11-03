@@ -480,3 +480,8 @@
 - [EU data regulator bans personalised advertising on Facebook and Instagram](https://dig.watch/updates/eu-data-regulator-decided-to-ban-personalised-advetising-on-facebook-and-instagram)
 - [Programming in Rust is like being in an emotionally abusive relationship](https://lwn.net/Articles/948878/#Comments)
 - [Talk-Llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama)
+## Morning Digest - 03-11-2023
+
+- [Bring garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
+- [In 1886, the US commissioned watercolor paintings of every known fruit (2019)](https://www.openculture.com/2019/06/the-us-government-commissioned-7500-watercolor-paintings.html)
+- [Enable ARMv9 Memory Tagging Extension (MTE) on Pixel 8](https://outflux.net/blog/archives/2023/10/26/enable-mte-on-pixel-8/)
