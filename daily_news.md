@@ -495,3 +495,8 @@
 - [How to stop turmeric from killing people](https://www.economist.com/leaders/2023/11/02/how-to-stop-turmeric-from-killing-people)
 - [AMD MicroBlaze V Processor: A Flexible and Efficient RISC-V Processor](https://www.xilinx.com/products/design-tools/microblaze-v.html)
 - [Portugal. The Man – Official Website Is a Google Sheets Document](https://www.portugaltheman.com/?frontpage=true)
+## Afternoon/Evening Digest - 04-11-2023
+
+- [Othello Is Solved](https://arxiv.org/abs/2310.19387)
+- [A 6 channel GPS receiver from 1993](https://mastodon.sdf.org/@keelan/111349948124943603)
+- [Toward a TypeScript for C++"](https://herbsutter.com/2023/10/09/my-new-cppcon-talk-is-on-youtube-cooperative-c-evolution-toward-a-typescript-for-c/)
