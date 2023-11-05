@@ -500,3 +500,8 @@
 - [Othello Is Solved](https://arxiv.org/abs/2310.19387)
 - [A 6 channel GPS receiver from 1993](https://mastodon.sdf.org/@keelan/111349948124943603)
 - [Toward a TypeScript for C++"](https://herbsutter.com/2023/10/09/my-new-cppcon-talk-is-on-youtube-cooperative-c-evolution-toward-a-typescript-for-c/)
+## Morning Digest - 05-11-2023
+
+- [NewPipe – Lightweight YouTube experience for Android](https://newpipe.net/)
+- [LLM companies to access largest Chinese non-fiction book collection](https://annas-blog.org/duxiu-exclusive.html)
+- [Intel Itanium IA-64 Support Removed with the Linux 6.7 Kernel](https://www.phoronix.com/news/Intel-IA-64-Removed-Linux-6.7)
