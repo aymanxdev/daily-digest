@@ -505,3 +505,8 @@
 - [NewPipe – Lightweight YouTube experience for Android](https://newpipe.net/)
 - [LLM companies to access largest Chinese non-fiction book collection](https://annas-blog.org/duxiu-exclusive.html)
 - [Intel Itanium IA-64 Support Removed with the Linux 6.7 Kernel](https://www.phoronix.com/news/Intel-IA-64-Removed-Linux-6.7)
+## Afternoon/Evening Digest - 05-11-2023
+
+- [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
+- [Linux and TPMs with systemd measured boot [video]](https://media.ccc.de/v/all-systems-go-2023-186-linux-tpms)
+- [Bubble sort in pure CSS](https://dev.to/grahamthedev/bubble-sortin-pure-css-no-js-3bb1)
