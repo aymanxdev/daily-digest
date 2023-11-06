@@ -515,3 +515,8 @@
 - [Firefox Development Is Moving from Mercurial to Git](https://groups.google.com/a/mozilla.org/g/firefox-dev/c/QnfydsDj48o/m/8WadV0_dBQAJ)
 - [Racket branch of Chez Scheme merging with mainline Chez Scheme](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
 - [milliForth](https://github.com/fuzzballcat/milliForth)
+## Afternoon/Evening Digest - 06-11-2023
+
+- [Mastering DOM manipulation with vanilla JavaScript](https://phuoc.ng/collection/html-dom/)
+- [Why the Binding Arbitration Game Is Rigged Against Customers (2019)](https://www.gsb.stanford.edu/insights/why-binding-arbitration-game-rigged-against-customers)
+- [Who's Behind the Swat USA Reshipping Service?](https://krebsonsecurity.com/2023/11/whos-behind-the-swat-usa-reshipping-service/)
