@@ -510,3 +510,8 @@
 - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
 - [Linux and TPMs with systemd measured boot [video]](https://media.ccc.de/v/all-systems-go-2023-186-linux-tpms)
 - [Bubble sort in pure CSS](https://dev.to/grahamthedev/bubble-sortin-pure-css-no-js-3bb1)
+## Morning Digest - 06-11-2023
+
+- [Firefox Development Is Moving from Mercurial to Git](https://groups.google.com/a/mozilla.org/g/firefox-dev/c/QnfydsDj48o/m/8WadV0_dBQAJ)
+- [Racket branch of Chez Scheme merging with mainline Chez Scheme](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
+- [milliForth](https://github.com/fuzzballcat/milliForth)
