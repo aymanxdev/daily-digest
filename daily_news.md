@@ -525,3 +525,8 @@
 - [Tutanota Is Now Tuta](https://tuta.com/blog/tutanota-is-now-tuta)
 - [New models and developer products](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)
 - [The coolest robot I've ever built](https://www.youtube.com/watch?v=bO-DWWFolPw)
+## Afternoon/Evening Digest - 07-11-2023
+
+- [Videos of Godotcon 2023](https://media.ccc.de/c/godotcon2023)
+- [Maine's Constitution Has Unprintable Sections](https://www.mitsc.org/news/maine-2023-election-ballot-question-6-fact-sheet)
+- [A C Compiler that fits in the 512 byte boot sector of an x86 machine](https://github.com/xorvoid/sectorc)
