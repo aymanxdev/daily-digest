@@ -520,3 +520,8 @@
 - [Mastering DOM manipulation with vanilla JavaScript](https://phuoc.ng/collection/html-dom/)
 - [Why the Binding Arbitration Game Is Rigged Against Customers (2019)](https://www.gsb.stanford.edu/insights/why-binding-arbitration-game-rigged-against-customers)
 - [Who's Behind the Swat USA Reshipping Service?](https://krebsonsecurity.com/2023/11/whos-behind-the-swat-usa-reshipping-service/)
+## Morning Digest - 07-11-2023
+
+- [Tutanota Is Now Tuta](https://tuta.com/blog/tutanota-is-now-tuta)
+- [New models and developer products](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)
+- [The coolest robot I've ever built](https://www.youtube.com/watch?v=bO-DWWFolPw)
