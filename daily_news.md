@@ -530,3 +530,8 @@
 - [Videos of Godotcon 2023](https://media.ccc.de/c/godotcon2023)
 - [Maine's Constitution Has Unprintable Sections](https://www.mitsc.org/news/maine-2023-election-ballot-question-6-fact-sheet)
 - [A C Compiler that fits in the 512 byte boot sector of an x86 machine](https://github.com/xorvoid/sectorc)
+## Morning Digest - 08-11-2023
+
+- [Stop making every conversation about yourself](https://thoguhts.substack.com/p/stop-making-every-conversation-about)
+- [Library Genesis in Numbers: Mapping the Underground Flow of Knowledge (2018) [pdf]](https://direct.mit.edu/books/oa-edited-volume/3600/chapter/120592/Library-Genesis-in-Numbers-Mapping-the-Underground)
+- [Oh my poor business logic](https://rednafi.com/misc/oh_my_poor_business_logic/)
