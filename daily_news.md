@@ -545,3 +545,8 @@
 - [Omegle 2009-2023](https://www.omegle.com/)
 - [Using GPT-4 Vision with Vimium to browse the web](https://github.com/ishan0102/vimGPT)
 - [Researchers uncover the fastest semiconductor yet](https://spectrum.ieee.org/semiconductor)
+## Afternoon/Evening Digest - 09-11-2023
+
+- [Servo announces grant from the NLnet Foundation](https://servo.org/blog/2023/11/06/nlgrant-announcement/)
+- [Benchmarking GPT-4 Turbo – A Cautionary Tale](https://blog.mentat.ai/benchmarking-gpt-4-turbo-a-cautionary-tale)
+- [Omegle 2009-2023](https://www.omegle.com/)
