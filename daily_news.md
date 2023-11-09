@@ -540,3 +540,8 @@
 - [Wikipedia Became the Last Good Place on the Internet](https://www.cambridge.org/core/journals/american-political-science-review/article/rule-ambiguity-institutional-clashes-and-population-loss-how-wikipedia-became-the-last-good-place-on-the-internet/FC3F7B9CBF951DD30C2648E7DEFB65EE)
 - [Major Outage Across ChatGPT and API](https://status.openai.com/incidents/00fpy0yxrx1q)
 - [Home Assistant blocked from integrating with Garage Door opener API](https://www.home-assistant.io/blog/2023/11/06/removal-of-myq-integration/)
+## Morning Digest - 09-11-2023
+
+- [Omegle 2009-2023](https://www.omegle.com/)
+- [Using GPT-4 Vision with Vimium to browse the web](https://github.com/ishan0102/vimGPT)
+- [Researchers uncover the fastest semiconductor yet](https://spectrum.ieee.org/semiconductor)
