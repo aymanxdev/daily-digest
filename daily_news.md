@@ -555,3 +555,8 @@
 - [Cursorless is alien magic from the future](https://xeiaso.net/notes/cursorless-alien-magic/)
 - [I Skipped to the Ending](https://danangell.com/blog/posts/i-skipped-to-the-ending/)
 - [Albert Einstein in 1939 composed a message for the people of AD 6939](https://www.futilitycloset.com/2023/11/10/comment-8/)
+## Afternoon/Evening Digest - 10-11-2023
+
+- [Nordic Is Getting Involved in RISC-V](https://blog.nordicsemi.com/getconnected/why-nordic-is-getting-involved-in-risc-v)
+- [I skipped to the ending](https://danangell.com/blog/posts/i-skipped-to-the-ending/)
+- [We used to build steel mills near cheap power. Now we build datacenters](https://danluu.com/datacenter-power/)
