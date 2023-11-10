@@ -550,3 +550,8 @@
 - [Servo announces grant from the NLnet Foundation](https://servo.org/blog/2023/11/06/nlgrant-announcement/)
 - [Benchmarking GPT-4 Turbo – A Cautionary Tale](https://blog.mentat.ai/benchmarking-gpt-4-turbo-a-cautionary-tale)
 - [Omegle 2009-2023](https://www.omegle.com/)
+## Morning Digest - 10-11-2023
+
+- [Cursorless is alien magic from the future](https://xeiaso.net/notes/cursorless-alien-magic/)
+- [I Skipped to the Ending](https://danangell.com/blog/posts/i-skipped-to-the-ending/)
+- [Albert Einstein in 1939 composed a message for the people of AD 6939](https://www.futilitycloset.com/2023/11/10/comment-8/)
