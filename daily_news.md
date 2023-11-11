@@ -560,3 +560,8 @@
 - [Nordic Is Getting Involved in RISC-V](https://blog.nordicsemi.com/getconnected/why-nordic-is-getting-involved-in-risc-v)
 - [I skipped to the ending](https://danangell.com/blog/posts/i-skipped-to-the-ending/)
 - [We used to build steel mills near cheap power. Now we build datacenters](https://danluu.com/datacenter-power/)
+## Morning Digest - 11-11-2023
+
+- [Debugging tricks in the browser](https://alan.norbauer.com/articles/browser-debugging-tricks)
+- [When NASA Used an RC Tiger II to Drill into Space Shuttle Tires](https://tankhistoria.com/experimental/tire-assault-vehicle/)
+- [How to boss without being bossy](https://www.jeffwofford.com/?p=2089)
