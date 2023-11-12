@@ -570,3 +570,8 @@
 - [Nicotine: On the benefits and lack of demerits of nicotine](https://gwern.net/nicotine)
 - [Show HN: DataSheetGrid, an Airtable-like React component](https://react-datasheet-grid.netlify.app/)
 - [Nanoparticle-remodeled gut microbiota slows neurodegeneration via gut–brain axis](https://www.nature.com/articles/s43587-023-00516-9)
+## Morning Digest - 12-11-2023
+
+- [It's still easy for anyone to become you at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
+- [Win-Vind: Vim powers with speed of thought throughout Windows 11](https://pit-ray.github.io/win-vind/)
+- [6502 back end for LLVM [video]](https://www.youtube.com/watch?v=2lW3WHPtmKo)
