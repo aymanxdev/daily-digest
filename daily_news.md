@@ -575,3 +575,8 @@
 - [It's still easy for anyone to become you at Experian](https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/)
 - [Win-Vind: Vim powers with speed of thought throughout Windows 11](https://pit-ray.github.io/win-vind/)
 - [6502 back end for LLVM [video]](https://www.youtube.com/watch?v=2lW3WHPtmKo)
+## Afternoon/Evening Digest - 12-11-2023
+
+- [Casino-like apps have drained people of millions](https://www.nbcnews.com/tech/tech-news/addicted-losing-how-casino-apps-have-drained-people-millions-n1239604)
+- [Globalisation is a far, far bigger deal than you think](https://edconway.substack.com/p/globalisation-is-a-far-far-bigger)
+- [Scary Hasty](https://eclecticlight.co/2023/11/12/last-week-on-my-mac-scary-hasty/)
