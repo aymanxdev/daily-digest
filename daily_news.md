@@ -585,3 +585,8 @@
 - [Don't waste money on a math coprocessor they said](https://virtuallyfun.com/2023/11/12/dont-waste-money-on-a-math-coprocessor-they-said/)
 - [Beg Bounties (2021)](https://www.troyhunt.com/beg-bounties/)
 - [Show HN: Open-source digital stylus with six degrees of freedom](https://github.com/Jcparkyn/dpoint)
+## Afternoon/Evening Digest - 13-11-2023
+
+- [Ship Shape](https://www.canva.dev/blog/engineering/ship-shape/)
+- [To free the Baltic grid, old technology is new again](https://spectrum.ieee.org/baltic-power-grid)
+- [Cathode-Retro: A collection of shaders to emulate the display of an NTSC signal](https://github.com/DeadlyRedCube/Cathode-Retro)
