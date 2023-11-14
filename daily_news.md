@@ -595,3 +595,8 @@
 - [Starship will attempt a launch this Friday](https://www.fly.faa.gov/adv/adv_spt.jsp)
 - [A coder considers the waning days of the craft](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft)
 - [Designing a programming language to speedrun Advent of Code](https://blog.vero.site/post/noulith)
+## Afternoon/Evening Digest - 14-11-2023
+
+- [A Lot of Damage in Grindavík](https://icelandmonitor.mbl.is/news/news/2023/11/13/a_lot_of_damage_in_grindavik/)
+- [Blender 4.0](https://wiki.blender.org/wiki/Reference/Release_Notes/4.0)
+- [Placemark is going open source and shutting down](https://macwright.com/2023/11/13/placemark)
