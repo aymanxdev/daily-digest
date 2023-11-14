@@ -590,3 +590,8 @@
 - [Ship Shape](https://www.canva.dev/blog/engineering/ship-shape/)
 - [To free the Baltic grid, old technology is new again](https://spectrum.ieee.org/baltic-power-grid)
 - [Cathode-Retro: A collection of shaders to emulate the display of an NTSC signal](https://github.com/DeadlyRedCube/Cathode-Retro)
+## Morning Digest - 14-11-2023
+
+- [Starship will attempt a launch this Friday](https://www.fly.faa.gov/adv/adv_spt.jsp)
+- [A coder considers the waning days of the craft](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft)
+- [Designing a programming language to speedrun Advent of Code](https://blog.vero.site/post/noulith)
