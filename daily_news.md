@@ -600,3 +600,8 @@
 - [A Lot of Damage in Grindavík](https://icelandmonitor.mbl.is/news/news/2023/11/13/a_lot_of_damage_in_grindavik/)
 - [Blender 4.0](https://wiki.blender.org/wiki/Reference/Release_Notes/4.0)
 - [Placemark is going open source and shutting down](https://macwright.com/2023/11/13/placemark)
+## Morning Digest - 15-11-2023
+
+- [I accidentally a scheme](https://wingolog.org/archives/2023/11/13/i-accidentally-a-scheme)
+- [Reptar](https://lock.cmpxchg8b.com/reptar.html)
+- [U.S. reenters the nuclear fuel game](https://spectrum.ieee.org/nuclear-power-plant-2666199640)
