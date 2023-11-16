@@ -615,3 +615,8 @@
 - [Blender 16yo winner of UK young animator of the year](https://younganimator.uk/winner/1699875910225x437970782709919500)
 - [Push ifs up and fors down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 - [LLMs by Hallucination Rate](https://github.com/vectara/hallucination-leaderboard)
+## Afternoon/Evening Digest - 16-11-2023
+
+- [ChatGPT has 190 citations on Google Scholar](https://scholar.google.com/citations?user=ZMKC6MUAAAAJ&hl=en)
+- [Printed robots with bones, ligaments, and tendons](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/printed-robots-with-bones-ligaments-and-tendons.html)
+- [OpenSubtitles is not open anymore](https://blog.opensubtitles.com/opensubtitles/saying-goodbye-to-opensubtitles-org-api-embrace-the-20-black-friday-treat)
