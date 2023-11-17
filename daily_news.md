@@ -625,3 +625,8 @@
 - [I spent 3 years working on a coat hanger [video]](https://www.youtube.com/watch?v=vREokZa4dNU)
 - [What Meta learned from Galactica, the doomed model](https://venturebeat.com/ai/what-meta-learned-from-galactica-the-doomed-model-launched-two-weeks-before-chatgpt/)
 - [Disks lie. And the controllers that run them are partners in crime (2012)](https://dl.acm.org/doi/10.1145/2367376.2367378)
+## Afternoon/Evening Digest - 17-11-2023
+
+- [The Changing "Guarantees" Given by Python's Global Interpreter Lock](https://stefan-marr.de/2023/11/python-global-interpreter-lock/)
+- [I spent 3 years working on a coat hanger [video]](https://www.youtube.com/watch?v=vREokZa4dNU)
+- [Ethernet Is Still Going Strong After 50 Years](https://spectrum.ieee.org/ethernet-ieee-milestone)
