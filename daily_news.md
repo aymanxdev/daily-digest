@@ -620,3 +620,8 @@
 - [ChatGPT has 190 citations on Google Scholar](https://scholar.google.com/citations?user=ZMKC6MUAAAAJ&hl=en)
 - [Printed robots with bones, ligaments, and tendons](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/printed-robots-with-bones-ligaments-and-tendons.html)
 - [OpenSubtitles is not open anymore](https://blog.opensubtitles.com/opensubtitles/saying-goodbye-to-opensubtitles-org-api-embrace-the-20-black-friday-treat)
+## Morning Digest - 17-11-2023
+
+- [I spent 3 years working on a coat hanger [video]](https://www.youtube.com/watch?v=vREokZa4dNU)
+- [What Meta learned from Galactica, the doomed model](https://venturebeat.com/ai/what-meta-learned-from-galactica-the-doomed-model-launched-two-weeks-before-chatgpt/)
+- [Disks lie. And the controllers that run them are partners in crime (2012)](https://dl.acm.org/doi/10.1145/2367376.2367378)
