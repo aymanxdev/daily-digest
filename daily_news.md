@@ -630,3 +630,8 @@
 - [The Changing "Guarantees" Given by Python's Global Interpreter Lock](https://stefan-marr.de/2023/11/python-global-interpreter-lock/)
 - [I spent 3 years working on a coat hanger [video]](https://www.youtube.com/watch?v=vREokZa4dNU)
 - [Ethernet Is Still Going Strong After 50 Years](https://spectrum.ieee.org/ethernet-ieee-milestone)
+## Afternoon/Evening Digest - 18-11-2023
+
+- [Death by AI – a free Jackbox style party game. AI judges your plans to survive](https://deathbyai.gg)
+- [Show HN: Open-source tool for creating courses like Duolingo](https://uneebee.com)
+- [GTK: Introducing Graphics Offload](https://blog.gtk.org/2023/11/15/introducing-graphics-offload/)
