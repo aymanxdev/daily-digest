@@ -635,3 +635,8 @@
 - [Death by AI – a free Jackbox style party game. AI judges your plans to survive](https://deathbyai.gg)
 - [Show HN: Open-source tool for creating courses like Duolingo](https://uneebee.com)
 - [GTK: Introducing Graphics Offload](https://blog.gtk.org/2023/11/15/introducing-graphics-offload/)
+## Morning Digest - 19-11-2023
+
+- [An asteroid will occult Betelgeuse on December 12th](https://www.universetoday.com/164299/an-asteroid-will-occult-betelgeuse-on-december-12th/)
+- [HandBrake 1.7.0 – The open source video transcoder](https://forum.handbrake.fr/viewtopic.php?t=43311)
+- [Infocom-zcode-terps: Historical source code for Infocom's Z-machine interpreters](https://github.com/erkyrath/infocom-zcode-terps)
