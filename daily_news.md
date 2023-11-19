@@ -640,3 +640,8 @@
 - [An asteroid will occult Betelgeuse on December 12th](https://www.universetoday.com/164299/an-asteroid-will-occult-betelgeuse-on-december-12th/)
 - [HandBrake 1.7.0 – The open source video transcoder](https://forum.handbrake.fr/viewtopic.php?t=43311)
 - [Infocom-zcode-terps: Historical source code for Infocom's Z-machine interpreters](https://github.com/erkyrath/infocom-zcode-terps)
+## Afternoon/Evening Digest - 19-11-2023
+
+- [Lindenmayer Systems](https://vsekar.me/blog/log_coffee/chapter_0.html)
+- [Comparing Humans, GPT-4, and GPT-4V on Abstraction and Reasoning Tasks](https://arxiv.org/abs/2311.09247)
+- [Victor Mono Typeface](https://rubjo.github.io/victor-mono/)
