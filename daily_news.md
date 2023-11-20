@@ -645,3 +645,8 @@
 - [Lindenmayer Systems](https://vsekar.me/blog/log_coffee/chapter_0.html)
 - [Comparing Humans, GPT-4, and GPT-4V on Abstraction and Reasoning Tasks](https://arxiv.org/abs/2311.09247)
 - [Victor Mono Typeface](https://rubjo.github.io/victor-mono/)
+## Morning Digest - 20-11-2023
+
+- [Sam Altman, Greg Brockman and others to join Microsoft](https://twitter.com/satyanadella/status/1726509045803336122)
+- [RSS can be used to distribute all sorts of information](https://colinwalker.blog/blog/?date=2023-11-19)
+- [Setenv Is Not Thread Safe and C Doesn't Want to Fix It](https://www.evanjones.ca/setenv-is-not-thread-safe.html)
