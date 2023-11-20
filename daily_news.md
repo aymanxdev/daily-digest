@@ -650,3 +650,8 @@
 - [Sam Altman, Greg Brockman and others to join Microsoft](https://twitter.com/satyanadella/status/1726509045803336122)
 - [RSS can be used to distribute all sorts of information](https://colinwalker.blog/blog/?date=2023-11-19)
 - [Setenv Is Not Thread Safe and C Doesn't Want to Fix It](https://www.evanjones.ca/setenv-is-not-thread-safe.html)
+## Afternoon/Evening Digest - 20-11-2023
+
+- [OpenAI staff threaten to quit unless board resigns](https://www.wired.com/story/openai-staff-walk-protest-sam-altman/)
+- [550 of 700 Employees OpenAI tell the board to resign](https://twitter.com/karaswisher/status/1726598360277356775)
+- [The Death Star and the Final Trench Run (2017)](http://fxrant.blogspot.com/2017/01/the-death-star-and-final-trench-run.html)
