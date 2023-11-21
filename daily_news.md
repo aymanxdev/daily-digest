@@ -660,3 +660,8 @@
 - [Show HN: Stella Nera – Maddness Hardware Accelerator](https://github.com/joennlae/halutmatmul)
 - [OpenAI's employees were given two explanations for why Sam Altman was fired](https://www.businessinsider.com/openais-employees-given-explanations-why-sam-altman-out-2023-11)
 - [RFC 9498 on the GNU Name System](https://www.rfc-editor.org/info/rfc9498)
+## Afternoon/Evening Digest - 21-11-2023
+
+- [Northvolt develops state-of-the-art sodium-ion battery validated at 160 Wh/kg](https://northvolt.com/articles/northvolt-sodium-ion/)
+- [Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045)
+- [The Piccadilly line’s new air conditioned trains](https://www.ianvisits.co.uk/articles/cool-commutes-ahead-inside-look-at-londons-new-piccadilly-line-trains-undergo-testing-in-germany-67513/)
