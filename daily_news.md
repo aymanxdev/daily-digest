@@ -665,3 +665,8 @@
 - [Northvolt develops state-of-the-art sodium-ion battery validated at 160 Wh/kg](https://northvolt.com/articles/northvolt-sodium-ion/)
 - [Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045)
 - [The Piccadilly line’s new air conditioned trains](https://www.ianvisits.co.uk/articles/cool-commutes-ahead-inside-look-at-londons-new-piccadilly-line-trains-undergo-testing-in-germany-67513/)
+## Morning Digest - 22-11-2023
+
+- [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
+- [Why does the moon change size when you snipe it in GTA?](https://insiderockstarnorth.blogspot.com/2023/11/why-does-moon-change-size-when-you.html)
+- [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
