@@ -670,3 +670,8 @@
 - [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
 - [Why does the moon change size when you snipe it in GTA?](https://insiderockstarnorth.blogspot.com/2023/11/why-does-moon-change-size-when-you.html)
 - [Stable Video Diffusion](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)
+## Afternoon/Evening Digest - 22-11-2023
+
+- [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
+- [Ultra Fast Bert](https://arxiv.org/abs/2311.10770)
+- [What has changed in CPU cores in M3 chips?](https://eclecticlight.co/2023/11/22/what-has-changed-in-cpu-cores-in-m3-chips/)
