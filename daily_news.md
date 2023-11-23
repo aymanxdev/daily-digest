@@ -675,3 +675,8 @@
 - [We have reached an agreement in principle for Sam to return to OpenAI as CEO](https://twitter.com/openai/status/1727206187077370115)
 - [Ultra Fast Bert](https://arxiv.org/abs/2311.10770)
 - [What has changed in CPU cores in M3 chips?](https://eclecticlight.co/2023/11/22/what-has-changed-in-cpu-cores-in-m3-chips/)
+## Morning Digest - 23-11-2023
+
+- [The curious case of the abominable shower](https://www.austindailyherald.com/2022/03/peggy-keener-the-curious-case-of-the-abominable-shower/)
+- [test, [, and [[ (2020)](https://jmmv.dev/2020/03/test-bracket.html)
+- [Fast Llama 2 on CPUs with Sparse Fine-Tuning and DeepSparse](https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/)
