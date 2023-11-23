@@ -680,3 +680,8 @@
 - [The curious case of the abominable shower](https://www.austindailyherald.com/2022/03/peggy-keener-the-curious-case-of-the-abominable-shower/)
 - [test, [, and [[ (2020)](https://jmmv.dev/2020/03/test-bracket.html)
 - [Fast Llama 2 on CPUs with Sparse Fine-Tuning and DeepSparse](https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/)
+## Afternoon/Evening Digest - 23-11-2023
+
+- [Git Branches: Intuition and Reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
+- [Write libraries instead of services, where possible](https://catern.com/services.html)
+- [Luiz André Barroso has died](https://spectrum.ieee.org/in-memoriam-nov-2023)
