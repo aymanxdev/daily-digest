@@ -685,3 +685,8 @@
 - [Git Branches: Intuition and Reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
 - [Write libraries instead of services, where possible](https://catern.com/services.html)
 - [Luiz André Barroso has died](https://spectrum.ieee.org/in-memoriam-nov-2023)
+## Morning Digest - 24-11-2023
+
+- [Mid-old cells are a potential target for anti-aging interventions in the elderly](https://www.nature.com/articles/s41467-023-43491-w)
+- [Mirage – A programming framework for building type-safe, modular systems](https://mirage.io/)
+- [Ansel](https://ansel.photos/en/)
