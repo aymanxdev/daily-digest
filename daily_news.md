@@ -700,3 +700,8 @@
 - [Normal Operating Sounds](https://www.tesla.com/ownersmanual/model3/en_us/GUID-AA58ED67-9C93-4EE6-8B19-9FDABE018787.html)
 - [The Bond villain compliance strategy](https://www.bitsaboutmoney.com/archive/bond-villain-compliance-strategy/)
 - [Autonomous excavator constructs a six-metre-high dry-stone wall](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.html)
+## Afternoon/Evening Digest - 25-11-2023
+
+- [Shh: Simple Shell Scripting from Haskell](https://github.com/luke-clifton/shh)
+- [Why 56k the fastest dial up modem speed](https://www.10stripe.com/articles/why-is-56k-the-fastest-dialup-modem-speed.php)
+- [The bash book to rule them all](https://fabiensanglard.net/bash/)
