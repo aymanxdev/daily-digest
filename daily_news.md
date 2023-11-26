@@ -710,3 +710,8 @@
 - [Naev – open-source game about space exploration, trade and combat](https://naev.org/)
 - [The Dunning-Kruger effect is autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/)
 - [Helm](https://tytel.org/helm/)
+## Afternoon/Evening Digest - 26-11-2023
+
+- [Whisky: Wine Supercharged with the Power of Apple's Game Porting Toolkit](https://getwhisky.app)
+- [VectorDB: Vector Database Built by Kagi Search](https://vectordb.com/)
+- [Write Guix package definitions in a breeze: Introducing Guix Packager](https://guix.gnu.org/blog/2023/write-package-definitions-in-a-breeze/)
