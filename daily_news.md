@@ -705,3 +705,8 @@
 - [Shh: Simple Shell Scripting from Haskell](https://github.com/luke-clifton/shh)
 - [Why 56k the fastest dial up modem speed](https://www.10stripe.com/articles/why-is-56k-the-fastest-dialup-modem-speed.php)
 - [The bash book to rule them all](https://fabiensanglard.net/bash/)
+## Morning Digest - 26-11-2023
+
+- [Naev – open-source game about space exploration, trade and combat](https://naev.org/)
+- [The Dunning-Kruger effect is autocorrelation](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/)
+- [Helm](https://tytel.org/helm/)
