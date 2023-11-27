@@ -715,3 +715,8 @@
 - [Whisky: Wine Supercharged with the Power of Apple's Game Porting Toolkit](https://getwhisky.app)
 - [VectorDB: Vector Database Built by Kagi Search](https://vectordb.com/)
 - [Write Guix package definitions in a breeze: Introducing Guix Packager](https://guix.gnu.org/blog/2023/write-package-definitions-in-a-breeze/)
+## Morning Digest - 27-11-2023
+
+- [Why Bother with uBlock Being Blocked in Chrome? Time to Switch to Firefox](https://tuta.com/blog/best-private-browsers)
+- [Brother [printers] have gotten to where they are now, by NOT innovating](https://retro.social/@ifixcoinops/111480744130939877)
+- [Unciv](https://github.com/yairm210/Unciv)
