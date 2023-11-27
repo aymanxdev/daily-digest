@@ -720,3 +720,8 @@
 - [Why Bother with uBlock Being Blocked in Chrome? Time to Switch to Firefox](https://tuta.com/blog/best-private-browsers)
 - [Brother [printers] have gotten to where they are now, by NOT innovating](https://retro.social/@ifixcoinops/111480744130939877)
 - [Unciv](https://github.com/yairm210/Unciv)
+## Afternoon/Evening Digest - 27-11-2023
+
+- [Struggles with the Continuum](https://arxiv.org/abs/1609.01421)
+- [Where Is OpenCV 5?](https://opencv.org/blog/where-is-opencv-5/)
+- [GitHub: Can no longer search code without being logged in](https://github.com/orgs/community/discussions/77046)
