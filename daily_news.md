@@ -725,3 +725,8 @@
 - [Struggles with the Continuum](https://arxiv.org/abs/1609.01421)
 - [Where Is OpenCV 5?](https://opencv.org/blog/where-is-opencv-5/)
 - [GitHub: Can no longer search code without being logged in](https://github.com/orgs/community/discussions/77046)
+## Morning Digest - 28-11-2023
+
+- [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64/)
+- [The `hanging-punctuation property` in CSS](https://chriscoyier.net/2023/11/27/the-hanging-punctuation-property-in-css/)
+- [My toddler loves planes, so I built her a radar](https://jacobbartlett.substack.com/p/my-toddler-loves-planes-so-i-built)
