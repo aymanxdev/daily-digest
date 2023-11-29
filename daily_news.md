@@ -740,3 +740,8 @@
 - [My $500M Mars rover mistake](https://www.chrislewicki.com/articles/failurestory)
 - [MeshGPT: Generating triangle meshes with decoder-only transformers](https://nihalsid.github.io/mesh-gpt/)
 - [Writing documentation for your house](https://luke.hsiao.dev/blog/housing-documentation/)
+## Afternoon/Evening Digest - 29-11-2023
+
+- [How to Work Effectively with Someone You Don't Like](https://www.forbes.com/sites/tracybrower/2023/11/26/5-ways-to-work-effectively-with-someone-you-really-dont-like/)
+- [Roundcube open-source webmail software merges with Nextcloud](https://www.phoronix.com/news/Roundcube-Nextcloud)
+- [Freetar – an alternative front end for ultimate-guitar.com](https://github.com/kmille/freetar)
