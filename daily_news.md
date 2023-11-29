@@ -735,3 +735,8 @@
 - [Modern C++ Programming Course](https://github.com/federico-busato/Modern-CPP-Programming)
 - [Rustlantis: Semantic fuzzing of the Rust compiler and interpreter [pdf]](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-pls/plf-dam/documents/StudentProjects/MasterTheses/2023-Andy-Thesis.pdf)
 - [Eclipse ThreadX](https://eclipse-foundation.blog/2023/11/21/introducing-eclipse-threadx/)
+## Morning Digest - 29-11-2023
+
+- [My $500M Mars rover mistake](https://www.chrislewicki.com/articles/failurestory)
+- [MeshGPT: Generating triangle meshes with decoder-only transformers](https://nihalsid.github.io/mesh-gpt/)
+- [Writing documentation for your house](https://luke.hsiao.dev/blog/housing-documentation/)
