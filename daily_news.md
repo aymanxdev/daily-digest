@@ -745,3 +745,8 @@
 - [How to Work Effectively with Someone You Don't Like](https://www.forbes.com/sites/tracybrower/2023/11/26/5-ways-to-work-effectively-with-someone-you-really-dont-like/)
 - [Roundcube open-source webmail software merges with Nextcloud](https://www.phoronix.com/news/Roundcube-Nextcloud)
 - [Freetar – an alternative front end for ultimate-guitar.com](https://github.com/kmille/freetar)
+## Morning Digest - 30-11-2023
+
+- [Llamafile lets you distribute and run LLMs with a single file](https://github.com/Mozilla-Ocho/llamafile)
+- [XCurl](https://daniel.haxx.se/blog/2023/11/30/xcurl/)
+- [Marine bacteria genus may hold mitochondria's closest relatives](https://www.aaas.org/news/marine-bacteria-genus-may-hold-mitochondrias-closest-relatives)
