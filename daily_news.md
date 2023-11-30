@@ -750,3 +750,8 @@
 - [Llamafile lets you distribute and run LLMs with a single file](https://github.com/Mozilla-Ocho/llamafile)
 - [XCurl](https://daniel.haxx.se/blog/2023/11/30/xcurl/)
 - [Marine bacteria genus may hold mitochondria's closest relatives](https://www.aaas.org/news/marine-bacteria-genus-may-hold-mitochondrias-closest-relatives)
+## Afternoon/Evening Digest - 30-11-2023
+
+- [Show HN: Taipy – Turns Data and AI algorithms into full web applications](https://github.com/Avaiga/taipy)
+- [Brickception](https://brickception.xyz/)
+- [Q-Transformer](https://qtransformer.github.io/)
