@@ -760,3 +760,8 @@
 - [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
 - [Marker: Convert PDF to Markdown quickly with high accuracy](https://github.com/VikParuchuri/marker)
 - [Visual Anagrams: Generating optical illusions with diffusion models](https://dangeng.github.io/visual_anagrams/)
+## Afternoon/Evening Digest - 01-12-2023
+
+- [Star neuroscientist may have manipulated data to support a major stroke trial](https://www.science.org/content/article/misconduct-concerns-possible-drug-risks-should-stop-stroke-trial-whistleblowers-say)
+- [Booking.com hackers increase attacks on customers](https://www.bbc.co.uk/news/technology-67583486)
+- [HTML hacks that shaped the Internet](https://tedium.co/2023/11/24/weird-html-hacks-history/)
