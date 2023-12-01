@@ -755,3 +755,8 @@
 - [Show HN: Taipy – Turns Data and AI algorithms into full web applications](https://github.com/Avaiga/taipy)
 - [Brickception](https://brickception.xyz/)
 - [Q-Transformer](https://qtransformer.github.io/)
+## Morning Digest - 01-12-2023
+
+- [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
+- [Marker: Convert PDF to Markdown quickly with high accuracy](https://github.com/VikParuchuri/marker)
+- [Visual Anagrams: Generating optical illusions with diffusion models](https://dangeng.github.io/visual_anagrams/)
