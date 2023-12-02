@@ -770,3 +770,8 @@
 - [Tinnitus linked to undetected auditory nerve damage](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
 - [Researchers create humanitarian law digital emblem for the Red Cross](https://ethz.ch/en/news-and-events/eth-news/news/2023/11/digital-emblem-for-humanitarian-law-in-cyberspace.html)
 - [Review: A Dive into MikroTik's Weird SmartNIC (CCR2004-1G-2XS-PCIe)](https://alyx.sh/posts/mikrotiks-weird-smartnic/)
+## Afternoon/Evening Digest - 02-12-2023
+
+- [Tiny Volumetric Display](https://mitxela.com/projects/candle)
+- [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
+- [Tinnitus linked to undetected auditory nerve damage](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
