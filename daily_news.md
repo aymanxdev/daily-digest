@@ -780,3 +780,8 @@
 - [A Personal History of APL (1982)](https://ed-thelen.org/comp-hist/APL-hist.html)
 - [Tiny volumetric display](https://mitxela.com/projects/candle)
 - [The analog computer for the Nike missile system (2001)](https://www.ed-thelen.org/computer.html)
+## Afternoon/Evening Digest - 03-12-2023
+
+- [GPT-4 Can Almost Perfectly Handle Unnatural Scrambled Text](https://arxiv.org/abs/2311.18805)
+- [Why do everyone's logo fonts look the same? (2020)](https://justcreative.com/why-do-everyones-logo-fonts-look-the-same/)
+- [Show HN: Simulate 3D Plants in the Browser](https://plant.max-richter.dev)
