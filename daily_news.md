@@ -775,3 +775,8 @@
 - [Tiny Volumetric Display](https://mitxela.com/projects/candle)
 - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
 - [Tinnitus linked to undetected auditory nerve damage](https://scitechdaily.com/tinnitus-linked-to-hidden-undetected-auditory-nerve-damage-a-step-towards-a-cure/)
+## Morning Digest - 03-12-2023
+
+- [A Personal History of APL (1982)](https://ed-thelen.org/comp-hist/APL-hist.html)
+- [Tiny volumetric display](https://mitxela.com/projects/candle)
+- [The analog computer for the Nike missile system (2001)](https://www.ed-thelen.org/computer.html)
