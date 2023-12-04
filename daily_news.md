@@ -785,3 +785,8 @@
 - [GPT-4 Can Almost Perfectly Handle Unnatural Scrambled Text](https://arxiv.org/abs/2311.18805)
 - [Why do everyone's logo fonts look the same? (2020)](https://justcreative.com/why-do-everyones-logo-fonts-look-the-same/)
 - [Show HN: Simulate 3D Plants in the Browser](https://plant.max-richter.dev)
+## Morning Digest - 04-12-2023
+
+- [macOS Sonoma is setting records for update size](https://eclecticlight.co/2023/12/04/macos-sonoma-is-setting-records-for-update-size/)
+- [LLM Visualization](https://bbycroft.net/llm)
+- [Learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
