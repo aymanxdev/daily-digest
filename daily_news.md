@@ -790,3 +790,8 @@
 - [macOS Sonoma is setting records for update size](https://eclecticlight.co/2023/12/04/macos-sonoma-is-setting-records-for-update-size/)
 - [LLM Visualization](https://bbycroft.net/llm)
 - [Learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
+## Afternoon/Evening Digest - 04-12-2023
+
+- [Dogbolt Decompiler Explorer](https://dogbolt.org/)
+- [Dietary fiber intake and all-cause and cause-specific mortality](https://clinicalnutritionjournal.com/article/S0261-5614(23)00363-1/fulltext)
+- [Forecasts need to have error bars](https://andrewpwheeler.com/2023/11/19/forecasts-need-to-have-error-bars/)
