@@ -800,3 +800,8 @@
 - [Mounting Git commits as folders with NFS](https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/)
 - [Rest in Peace, Optane](https://specbranch.com/posts/rip-optane/)
 - [I Hacked Magic the Gathering: Arena for a 100% Win Rate](https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/)
+## Afternoon/Evening Digest - 05-12-2023
+
+- [Polish trains lock up when serviced in third-party workshops](https://social.hackerspace.pl/@q3k/111528162462505087)
+- [Toxic comments are associated with reduced volunteer editors on Wikipedia](https://academic.oup.com/pnasnexus/article/2/12/pgad385/7457939)
+- [A Brainfuck interpreter written in PostScript](https://github.com/nst/bfps)
