@@ -795,3 +795,8 @@
 - [Dogbolt Decompiler Explorer](https://dogbolt.org/)
 - [Dietary fiber intake and all-cause and cause-specific mortality](https://clinicalnutritionjournal.com/article/S0261-5614(23)00363-1/fulltext)
 - [Forecasts need to have error bars](https://andrewpwheeler.com/2023/11/19/forecasts-need-to-have-error-bars/)
+## Morning Digest - 05-12-2023
+
+- [Mounting Git commits as folders with NFS](https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/)
+- [Rest in Peace, Optane](https://specbranch.com/posts/rip-optane/)
+- [I Hacked Magic the Gathering: Arena for a 100% Win Rate](https://www.mayer.cool/writings/I-Hacked-Magic-the-Gathering/)
