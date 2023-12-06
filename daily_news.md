@@ -810,3 +810,8 @@
 - [Why is Jepsen written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
 - [DNS Exfiltration Tool](https://github.com/m57/dnsteal)
 - [All my favorite tracing tools](https://thume.ca/2023/12/02/tracing-methods/)
+## Afternoon/Evening Digest - 06-12-2023
+
+- [Mold Course](https://www.epa.gov/mold/mold-course-introduction)
+- [Apple Confirms Governments Using Push Notifications to Surveil Users](https://www.macrumors.com/2023/12/06/apple-governments-surveil-push-notifications/)
+- [Compressing Gaussian Splats](https://blog.playcanvas.com//compressing-gaussian-splats/)
