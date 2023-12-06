@@ -805,3 +805,8 @@
 - [Polish trains lock up when serviced in third-party workshops](https://social.hackerspace.pl/@q3k/111528162462505087)
 - [Toxic comments are associated with reduced volunteer editors on Wikipedia](https://academic.oup.com/pnasnexus/article/2/12/pgad385/7457939)
 - [A Brainfuck interpreter written in PostScript](https://github.com/nst/bfps)
+## Morning Digest - 06-12-2023
+
+- [Why is Jepsen written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
+- [DNS Exfiltration Tool](https://github.com/m57/dnsteal)
+- [All my favorite tracing tools](https://thume.ca/2023/12/02/tracing-methods/)
