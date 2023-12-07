@@ -815,3 +815,8 @@
 - [Mold Course](https://www.epa.gov/mold/mold-course-introduction)
 - [Apple Confirms Governments Using Push Notifications to Surveil Users](https://www.macrumors.com/2023/12/06/apple-governments-surveil-push-notifications/)
 - [Compressing Gaussian Splats](https://blog.playcanvas.com//compressing-gaussian-splats/)
+## Morning Digest - 07-12-2023
+
+- [Building end-to-end security for Messenger](https://engineering.fb.com/2023/12/06/security/building-end-to-end-security-for-messenger/)
+- [Crush Your Interviews with the Power of Storytelling](https://www.scarletink.com/p/crush-your-interviews-power-of-storytelling)
+- [Cabinets of curiosities laid the foundation for modern museums](https://www.smithsonianmag.com/history/how-cabinets-of-curiosities-laid-the-foundation-for-modern-museums-180983265/)
