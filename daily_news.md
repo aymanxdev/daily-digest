@@ -830,3 +830,8 @@
 - [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/)
 - [Reviving decade-old Macs with antiX and MX Linux (2022)](https://sts10.github.io/2022/12/14/antix-on-2008-macbook-5-1.html)
 - [Kagi Search – Paywalled articles indicator and improved weather widget](https://kagi.com/changelog)
+## Afternoon/Evening Digest - 08-12-2023
+
+- [Dieselgate, but for trains – some heavyweight hardware hacking](https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/)
+- [jc: Converts the output of popular command-line tools to JSON](https://github.com/kellyjonbrazil/jc)
+- [Problems on the Galaxy Store](https://forum.developer.samsung.com/t/test-confirmation-rejected-too-expensive/28238)
