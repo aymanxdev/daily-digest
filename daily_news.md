@@ -825,3 +825,8 @@
 - [Purple Llama by Meta AI](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/)
 - [Show HN: Recompyle – A JavaScript Developer Friendly Console / Debugger](https://www.recompyle.com/)
 - [Learn SVG with 25 examples – How to code images in HTML](https://svg-tutorial.com/)
+## Morning Digest - 08-12-2023
+
+- [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/)
+- [Reviving decade-old Macs with antiX and MX Linux (2022)](https://sts10.github.io/2022/12/14/antix-on-2008-macbook-5-1.html)
+- [Kagi Search – Paywalled articles indicator and improved weather widget](https://kagi.com/changelog)
