@@ -840,3 +840,8 @@
 - [Apple cuts off Beeper Mini's access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
 - [OpenBao – FOSS Fork of HashiCorp Vault](https://github.com/openbao/openbao/tree/development)
 - [Nebula Genomics – First to offer consumer anonymous sequencing](https://nebula.org/anonymous-seq/)
+## Afternoon/Evening Digest - 09-12-2023
+
+- [Deadweight Loss as a Service](https://unoriginal.blog/introducing-dwlaas/)
+- [W4 Games raises $15M to drive video game development with Godot Engine](https://w4games.com/2023/12/07/w4-games-raises-15m-to-drive-video-game-development-inflection-with-godot-engine/)
+- [Murder is a pixel art ECS game engine in C#](https://github.com/isadorasophia/murder)
