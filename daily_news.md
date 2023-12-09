@@ -835,3 +835,8 @@
 - [Dieselgate, but for trains – some heavyweight hardware hacking](https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/)
 - [jc: Converts the output of popular command-line tools to JSON](https://github.com/kellyjonbrazil/jc)
 - [Problems on the Galaxy Store](https://forum.developer.samsung.com/t/test-confirmation-rejected-too-expensive/28238)
+## Morning Digest - 09-12-2023
+
+- [Apple cuts off Beeper Mini's access](https://techcrunch.com/2023/12/08/apple-cuts-off-beeper-minis-access-after-launch-of-service-that-brought-imessage-to-android/)
+- [OpenBao – FOSS Fork of HashiCorp Vault](https://github.com/openbao/openbao/tree/development)
+- [Nebula Genomics – First to offer consumer anonymous sequencing](https://nebula.org/anonymous-seq/)
