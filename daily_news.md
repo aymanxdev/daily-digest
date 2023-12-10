@@ -850,3 +850,8 @@
 - [Gooey: Turn almost any Python command line program into a full GUI application](https://github.com/chriskiehl/Gooey)
 - [A Matter of Millimeters: The story of Qantas flight 32](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
 - [Trippy – A Network Diagnostic Tool](https://trippy.cli.rs/)
+## Afternoon/Evening Digest - 10-12-2023
+
+- [Bad News, Emacs](https://eshelyaron.com/posts/2023-12-10-bad-news.html)
+- [AST-grep(sg) is a CLI tool for code structural search, lint, and rewriting](https://github.com/ast-grep/ast-grep)
+- [Write your own retro compiler](http://t3x.org/t3x/0/book.html)
