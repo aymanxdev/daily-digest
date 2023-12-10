@@ -845,3 +845,8 @@
 - [Deadweight Loss as a Service](https://unoriginal.blog/introducing-dwlaas/)
 - [W4 Games raises $15M to drive video game development with Godot Engine](https://w4games.com/2023/12/07/w4-games-raises-15m-to-drive-video-game-development-inflection-with-godot-engine/)
 - [Murder is a pixel art ECS game engine in C#](https://github.com/isadorasophia/murder)
+## Morning Digest - 10-12-2023
+
+- [Gooey: Turn almost any Python command line program into a full GUI application](https://github.com/chriskiehl/Gooey)
+- [A Matter of Millimeters: The story of Qantas flight 32](https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7)
+- [Trippy – A Network Diagnostic Tool](https://trippy.cli.rs/)
