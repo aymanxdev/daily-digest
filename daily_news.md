@@ -855,3 +855,8 @@
 - [Bad News, Emacs](https://eshelyaron.com/posts/2023-12-10-bad-news.html)
 - [AST-grep(sg) is a CLI tool for code structural search, lint, and rewriting](https://github.com/ast-grep/ast-grep)
 - [Write your own retro compiler](http://t3x.org/t3x/0/book.html)
+## Morning Digest - 11-12-2023
+
+- [Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service: RFC 9330](https://datatracker.ietf.org/doc/rfc9330/)
+- [Fixing Classical Cats: How I Got Tricked by 28-Year-Old Defensive Programming](https://www.mistys-internet.website/blog/blog/2023/12/10/fixing-classical-cats-or/)
+- [Templ: A language for writing HTML user interfaces in Go](https://github.com/a-h/templ)
