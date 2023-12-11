@@ -860,3 +860,8 @@
 - [Low Latency, Low Loss, and Scalable Throughput (L4S) Internet Service: RFC 9330](https://datatracker.ietf.org/doc/rfc9330/)
 - [Fixing Classical Cats: How I Got Tricked by 28-Year-Old Defensive Programming](https://www.mistys-internet.website/blog/blog/2023/12/10/fixing-classical-cats-or/)
 - [Templ: A language for writing HTML user interfaces in Go](https://github.com/a-h/templ)
+## Afternoon/Evening Digest - 11-12-2023
+
+- [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)
+- [Why scientists are making transparent wood](https://arstechnica.com/science/2023/12/why-scientists-are-making-transparent-wood/)
+- [Tohands – Smart calculator for small businesses](https://smart.tohands.in/)
