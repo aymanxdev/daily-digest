@@ -865,3 +865,8 @@
 - [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)
 - [Why scientists are making transparent wood](https://arstechnica.com/science/2023/12/why-scientists-are-making-transparent-wood/)
 - [Tohands – Smart calculator for small businesses](https://smart.tohands.in/)
+## Morning Digest - 12-12-2023
+
+- [Epic vs. Google: Google Loses](https://www.theverge.com/23945184/epic-v-google-fortnite-play-store-antitrust-trial-updates#stream-entry-65d34a06-1fa5-4eab-abf6-ce450441b543)
+- [Building a Web Game in C](https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/)
+- [OpenBSD – pinning all system calls](https://marc.info/?l=openbsd-tech&m=170205367232026&w=2)
