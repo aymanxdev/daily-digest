@@ -875,3 +875,8 @@
 - [Show HN: Open-source macOS AI copilot (using vision and voice)](https://github.com/elfvingralf/macOSpilot-ai-assistant)
 - [YouTube doesn't want to take down scam ads](https://old.reddit.com/r/youtube/comments/18gjiqy/youtube_doesnt_want_to_take_down_scam_ads/)
 - [The NSA advises move to memory-safe languages](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3608324/us-and-international-partners-issue-recommendations-to-secure-software-products/)
+## Morning Digest - 13-12-2023
+
+- [Modern iOS Navigation Patterns](https://frankrausch.com/ios-navigation)
+- [End of Life of Technologies and Devices](https://endoflife.date/)
+- [Interview: Epic CEO Tim Sweeney after Google antitrust win](https://www.theverge.com/23996474/epic-tim-sweeney-interview-win-google-antitrust-lawsuit-district-court)
