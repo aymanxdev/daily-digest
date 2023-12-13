@@ -880,3 +880,8 @@
 - [Modern iOS Navigation Patterns](https://frankrausch.com/ios-navigation)
 - [End of Life of Technologies and Devices](https://endoflife.date/)
 - [Interview: Epic CEO Tim Sweeney after Google antitrust win](https://www.theverge.com/23996474/epic-tim-sweeney-interview-win-google-antitrust-lawsuit-district-court)
+## Afternoon/Evening Digest - 13-12-2023
+
+- [Google Promises Unlimited Storage; Cancels; Tells Journalist Life's Work Deleted](https://www.techdirt.com/2023/12/12/google-promises-unlimited-cloud-storage-then-cancels-plan-then-tells-journalist-his-lifes-work-will-be-deleted-without-enough-time-to-transfer-the-data/)
+- [It's weird how design systems are so rote, yet so difficult](https://quinnkeast.com/writing/its-weird-how-design-systems-are-so-rote-yet-so-difficult)
+- [Show HN: I benchmarked six Go SQLite drivers](https://github.com/cvilsmeier/go-sqlite-bench)
