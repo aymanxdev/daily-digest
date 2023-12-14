@@ -890,3 +890,8 @@
 - [Lessons from building GitHub code search [video]](https://www.youtube.com/watch?v=CqZA_KmygKw)
 - [Sci-Fi Interfaces: Hackers (1995)](https://scifiinterfaces.com/2023/12/11/hackers/)
 - [Oldest Fortresses in the World Discovered](https://phys.org/news/2023-12-oldest-fortresses-world.html)
+## Afternoon/Evening Digest - 14-12-2023
+
+- [Barcelona Supercomputing Center presents Sargantana: new open-source RISC-V chip](https://www.bsc.es/news/bsc-news/bsc-presents-sargantana-the-new-generation-the-first-open-source-chips-designed-spain)
+- [Visualizing Fighting Game Mechanics](https://janezhang.ca/work/tekken/)
+- [Reclaiming the web with a personal reader](https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/)
