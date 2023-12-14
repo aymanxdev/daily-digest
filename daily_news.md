@@ -885,3 +885,8 @@
 - [Google Promises Unlimited Storage; Cancels; Tells Journalist Life's Work Deleted](https://www.techdirt.com/2023/12/12/google-promises-unlimited-cloud-storage-then-cancels-plan-then-tells-journalist-his-lifes-work-will-be-deleted-without-enough-time-to-transfer-the-data/)
 - [It's weird how design systems are so rote, yet so difficult](https://quinnkeast.com/writing/its-weird-how-design-systems-are-so-rote-yet-so-difficult)
 - [Show HN: I benchmarked six Go SQLite drivers](https://github.com/cvilsmeier/go-sqlite-bench)
+## Morning Digest - 14-12-2023
+
+- [Lessons from building GitHub code search [video]](https://www.youtube.com/watch?v=CqZA_KmygKw)
+- [Sci-Fi Interfaces: Hackers (1995)](https://scifiinterfaces.com/2023/12/11/hackers/)
+- [Oldest Fortresses in the World Discovered](https://phys.org/news/2023-12-oldest-fortresses-world.html)
