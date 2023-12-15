@@ -895,3 +895,8 @@
 - [Barcelona Supercomputing Center presents Sargantana: new open-source RISC-V chip](https://www.bsc.es/news/bsc-news/bsc-presents-sargantana-the-new-generation-the-first-open-source-chips-designed-spain)
 - [Visualizing Fighting Game Mechanics](https://janezhang.ca/work/tekken/)
 - [Reclaiming the web with a personal reader](https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/)
+## Morning Digest - 15-12-2023
+
+- [Voyager 1 stops communicating with Earth](https://www.cnn.com/2023/12/13/world/voyager-1-computer-issue-scn/index.html)
+- [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
+- [Mitchell reflects as he departs HashiCorp](https://www.hashicorp.com/blog/mitchell-reflects-as-he-departs-hashicorp)
