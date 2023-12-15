@@ -900,3 +900,8 @@
 - [Voyager 1 stops communicating with Earth](https://www.cnn.com/2023/12/13/world/voyager-1-computer-issue-scn/index.html)
 - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
 - [Mitchell reflects as he departs HashiCorp](https://www.hashicorp.com/blog/mitchell-reflects-as-he-departs-hashicorp)
+## Afternoon/Evening Digest - 15-12-2023
+
+- [How Lego builds a new Lego set](https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price)
+- [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
+- [Why do women live longer than men?](https://ourworldindata.org/why-do-women-live-longer-than-men)
