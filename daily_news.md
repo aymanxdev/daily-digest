@@ -905,3 +905,8 @@
 - [How Lego builds a new Lego set](https://www.theverge.com/c/23991049/lego-ideas-polaroid-onestep-behind-the-scenes-price)
 - [An Interactive Guide to the Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 - [Why do women live longer than men?](https://ourworldindata.org/why-do-women-live-longer-than-men)
+## Morning Digest - 16-12-2023
+
+- [Advancements in machine learning for machine learning](https://blog.research.google/2023/12/advancements-in-machine-learning-for.html)
+- [Bluetooth keystroke-injection in Android, Linux, macOS and iOS](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
+- [CRDT Concepts: Causal Trees](https://www.farley.ai/posts/causal)
