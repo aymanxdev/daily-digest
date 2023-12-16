@@ -910,3 +910,8 @@
 - [Advancements in machine learning for machine learning](https://blog.research.google/2023/12/advancements-in-machine-learning-for.html)
 - [Bluetooth keystroke-injection in Android, Linux, macOS and iOS](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
 - [CRDT Concepts: Causal Trees](https://www.farley.ai/posts/causal)
+## Afternoon/Evening Digest - 16-12-2023
+
+- [Hitchhiker's Guide to Moving from Relational Data to Events](https://event-driven.io/en/the_end_is_near_for_crud_data/)
+- [Chesterton's Fence: A Lesson in Second Order Thinking](https://fs.blog/chestertons-fence/)
+- [Advancements in machine learning for machine learning](https://blog.research.google/2023/12/advancements-in-machine-learning-for.html)
