@@ -920,3 +920,8 @@
 - [Intel, Samsung, and TSMC Demo 3D-Stacked Transistors](https://spectrum.ieee.org/cfet-intel-samsung-tsmc)
 - [Internet Explorer is Evil: The Story (2010)](http://toastytech.com/evil/ieisevilstory.html)
 - [The Apollo Syndrome](https://www.teamtechnology.co.uk/tt/t-articl/apollo.htm)
+## Afternoon/Evening Digest - 17-12-2023
+
+- [Evaluating New Software Forges](https://notgull.net/finding-a-forge/)
+- [BC Supreme Court bars man from calling himself an 'engineer'](https://www.cbc.ca/news/canada/british-columbia/bc-ppc-engineer-title-1.7061266)
+- [ZFS Profiling on Arch Linux](https://www.binwang.me/2023-12-14-ZFS-Profiling-on-Arch-Linux.html)
