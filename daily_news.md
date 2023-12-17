@@ -915,3 +915,8 @@
 - [Hitchhiker's Guide to Moving from Relational Data to Events](https://event-driven.io/en/the_end_is_near_for_crud_data/)
 - [Chesterton's Fence: A Lesson in Second Order Thinking](https://fs.blog/chestertons-fence/)
 - [Advancements in machine learning for machine learning](https://blog.research.google/2023/12/advancements-in-machine-learning-for.html)
+## Morning Digest - 17-12-2023
+
+- [Intel, Samsung, and TSMC Demo 3D-Stacked Transistors](https://spectrum.ieee.org/cfet-intel-samsung-tsmc)
+- [Internet Explorer is Evil: The Story (2010)](http://toastytech.com/evil/ieisevilstory.html)
+- [The Apollo Syndrome](https://www.teamtechnology.co.uk/tt/t-articl/apollo.htm)
