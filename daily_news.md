@@ -930,3 +930,8 @@
 - [Show HN: Microagents: Agents capable of self-editing their prompts / Python code](https://github.com/aymenfurter/microagents)
 - [Mickey, Disney, and the public domain: A 95-year love triangle](https://web.law.duke.edu/cspd/mickey/)
 - [AMD's CDNA 3 Compute Architecture](https://chipsandcheese.com/2023/12/17/amds-cdna-3-compute-architecture/)
+## Afternoon/Evening Digest - 18-12-2023
+
+- [Figma and Adobe are abandoning our proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)
+- [Wasm3 entering a minimal maintenance phase](https://github.com/wasm3/wasm3)
+- [The British Library URL has been offline due to cyberattack for 10 days](https://www.bl.uk//)
