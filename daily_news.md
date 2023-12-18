@@ -925,3 +925,8 @@
 - [Evaluating New Software Forges](https://notgull.net/finding-a-forge/)
 - [BC Supreme Court bars man from calling himself an 'engineer'](https://www.cbc.ca/news/canada/british-columbia/bc-ppc-engineer-title-1.7061266)
 - [ZFS Profiling on Arch Linux](https://www.binwang.me/2023-12-14-ZFS-Profiling-on-Arch-Linux.html)
+## Morning Digest - 18-12-2023
+
+- [Show HN: Microagents: Agents capable of self-editing their prompts / Python code](https://github.com/aymenfurter/microagents)
+- [Mickey, Disney, and the public domain: A 95-year love triangle](https://web.law.duke.edu/cspd/mickey/)
+- [AMD's CDNA 3 Compute Architecture](https://chipsandcheese.com/2023/12/17/amds-cdna-3-compute-architecture/)
