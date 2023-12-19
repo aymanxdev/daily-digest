@@ -935,3 +935,8 @@
 - [Figma and Adobe are abandoning our proposed merger](https://www.figma.com/blog/figma-adobe-abandon-proposed-merger/)
 - [Wasm3 entering a minimal maintenance phase](https://github.com/wasm3/wasm3)
 - [The British Library URL has been offline due to cyberattack for 10 days](https://www.bl.uk//)
+## Morning Digest - 19-12-2023
+
+- [How to learn chess as an adult](https://www.alexcrompton.com/blog/how-to-learn-chess)
+- [Gokrazy – Go Appliances](https://gokrazy.org/)
+- [The Illustrated GPT-2: Visualizing Transformer Language Models (2019)](https://jalammar.github.io/illustrated-gpt2/)
