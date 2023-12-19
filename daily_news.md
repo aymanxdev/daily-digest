@@ -940,3 +940,8 @@
 - [How to learn chess as an adult](https://www.alexcrompton.com/blog/how-to-learn-chess)
 - [Gokrazy – Go Appliances](https://gokrazy.org/)
 - [The Illustrated GPT-2: Visualizing Transformer Language Models (2019)](https://jalammar.github.io/illustrated-gpt2/)
+## Afternoon/Evening Digest - 19-12-2023
+
+- [James Webb Space Telescope captures high-resolution image of Uranus](https://webbtelescope.org/contents/news-releases/2023/news-2023-150)
+- [The day I started believing in Unit Tests (2023)](https://mental-reverb.com/blog.php?id=42)
+- [Volkswagen Will Bring Back Physical Buttons in New Cars](https://insideevs.com/news/701296/vw-physical-controls-to-return/)
