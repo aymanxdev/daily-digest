@@ -950,3 +950,8 @@
 - [Simulating fluids, fire, and smoke in real-time](https://andrewkchan.dev/posts/fire.html)
 - [LLM in a Flash: Efficient LLM Inference with Limited Memory](https://huggingface.co/papers/2312.11514)
 - [Common Lisp interface to the pigpio Raspberry Pi hardware library](https://github.com/jetmonk/cl-pigpio)
+## Afternoon/Evening Digest - 20-12-2023
+
+- [Trying chDB, an embeddable ClickHouse engine](https://antonz.org/trying-chdb/)
+- [Show HN: I made a dead simple logo maker](https://shipfa.st/tools/logo-fast)
+- [Minimal implementation of Mamba, the new LLM architecture, in 1 file of PyTorch](https://github.com/johnma2006/mamba-minimal)
