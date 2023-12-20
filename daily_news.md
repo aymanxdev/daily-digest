@@ -945,3 +945,8 @@
 - [James Webb Space Telescope captures high-resolution image of Uranus](https://webbtelescope.org/contents/news-releases/2023/news-2023-150)
 - [The day I started believing in Unit Tests (2023)](https://mental-reverb.com/blog.php?id=42)
 - [Volkswagen Will Bring Back Physical Buttons in New Cars](https://insideevs.com/news/701296/vw-physical-controls-to-return/)
+## Morning Digest - 20-12-2023
+
+- [Simulating fluids, fire, and smoke in real-time](https://andrewkchan.dev/posts/fire.html)
+- [LLM in a Flash: Efficient LLM Inference with Limited Memory](https://huggingface.co/papers/2312.11514)
+- [Common Lisp interface to the pigpio Raspberry Pi hardware library](https://github.com/jetmonk/cl-pigpio)
