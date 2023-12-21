@@ -955,3 +955,8 @@
 - [Trying chDB, an embeddable ClickHouse engine](https://antonz.org/trying-chdb/)
 - [Show HN: I made a dead simple logo maker](https://shipfa.st/tools/logo-fast)
 - [Minimal implementation of Mamba, the new LLM architecture, in 1 file of PyTorch](https://github.com/johnma2006/mamba-minimal)
+## Morning Digest - 21-12-2023
+
+- [New nuclear deflection simulations advance planetary defense against asteroids](https://www.llnl.gov/article/50716/new-nuclear-deflection-simulations-advance-planetary-defense-against-asteroid-threats)
+- [Gameboy Music and Sound Archive for MIDI](https://www.vgmusic.com/music/console/nintendo/gameboy/)
+- [Development slowness in big and legacy applications](https://michaelscodingspot.com/slow-development-in-big-companies/)
