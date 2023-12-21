@@ -960,3 +960,8 @@
 - [New nuclear deflection simulations advance planetary defense against asteroids](https://www.llnl.gov/article/50716/new-nuclear-deflection-simulations-advance-planetary-defense-against-asteroid-threats)
 - [Gameboy Music and Sound Archive for MIDI](https://www.vgmusic.com/music/console/nintendo/gameboy/)
 - [Development slowness in big and legacy applications](https://michaelscodingspot.com/slow-development-in-big-companies/)
+## Afternoon/Evening Digest - 21-12-2023
+
+- [Apple allows applications to track user locations without authorization](https://wingu.se/2023/11/30/only-apple-can-do-allow-apps-tracking-users-location-without-consensus.html)
+- [Google OAuth is broken (sort of)](https://trufflesecurity.com/blog/google-oauth-is-broken-sort-of/)
+- [CC0-licensed fantasy map brushes based on historical cartography](https://kmalexander.com/free-stuff/fantasy-map-brushes/)
