@@ -965,3 +965,8 @@
 - [Apple allows applications to track user locations without authorization](https://wingu.se/2023/11/30/only-apple-can-do-allow-apps-tracking-users-location-without-consensus.html)
 - [Google OAuth is broken (sort of)](https://trufflesecurity.com/blog/google-oauth-is-broken-sort-of/)
 - [CC0-licensed fantasy map brushes based on historical cartography](https://kmalexander.com/free-stuff/fantasy-map-brushes/)
+## Morning Digest - 22-12-2023
+
+- [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/)
+- [A structured note-taking app for personal use](https://github.com/penxio/penx)
+- [What We Need Instead of "Web Components"](https://blog.carlana.net/post/2023/web-component-alternative-futures/)
