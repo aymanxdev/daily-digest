@@ -970,3 +970,8 @@
 - [ArXiv now offers papers in HTML format](https://blog.arxiv.org/2023/12/21/accessibility-update-arxiv-now-offers-papers-in-html-format/)
 - [A structured note-taking app for personal use](https://github.com/penxio/penx)
 - [What We Need Instead of "Web Components"](https://blog.carlana.net/post/2023/web-component-alternative-futures/)
+## Afternoon/Evening Digest - 22-12-2023
+
+- [Mindustry: Open-source automation tower defense game](https://mindustrygame.github.io/)
+- [Show HN: Heynote – A Dedicated Scratchpad for Developers](https://heynote.com/)
+- [In the Long Run, We're All Dad](https://www.astralcodexten.com/p/in-the-long-run-were-all-dad)
