@@ -975,3 +975,8 @@
 - [Mindustry: Open-source automation tower defense game](https://mindustrygame.github.io/)
 - [Show HN: Heynote – A Dedicated Scratchpad for Developers](https://heynote.com/)
 - [In the Long Run, We're All Dad](https://www.astralcodexten.com/p/in-the-long-run-were-all-dad)
+## Morning Digest - 23-12-2023
+
+- [Endurain: Self-hosted Strava like service](https://github.com/joaovitoriasilva/endurain)
+- [How big is YouTube?](https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/)
+- [LED Industrial Piercing](https://mitxela.com/projects/scaffold)
