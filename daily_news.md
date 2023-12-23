@@ -980,3 +980,8 @@
 - [Endurain: Self-hosted Strava like service](https://github.com/joaovitoriasilva/endurain)
 - [How big is YouTube?](https://ethanzuckerman.com/2023/12/22/how-big-is-youtube/)
 - [LED Industrial Piercing](https://mitxela.com/projects/scaffold)
+## Afternoon/Evening Digest - 23-12-2023
+
+- [Endurain: Self-hosted Strava like service](https://github.com/joaovitoriasilva/endurain)
+- [The Neoliberal Transition in Intellectual and Economic History](https://muse.jhu.edu/article/901494)
+- [The Johnson Solids (2019)](https://www.qfbox.info/4d/johnson)
