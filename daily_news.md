@@ -990,3 +990,8 @@
 - [Can Microsoft Flight Simulator help me learn to fly or make me a better pilot?](https://aviation.stackexchange.com/questions/738/can-microsoft-flight-simulator-help-me-learn-to-fly-or-make-me-a-better-pilot)
 - [Looking into the Stadia Controller Bluetooth Mode Website](https://garyodernichts.blogspot.com/2023/01/looking-into-stadia-controller.html)
 - [Bill Watterson Commencement Speech (1990)](https://web.mit.edu/jmorzins/www/C-H-speech.html)
+## Afternoon/Evening Digest - 24-12-2023
+
+- [North America: Hand-Drawn Portrait of a Continent](https://www.antonthomasart.com/the-north-american-continent.html)
+- [The mystery of the mimic plant (2022)](https://www.vox.com/down-to-earth/2022/11/30/23473062/plant-mimicry-boquila-trifoliolata)
+- [Can Microsoft Flight Simulator help me learn to fly or make me a better pilot?](https://aviation.stackexchange.com/questions/738/can-microsoft-flight-simulator-help-me-learn-to-fly-or-make-me-a-better-pilot)
