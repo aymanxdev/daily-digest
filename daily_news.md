@@ -985,3 +985,8 @@
 - [Endurain: Self-hosted Strava like service](https://github.com/joaovitoriasilva/endurain)
 - [The Neoliberal Transition in Intellectual and Economic History](https://muse.jhu.edu/article/901494)
 - [The Johnson Solids (2019)](https://www.qfbox.info/4d/johnson)
+## Morning Digest - 24-12-2023
+
+- [Can Microsoft Flight Simulator help me learn to fly or make me a better pilot?](https://aviation.stackexchange.com/questions/738/can-microsoft-flight-simulator-help-me-learn-to-fly-or-make-me-a-better-pilot)
+- [Looking into the Stadia Controller Bluetooth Mode Website](https://garyodernichts.blogspot.com/2023/01/looking-into-stadia-controller.html)
+- [Bill Watterson Commencement Speech (1990)](https://web.mit.edu/jmorzins/www/C-H-speech.html)
