@@ -995,3 +995,8 @@
 - [North America: Hand-Drawn Portrait of a Continent](https://www.antonthomasart.com/the-north-american-continent.html)
 - [The mystery of the mimic plant (2022)](https://www.vox.com/down-to-earth/2022/11/30/23473062/plant-mimicry-boquila-trifoliolata)
 - [Can Microsoft Flight Simulator help me learn to fly or make me a better pilot?](https://aviation.stackexchange.com/questions/738/can-microsoft-flight-simulator-help-me-learn-to-fly-or-make-me-a-better-pilot)
+## Morning Digest - 25-12-2023
+
+- [SQL as API](https://valentin.willscher.de/posts/sql-api/)
+- [The Star – Arthur C. Clarke (1967) [pdf]](https://sites.uni.edu/morgans/astro/course/TheStar.pdf)
+- [Ruby 3.3](https://www.ruby-lang.org/en/news/2023/12/25/ruby-3-3-0-released/)
