@@ -1000,3 +1000,8 @@
 - [SQL as API](https://valentin.willscher.de/posts/sql-api/)
 - [The Star – Arthur C. Clarke (1967) [pdf]](https://sites.uni.edu/morgans/astro/course/TheStar.pdf)
 - [Ruby 3.3](https://www.ruby-lang.org/en/news/2023/12/25/ruby-3-3-0-released/)
+## Afternoon/Evening Digest - 25-12-2023
+
+- [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
+- [Zotero for Android available for beta tests](https://forums.zotero.org/discussion/110371/available-for-beta-testing-zotero-for-android)
+- [Cray-1 vs Raspberry Pi](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
