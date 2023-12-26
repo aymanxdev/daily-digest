@@ -1005,3 +1005,8 @@
 - [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
 - [Zotero for Android available for beta tests](https://forums.zotero.org/discussion/110371/available-for-beta-testing-zotero-for-android)
 - [Cray-1 vs Raspberry Pi](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
+## Morning Digest - 26-12-2023
+
+- [A copy-and-patch JIT compiler for CPython](https://github.com/python/cpython/pull/113465)
+- [Challenging projects every programmer should try (2019)](https://austinhenley.com/blog/challengingprojects.html)
+- [The life and death of open source companies](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/)
