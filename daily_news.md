@@ -1010,3 +1010,8 @@
 - [A copy-and-patch JIT compiler for CPython](https://github.com/python/cpython/pull/113465)
 - [Challenging projects every programmer should try (2019)](https://austinhenley.com/blog/challengingprojects.html)
 - [The life and death of open source companies](https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/)
+## Afternoon/Evening Digest - 26-12-2023
+
+- [Black Triangles](https://rampantgames.com/blog/?p=7745)
+- [A copy-and-patch JIT compiler for CPython](https://github.com/python/cpython/pull/113465)
+- [Lab Notebooks (2020)](https://sambleckley.com/writing/lab-notebooks.html)
