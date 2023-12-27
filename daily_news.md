@@ -1020,3 +1020,8 @@
 - [Apollo 11 vs. USB-C Chargers (2020)](https://forrestheller.com/Apollo-11-Computer-vs-USB-C-chargers.html)
 - [2nd City Zoning](https://secondcityzoning.org)
 - [Donald Knuth’s 2023 Christmas Lecture: Making the Cells Dance](https://thenewstack.io/donald-knuths-2023-christmas-lecture-make-the-cells-dance/)
+## Afternoon/Evening Digest - 27-12-2023
+
+- [DeskHop – Fast Desktop Switching](https://github.com/hrvach/deskhop)
+- [The New York Times is suing OpenAI and Microsoft for copyright infringement](https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement)
+- [Chisel: A Modern Hardware Design Language](https://github.com/chipsalliance/chisel)
