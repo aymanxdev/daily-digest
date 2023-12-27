@@ -1015,3 +1015,8 @@
 - [Black Triangles](https://rampantgames.com/blog/?p=7745)
 - [A copy-and-patch JIT compiler for CPython](https://github.com/python/cpython/pull/113465)
 - [Lab Notebooks (2020)](https://sambleckley.com/writing/lab-notebooks.html)
+## Morning Digest - 27-12-2023
+
+- [Apollo 11 vs. USB-C Chargers (2020)](https://forrestheller.com/Apollo-11-Computer-vs-USB-C-chargers.html)
+- [2nd City Zoning](https://secondcityzoning.org)
+- [Donald Knuth’s 2023 Christmas Lecture: Making the Cells Dance](https://thenewstack.io/donald-knuths-2023-christmas-lecture-make-the-cells-dance/)
