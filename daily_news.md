@@ -1025,3 +1025,8 @@
 - [DeskHop – Fast Desktop Switching](https://github.com/hrvach/deskhop)
 - [The New York Times is suing OpenAI and Microsoft for copyright infringement](https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement)
 - [Chisel: A Modern Hardware Design Language](https://github.com/chipsalliance/chisel)
+## Morning Digest - 28-12-2023
+
+- [4B If Statements](https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html)
+- [3D Map of Shinjuku Station in Three.js](https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/)
+- [Little File Explorer – File Manager for Android 1.0 and above](https://github.com/martinmimigames/little-file-explorer)
