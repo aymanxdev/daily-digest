@@ -1040,3 +1040,8 @@
 - [Ideal Monitor Rotation for Programmers (2021)](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
 - [Formally modeled Dreidel for no good reason](https://buttondown.email/hillelwayne/archive/i-formally-modeled-dreidel-for-no-good-reason/)
 - [Particle Life](https://github.com/hunar4321/particle-life)
+## Afternoon/Evening Digest - 29-12-2023
+
+- [Why are Apple Silicon VMs so different?](https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/)
+- [Gentoo Linux Goes Binary](https://www.gentoo.org/news/2023/12/29/Gentoo-binary.html)
+- [Ideal Monitor Rotation for Programmers (2021)](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
