@@ -1035,3 +1035,8 @@
 - [New U.S. immigration rules spur more visa approvals for STEM workers](https://www.science.org/content/article/new-u-s-immigration-rules-spur-more-visa-approvals-stem-workers)
 - [The Most Compelling Reason to Use Firefox Is Sync That Works](https://www.howtogeek.com/the-best-reason-to-use-firefox-is-sync-that-actually-works/)
 - [4B If Statements](https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html)
+## Morning Digest - 29-12-2023
+
+- [Ideal Monitor Rotation for Programmers (2021)](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
+- [Formally modeled Dreidel for no good reason](https://buttondown.email/hillelwayne/archive/i-formally-modeled-dreidel-for-no-good-reason/)
+- [Particle Life](https://github.com/hunar4321/particle-life)
