@@ -1045,3 +1045,8 @@
 - [Why are Apple Silicon VMs so different?](https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/)
 - [Gentoo Linux Goes Binary](https://www.gentoo.org/news/2023/12/29/Gentoo-binary.html)
 - [Ideal Monitor Rotation for Programmers (2021)](https://sprocketfox.io/xssfox/2021/12/02/xrandr/)
+## Morning Digest - 30-12-2023
+
+- [Wikipedia daily most viewed pages](https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=2023-12-29&excludes=)
+- [The value of canonicity – Building Nubank](https://building.nubank.com.br/the-value-of-canonicity/)
+- [The case for a pipe assignment operator in R](http://hughjonesd.github.io/case-for-pipe-assignment.html)
