@@ -1050,3 +1050,8 @@
 - [Wikipedia daily most viewed pages](https://pageviews.wmcloud.org/topviews/?project=en.wikipedia.org&platform=all-access&date=2023-12-29&excludes=)
 - [The value of canonicity – Building Nubank](https://building.nubank.com.br/the-value-of-canonicity/)
 - [The case for a pipe assignment operator in R](http://hughjonesd.github.io/case-for-pipe-assignment.html)
+## Afternoon/Evening Digest - 30-12-2023
+
+- [The art of high performance computing](https://theartofhpc.com/)
+- [Fake Trees: Using Indents for Simpler UIs](https://ratfactor.com/cards/fake-trees)
+- [Latent Dictionary: 3D map of Oxford3000+search words via DistilBert embeddings](https://latentdictionary.com/)
