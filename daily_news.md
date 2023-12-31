@@ -1060,3 +1060,8 @@
 - [Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
 - [Pascal in Forth (1983)](http://tangentstorm.github.io/winfield-pascal-83.html)
 - [Ugrep – a more powerful, fast, user-friendly, compatible grep](https://ugrep.com/)
+## Afternoon/Evening Digest - 31-12-2023
+
+- [Email addresses are not good 'permanent' identifiers for accounts](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs)
+- [Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
+- [A 1690s Peanut is Reborn](https://nationalpeanutboard.org/news/a-1690s-peanut-is-reborn/)
