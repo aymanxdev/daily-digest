@@ -1055,3 +1055,8 @@
 - [The art of high performance computing](https://theartofhpc.com/)
 - [Fake Trees: Using Indents for Simpler UIs](https://ratfactor.com/cards/fake-trees)
 - [Latent Dictionary: 3D map of Oxford3000+search words via DistilBert embeddings](https://latentdictionary.com/)
+## Morning Digest - 31-12-2023
+
+- [Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
+- [Pascal in Forth (1983)](http://tangentstorm.github.io/winfield-pascal-83.html)
+- [Ugrep – a more powerful, fast, user-friendly, compatible grep](https://ugrep.com/)
