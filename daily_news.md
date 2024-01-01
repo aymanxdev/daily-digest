@@ -1070,3 +1070,8 @@
 - [Website Impersonating a Desktop Environment](https://dustinbrett.com/)
 - [Git Things](https://matklad.github.io/2023/12/31/git-things.html#Git-Things)
 - [Meshtastic: An open source, off-grid, decentralized, mesh network](https://meshtastic.org/)
+## Afternoon/Evening Digest - 01-01-2024
+
+- [Show HN: I made TV Sort, a web-based game for ranking TV show episodes](https://tvsort.com/)
+- [Subject-First Commit Messages](https://github.com/aaronjensen/software-development/blob/master/commit-messages.md)
+- [Procrastination is connected to perfectionism](https://solvingprocrastination.com/perfectionism/)
