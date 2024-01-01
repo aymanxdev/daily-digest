@@ -1065,3 +1065,8 @@
 - [Email addresses are not good 'permanent' identifiers for accounts](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs)
 - [Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
 - [A 1690s Peanut is Reborn](https://nationalpeanutboard.org/news/a-1690s-peanut-is-reborn/)
+## Morning Digest - 01-01-2024
+
+- [Website Impersonating a Desktop Environment](https://dustinbrett.com/)
+- [Git Things](https://matklad.github.io/2023/12/31/git-things.html#Git-Things)
+- [Meshtastic: An open source, off-grid, decentralized, mesh network](https://meshtastic.org/)
