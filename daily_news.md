@@ -1075,3 +1075,8 @@
 - [Show HN: I made TV Sort, a web-based game for ranking TV show episodes](https://tvsort.com/)
 - [Subject-First Commit Messages](https://github.com/aaronjensen/software-development/blob/master/commit-messages.md)
 - [Procrastination is connected to perfectionism](https://solvingprocrastination.com/perfectionism/)
+## Morning Digest - 02-01-2024
+
+- [Blueprint health protocol – Bryan Johnson (founder braintree/Venmo)](https://protocol.bryanjohnson.com/)
+- [Eating fewer calories can ward off ageing](https://www.economist.com/technology-quarterly/2023/09/25/eating-fewer-calories-can-ward-off-ageing)
+- [Push Notifications – What to Push, What Not to Push, and How Often](https://eugeneyan.com/writing/push/)
