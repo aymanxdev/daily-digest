@@ -1090,3 +1090,8 @@
 - [1D Pac-Man](https://abagames.github.io/crisp-game-lib-11-games/?pakupaku)
 - [50 Algorithms Every Programmer Should Know (Second Edition)](https://www.oreilly.com/library/view/50-algorithms-every/9781803247762/)
 - [Show HN: Resurrecting the Dillo browser](https://dillo-browser.github.io/)
+## Afternoon/Evening Digest - 03-01-2024
+
+- [Maestro: A Linux-compatible kernel in Rust](https://blog.lenot.re/a/introduction)
+- [OpenBSD Workstation Hardening](https://dataswamp.org/~solene/2023-12-31-hardened-openbsd-workstation.html)
+- [Possible Meissner effect near room temperature: copper-substituted lead apatite](https://arxiv.org/abs/2401.00999)
