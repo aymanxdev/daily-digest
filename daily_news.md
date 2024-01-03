@@ -1085,3 +1085,8 @@
 - [Muppet babies will never be available on streaming due to studio copyright claim](https://movieweb.com/muppet-babies-jim-henson-streaming-issues/)
 - [Elizabeth line testing ways of banishing its "ghosts in the walls"](https://www.ianvisits.co.uk/articles/elizabeth-line-testing-ways-of-banishing-its-ghosts-in-the-walls-68642/)
 - [JAL A359 at Tokyo collided with Coast Guard DH8C on runway and burst into flames](http://avherald.com/h?article=5132b9fe&opt=0)
+## Morning Digest - 03-01-2024
+
+- [1D Pac-Man](https://abagames.github.io/crisp-game-lib-11-games/?pakupaku)
+- [50 Algorithms Every Programmer Should Know (Second Edition)](https://www.oreilly.com/library/view/50-algorithms-every/9781803247762/)
+- [Show HN: Resurrecting the Dillo browser](https://dillo-browser.github.io/)
