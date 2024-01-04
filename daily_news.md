@@ -1095,3 +1095,8 @@
 - [Maestro: A Linux-compatible kernel in Rust](https://blog.lenot.re/a/introduction)
 - [OpenBSD Workstation Hardening](https://dataswamp.org/~solene/2023-12-31-hardened-openbsd-workstation.html)
 - [Possible Meissner effect near room temperature: copper-substituted lead apatite](https://arxiv.org/abs/2401.00999)
+## Morning Digest - 04-01-2024
+
+- [The One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/)
+- [Fewer people are buying electric cars](https://www.businessinsider.com/electric-car-ev-sales-prices-problem-transportation-2024-1)
+- [Ants recognise infected wounds and treat them with antibiotics](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ant-antibiotics/)
