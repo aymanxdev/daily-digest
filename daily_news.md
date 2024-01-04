@@ -1100,3 +1100,8 @@
 - [The One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/)
 - [Fewer people are buying electric cars](https://www.businessinsider.com/electric-car-ev-sales-prices-problem-transportation-2024-1)
 - [Ants recognise infected wounds and treat them with antibiotics](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ant-antibiotics/)
+## Afternoon/Evening Digest - 04-01-2024
+
+- [Power over fiber](https://chaos.social/@f4grx/111697027153656114)
+- [AI and satellite imagery reveals expanding footprint of human activity at sea](https://globalfishingwatch.org/press-release/new-research-harnesses-ai-and-satellite-imagery-to-reveal-the-expanding-footprint-of-human-activity-at-sea/)
+- [Origins of J](https://github.com/kelas/ooj)
