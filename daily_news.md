@@ -1105,3 +1105,8 @@
 - [Power over fiber](https://chaos.social/@f4grx/111697027153656114)
 - [AI and satellite imagery reveals expanding footprint of human activity at sea](https://globalfishingwatch.org/press-release/new-research-harnesses-ai-and-satellite-imagery-to-reveal-the-expanding-footprint-of-human-activity-at-sea/)
 - [Origins of J](https://github.com/kelas/ooj)
+## Morning Digest - 05-01-2024
+
+- [CellLVM: A proof-of-concept LLVM to Excel spreadsheet compiler](https://belkadan.com/blog/2023/12/CellLVM/)
+- [Don't pass structs bigger than 16 bytes on AMD64](https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c)
+- [Thoughts on Testing](https://www.brandons.me/blog/thoughts-on-testing)
