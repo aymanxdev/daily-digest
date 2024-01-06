@@ -1115,3 +1115,8 @@
 - [Zeiss's "Holocam" turns glass windows into cameras](https://www.digitalcameraworld.com/news/this-holographic-camera-turns-any-window-into-an-invisible-camera)
 - [Teaching C (2016)](https://blog.regehr.org/archives/1393)
 - [Looo.lol – a binary math site](https://looo.lol/)
+## Morning Digest - 06-01-2024
+
+- [Fixing Macs door to door](https://matduggan.com/fixing-macs-door-to-door/)
+- [Show HN: I made a tool to compare time zones](https://time.fyi/timezones)
+- [Teaching C (2016)](https://blog.regehr.org/archives/1393)
