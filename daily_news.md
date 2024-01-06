@@ -1120,3 +1120,8 @@
 - [Fixing Macs door to door](https://matduggan.com/fixing-macs-door-to-door/)
 - [Show HN: I made a tool to compare time zones](https://time.fyi/timezones)
 - [Teaching C (2016)](https://blog.regehr.org/archives/1393)
+## Afternoon/Evening Digest - 06-01-2024
+
+- [Fortran vs Python: The counter-intuitive rise of Python in scientific computing (2020)](https://fortran-lang.discourse.group/t/the-counter-intuitive-rise-of-python-in-scientific-computing/469)
+- [Chromium bug bounty money tree browser](https://lyra.horse/misc/chromium_vrp_tree.html)
+- [In-Browser Code Playgrounds](https://antonz.org/in-browser-code-playgrounds/)
