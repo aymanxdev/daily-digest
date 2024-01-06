@@ -1110,3 +1110,8 @@
 - [CellLVM: A proof-of-concept LLVM to Excel spreadsheet compiler](https://belkadan.com/blog/2023/12/CellLVM/)
 - [Don't pass structs bigger than 16 bytes on AMD64](https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c)
 - [Thoughts on Testing](https://www.brandons.me/blog/thoughts-on-testing)
+## Morning Digest - 06-01-2024
+
+- [Zeiss's "Holocam" turns glass windows into cameras](https://www.digitalcameraworld.com/news/this-holographic-camera-turns-any-window-into-an-invisible-camera)
+- [Teaching C (2016)](https://blog.regehr.org/archives/1393)
+- [Looo.lol – a binary math site](https://looo.lol/)
