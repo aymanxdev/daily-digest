@@ -1130,3 +1130,8 @@
 - [DNS Toys (2022)](https://www.dns.toys/)
 - [Teachable Machine (2017)](https://teachablemachine.withgoogle.com/)
 - [Learning Regular Languages with L* Algorithm](https://rahul.gopinath.org/post/2024/01/04/lstar-learning-regular-languages/)
+## Afternoon/Evening Digest - 07-01-2024
+
+- [First new vax in 30 years? (2021)](https://mail-index.netbsd.org/port-vax/2021/07/03/msg003899.html)
+- [Show HN: I built a tool to send 10k emails for $1 via AWS](https://maillayer.com/)
+- [DNS Toys (2022)](https://www.dns.toys/)
