@@ -1125,3 +1125,8 @@
 - [Fortran vs Python: The counter-intuitive rise of Python in scientific computing (2020)](https://fortran-lang.discourse.group/t/the-counter-intuitive-rise-of-python-in-scientific-computing/469)
 - [Chromium bug bounty money tree browser](https://lyra.horse/misc/chromium_vrp_tree.html)
 - [In-Browser Code Playgrounds](https://antonz.org/in-browser-code-playgrounds/)
+## Morning Digest - 07-01-2024
+
+- [DNS Toys (2022)](https://www.dns.toys/)
+- [Teachable Machine (2017)](https://teachablemachine.withgoogle.com/)
+- [Learning Regular Languages with L* Algorithm](https://rahul.gopinath.org/post/2024/01/04/lstar-learning-regular-languages/)
