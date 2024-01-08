@@ -1135,3 +1135,8 @@
 - [First new vax in 30 years? (2021)](https://mail-index.netbsd.org/port-vax/2021/07/03/msg003899.html)
 - [Show HN: I built a tool to send 10k emails for $1 via AWS](https://maillayer.com/)
 - [DNS Toys (2022)](https://www.dns.toys/)
+## Morning Digest - 08-01-2024
+
+- [What has a 1 in a million chance? (2010)](https://www.stat.berkeley.edu/~aldous/Real-World/million.html)
+- [MotorOS: a Rust-first operating system for x64 VMs](https://github.com/moturus/motor-os)
+- [Visualizing Ext4](https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html)
