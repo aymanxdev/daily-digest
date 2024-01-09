@@ -1145,3 +1145,8 @@
 - [Why Aren't We Sieve-Ing?](https://brooker.co.za/blog/2023/12/15/sieve.html)
 - [k on pdp11](https://ktye.github.io/pdp11/index.html)
 - [bigFORTH (1997)](https://bernd-paysan.de/bigforth.html)
+## Morning Digest - 09-01-2024
+
+- [Why does holding a key fob to your head increase its range?](https://physics.stackexchange.com/questions/101913/why-does-a-remote-car-key-work-when-held-to-your-head-body)
+- [Polars](https://pola.rs/)
+- [Where Have All the Websites Gone?](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/)
