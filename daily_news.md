@@ -1150,3 +1150,8 @@
 - [Why does holding a key fob to your head increase its range?](https://physics.stackexchange.com/questions/101913/why-does-a-remote-car-key-work-when-held-to-your-head-body)
 - [Polars](https://pola.rs/)
 - [Where Have All the Websites Gone?](https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/)
+## Afternoon/Evening Digest - 09-01-2024
+
+- [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
+- [Nebula is an open-source and free-to-use modern C++ game engine](https://github.com/gscept/nebula)
+- [Turing Complete is a game about computer science](https://turingcomplete.game/)
