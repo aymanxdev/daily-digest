@@ -1155,3 +1155,8 @@
 - [Python 3.13 Gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
 - [Nebula is an open-source and free-to-use modern C++ game engine](https://github.com/gscept/nebula)
 - [Turing Complete is a game about computer science](https://turingcomplete.game/)
+## Morning Digest - 10-01-2024
+
+- [Vcc – The Vulkan Clang Compiler](https://shady-gang.github.io/vcc/)
+- [Does DNA have the equivalent of IF-statements, WHILE loops, or function calls?](https://biology.stackexchange.com/questions/30116/does-dna-have-the-equivalent-of-if-statements-while-loops-or-function-calls-h)
+- [I pwned half of America's fast food chains simultaneously](https://mrbruh.com/chattr/)
