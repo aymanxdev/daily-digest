@@ -1160,3 +1160,8 @@
 - [Vcc – The Vulkan Clang Compiler](https://shady-gang.github.io/vcc/)
 - [Does DNA have the equivalent of IF-statements, WHILE loops, or function calls?](https://biology.stackexchange.com/questions/30116/does-dna-have-the-equivalent-of-if-statements-while-loops-or-function-calls-h)
 - [I pwned half of America's fast food chains simultaneously](https://mrbruh.com/chattr/)
+## Afternoon/Evening Digest - 10-01-2024
+
+- [Does DNA have the equivalent of IF-statements, WHILE loops, or function calls?](https://biology.stackexchange.com/questions/30116/does-dna-have-the-equivalent-of-if-statements-while-loops-or-function-calls-h)
+- [I pwned half of America's fast food chains simultaneously](https://mrbruh.com/chattr/)
+- [Gmail and Yahoo’s 2024 inbox protections and what they mean for email programs](https://www.mailgun.com/blog/deliverability/gmail-and-yahoo-inbox-updates-2024/)
