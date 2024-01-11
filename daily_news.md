@@ -1165,3 +1165,8 @@
 - [Does DNA have the equivalent of IF-statements, WHILE loops, or function calls?](https://biology.stackexchange.com/questions/30116/does-dna-have-the-equivalent-of-if-statements-while-loops-or-function-calls-h)
 - [I pwned half of America's fast food chains simultaneously](https://mrbruh.com/chattr/)
 - [Gmail and Yahoo’s 2024 inbox protections and what they mean for email programs](https://www.mailgun.com/blog/deliverability/gmail-and-yahoo-inbox-updates-2024/)
+## Morning Digest - 11-01-2024
+
+- [Google Cuts Jobs in Engineering and Other Divisions](https://www.nytimes.com/2024/01/11/technology/google-layoffs.html)
+- [ChatGPT for Teams](https://openai.com/chatgpt/team)
+- [Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12/)
