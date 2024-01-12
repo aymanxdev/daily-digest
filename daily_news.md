@@ -1175,3 +1175,8 @@
 - [Show HN: GodotOS: A Fake Operating System Interface Made in the Godot Engine](https://github.com/popcar2/GodotOS)
 - [Is htmx Just Another JavaScript Framework?](https://htmx.org/essays/is-htmx-another-javascript-framework/)
 - [Announce: timeline to remove DSA support in OpenSSH](https://lists.mindrot.org/pipermail/openssh-unix-announce/2024-January/000156.html)
+## Morning Digest - 12-01-2024
+
+- [Unity's Open-Source Double Standard: The Ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
+- [Fly through your shell history](https://github.com/cantino/mcfly)
+- [CurlyQ: Command line helper for curl and web scraping](https://github.com/ttscoff/curlyq)
