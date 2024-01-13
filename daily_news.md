@@ -1185,3 +1185,8 @@
 - [Unity's Open-Source Double Standard: The Ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
 - [Wind turbines are friendlier to birds than oil-and-gas drilling](https://www.economist.com/science-and-technology/2024/01/10/wind-turbines-are-friendlier-to-birds-than-oil-and-gas-drilling)
 - [Is Fortran “A Dead Language”? (2022)](https://cpufun.substack.com/p/is-fortran-a-dead-language)
+## Morning Digest - 13-01-2024
+
+- [A decade-old Steam bug](https://blog.freudenjmp.com/posts/no-user-logon/)
+- [M1 Macs may lag behind](https://eclecticlight.co/2024/01/13/how-m1-macs-may-lag-behind/)
+- [On Sleeper Agent LLMs](https://twitter.com/karpathy/status/1745921205020799433)
