@@ -1190,3 +1190,8 @@
 - [A decade-old Steam bug](https://blog.freudenjmp.com/posts/no-user-logon/)
 - [M1 Macs may lag behind](https://eclecticlight.co/2024/01/13/how-m1-macs-may-lag-behind/)
 - [On Sleeper Agent LLMs](https://twitter.com/karpathy/status/1745921205020799433)
+## Afternoon/Evening Digest - 13-01-2024
+
+- [Japan ANA Boeing 737-800 flight turns back due to cockpit window crack](https://www.channelnewsasia.com/asia/japan-all-nippon-airways-flight-1182-boeing-737-cockpit-window-crack-4045796)
+- [I Found David Lynch's Lost 'Dune II' Script](https://www.wired.com/story/david-lynch-dune-sequel-script-unearthed/)
+- [Temperature-Sensing Stirbar with RFID](https://github.com/benkrasnow/Temperature_sensing_stirbar)
