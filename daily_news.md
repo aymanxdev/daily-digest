@@ -1200,3 +1200,8 @@
 - [Show HN: #!/usr/bin/env docker run](https://gist.github.com/adtac/595b5823ef73b329167b815757bbce9f)
 - [Posthog is closing their Slack community in favor of forum](https://posthog.com/blog/slack-closure)
 - [Towards Modern Development of Cloud Applications (2023)](https://dl.acm.org/doi/10.1145/3593856.3595909)
+## Afternoon/Evening Digest - 14-01-2024
+
+- [When am I "allowed" to quit and not be labeled a quitter?](https://ognjen.io/when-am-i-allowed-to-quit/)
+- [Show HN: #!/usr/bin/env docker run](https://gist.github.com/adtac/595b5823ef73b329167b815757bbce9f)
+- [How to Delete Your Data from Data Brokers](https://www.cybercollective.org/blog/how-to-delete-your-data-from-data-brokers)
