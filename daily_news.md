@@ -1205,3 +1205,8 @@
 - [When am I "allowed" to quit and not be labeled a quitter?](https://ognjen.io/when-am-i-allowed-to-quit/)
 - [Show HN: #!/usr/bin/env docker run](https://gist.github.com/adtac/595b5823ef73b329167b815757bbce9f)
 - [How to Delete Your Data from Data Brokers](https://www.cybercollective.org/blog/how-to-delete-your-data-from-data-brokers)
+## Morning Digest - 15-01-2024
+
+- [Why the M2 is more advanced that it seemed](https://eclecticlight.co/2024/01/15/why-the-m2-is-more-advanced-that-it-seemed/)
+- [Git Branches as a Social Construct](https://utcc.utoronto.ca/~cks/space/blog/programming/GitBranchesSocialConstructs)
+- [Penrose – Create diagrams by typing notation in plain text](https://penrose.cs.cmu.edu/)
