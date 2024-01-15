@@ -1210,3 +1210,8 @@
 - [Why the M2 is more advanced that it seemed](https://eclecticlight.co/2024/01/15/why-the-m2-is-more-advanced-that-it-seemed/)
 - [Git Branches as a Social Construct](https://utcc.utoronto.ca/~cks/space/blog/programming/GitBranchesSocialConstructs)
 - [Penrose – Create diagrams by typing notation in plain text](https://penrose.cs.cmu.edu/)
+## Afternoon/Evening Digest - 15-01-2024
+
+- [SQLite: Wal2 Mode](https://www.sqlite.org/cgi/src/doc/wal2/doc/wal2.md)
+- [A periodic table of visualization methods](https://www.visual-literacy.org/periodic_table/periodic_table.html)
+- [Slashing Data Transfer Costs in AWS by 99%](https://www.bitsand.cloud/posts/slashing-data-transfer-costs/)
