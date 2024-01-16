@@ -1215,3 +1215,8 @@
 - [SQLite: Wal2 Mode](https://www.sqlite.org/cgi/src/doc/wal2/doc/wal2.md)
 - [A periodic table of visualization methods](https://www.visual-literacy.org/periodic_table/periodic_table.html)
 - [Slashing Data Transfer Costs in AWS by 99%](https://www.bitsand.cloud/posts/slashing-data-transfer-costs/)
+## Afternoon/Evening Digest - 16-01-2024
+
+- [Filecoin Foundation Successfully Deploys IPFS in Space](https://fil.org/blog/filecoin-foundation-successfully-deploys-interplanetary-file-system-ipfs-in-space/)
+- [Speedbump – a TCP proxy to simulate variable network latency](https://github.com/kffl/speedbump)
+- [Using the ZBar barcode scanning suite in the browser with WebAssembly](https://barkeywolf.consulting/posts/barcode-scanner-webassembly/#meet-zbar)
