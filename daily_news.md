@@ -1220,3 +1220,8 @@
 - [Filecoin Foundation Successfully Deploys IPFS in Space](https://fil.org/blog/filecoin-foundation-successfully-deploys-interplanetary-file-system-ipfs-in-space/)
 - [Speedbump – a TCP proxy to simulate variable network latency](https://github.com/kffl/speedbump)
 - [Using the ZBar barcode scanning suite in the browser with WebAssembly](https://barkeywolf.consulting/posts/barcode-scanner-webassembly/#meet-zbar)
+## Morning Digest - 17-01-2024
+
+- [US developers can offer non-app store purchasing, Apple still collect commission](https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/)
+- [Show HN: I made a website to find best bus seat to avoid the sun while traveling](https://sitinshade.com)
+- [Flowblade: Open-Source Video Editor](https://jliljebl.github.io/flowblade/)
