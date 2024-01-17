@@ -1225,3 +1225,8 @@
 - [US developers can offer non-app store purchasing, Apple still collect commission](https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/)
 - [Show HN: I made a website to find best bus seat to avoid the sun while traveling](https://sitinshade.com)
 - [Flowblade: Open-Source Video Editor](https://jliljebl.github.io/flowblade/)
+## Afternoon/Evening Digest - 17-01-2024
+
+- [Willow Protocol](https://willowprotocol.org/)
+- [Nintendo Switch Emulator: Progress Report December 2023](https://blog.ryujinx.org/progress-report-december-2023/)
+- [Show HN: htmldocs - Typeset and Generate PDFs with HTML/CSS](https://htmldocs.com)
