@@ -1235,3 +1235,8 @@
 - [Losing my son](https://www.fortressofdoors.com/i-lost-my-son/)
 - [EU NGI TALER will bring private and secure online payments to the Eurozone](https://taler.net/en/news/2024-02.html)
 - [Which word begins with "y" and looks like an axe in this picture? (2017)](https://english.stackexchange.com/questions/395382/which-word-begins-with-y-and-looks-like-an-axe-in-this-picture)
+## Afternoon/Evening Digest - 18-01-2024
+
+- [Queues Don't Fix Overload (2014)](https://ferd.ca/queues-don-t-fix-overload.html)
+- [Losing my son](https://www.fortressofdoors.com/i-lost-my-son/)
+- [WhisperSpeech – An open source text-to-speech system built by inverting Whisper](https://github.com/collabora/WhisperSpeech)
