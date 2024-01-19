@@ -1240,3 +1240,8 @@
 - [Queues Don't Fix Overload (2014)](https://ferd.ca/queues-don-t-fix-overload.html)
 - [Losing my son](https://www.fortressofdoors.com/i-lost-my-son/)
 - [WhisperSpeech – An open source text-to-speech system built by inverting Whisper](https://github.com/collabora/WhisperSpeech)
+## Morning Digest - 19-01-2024
+
+- [Dave Mills has died](https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html)
+- [Google will disable all but OAuth for IMAP, SMTP and POP starting Sept. 30](https://workspaceupdates.googleblog.com/2023/09/winding-down-google-sync-and-less-secure-apps-support.html)
+- [We migrated our PostgreSQL database with 11 seconds downtime](https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/)
