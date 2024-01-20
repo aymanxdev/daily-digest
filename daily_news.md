@@ -1250,3 +1250,8 @@
 - [Building a USB SNES Controller](https://blog.chybby.com/posts/building-a-usb-snes-controller)
 - [Silos are fine, as long as there is an API between them](https://fernandovillalba.substack.com/p/devops-dont-destroy-silos-transform)
 - [Comparing the 1970's Cray-1 supercomputer against the Raspberry Pi](https://blog.adafruit.com/2024/01/17/comparing-the-1970s-cray-1-supercomputer-against-the-raspberry-pi-single-board-computer-range-raspberrypi-hacksterio/)
+## Morning Digest - 20-01-2024
+
+- [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
+- [Why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
+- [Vint Cerf is accumulating Dave Mills stories](https://docs.google.com/document/d/1XU6Fn5rFeJLO4mIBSa9e8V8BIDwafI0Lvlmi4gQwcmE/edit?usp=sharing)
