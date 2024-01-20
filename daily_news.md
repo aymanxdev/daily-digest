@@ -1255,3 +1255,8 @@
 - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
 - [Why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
 - [Vint Cerf is accumulating Dave Mills stories](https://docs.google.com/document/d/1XU6Fn5rFeJLO4mIBSa9e8V8BIDwafI0Lvlmi4gQwcmE/edit?usp=sharing)
+## Afternoon/Evening Digest - 20-01-2024
+
+- [Show HN: Coffeehouse, one-on-one voicechat with random HN users](https://coffeehouse.chat/hn)
+- [Open source Spotify client that doesn't require Premium nor uses Electron](https://github.com/KRTirtho/spotube)
+- [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
