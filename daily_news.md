@@ -1260,3 +1260,8 @@
 - [Show HN: Coffeehouse, one-on-one voicechat with random HN users](https://coffeehouse.chat/hn)
 - [Open source Spotify client that doesn't require Premium nor uses Electron](https://github.com/KRTirtho/spotube)
 - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
+## Morning Digest - 21-01-2024
+
+- [Collision Detection (2015)](https://www.jeffreythompson.org/collision-detection/index.php)
+- [Nightshade: An offensive tool for artists against AI art generators](https://nightshade.cs.uchicago.edu/whatis.html)
+- [Use Midnight Commander like a pro (2015)](https://klimer.eu/2015/05/01/use-midnight-commander-like-a-pro/)
