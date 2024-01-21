@@ -1265,3 +1265,8 @@
 - [Collision Detection (2015)](https://www.jeffreythompson.org/collision-detection/index.php)
 - [Nightshade: An offensive tool for artists against AI art generators](https://nightshade.cs.uchicago.edu/whatis.html)
 - [Use Midnight Commander like a pro (2015)](https://klimer.eu/2015/05/01/use-midnight-commander-like-a-pro/)
+## Afternoon/Evening Digest - 21-01-2024
+
+- [Boehm-Demers-Weiser conservative C/C++ Garbage Collector](https://hboehm.info/gc/)
+- [Show HN: I made an app people call "Airdrop for Android"](https://www.ubidrop.com)
+- [Show HN: Nutrient insights through your grocery receipts](https://nutri.adrianstobbe.com/)
