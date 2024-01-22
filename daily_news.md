@@ -1270,3 +1270,8 @@
 - [Boehm-Demers-Weiser conservative C/C++ Garbage Collector](https://hboehm.info/gc/)
 - [Show HN: I made an app people call "Airdrop for Android"](https://www.ubidrop.com)
 - [Show HN: Nutrient insights through your grocery receipts](https://nutri.adrianstobbe.com/)
+## Morning Digest - 22-01-2024
+
+- [U.S. National Park Service API](https://www.nps.gov/subjects/digital/nps-data-api.htm)
+- [Flipper Zero: Multi-Tool Device for Geeks](https://flipperzero.one)
+- [GPT-3.5 crashes when it thinks about useRalativeImagePath too much](https://iter.ca/post/gpt-crash/)
