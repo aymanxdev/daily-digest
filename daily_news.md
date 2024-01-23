@@ -1275,3 +1275,8 @@
 - [U.S. National Park Service API](https://www.nps.gov/subjects/digital/nps-data-api.htm)
 - [Flipper Zero: Multi-Tool Device for Geeks](https://flipperzero.one)
 - [GPT-3.5 crashes when it thinks about useRalativeImagePath too much](https://iter.ca/post/gpt-crash/)
+## Morning Digest - 23-01-2024
+
+- [Arno A. Penzias, 90, Dies; Nobel Physicist Confirmed Big Bang Theory](https://www.nytimes.com/2024/01/22/science/space/arno-a-penzias-dead.html)
+- [Modder re-creates Game Boy Advance games using the audio from crash sounds](https://arstechnica.com/gaming/2024/01/modder-recreates-game-boy-advance-games-using-the-audio-from-crash-sounds/)
+- [Backlog size is inversely proportional to how often we talk to customers](https://bitbytebit.substack.com/p/the-size-of-your-backlog-is-inversely)
