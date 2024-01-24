@@ -1290,3 +1290,8 @@
 - [scrapscript.py](https://bernsteinbear.com/blog/scrapscript/)
 - [Show HN: Open-source Rule-based PDF parser for RAG](https://github.com/nlmatics/nlm-ingestor)
 - [Waterway Map](https://waterwaymap.org)
+## Afternoon/Evening Digest - 24-01-2024
+
+- [Just Bribe Everyone – It's Only the Scientific Record](https://www.science.org/content/blog-post/just-bribe-everyone-it-s-only-scientific-record)
+- [scrapscript.py](https://bernsteinbear.com/blog/scrapscript/)
+- [You (probably) don't need to learn C](https://nedbatchelder.com/blog/202401/you_probably_dont_need_to_learn_c.html)
