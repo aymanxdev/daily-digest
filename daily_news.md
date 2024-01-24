@@ -1285,3 +1285,8 @@
 - [Is the emergence of life an expected phase transition in the evolving universe?](https://arxiv.org/abs/2401.09514)
 - [Free Godot Engine for Official Switch Developers](https://www.rawrlab.com/godot_nintendo_switch_free_port.html)
 - [Introduction to Loro's Rich Text CRDT](https://www.loro.dev/blog/loro-richtext)
+## Morning Digest - 24-01-2024
+
+- [scrapscript.py](https://bernsteinbear.com/blog/scrapscript/)
+- [Show HN: Open-source Rule-based PDF parser for RAG](https://github.com/nlmatics/nlm-ingestor)
+- [Waterway Map](https://waterwaymap.org)
