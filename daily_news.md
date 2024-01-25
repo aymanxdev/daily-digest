@@ -1295,3 +1295,8 @@
 - [Just Bribe Everyone – It's Only the Scientific Record](https://www.science.org/content/blog-post/just-bribe-everyone-it-s-only-scientific-record)
 - [scrapscript.py](https://bernsteinbear.com/blog/scrapscript/)
 - [You (probably) don't need to learn C](https://nedbatchelder.com/blog/202401/you_probably_dont_need_to_learn_c.html)
+## Morning Digest - 25-01-2024
+
+- [Only 90s Web Developers Remember This](https://zachholman.com/posts/only-90s-developers/)
+- [Ollama releases Python and JavaScript Libraries](https://ollama.ai/blog/python-javascript-libraries)
+- [Brains are not required to think or solve problems – simple cells can do it](https://www.scientificamerican.com/article/brains-are-not-required-when-it-comes-to-thinking-and-solving-problems-simple-cells-can-do-it/)
