@@ -1300,3 +1300,8 @@
 - [Only 90s Web Developers Remember This](https://zachholman.com/posts/only-90s-developers/)
 - [Ollama releases Python and JavaScript Libraries](https://ollama.ai/blog/python-javascript-libraries)
 - [Brains are not required to think or solve problems – simple cells can do it](https://www.scientificamerican.com/article/brains-are-not-required-when-it-comes-to-thinking-and-solving-problems-simple-cells-can-do-it/)
+## Afternoon/Evening Digest - 25-01-2024
+
+- [Faircamp Is a Free Bandcamp Alternative](https://wedistribute.org/2023/11/introducing-faircamp/)
+- [Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues](https://www.usenix.org/conference/usenixsecurity23/presentation/schepers)
+- [Ollama releases Python and JavaScript Libraries](https://ollama.ai/blog/python-javascript-libraries)
