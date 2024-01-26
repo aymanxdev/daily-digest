@@ -1310,3 +1310,8 @@
 - [Apple announces changes to iOS, Safari, and the App Store in the European Union](https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/)
 - [Balancing Outdoor Risky Play and Injury Prevention in Childhood Development](https://cps.ca/en/documents/position/outdoor-risky-play)
 - [Portable EPUBs](https://willcrichton.net/notes/portable-epubs/#epub-content%2FEPUB%2Findex.xhtml$)
+## Afternoon/Evening Digest - 26-01-2024
+
+- [Oasis – a small, statically-linked Linux system](https://github.com/oasislinux/oasis)
+- [Metabolic Step-by-Step: Stages of Fasting in the First 72hrs](https://usetemper.com/learn/metabolic-step-by-step/)
+- [Amon Tobin – Foley Room site (2007)](https://web.archive.org/web/20070309014113/http://www.amontobin.com/field/)
