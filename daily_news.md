@@ -1315,3 +1315,8 @@
 - [Oasis – a small, statically-linked Linux system](https://github.com/oasislinux/oasis)
 - [Metabolic Step-by-Step: Stages of Fasting in the First 72hrs](https://usetemper.com/learn/metabolic-step-by-step/)
 - [Amon Tobin – Foley Room site (2007)](https://web.archive.org/web/20070309014113/http://www.amontobin.com/field/)
+## Morning Digest - 27-01-2024
+
+- [CNC lasers for cutting and engraving](https://jacquesmattheij.com/cnc-lasers/)
+- [A ghostly radio station that no one claims to run (2020)](https://www.bbc.com/future/article/20170801-the-ghostly-radio-station-that-no-one-claims-to-run)
+- [The FCC Is Taking Steps to Wind Down the Affordable Connectivity Program](https://www.fcc.gov/fcc-taking-steps-wind-down-affordable-connectivity-program)
