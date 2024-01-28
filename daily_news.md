@@ -1325,3 +1325,8 @@
 - [Sxmo: Linux tiling window manager for phones](https://sxmo.org/)
 - [Nesizm: NES emulator for Casio Prizm calculators](https://github.com/tswilliamson/nesizm)
 - [ExifTool CVE-2021-22204 – Arbitrary Code Execution (2021)](https://devcraft.io/2021/05/04/exiftool-arbitrary-code-execution-cve-2021-22204.html)
+## Morning Digest - 28-01-2024
+
+- [In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/)
+- [Hold on there: WPA3 connections fail after 11 hours](http://rachelbythebay.com/w/2024/01/24/fail/)
+- [C_std: Implementation of C++ standard libraries in C](https://github.com/KaisenAmin/c_std)
