@@ -1330,3 +1330,8 @@
 - [In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/)
 - [Hold on there: WPA3 connections fail after 11 hours](http://rachelbythebay.com/w/2024/01/24/fail/)
 - [C_std: Implementation of C++ standard libraries in C](https://github.com/KaisenAmin/c_std)
+## Afternoon/Evening Digest - 28-01-2024
+
+- [Bartkira: The Simpsons and Akira](http://www.bartkira.com)
+- [Rowhammer Resistant Coding in Sudo](https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac6029309e4f)
+- [In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/)
