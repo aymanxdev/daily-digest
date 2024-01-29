@@ -1335,3 +1335,8 @@
 - [Bartkira: The Simpsons and Akira](http://www.bartkira.com)
 - [Rowhammer Resistant Coding in Sudo](https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac6029309e4f)
 - [In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/)
+## Morning Digest - 29-01-2024
+
+- [New Renderers for GTK](https://blog.gtk.org/2024/01/28/new-renderers-for-gtk/)
+- [Why is Maxwell's theory so hard to understand? (2007) [pdf]](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf)
+- [MIT in Anime](https://anime.mit.edu/resources/mit_in_anime)
