@@ -1340,3 +1340,8 @@
 - [New Renderers for GTK](https://blog.gtk.org/2024/01/28/new-renderers-for-gtk/)
 - [Why is Maxwell's theory so hard to understand? (2007) [pdf]](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf)
 - [MIT in Anime](https://anime.mit.edu/resources/mit_in_anime)
+## Afternoon/Evening Digest - 29-01-2024
+
+- [—-libcurl](https://everything.curl.dev/libcurl/libcurl)
+- [There Is No Planet B (For Worldbuilding)](https://etiennefd.substack.com/p/there-is-no-planet-b-for-worldbuilding)
+- [The Apple Vision Pro's Missing Apps](https://stratechery.com/2024/the-apple-vision-pros-missing-apps/)
