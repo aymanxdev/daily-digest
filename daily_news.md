@@ -1345,3 +1345,8 @@
 - [—-libcurl](https://everything.curl.dev/libcurl/libcurl)
 - [There Is No Planet B (For Worldbuilding)](https://etiennefd.substack.com/p/there-is-no-planet-b-for-worldbuilding)
 - [The Apple Vision Pro's Missing Apps](https://stratechery.com/2024/the-apple-vision-pros-missing-apps/)
+## Morning Digest - 30-01-2024
+
+- [Researchers have found a faster way to do integer linear programming](https://www.quantamagazine.org/researchers-approach-new-speed-limit-for-seminal-problem-20240129/)
+- [Alzheimer’s cases tied to no-longer-used medical procedure](https://www.statnews.com/2024/01/29/first-transmitted-alzheimers-disease-cases-growth-hormone-cadavers/)
+- [Inside the Music Industry's High-Stakes A.I. Experiments](https://www.newyorker.com/magazine/2024/02/05/inside-the-music-industrys-high-stakes-ai-experiments)
