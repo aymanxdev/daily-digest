@@ -1360,3 +1360,8 @@
 - [XFaaS: Hyperscale and Low Cost Serverless Functions at Meta](https://www.micahlerner.com/2024/01/23/xfaas-hyperscale-and-low-cost-serverless-functions-at-meta.html)
 - [Building a USB to Mac ADB keyboard adapter](https://paperstack.com/adb_usb_converter/)
 - [Intel's Humbling](https://stratechery.com/2024/intels-humbling/)
+## Afternoon/Evening Digest - 31-01-2024
+
+- [Don't use NameCheap for the .fr TLD](https://reddit.com/r/webdev/comments/1aesrm3/dont_use_namecheap_for_the_fr_tld/)
+- [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
+- [Godot 4.3 Game Engine to Feature Native Wayland Support](https://www.phoronix.com/news/Godot-4.3-Wayland-Support)
