@@ -1355,3 +1355,8 @@
 - [Quickemu: Quickly run optimised Windows, macOS and Linux virtual machines](https://github.com/quickemu-project/quickemu)
 - [Senator Wyden Letter Confirms NSA Is Buying US Persons' Data from Data Brokers](https://www.techdirt.com/2024/01/29/well-thats-everyone-senator-wyden-letter-confirms-the-nsa-is-buying-us-persons-data-from-data-brokers/)
 - [There's So Much Data Even Spies Are Struggling to Find Secrets](https://www.bloomberg.com/news/articles/2024-01-29/flood-of-personal-data-makes-life-tough-for-nsa-cia)
+## Morning Digest - 31-01-2024
+
+- [XFaaS: Hyperscale and Low Cost Serverless Functions at Meta](https://www.micahlerner.com/2024/01/23/xfaas-hyperscale-and-low-cost-serverless-functions-at-meta.html)
+- [Building a USB to Mac ADB keyboard adapter](https://paperstack.com/adb_usb_converter/)
+- [Intel's Humbling](https://stratechery.com/2024/intels-humbling/)
