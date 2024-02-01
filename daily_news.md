@@ -1365,3 +1365,8 @@
 - [Don't use NameCheap for the .fr TLD](https://reddit.com/r/webdev/comments/1aesrm3/dont_use_namecheap_for_the_fr_tld/)
 - [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
 - [Godot 4.3 Game Engine to Feature Native Wayland Support](https://www.phoronix.com/news/Godot-4.3-Wayland-Support)
+## Morning Digest - 01-02-2024
+
+- [Making a PDF that's larger than Germany](https://alexwlchan.net/2024/big-pdf/)
+- [MobileDiffusion: Rapid text-to-image generation on-device](https://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html)
+- [A Plea for More Mikado](https://dmathieu.com/articles/opinions/mikado/)
