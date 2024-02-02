@@ -1375,3 +1375,8 @@
 - [Juno – A YouTube Client for Vision Pro](https://christianselig.com/2024/02/introducing-juno/)
 - [Juice – Oberon JIT browser plugin (1996)](https://www.modulaware.com/mdlt69.htm)
 - [Five tube stations now have new circular tube maps](https://www.ianvisits.co.uk/articles/five-tube-stations-have-new-circular-tube-maps-69881/)
+## Afternoon/Evening Digest - 02-02-2024
+
+- [A Partisan Solution to Partisan Gerrymandering: The Define–Combine Procedure](https://www.cambridge.org/core/journals/political-analysis/article/partisan-solution-to-partisan-gerrymandering-the-definecombine-procedure/B0792DD0A49332944F2AF5FF6828E275)
+- [Tailwind Color Palette Generator](https://www.tints.dev/)
+- [Pandoc](https://pandoc.org)
