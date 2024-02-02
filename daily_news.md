@@ -1370,3 +1370,8 @@
 - [Making a PDF that's larger than Germany](https://alexwlchan.net/2024/big-pdf/)
 - [MobileDiffusion: Rapid text-to-image generation on-device](https://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html)
 - [A Plea for More Mikado](https://dmathieu.com/articles/opinions/mikado/)
+## Morning Digest - 02-02-2024
+
+- [Juno – A YouTube Client for Vision Pro](https://christianselig.com/2024/02/introducing-juno/)
+- [Juice – Oberon JIT browser plugin (1996)](https://www.modulaware.com/mdlt69.htm)
+- [Five tube stations now have new circular tube maps](https://www.ianvisits.co.uk/articles/five-tube-stations-have-new-circular-tube-maps-69881/)
