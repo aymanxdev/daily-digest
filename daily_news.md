@@ -1380,3 +1380,8 @@
 - [A Partisan Solution to Partisan Gerrymandering: The Define–Combine Procedure](https://www.cambridge.org/core/journals/political-analysis/article/partisan-solution-to-partisan-gerrymandering-the-definecombine-procedure/B0792DD0A49332944F2AF5FF6828E275)
 - [Tailwind Color Palette Generator](https://www.tints.dev/)
 - [Pandoc](https://pandoc.org)
+## Afternoon/Evening Digest - 03-02-2024
+
+- [Physical cash is dying–and you don't need to be a conspiracist to worry](https://www.prospectmagazine.co.uk/ideas/economics/64492/the-end-of-money-cashless-society)
+- [Apple releases Pkl – configuration as code language](https://pkl-lang.org/index.html)
+- [FOSDEM 2024 Live Streams](https://fosdem.org/2024/schedule/streaming/)
