@@ -1385,3 +1385,8 @@
 - [Physical cash is dying–and you don't need to be a conspiracist to worry](https://www.prospectmagazine.co.uk/ideas/economics/64492/the-end-of-money-cashless-society)
 - [Apple releases Pkl – configuration as code language](https://pkl-lang.org/index.html)
 - [FOSDEM 2024 Live Streams](https://fosdem.org/2024/schedule/streaming/)
+## Afternoon/Evening Digest - 03-02-2024
+
+- [Apple releases Pkl – configuration as code language](https://pkl-lang.org/index.html)
+- [Goodbye Non-Kiss Appliances](https://willbush.dev/blog/complex-appliances/)
+- [iPod 'squeaks' betray software secrets (2005)](https://www.newscientist.com/article/dn7085-ipod-squeaks-betray-software-secrets/)
