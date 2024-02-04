@@ -1390,3 +1390,8 @@
 - [Apple releases Pkl – configuration as code language](https://pkl-lang.org/index.html)
 - [Goodbye Non-Kiss Appliances](https://willbush.dev/blog/complex-appliances/)
 - [iPod 'squeaks' betray software secrets (2005)](https://www.newscientist.com/article/dn7085-ipod-squeaks-betray-software-secrets/)
+## Morning Digest - 04-02-2024
+
+- [Why is the mouse cursor slightly tilted and not straight?](https://ux.stackexchange.com/questions/52336/why-is-the-mouse-cursor-slightly-tilted-and-not-straight)
+- [A brief history of the U.S. trying to add backdoors into encrypted data (2016)](https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data)
+- [The first amateur radio station on the moon](https://www.arrl.org/news/the-first-amateur-radio-station-on-the-moon-js1ymg-is-now-transmitting)
