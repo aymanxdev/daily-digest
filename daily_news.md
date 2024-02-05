@@ -1400,3 +1400,8 @@
 - [Why is the mouse cursor slightly tilted and not straight?](https://ux.stackexchange.com/questions/52336/why-is-the-mouse-cursor-slightly-tilted-and-not-straight)
 - [Show HN: USD 0.99/TB/month cloud storage](https://earthcompute.com/)
 - [Duncan Campbell – Investigative journalist and forensic expert](https://www.duncancampbell.org/content/biography)
+## Morning Digest - 05-02-2024
+
+- [WebAssembly Playground](https://observablehq.com/@chaosalchemist/wasm-playground)
+- [Beyond self-attention: How a small language model predicts the next token](https://shyam.blog/posts/beyond-self-attention/)
+- [DEF CON 32 Was Canceled. We Un-Canceled it](https://forum.defcon.org/node/248360)
