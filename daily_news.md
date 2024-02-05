@@ -1405,3 +1405,8 @@
 - [WebAssembly Playground](https://observablehq.com/@chaosalchemist/wasm-playground)
 - [Beyond self-attention: How a small language model predicts the next token](https://shyam.blog/posts/beyond-self-attention/)
 - [DEF CON 32 Was Canceled. We Un-Canceled it](https://forum.defcon.org/node/248360)
+## Afternoon/Evening Digest - 05-02-2024
+
+- [Deno in 2023](https://deno.com/blog/deno-in-2023)
+- [How I'm able to take notes in mathematics lectures using LaTeX and Vim (2019)](https://castel.dev/post/lecture-notes-1/)
+- [Gin, Television, and Social Surplus (2008)](https://gist.github.com/jm3/6724931)
