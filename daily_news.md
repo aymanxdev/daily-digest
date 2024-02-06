@@ -1410,3 +1410,8 @@
 - [Deno in 2023](https://deno.com/blog/deno-in-2023)
 - [How I'm able to take notes in mathematics lectures using LaTeX and Vim (2019)](https://castel.dev/post/lecture-notes-1/)
 - [Gin, Television, and Social Surplus (2008)](https://gist.github.com/jm3/6724931)
+## Afternoon/Evening Digest - 06-02-2024
+
+- [Command Line Interface Guidelines](https://clig.dev/)
+- [NetBox.dev: the source of truth for everything on your network](https://netbox.dev/)
+- [We might want to regularly keep track of how important each server is](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TrackingMachineImportance)
