@@ -1420,3 +1420,8 @@
 - [The Ladybird browser project](https://ladybird.dev/)
 - [Implementing system-versioned tables in Postgres](https://hypirion.com/musings/implementing-system-versioned-tables-in-postgres)
 - [Should Error Messages Apologize?](https://ux.stackexchange.com/questions/31359/should-error-messages-apologize)
+## Afternoon/Evening Digest - 07-02-2024
+
+- [RustPython](https://rustpython.github.io/)
+- [TSMC to build second Japan chip factory, raising investment to $20B](https://finance.yahoo.com/news/tsmc-build-second-japan-chip-105111276.html)
+- [How would you build an operating system?](https://corecursive.com/serenity-os-with-andreas-kling/)
