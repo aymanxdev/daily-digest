@@ -1415,3 +1415,8 @@
 - [Command Line Interface Guidelines](https://clig.dev/)
 - [NetBox.dev: the source of truth for everything on your network](https://netbox.dev/)
 - [We might want to regularly keep track of how important each server is](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TrackingMachineImportance)
+## Morning Digest - 07-02-2024
+
+- [The Ladybird browser project](https://ladybird.dev/)
+- [Implementing system-versioned tables in Postgres](https://hypirion.com/musings/implementing-system-versioned-tables-in-postgres)
+- [Should Error Messages Apologize?](https://ux.stackexchange.com/questions/31359/should-error-messages-apologize)
