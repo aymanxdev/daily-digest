@@ -1425,3 +1425,8 @@
 - [RustPython](https://rustpython.github.io/)
 - [TSMC to build second Japan chip factory, raising investment to $20B](https://finance.yahoo.com/news/tsmc-build-second-japan-chip-105111276.html)
 - [How would you build an operating system?](https://corecursive.com/serenity-os-with-andreas-kling/)
+## Morning Digest - 08-02-2024
+
+- [John Walker, founder of Autodesk, has died](https://scanalyst.fourmilab.ch/t/john-walker-1949-2024/4305)
+- [Simple Precision Time Protocol at Meta](https://engineering.fb.com/2024/02/07/production-engineering/simple-precision-time-protocol-sptp-meta/)
+- [Concrete.css](https://concrete.style)
