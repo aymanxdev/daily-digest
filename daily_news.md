@@ -1430,3 +1430,8 @@
 - [John Walker, founder of Autodesk, has died](https://scanalyst.fourmilab.ch/t/john-walker-1949-2024/4305)
 - [Simple Precision Time Protocol at Meta](https://engineering.fb.com/2024/02/07/production-engineering/simple-precision-time-protocol-sptp-meta/)
 - [Concrete.css](https://concrete.style)
+## Afternoon/Evening Digest - 08-02-2024
+
+- [VirtualBox KVM Public Release](https://cyberus-technology.de/articles/vbox-kvm-public-release)
+- [Bard is now Gemini, and we’re rolling out a mobile app and Gemini Advanced](https://blog.google/products/gemini/bard-gemini-advanced-app/)
+- [John Walker, founder of Autodesk, has died](https://scanalyst.fourmilab.ch/t/john-walker-1949-2024/4305)
