@@ -1440,3 +1440,8 @@
 - [Figure out who's leaving the company: dump, diff, repeat](https://rachelbythebay.com/w/2024/02/08/ldap/)
 - [OpenAI compatibility](https://ollama.ai/blog/openai-compatibility)
 - [What's new in the Postgres 16 query planner](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
+## Afternoon/Evening Digest - 09-02-2024
+
+- [Permutation City (1994)](https://www.gregegan.net/PERMUTATION/Permutation.html)
+- [Receiving Weather Satellite Images Using SatDump](https://support.nooelec.com/hc/en-us/articles/10407982882327-Receiving-Weather-Satellite-Images-Using-SatDump)
+- [What's new in the Postgres 16 query planner](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
