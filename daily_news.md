@@ -1435,3 +1435,8 @@
 - [VirtualBox KVM Public Release](https://cyberus-technology.de/articles/vbox-kvm-public-release)
 - [Bard is now Gemini, and we’re rolling out a mobile app and Gemini Advanced](https://blog.google/products/gemini/bard-gemini-advanced-app/)
 - [John Walker, founder of Autodesk, has died](https://scanalyst.fourmilab.ch/t/john-walker-1949-2024/4305)
+## Morning Digest - 09-02-2024
+
+- [Figure out who's leaving the company: dump, diff, repeat](https://rachelbythebay.com/w/2024/02/08/ldap/)
+- [OpenAI compatibility](https://ollama.ai/blog/openai-compatibility)
+- [What's new in the Postgres 16 query planner](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
