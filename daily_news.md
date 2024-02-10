@@ -1450,3 +1450,8 @@
 - [Almost every infrastructure decision I endorse or regret](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 - [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
 - [BirdLingo: A birdsong learning game](https://jessicalieb.itch.io/birdlingo)
+## Afternoon/Evening Digest - 10-02-2024
+
+- [Memray – A Memory Profiler for Python](https://github.com/bloomberg/memray)
+- [Building the DirectX shader compiler better than Microsoft?](https://devlog.hexops.com/2024/building-the-directx-shader-compiler-better-than-microsoft/)
+- [OPML Is Underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
