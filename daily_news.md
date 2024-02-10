@@ -1445,3 +1445,8 @@
 - [Permutation City (1994)](https://www.gregegan.net/PERMUTATION/Permutation.html)
 - [Receiving Weather Satellite Images Using SatDump](https://support.nooelec.com/hc/en-us/articles/10407982882327-Receiving-Weather-Satellite-Images-Using-SatDump)
 - [What's new in the Postgres 16 query planner](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
+## Morning Digest - 10-02-2024
+
+- [Almost every infrastructure decision I endorse or regret](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
+- [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
+- [BirdLingo: A birdsong learning game](https://jessicalieb.itch.io/birdlingo)
