@@ -1455,3 +1455,8 @@
 - [Memray – A Memory Profiler for Python](https://github.com/bloomberg/memray)
 - [Building the DirectX shader compiler better than Microsoft?](https://devlog.hexops.com/2024/building-the-directx-shader-compiler-better-than-microsoft/)
 - [OPML Is Underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
+## Morning Digest - 11-02-2024
+
+- [What it was like working for Gitlab](https://yorickpeterse.com/articles/what-it-was-like-working-for-gitlab/)
+- [Show HN: Multi-monitor KVM using just a USB switch](https://github.com/fiddyschmitt/SimpleKVM)
+- [Cloud Egress Costs](https://getdeploying.com/reference/data-egress)
