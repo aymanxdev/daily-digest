@@ -1460,3 +1460,8 @@
 - [What it was like working for Gitlab](https://yorickpeterse.com/articles/what-it-was-like-working-for-gitlab/)
 - [Show HN: Multi-monitor KVM using just a USB switch](https://github.com/fiddyschmitt/SimpleKVM)
 - [Cloud Egress Costs](https://getdeploying.com/reference/data-egress)
+## Afternoon/Evening Digest - 11-02-2024
+
+- [Show HN: Multi-monitor KVM using just a USB switch](https://github.com/fiddyschmitt/SimpleKVM)
+- [Show HN: Tweening web visualisation, in Rust – (WASM)](https://rustween.mtassoumt.uk/)
+- [Keycloak SSO with Docker Compose and Nginx](https://du.nkel.dev/blog/2024-02-10_keycloak-docker-compose-nginx/)
