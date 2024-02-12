@@ -1470,3 +1470,8 @@
 - [It Can Be Done (2003)](https://multicians.org/andre.html)
 - [I designed a cube that balances itself on a corner](https://willempennings.nl/balancing-cube/)
 - [FOSDEM 2024: my experience, some notes and tech tips](https://ounapuu.ee/posts/2024/02/12/fosdem-2024/)
+## Afternoon/Evening Digest - 12-02-2024
+
+- [Piezoelectrics enable displays to provide both audio and touch feedback](https://spectrum.ieee.org/piezoelectric-speakers)
+- [AMD Funded a Drop-In CUDA Implementation Built on ROCm: It's Now Open-Source](https://www.phoronix.com/review/radeon-cuda-zluda)
+- [Kalman Filter Explained Simply](https://thekalmanfilter.com/kalman-filter-explained-simply/)
