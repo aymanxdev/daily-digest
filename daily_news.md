@@ -1465,3 +1465,8 @@
 - [Show HN: Multi-monitor KVM using just a USB switch](https://github.com/fiddyschmitt/SimpleKVM)
 - [Show HN: Tweening web visualisation, in Rust – (WASM)](https://rustween.mtassoumt.uk/)
 - [Keycloak SSO with Docker Compose and Nginx](https://du.nkel.dev/blog/2024-02-10_keycloak-docker-compose-nginx/)
+## Morning Digest - 12-02-2024
+
+- [It Can Be Done (2003)](https://multicians.org/andre.html)
+- [I designed a cube that balances itself on a corner](https://willempennings.nl/balancing-cube/)
+- [FOSDEM 2024: my experience, some notes and tech tips](https://ounapuu.ee/posts/2024/02/12/fosdem-2024/)
