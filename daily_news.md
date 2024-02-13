@@ -1475,3 +1475,8 @@
 - [Piezoelectrics enable displays to provide both audio and touch feedback](https://spectrum.ieee.org/piezoelectric-speakers)
 - [AMD Funded a Drop-In CUDA Implementation Built on ROCm: It's Now Open-Source](https://www.phoronix.com/review/radeon-cuda-zluda)
 - [Kalman Filter Explained Simply](https://thekalmanfilter.com/kalman-filter-explained-simply/)
+## Morning Digest - 13-02-2024
+
+- [Stable-Audio-Demo](https://stability-ai.github.io/stable-audio-demo/)
+- [John Locke's recipe for Pancakes (2021)](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
+- [Neural network training makes beautiful fractals](https://sohl-dickstein.github.io/2024/02/12/fractal.html)
