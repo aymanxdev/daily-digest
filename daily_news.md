@@ -1480,3 +1480,8 @@
 - [Stable-Audio-Demo](https://stability-ai.github.io/stable-audio-demo/)
 - [John Locke's recipe for Pancakes (2021)](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/)
 - [Neural network training makes beautiful fractals](https://sohl-dickstein.github.io/2024/02/12/fractal.html)
+## Afternoon/Evening Digest - 13-02-2024
+
+- [Is Something Bugging You?](https://antithesis.com/blog/is_something_bugging_you/)
+- [The Catalogue of UK Entrances to Hell](https://www.entrances2hell.co.uk/)
+- [Sparkle: A software update framework for macOS](https://github.com/sparkle-project/Sparkle)
