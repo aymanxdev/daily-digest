@@ -1490,3 +1490,8 @@
 - [Not all TLDs are Created Equal](https://www.hezmatt.org/~mpalmer/blog/2024/02/13/not-all-tlds-are-created-equal.html)
 - [Fly.io has GPUs now](https://fly.io/blog/fly-io-has-gpus-now/)
 - [100 Years Ago, IBM Was Born](https://spectrum.ieee.org/ibm-history)
+## Afternoon/Evening Digest - 14-02-2024
+
+- [European Court of Human Rights bans weakening of secure end-to-endencryption](https://www.eureporter.co/world/human-rights-category/european-court-of-human-rights-echr/2024/02/14/european-court-of-human-rights-bans-weakening-of-secure-end-to-endencryption-the-end-of-eus-chat-control-csar-mass-surveillance-plans/)
+- [Enhancing the Factorio experience with SAT solvers](https://github.com/R-O-C-K-E-T/Factorio-SAT)
+- [What made Earth a giant snowball 700M years ago? Scientists have an answer](https://www.sydney.edu.au/news-opinion/news/2024/02/08/geoscientists-discover-what-turned-snowball-earth-sturtian-ice-age-earthbyte.html)
