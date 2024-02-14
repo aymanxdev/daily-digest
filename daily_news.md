@@ -1485,3 +1485,8 @@
 - [Is Something Bugging You?](https://antithesis.com/blog/is_something_bugging_you/)
 - [The Catalogue of UK Entrances to Hell](https://www.entrances2hell.co.uk/)
 - [Sparkle: A software update framework for macOS](https://github.com/sparkle-project/Sparkle)
+## Morning Digest - 14-02-2024
+
+- [Not all TLDs are Created Equal](https://www.hezmatt.org/~mpalmer/blog/2024/02/13/not-all-tlds-are-created-equal.html)
+- [Fly.io has GPUs now](https://fly.io/blog/fly-io-has-gpus-now/)
+- [100 Years Ago, IBM Was Born](https://spectrum.ieee.org/ibm-history)
