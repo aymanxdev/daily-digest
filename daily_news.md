@@ -1495,3 +1495,8 @@
 - [European Court of Human Rights bans weakening of secure end-to-endencryption](https://www.eureporter.co/world/human-rights-category/european-court-of-human-rights-echr/2024/02/14/european-court-of-human-rights-bans-weakening-of-secure-end-to-endencryption-the-end-of-eus-chat-control-csar-mass-surveillance-plans/)
 - [Enhancing the Factorio experience with SAT solvers](https://github.com/R-O-C-K-E-T/Factorio-SAT)
 - [What made Earth a giant snowball 700M years ago? Scientists have an answer](https://www.sydney.edu.au/news-opinion/news/2024/02/08/geoscientists-discover-what-turned-snowball-earth-sturtian-ice-age-earthbyte.html)
+## Morning Digest - 15-02-2024
+
+- [Show HN: Aldi Price Map](https://www.aldipricemap.com/navel_oranges.html)
+- [F-Zero courses from a dead Nintendo satellite service restored using VHS and AI](https://arstechnica.com/gaming/2024/02/f-zero-courses-from-a-dead-nintendo-satellite-service-restored-using-vhs-and-ai/)
+- [Bob Moore, who founded Bob's Red Mill, has died](https://www.nytimes.com/2024/02/13/business/bob-moore-dead.html)
