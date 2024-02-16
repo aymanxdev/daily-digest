@@ -1505,3 +1505,8 @@
 - [Sora: Creating video from text](https://openai.com/sora)
 - [Kagi Changelog 2/13: Faster and more accurate instant answers and Wikipedia page](https://kagi.com/changelog#3179)
 - [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
+## Afternoon/Evening Digest - 16-02-2024
+
+- [Guix on the Framework 13 AMD](https://wingolog.org/archives/2024/02/16/guix-on-the-framework-13-amd)
+- [Data Structures as Topological Spaces (2002) [pdf]](http://mgs.spatial-computing.org/PUBLICATIONS/umc02.pdf)
+- [Kagi Changelog 2/13: Faster and more accurate instant answers and Wikipedia page](https://kagi.com/changelog#3179)
