@@ -1525,3 +1525,8 @@
 - [My notes on Gitlab's Postgres schema design (2022)](https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/)
 - [Representation Engineering: Mistral-7B on Acid](https://vgel.me/posts/representation-engineering/)
 - [A love letter to Apache Echarts](https://alicegg.tech//2024/02/14/echarts.html)
+## Afternoon/Evening Digest - 18-02-2024
+
+- [CorsixTH: Open-source clone of Theme Hospital](https://github.com/CorsixTH/CorsixTH)
+- [Why is everything based on likelihoods even though likelihoods are so small?](https://stats.stackexchange.com/questions/639548/why-is-everything-based-on-likelihoods-even-though-likelihoods-are-so-small)
+- [Show HN: Hacker News Outliers](https://hn.moritz.pm)
