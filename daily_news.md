@@ -1520,3 +1520,8 @@
 - [So Long, and Thanks for All the Bytes](https://chethaase.medium.com/so-long-and-thanks-for-all-the-bytes-02a4ef972f65)
 - [My MacBook Setup (the 2024 version)](https://github.com/maoxiaoke/setup-a-mac-for-frontend-dev)
 - [Considerations for a long-running Raspberry Pi](https://www.dzombak.com/blog/2023/12/Considerations-for-a-long-running-Raspberry-Pi.html)
+## Morning Digest - 18-02-2024
+
+- [My notes on Gitlab's Postgres schema design (2022)](https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/)
+- [Representation Engineering: Mistral-7B on Acid](https://vgel.me/posts/representation-engineering/)
+- [A love letter to Apache Echarts](https://alicegg.tech//2024/02/14/echarts.html)
