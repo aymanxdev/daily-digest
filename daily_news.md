@@ -1535,3 +1535,8 @@
 - [Castle Engine – free, os, x-platform, 2D/3D game engine using modern Pascal](https://castle-engine.io/)
 - [A Plea for Lean Software](https://liam-on-linux.dreamwidth.org/88032.html)
 - [Diseconomies of scale in fraud, spam, support, and moderation](https://danluu.com/diseconomies-scale/)
+## Afternoon/Evening Digest - 19-02-2024
+
+- [2/16/24 Wyze Security Incident Update](https://forums.wyze.com/t/update-on-investigation-of-2-16-24-security-issue/291002)
+- [Show HN: htmz – a low power tool for HTML](https://leanrada.com/htmz/)
+- [Show HN: PRQL in PostgreSQL](https://github.com/kaspermarstal/plprql)
