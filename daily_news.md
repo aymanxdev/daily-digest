@@ -1530,3 +1530,8 @@
 - [CorsixTH: Open-source clone of Theme Hospital](https://github.com/CorsixTH/CorsixTH)
 - [Why is everything based on likelihoods even though likelihoods are so small?](https://stats.stackexchange.com/questions/639548/why-is-everything-based-on-likelihoods-even-though-likelihoods-are-so-small)
 - [Show HN: Hacker News Outliers](https://hn.moritz.pm)
+## Morning Digest - 19-02-2024
+
+- [Castle Engine – free, os, x-platform, 2D/3D game engine using modern Pascal](https://castle-engine.io/)
+- [A Plea for Lean Software](https://liam-on-linux.dreamwidth.org/88032.html)
+- [Diseconomies of scale in fraud, spam, support, and moderation](https://danluu.com/diseconomies-scale/)
