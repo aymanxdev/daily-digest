@@ -1540,3 +1540,8 @@
 - [2/16/24 Wyze Security Incident Update](https://forums.wyze.com/t/update-on-investigation-of-2-16-24-security-issue/291002)
 - [Show HN: htmz – a low power tool for HTML](https://leanrada.com/htmz/)
 - [Show HN: PRQL in PostgreSQL](https://github.com/kaspermarstal/plprql)
+## Morning Digest - 20-02-2024
+
+- [WebKit switching to Skia for 2d graphics rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)
+- [DJI – The Art of Obfuscation](https://blog.quarkslab.com/dji-the-art-of-obfuscation.html)
+- [LKML discusses merging Rust access to filesystem APIs](https://lwn.net/Articles/958072/)
