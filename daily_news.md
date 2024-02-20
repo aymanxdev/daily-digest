@@ -1545,3 +1545,8 @@
 - [WebKit switching to Skia for 2d graphics rendering](https://blogs.igalia.com/carlosgc/2024/02/19/webkit-switching-to-skia-for-2d-graphics-rendering/)
 - [DJI – The Art of Obfuscation](https://blog.quarkslab.com/dji-the-art-of-obfuscation.html)
 - [LKML discusses merging Rust access to filesystem APIs](https://lwn.net/Articles/958072/)
+## Afternoon/Evening Digest - 20-02-2024
+
+- [In Defense of Simple Architectures](https://danluu.com/simple-architectures/)
+- [Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly](https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/)
+- [Future of 32-bit platform support in FreeBSD](https://lists.freebsd.org/archives/freebsd-announce/2024-February/000117.html)
