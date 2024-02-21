@@ -1550,3 +1550,8 @@
 - [In Defense of Simple Architectures](https://danluu.com/simple-architectures/)
 - [Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly](https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/)
 - [Future of 32-bit platform support in FreeBSD](https://lists.freebsd.org/archives/freebsd-announce/2024-February/000117.html)
+## Morning Digest - 21-02-2024
+
+- [Game Programming Patterns](https://gameprogrammingpatterns.com/)
+- [If Architects had to work like Programmers (1995)](http://www.gksoft.com/a/fun/architects.html)
+- [Kagi Sidekick (alpha)](https://sidekick.kagi.com/)
