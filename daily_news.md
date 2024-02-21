@@ -1555,3 +1555,8 @@
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/)
 - [If Architects had to work like Programmers (1995)](http://www.gksoft.com/a/fun/architects.html)
 - [Kagi Sidekick (alpha)](https://sidekick.kagi.com/)
+## Afternoon/Evening Digest - 21-02-2024
+
+- [Gemma: New Open Models](https://blog.google/technology/developers/gemma-open-models/)
+- [Pijul is a free and open source (GPL2) distributed version control system](https://pijul.org/)
+- [XL: An Extensible Programming Language](https://xlr.sourceforge.io/)
