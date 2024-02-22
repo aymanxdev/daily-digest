@@ -1565,3 +1565,8 @@
 - [The killer app of Gemini Pro 1.5 is using video as an input](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
 - [A beginner's guide to constant-time cryptography (2017)](https://www.chosenplaintext.ca/articles/beginners-guide-constant-time-cryptography.html)
 - [ASML dethrones Applied Materials, becomes largest fab tool maker](https://www.tomshardware.com/tech-industry/manufacturing/asml-dethrones-applied-materials-becomes-worlds-largest-fab-tool-maker-analyst)
+## Afternoon/Evening Digest - 22-02-2024
+
+- [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)
+- [Reading a Programmer's Guide to Common Lisp](https://journal.paoloamoroso.com/reading-a-programmers-guide-to-common-lisp)
+- [Eclipse viewing at 30k feet: Delta to offer path-of-totality flight](https://news.delta.com/eclipse-viewing-30000-feet-delta-offer-path-totality-flight)
