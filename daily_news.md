@@ -1560,3 +1560,8 @@
 - [Gemma: New Open Models](https://blog.google/technology/developers/gemma-open-models/)
 - [Pijul is a free and open source (GPL2) distributed version control system](https://pijul.org/)
 - [XL: An Extensible Programming Language](https://xlr.sourceforge.io/)
+## Morning Digest - 22-02-2024
+
+- [The killer app of Gemini Pro 1.5 is using video as an input](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
+- [A beginner's guide to constant-time cryptography (2017)](https://www.chosenplaintext.ca/articles/beginners-guide-constant-time-cryptography.html)
+- [ASML dethrones Applied Materials, becomes largest fab tool maker](https://www.tomshardware.com/tech-industry/manufacturing/asml-dethrones-applied-materials-becomes-worlds-largest-fab-tool-maker-analyst)
