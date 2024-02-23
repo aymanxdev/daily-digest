@@ -1570,3 +1570,8 @@
 - [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)
 - [Reading a Programmer's Guide to Common Lisp](https://journal.paoloamoroso.com/reading-a-programmers-guide-to-common-lisp)
 - [Eclipse viewing at 30k feet: Delta to offer path-of-totality flight](https://news.delta.com/eclipse-viewing-30000-feet-delta-offer-path-totality-flight)
+## Morning Digest - 23-02-2024
+
+- [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
+- [Phind-70B: Closing the code quality gap with GPT-4 Turbo while running 4x faster](https://www.phind.com/blog/introducing-phind-70b)
+- [Vice website is shutting down](https://writing.exchange/@ernie/111977450241144169)
