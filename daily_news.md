@@ -1575,3 +1575,8 @@
 - [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
 - [Phind-70B: Closing the code quality gap with GPT-4 Turbo while running 4x faster](https://www.phind.com/blog/introducing-phind-70b)
 - [Vice website is shutting down](https://writing.exchange/@ernie/111977450241144169)
+## Afternoon/Evening Digest - 23-02-2024
+
+- [Beyond A*: Better Planning with Transformers](https://arxiv.org/abs/2402.14083)
+- [Intel Processor Instability Causing Oodle Decompression Failures](https://www.radgametools.com/oodleintel.htm)
+- [I don't think the cheapest APC Back-UPS units can be monitored except in Windows](https://strugglers.net/~andy/blog/2024/02/23/i-dont-think-the-cheapest-apc-back-ups-units-can-be-monitored-except-in-windows/)
