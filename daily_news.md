@@ -1585,3 +1585,8 @@
 - [GPT in 500 Lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
 - [Power Metal: is it really about dragons? (2018)](https://notes.atomutek.org/power-metal-and-dragons.html)
 - [Spreadsheets are all you need: Understanding GPT2 and Transformers](https://spreadsheets-are-all-you-need.ai/)
+## Afternoon/Evening Digest - 24-02-2024
+
+- [Understanding, Using, and Finetuning Gemma](https://lightning.ai/lightning-ai/studios/understanding-using-and-finetuning-gemma)
+- [Building a Deep Learning Rig](https://samsja.github.io/blogs/rig/part_1/)
+- [GPT in 500 Lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
