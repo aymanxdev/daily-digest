@@ -1580,3 +1580,8 @@
 - [Beyond A*: Better Planning with Transformers](https://arxiv.org/abs/2402.14083)
 - [Intel Processor Instability Causing Oodle Decompression Failures](https://www.radgametools.com/oodleintel.htm)
 - [I don't think the cheapest APC Back-UPS units can be monitored except in Windows](https://strugglers.net/~andy/blog/2024/02/23/i-dont-think-the-cheapest-apc-back-ups-units-can-be-monitored-except-in-windows/)
+## Morning Digest - 24-02-2024
+
+- [GPT in 500 Lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
+- [Power Metal: is it really about dragons? (2018)](https://notes.atomutek.org/power-metal-and-dragons.html)
+- [Spreadsheets are all you need: Understanding GPT2 and Transformers](https://spreadsheets-are-all-you-need.ai/)
