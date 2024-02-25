@@ -1595,3 +1595,8 @@
 - [What Restoring a 30-Year-Old Nintendo Taught Me About Right to Repair](https://debugger.medium.com/what-restoring-a-30-year-old-nintendo-taught-me-about-right-to-repair-3bffdf548f6d)
 - [Documentation for the JSON Lines text file format](https://jsonlines.org/)
 - [Every model learned by gradient descent is approximately a kernel machine (2020)](https://arxiv.org/abs/2012.00152)
+## Afternoon/Evening Digest - 25-02-2024
+
+- [Marginalia: 3 Years](https://www.marginalia.nu/log/a_101_marginalia-3-years/)
+- [fd, xargs, bat = quick document review](https://hiandrewquinn.github.io/til-site/posts/fd-bat-quick-document-review/)
+- [The Top of the DNS Hierarchy](https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html)
