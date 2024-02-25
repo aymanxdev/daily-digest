@@ -1590,3 +1590,8 @@
 - [Understanding, Using, and Finetuning Gemma](https://lightning.ai/lightning-ai/studios/understanding-using-and-finetuning-gemma)
 - [Building a Deep Learning Rig](https://samsja.github.io/blogs/rig/part_1/)
 - [GPT in 500 Lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
+## Morning Digest - 25-02-2024
+
+- [What Restoring a 30-Year-Old Nintendo Taught Me About Right to Repair](https://debugger.medium.com/what-restoring-a-30-year-old-nintendo-taught-me-about-right-to-repair-3bffdf548f6d)
+- [Documentation for the JSON Lines text file format](https://jsonlines.org/)
+- [Every model learned by gradient descent is approximately a kernel machine (2020)](https://arxiv.org/abs/2012.00152)
