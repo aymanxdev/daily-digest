@@ -1605,3 +1605,8 @@
 - [Home Screen Advantage](https://infrequently.org/2024/02/home-screen-advantage/)
 - [A History of the TTY](https://computer.rip/2024-02-25-a-history-of-the-tty.html)
 - [Frugly vs. Freemium](https://taylor.town/frugly)
+## Afternoon/Evening Digest - 26-02-2024
+
+- [Mistral Large](https://mistral.ai/news/mistral-large/)
+- [Let's compile like it's 1992 (2014)](https://fabiensanglard.net/Compile_Like_Its_1992/index.php)
+- [The 14 pains of building your own billing system](https://arnon.dk/the-14-pains-of-billing/)
