@@ -1600,3 +1600,8 @@
 - [Marginalia: 3 Years](https://www.marginalia.nu/log/a_101_marginalia-3-years/)
 - [fd, xargs, bat = quick document review](https://hiandrewquinn.github.io/til-site/posts/fd-bat-quick-document-review/)
 - [The Top of the DNS Hierarchy](https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html)
+## Morning Digest - 26-02-2024
+
+- [Home Screen Advantage](https://infrequently.org/2024/02/home-screen-advantage/)
+- [A History of the TTY](https://computer.rip/2024-02-25-a-history-of-the-tty.html)
+- [Frugly vs. Freemium](https://taylor.town/frugly)
