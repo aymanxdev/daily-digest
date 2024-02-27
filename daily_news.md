@@ -1610,3 +1610,8 @@
 - [Mistral Large](https://mistral.ai/news/mistral-large/)
 - [Let's compile like it's 1992 (2014)](https://fabiensanglard.net/Compile_Like_Its_1992/index.php)
 - [The 14 pains of building your own billing system](https://arnon.dk/the-14-pains-of-billing/)
+## Morning Digest - 27-02-2024
+
+- [Mistral Le Chat](https://mistral.ai/fr/news/le-chat-mistral/)
+- [Rapier is a set of 2D and 3D physics engines written in Rust](https://rapier.rs/docs/)
+- [On the importance to make games during the game engine's development](https://www.team-nutshell.dev/nutshellengine/articles/making-games-during-development.html)
