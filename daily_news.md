@@ -1615,3 +1615,8 @@
 - [Mistral Le Chat](https://mistral.ai/fr/news/le-chat-mistral/)
 - [Rapier is a set of 2D and 3D physics engines written in Rust](https://rapier.rs/docs/)
 - [On the importance to make games during the game engine's development](https://www.team-nutshell.dev/nutshellengine/articles/making-games-during-development.html)
+## Afternoon/Evening Digest - 27-02-2024
+
+- [Ant Geopolitics](https://aeon.co/essays/the-strange-and-turbulent-global-world-of-ant-geopolitics)
+- [Easter eggs on Swiss maps](https://www.atlasobscura.com/articles/swiss-map-secrets)
+- [Boeing Missing Key Elements of Safety Culture: FAA Report](https://www.ainonline.com/aviation-news/air-transport/2024-02-26/boeing-missing-key-elements-safety-culture-faa-report)
