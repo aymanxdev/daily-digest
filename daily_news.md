@@ -1625,3 +1625,8 @@
 - [New FCC standards should consider latency](https://broadbandbreakfast.com/untitled-12/)
 - [Testcontainers](https://testcontainers.com/)
 - [Show HN: I made an app to use local AI as daily driver](https://recurse.chat/)
+## Afternoon/Evening Digest - 28-02-2024
+
+- [SymPy: Symbolic Mathematics in Python](https://www.sympy.org/en/index.html)
+- [The Amazon forest has an almost 3x year-on-year increase in fires in February](https://brazil.postsen.com/local/532131/The-Amazon-has-a-286--increase-in-fires-in-February.html)
+- [More than 80 AI models from Qualcomm](https://huggingface.co/qualcomm)
