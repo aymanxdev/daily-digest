@@ -1620,3 +1620,8 @@
 - [Ant Geopolitics](https://aeon.co/essays/the-strange-and-turbulent-global-world-of-ant-geopolitics)
 - [Easter eggs on Swiss maps](https://www.atlasobscura.com/articles/swiss-map-secrets)
 - [Boeing Missing Key Elements of Safety Culture: FAA Report](https://www.ainonline.com/aviation-news/air-transport/2024-02-26/boeing-missing-key-elements-safety-culture-faa-report)
+## Morning Digest - 28-02-2024
+
+- [New FCC standards should consider latency](https://broadbandbreakfast.com/untitled-12/)
+- [Testcontainers](https://testcontainers.com/)
+- [Show HN: I made an app to use local AI as daily driver](https://recurse.chat/)
