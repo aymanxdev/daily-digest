@@ -1630,3 +1630,8 @@
 - [SymPy: Symbolic Mathematics in Python](https://www.sympy.org/en/index.html)
 - [The Amazon forest has an almost 3x year-on-year increase in fires in February](https://brazil.postsen.com/local/532131/The-Amazon-has-a-286--increase-in-fires-in-February.html)
 - [More than 80 AI models from Qualcomm](https://huggingface.co/qualcomm)
+## Morning Digest - 29-02-2024
+
+- [How video games use lookup tables](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
+- [CT scans show how Heinz's new ketchup cap depends on shear-thinning principles](https://www.lumafield.com/article/heinzs-sustainable-ketchup-cap)
+- [The Era of 1-bit LLMs: ternary parameters for cost-effective computing](https://arxiv.org/abs/2402.17764)
