@@ -1635,3 +1635,8 @@
 - [How video games use lookup tables](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 - [CT scans show how Heinz's new ketchup cap depends on shear-thinning principles](https://www.lumafield.com/article/heinzs-sustainable-ketchup-cap)
 - [The Era of 1-bit LLMs: ternary parameters for cost-effective computing](https://arxiv.org/abs/2402.17764)
+## Afternoon/Evening Digest - 29-02-2024
+
+- [The KDE desktop gets an overhaul with Plasma 6](https://lwn.net/SubscriberLink/963851/0c64b8038c62432c/)
+- [How video games use lookup tables](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
+- [Learn CSS Layout the Pedantic Way](http://book.mixu.net/css/)
