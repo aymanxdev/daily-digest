@@ -1645,3 +1645,8 @@
 - [JPEG XL and the Pareto Front](https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front)
 - [CACM Is Now Open Access](https://cacm.acm.org/news/cacm-is-now-open-access-2/)
 - [Show HN: Struct – A Feed-Centric Chat Platform](https://struct.ai/blog/introducing-the-struct-chat-platform)
+## Afternoon/Evening Digest - 01-03-2024
+
+- [A daddy-longlegs possesses six eyes, including two vestigial pairs](https://www.nytimes.com/2024/03/01/science/daddy-long-legs-eyes.html)
+- [JSR: The JavaScript Registry](https://jsr.io)
+- [Where Is Noether's Principle in Machine Learning?](https://cgad.ski/blog/where-is-noethers-principle-in-machine-learning.html)
