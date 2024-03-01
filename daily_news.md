@@ -1640,3 +1640,8 @@
 - [The KDE desktop gets an overhaul with Plasma 6](https://lwn.net/SubscriberLink/963851/0c64b8038c62432c/)
 - [How video games use lookup tables](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 - [Learn CSS Layout the Pedantic Way](http://book.mixu.net/css/)
+## Morning Digest - 01-03-2024
+
+- [JPEG XL and the Pareto Front](https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front)
+- [CACM Is Now Open Access](https://cacm.acm.org/news/cacm-is-now-open-access-2/)
+- [Show HN: Struct – A Feed-Centric Chat Platform](https://struct.ai/blog/introducing-the-struct-chat-platform)
