@@ -1650,3 +1650,8 @@
 - [A daddy-longlegs possesses six eyes, including two vestigial pairs](https://www.nytimes.com/2024/03/01/science/daddy-long-legs-eyes.html)
 - [JSR: The JavaScript Registry](https://jsr.io)
 - [Where Is Noether's Principle in Machine Learning?](https://cgad.ski/blog/where-is-noethers-principle-in-machine-learning.html)
+## Morning Digest - 02-03-2024
+
+- [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://ente.io/)
+- [Bash Debugging](https://wizardzines.com/comics/bash-debugging/)
+- [Microsoft Security-101: Open-Source curriculum](https://github.com/microsoft/Security-101)
