@@ -1655,3 +1655,8 @@
 - [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://ente.io/)
 - [Bash Debugging](https://wizardzines.com/comics/bash-debugging/)
 - [Microsoft Security-101: Open-Source curriculum](https://github.com/microsoft/Security-101)
+## Afternoon/Evening Digest - 02-03-2024
+
+- [Mathematicians prove Pólya's conjecture for the eigenvalues of a disk](https://phys.org/news/2024-03-mathematicians-plya-conjecture-eigenvalues-disk.html)
+- [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://ente.io/)
+- [Konilo: A personal computing system in Forth](http://konilo.org/)
