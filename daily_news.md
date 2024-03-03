@@ -1665,3 +1665,8 @@
 - [The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
 - [Known Meta Sites](https://gitlab.com/J4YC33/metablock/-/blob/main/Meta.txt)
 - [CS 6120: Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2023fa/self-guided/)
+## Afternoon/Evening Digest - 03-03-2024
+
+- [Supermium – Chromium fork for Win 2003/XP and newer](https://win32subsystem.live/supermium/)
+- [Show HN: Hancho – A simple and pleasant build system in ~500 lines of Python](https://github.com/aappleby/hancho)
+- [Zoomable, translated version of the 15th century Mappa Mundi](https://mostre.museogalileo.it/framauro/en/interactive-exploration/explore.html)
