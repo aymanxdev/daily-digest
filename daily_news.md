@@ -1660,3 +1660,8 @@
 - [Mathematicians prove Pólya's conjecture for the eigenvalues of a disk](https://phys.org/news/2024-03-mathematicians-plya-conjecture-eigenvalues-disk.html)
 - [Ente: Open-Source, E2E Encrypted, Google Photos Alternative](https://ente.io/)
 - [Konilo: A personal computing system in Forth](http://konilo.org/)
+## Morning Digest - 03-03-2024
+
+- [The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
+- [Known Meta Sites](https://gitlab.com/J4YC33/metablock/-/blob/main/Meta.txt)
+- [CS 6120: Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2023fa/self-guided/)
