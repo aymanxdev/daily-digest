@@ -1675,3 +1675,8 @@
 - [French Court Issues Damages Award for Violation of GPL](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/)
 - [Twenty Years Is Nothing](https://deprogrammaticaipsum.com/twenty-years-is-nothing/)
 - [Motion blur all the way down (2022)](https://www.osar.fr/notes/motionblur/)
+## Afternoon/Evening Digest - 04-03-2024
+
+- [Claude 3 model family](https://www.anthropic.com/news/claude-3-family)
+- [I made a bad camera lens from some old glasses [video]](https://www.youtube.com/watch?v=-C6AcRnUmbE)
+- [Singapore Airlines Concorde](https://mainlymiles.com/2024/03/03/singapore-airlines-concorde-full-story/)
