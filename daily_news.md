@@ -1670,3 +1670,8 @@
 - [Supermium – Chromium fork for Win 2003/XP and newer](https://win32subsystem.live/supermium/)
 - [Show HN: Hancho – A simple and pleasant build system in ~500 lines of Python](https://github.com/aappleby/hancho)
 - [Zoomable, translated version of the 15th century Mappa Mundi](https://mostre.museogalileo.it/framauro/en/interactive-exploration/explore.html)
+## Morning Digest - 04-03-2024
+
+- [French Court Issues Damages Award for Violation of GPL](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/)
+- [Twenty Years Is Nothing](https://deprogrammaticaipsum.com/twenty-years-is-nothing/)
+- [Motion blur all the way down (2022)](https://www.osar.fr/notes/motionblur/)
