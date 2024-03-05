@@ -1680,3 +1680,8 @@
 - [Claude 3 model family](https://www.anthropic.com/news/claude-3-family)
 - [I made a bad camera lens from some old glasses [video]](https://www.youtube.com/watch?v=-C6AcRnUmbE)
 - [Singapore Airlines Concorde](https://mainlymiles.com/2024/03/03/singapore-airlines-concorde-full-story/)
+## Morning Digest - 05-03-2024
+
+- [JPEG XL Is a Stupid Name](https://www.mark-pekala.dev/posts/jpeg-xl)
+- [Show HN: 3 years and 1M users later, I just open-sourced my "Internet OS"](https://github.com/HeyPuter/puter)
+- [How I keep myself alive using Golang](https://www.bytesizego.com/blog/keeping-alive-with-go)
