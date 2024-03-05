@@ -1685,3 +1685,8 @@
 - [JPEG XL Is a Stupid Name](https://www.mark-pekala.dev/posts/jpeg-xl)
 - [Show HN: 3 years and 1M users later, I just open-sourced my "Internet OS"](https://github.com/HeyPuter/puter)
 - [How I keep myself alive using Golang](https://www.bytesizego.com/blog/keeping-alive-with-go)
+## Afternoon/Evening Digest - 05-03-2024
+
+- [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
+- [The Shen Programming Language](https://shenlanguage.org/)
+- [Stable Diffusion 3: Research Paper](https://stability.ai/news/stable-diffusion-3-research-paper)
