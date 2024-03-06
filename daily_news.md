@@ -1695,3 +1695,8 @@
 - [YaCy, a distributed Web Search Engine, based on a peer-to-peer network](https://yacy.net/)
 - [Leaving LinkedIn: Choosing Engineering Excellence over Expediency](https://corecursive.com/leaving-linkedin-with-chris-krycho/)
 - [The Evolution of a Haskell Programmer (2001)](https://pages.cpsc.ucalgary.ca/~robin/class/449/Evolution.htm)
+## Afternoon/Evening Digest - 06-03-2024
+
+- [YaCy, a distributed Web Search Engine, based on a peer-to-peer network](https://yacy.net/)
+- [Dada, an Experiement by the Creators of Rust](https://dada-lang.org/)
+- [Network Tunneling with QEMU](https://securelist.com/network-tunneling-with-qemu/111803/)
