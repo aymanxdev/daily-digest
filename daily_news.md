@@ -1690,3 +1690,8 @@
 - [Radicle: Open-Source, Peer-to-Peer, GitHub Alternative](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5)
 - [The Shen Programming Language](https://shenlanguage.org/)
 - [Stable Diffusion 3: Research Paper](https://stability.ai/news/stable-diffusion-3-research-paper)
+## Morning Digest - 06-03-2024
+
+- [YaCy, a distributed Web Search Engine, based on a peer-to-peer network](https://yacy.net/)
+- [Leaving LinkedIn: Choosing Engineering Excellence over Expediency](https://corecursive.com/leaving-linkedin-with-chris-krycho/)
+- [The Evolution of a Haskell Programmer (2001)](https://pages.cpsc.ucalgary.ca/~robin/class/449/Evolution.htm)
