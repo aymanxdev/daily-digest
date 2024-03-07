@@ -1700,3 +1700,8 @@
 - [YaCy, a distributed Web Search Engine, based on a peer-to-peer network](https://yacy.net/)
 - [Dada, an Experiement by the Creators of Rust](https://dada-lang.org/)
 - [Network Tunneling with QEMU](https://securelist.com/network-tunneling-with-qemu/111803/)
+## Morning Digest - 07-03-2024
+
+- [Fractional scales, fonts and hinting](https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/)
+- [FDA clears first over-the-counter continuous glucose monitor](https://www.fda.gov/news-events/press-announcements/fda-clears-first-over-counter-continuous-glucose-monitor)
+- [Detect when your installed Chrome extensions have changed owners](https://github.com/classvsoftware/under-new-management)
