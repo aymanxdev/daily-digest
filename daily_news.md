@@ -1705,3 +1705,8 @@
 - [Fractional scales, fonts and hinting](https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/)
 - [FDA clears first over-the-counter continuous glucose monitor](https://www.fda.gov/news-events/press-announcements/fda-clears-first-over-counter-continuous-glucose-monitor)
 - [Detect when your installed Chrome extensions have changed owners](https://github.com/classvsoftware/under-new-management)
+## Afternoon/Evening Digest - 07-03-2024
+
+- [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
+- [Autogenerating a Book Series from Three Years of iMessages](https://benkettle.xyz/posts/message-book/)
+- [Total Functional Programming (2004) [pdf]](https://ncatlab.org/ufias2012/files/turner.pdf)
