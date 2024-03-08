@@ -1715,3 +1715,8 @@
 - [My favourite animation trick: exponential smoothing](https://lisyarus.github.io/blog/programming/2023/02/21/exponential-smoothing.html)
 - [Fine tune a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
 - [Reentry of International Space Station Batteries into Earth's Atmosphere](https://www.esa.int/Space_Safety/Space_Debris/Reentry_of_International_Space_Station_ISS_batteries_into_Earth_s_atmosphere)
+## Afternoon/Evening Digest - 08-03-2024
+
+- [Home Lab Guide](https://linuxblog.io/home-lab-beginners-guide-hardware/)
+- [Build Initramfs Rootless](https://blog.izissise.net/posts/initramfs/)
+- [Fine tune a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
