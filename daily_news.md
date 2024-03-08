@@ -1710,3 +1710,8 @@
 - [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
 - [Autogenerating a Book Series from Three Years of iMessages](https://benkettle.xyz/posts/message-book/)
 - [Total Functional Programming (2004) [pdf]](https://ncatlab.org/ufias2012/files/turner.pdf)
+## Morning Digest - 08-03-2024
+
+- [My favourite animation trick: exponential smoothing](https://lisyarus.github.io/blog/programming/2023/02/21/exponential-smoothing.html)
+- [Fine tune a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
+- [Reentry of International Space Station Batteries into Earth's Atmosphere](https://www.esa.int/Space_Safety/Space_Debris/Reentry_of_International_Space_Station_ISS_batteries_into_Earth_s_atmosphere)
