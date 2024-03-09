@@ -1725,3 +1725,8 @@
 - [Show HN: Hatchet – Open-source distributed task queue](https://github.com/hatchet-dev/hatchet)
 - [Sea Kit](https://www.sea-kit.com)
 - [Self-Retrieval: Building an information retrieval system with one LLM](https://arxiv.org/abs/2403.00801)
+## Afternoon/Evening Digest - 09-03-2024
+
+- [4D Knit Dress](https://selfassemblylab.mit.edu/4d-knit-dress)
+- [Gallery of Simple Websites](https://deadsimplesites.com/)
+- [The Acme Klein Bottle (From Cliff Stoll and Family)](https://blog.jgc.org/2024/03/the-acme-klein-bottle-from-cliff-stoll.html)
