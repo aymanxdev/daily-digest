@@ -1720,3 +1720,8 @@
 - [Home Lab Guide](https://linuxblog.io/home-lab-beginners-guide-hardware/)
 - [Build Initramfs Rootless](https://blog.izissise.net/posts/initramfs/)
 - [Fine tune a 70B language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
+## Morning Digest - 09-03-2024
+
+- [Show HN: Hatchet – Open-source distributed task queue](https://github.com/hatchet-dev/hatchet)
+- [Sea Kit](https://www.sea-kit.com)
+- [Self-Retrieval: Building an information retrieval system with one LLM](https://arxiv.org/abs/2403.00801)
