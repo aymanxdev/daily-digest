@@ -1730,3 +1730,8 @@
 - [4D Knit Dress](https://selfassemblylab.mit.edu/4d-knit-dress)
 - [Gallery of Simple Websites](https://deadsimplesites.com/)
 - [The Acme Klein Bottle (From Cliff Stoll and Family)](https://blog.jgc.org/2024/03/the-acme-klein-bottle-from-cliff-stoll.html)
+## Morning Digest - 10-03-2024
+
+- [Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/)
+- [Bell Labs: An Institute of Creative Technology (2015)](https://sts10.github.io/2015/09/14/bell-labs-the-idea-factory.html)
+- [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
