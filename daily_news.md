@@ -1735,3 +1735,8 @@
 - [Bruno: Fast and Git-friendly open-source API client (Postman alternative)](https://www.usebruno.com/)
 - [Bell Labs: An Institute of Creative Technology (2015)](https://sts10.github.io/2015/09/14/bell-labs-the-idea-factory.html)
 - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
+## Afternoon/Evening Digest - 10-03-2024
+
+- [Refuted papers continue to be cited more than failed replications:can search eng](https://statmodeling.stat.columbia.edu/2024/03/10/refuted-papers-continue-to-be-cited-more-than-their-failed-replications-can-a-new-search-engine-be-built-that-will-fix-this-problem/)
+- [Proton AG of ProtonMail can provide FBI with your account recovery email](https://fxtwitter.com/monetaryreset/status/1691446834655535105)
+- [Windows 1.0 site – everything there is to know about the first Windows version](https://win1.krnl386.com/)
