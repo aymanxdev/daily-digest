@@ -1740,3 +1740,8 @@
 - [Refuted papers continue to be cited more than failed replications:can search eng](https://statmodeling.stat.columbia.edu/2024/03/10/refuted-papers-continue-to-be-cited-more-than-their-failed-replications-can-a-new-search-engine-be-built-that-will-fix-this-problem/)
 - [Proton AG of ProtonMail can provide FBI with your account recovery email](https://fxtwitter.com/monetaryreset/status/1691446834655535105)
 - [Windows 1.0 site – everything there is to know about the first Windows version](https://win1.krnl386.com/)
+## Morning Digest - 11-03-2024
+
+- [Monte-Carlo graph search from first principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
+- [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
+- [The Best Essay](https://paulgraham.com/best.html)
