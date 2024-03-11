@@ -1745,3 +1745,8 @@
 - [Monte-Carlo graph search from first principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md)
 - [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 - [The Best Essay](https://paulgraham.com/best.html)
+## Afternoon/Evening Digest - 11-03-2024
+
+- [GrapheneOS finds Bluetooth memory corruption via ARM MTE](https://grapheneos.social/@GrapheneOS/112066872276203917)
+- [Building an Open Source Decentralized E-Book Search Engine](https://github.com/j2qk3b/ebook-demo/blob/main/tutorial.md)
+- [Execute formulas stored in database fields with almost standard SQL](https://www.colbert.nl/formulas-in-fields/)
