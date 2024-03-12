@@ -1750,3 +1750,8 @@
 - [GrapheneOS finds Bluetooth memory corruption via ARM MTE](https://grapheneos.social/@GrapheneOS/112066872276203917)
 - [Building an Open Source Decentralized E-Book Search Engine](https://github.com/j2qk3b/ebook-demo/blob/main/tutorial.md)
 - [Execute formulas stored in database fields with almost standard SQL](https://www.colbert.nl/formulas-in-fields/)
+## Morning Digest - 12-03-2024
+
+- [Cloning a Laptop over NVMe TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
+- [Webb and Hubble confirm Universe's expansion rate](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_confirm_Universe_s_expansion_rate)
+- [Show HN: I made a free animator. Think Adobe Illustrator but for animation](https://www.trangram.com)
