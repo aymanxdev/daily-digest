@@ -1755,3 +1755,8 @@
 - [Cloning a Laptop over NVMe TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
 - [Webb and Hubble confirm Universe's expansion rate](https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_Hubble_confirm_Universe_s_expansion_rate)
 - [Show HN: I made a free animator. Think Adobe Illustrator but for animation](https://www.trangram.com)
+## Afternoon/Evening Digest - 12-03-2024
+
+- [More options for apps distributed in the European Union](https://developer.apple.com/news/?id=8c1m8hqt)
+- [Cloning a Laptop over NVMe TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
+- [Show HN: Comma Separated Values (CSV) to Unicode Separated Values (USV)](https://crates.io/crates/csv-to-usv)
