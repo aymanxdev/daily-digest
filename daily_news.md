@@ -1760,3 +1760,8 @@
 - [More options for apps distributed in the European Union](https://developer.apple.com/news/?id=8c1m8hqt)
 - [Cloning a Laptop over NVMe TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
 - [Show HN: Comma Separated Values (CSV) to Unicode Separated Values (USV)](https://crates.io/crates/csv-to-usv)
+## Morning Digest - 13-03-2024
+
+- [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
+- [Simplicity of IRC (2022)](https://susam.net/simplicity-of-irc.html)
+- [Nvtop: Linux Task Monitor for Nvidia, AMD and Intel GPUs](https://github.com/Syllo/nvtop)
