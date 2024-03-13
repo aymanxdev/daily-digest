@@ -1765,3 +1765,8 @@
 - [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
 - [Simplicity of IRC (2022)](https://susam.net/simplicity-of-irc.html)
 - [Nvtop: Linux Task Monitor for Nvidia, AMD and Intel GPUs](https://github.com/Syllo/nvtop)
+## Afternoon/Evening Digest - 13-03-2024
+
+- [Show HN: A user-friendly UI for viewing and editing Markdown files](https://marker.pages.dev/)
+- [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
+- [IRS has launched its free tax filing service, Direct File, in 12 states](https://arstechnica.com/tech-policy/2024/03/irs-free-tax-filing-service-now-available-but-most-people-dont-qualify/)
