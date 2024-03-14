@@ -1770,3 +1770,8 @@
 - [Show HN: A user-friendly UI for viewing and editing Markdown files](https://marker.pages.dev/)
 - [JIT WireGuard](https://fly.io/blog/jit-wireguard-peers/)
 - [IRS has launched its free tax filing service, Direct File, in 12 states](https://arstechnica.com/tech-policy/2024/03/irs-free-tax-filing-service-now-available-but-most-people-dont-qualify/)
+## Morning Digest - 14-03-2024
+
+- [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html)
+- [I summarized my understanding of Linux systems](https://github.com/lsc4719/MyViewOfLinuxSystems)
+- [BlenderBIM – add-on for beautiful, detailed, and data-rich OpenBIM with Blender](https://blenderbim.org/)
