@@ -1775,3 +1775,8 @@
 - [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html)
 - [I summarized my understanding of Linux systems](https://github.com/lsc4719/MyViewOfLinuxSystems)
 - [BlenderBIM – add-on for beautiful, detailed, and data-rich OpenBIM with Blender](https://blenderbim.org/)
+## Afternoon/Evening Digest - 14-03-2024
+
+- [Winning a hackathon, losing my sanity](https://jero.zone/posts/meal-plan-wrapped)
+- [The Good Soldier Švejk (2018)](https://blogs.loc.gov/international-collections/2018/03/the-good-soldier-vejk/)
+- [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html)
