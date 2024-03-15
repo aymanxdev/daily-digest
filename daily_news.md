@@ -1780,3 +1780,8 @@
 - [Winning a hackathon, losing my sanity](https://jero.zone/posts/meal-plan-wrapped)
 - [The Good Soldier Švejk (2018)](https://blogs.loc.gov/international-collections/2018/03/the-good-soldier-vejk/)
 - [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html)
+## Morning Digest - 15-03-2024
+
+- [TextSnatcher: Copy text from images, for the Linux Desktop](https://github.com/RajSolai/TextSnatcher)
+- [The Oregon Outback International Dark Sky Sanctuary](https://www.hereisoregon.com/experiences/2024/03/oregon-outback-is-now-the-largest-dark-sky-sanctuary-in-the-world.html)
+- [What Every User Should Know About Mixed Precision Training in PyTorch](https://pytorch.org/blog/what-every-user-should-know-about-mixed-precision-training-in-pytorch/)
