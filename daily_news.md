@@ -1790,3 +1790,8 @@
 - [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
 - [Sunlight, a Certificate Transparency log implementation](https://letsencrypt.org/2024/03/14/introducing-sunlight.html)
 - [Show HN: Matrix Multiplication with Half the Multiplications](https://github.com/trevorpogue/algebraic-nnhw)
+## Morning Digest - 16-03-2024
+
+- [Brain Waves Appear to Wash Out Waste During Sleep](https://jamanetwork.com/journals/jama/fullarticle/2816616)
+- [Self-Printing Machine Code (2005)](https://susam.net/self-printing-machine-code.html)
+- [On clock faces, 4 is Expressed as IIII, not IV](https://museum.seiko.co.jp/en/knowledge/trivia02/)
