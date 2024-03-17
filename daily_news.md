@@ -1800,3 +1800,8 @@
 - [Fuzzing Ladybird with tools from Google Project Zero](https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from)
 - [Affordable Wheel Based Refreshable Braille Display](https://jacquesmattheij.com/refreshablebraille/BrailleDisplayProject.html)
 - [Telefunken Datenspeicher](https://retrocomputing.stackexchange.com/questions/29676/what-is-this-large-device-labelled-telefunken-datenspeicher-and-how-does-it-wo)
+## Morning Digest - 17-03-2024
+
+- [The return of the frame pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
+- [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
+- [How Microchips Work](https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html)
