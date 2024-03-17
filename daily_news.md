@@ -1805,3 +1805,8 @@
 - [The return of the frame pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
 - [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
 - [How Microchips Work](https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html)
+## Afternoon/Evening Digest - 17-03-2024
+
+- [LLM4Decompile: Decompiling Binary Code with LLM](https://github.com/albertan017/LLM4Decompile)
+- [The return of the frame pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
+- [Gravitational Collapse of Spongebob](https://twitter.com/PeRossello/status/1769035370031694214)
