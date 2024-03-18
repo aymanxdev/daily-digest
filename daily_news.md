@@ -1810,3 +1810,8 @@
 - [LLM4Decompile: Decompiling Binary Code with LLM](https://github.com/albertan017/LLM4Decompile)
 - [The return of the frame pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
 - [Gravitational Collapse of Spongebob](https://twitter.com/PeRossello/status/1769035370031694214)
+## Morning Digest - 18-03-2024
+
+- [Don Knuth letter about libraries increasingly unable to afford prices (2003) [pdf]](https://cs.stanford.edu/~knuth/joalet.pdf)
+- [Instinctive Sleeping and Resting Postures](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1119282/)
+- [AWS Makes Cloud Formation Stack Creation Up to 40% Faster](https://www.infoq.com/news/2024/03/aws-cloud-formation-faster/)
