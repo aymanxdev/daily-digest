@@ -1815,3 +1815,8 @@
 - [Don Knuth letter about libraries increasingly unable to afford prices (2003) [pdf]](https://cs.stanford.edu/~knuth/joalet.pdf)
 - [Instinctive Sleeping and Resting Postures](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1119282/)
 - [AWS Makes Cloud Formation Stack Creation Up to 40% Faster](https://www.infoq.com/news/2024/03/aws-cloud-formation-faster/)
+## Afternoon/Evening Digest - 18-03-2024
+
+- [900 Sites, 125M accounts, 1 Vulnerability](https://env.fail/posts/firewreck-1/)
+- [Paris cycling numbers double in one year thanks to investment](https://momentummag.com/paris-cycling-numbers-double/)
+- [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
