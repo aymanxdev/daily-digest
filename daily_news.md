@@ -1820,3 +1820,8 @@
 - [900 Sites, 125M accounts, 1 Vulnerability](https://env.fail/posts/firewreck-1/)
 - [Paris cycling numbers double in one year thanks to investment](https://momentummag.com/paris-cycling-numbers-double/)
 - [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
+## Morning Digest - 19-03-2024
+
+- [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)
+- [Garnet – A new remote cache-store from Microsoft Research](https://github.com/microsoft/garnet)
+- [20 Years of "Not Even Wrong"](https://www.math.columbia.edu/~woit/wordpress/?p=13864)
