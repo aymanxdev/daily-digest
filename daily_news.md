@@ -1825,3 +1825,8 @@
 - [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)
 - [Garnet – A new remote cache-store from Microsoft Research](https://github.com/microsoft/garnet)
 - [20 Years of "Not Even Wrong"](https://www.math.columbia.edu/~woit/wordpress/?p=13864)
+## Afternoon/Evening Digest - 19-03-2024
+
+- [LaTeX3 Automatic Labels for Fun and No Profit](https://commutative.xyz/~miguelmurca/blog/x/autoref.html)
+- [BootLogo: Logo language in 508 bytes of x86 machine code](https://github.com/nanochess/bootLogo)
+- [USB hubs, printers, Java, and more seemingly broken by macOS 14.4 update](https://arstechnica.com/gadgets/2024/03/usb-hubs-printers-java-and-more-seemingly-broken-by-macos-14-4-update/)
