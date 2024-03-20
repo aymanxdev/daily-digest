@@ -1830,3 +1830,8 @@
 - [LaTeX3 Automatic Labels for Fun and No Profit](https://commutative.xyz/~miguelmurca/blog/x/autoref.html)
 - [BootLogo: Logo language in 508 bytes of x86 machine code](https://github.com/nanochess/bootLogo)
 - [USB hubs, printers, Java, and more seemingly broken by macOS 14.4 update](https://arstechnica.com/gadgets/2024/03/usb-hubs-printers-java-and-more-seemingly-broken-by-macos-14-4-update/)
+## Morning Digest - 20-03-2024
+
+- [Regex character "$" doesn't mean "end-of-string"](https://sethmlarson.dev/regex-$-matches-end-of-string-or-newline)
+- [I Improved My Rust Compile Times by 75%](https://benw.is/posts/how-i-improved-my-rust-compile-times-by-seventy-five-percent)
+- [Lego price per part over the years](https://brickinsights.com/statistics/ppp)
