@@ -1835,3 +1835,8 @@
 - [Regex character "$" doesn't mean "end-of-string"](https://sethmlarson.dev/regex-$-matches-end-of-string-or-newline)
 - [I Improved My Rust Compile Times by 75%](https://benw.is/posts/how-i-improved-my-rust-compile-times-by-seventy-five-percent)
 - [Lego price per part over the years](https://brickinsights.com/statistics/ppp)
+## Afternoon/Evening Digest - 20-03-2024
+
+- [How OpenAI's Sora Model Works](https://www.factorialfunds.com/blog/under-the-hood-how-openai-s-sora-model-works)
+- [Bug Hunting in Btrfs](https://tavianator.com/2024/btrfs_bug.html)
+- [Michel Talagrand Wins Abel Prize for Work Wrangling Randomness](https://www.quantamagazine.org/michel-talagrand-wins-abel-prize-for-work-wrangling-randomness-20240320/)
