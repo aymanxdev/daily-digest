@@ -1840,3 +1840,8 @@
 - [How OpenAI's Sora Model Works](https://www.factorialfunds.com/blog/under-the-hood-how-openai-s-sora-model-works)
 - [Bug Hunting in Btrfs](https://tavianator.com/2024/btrfs_bug.html)
 - [Michel Talagrand Wins Abel Prize for Work Wrangling Randomness](https://www.quantamagazine.org/michel-talagrand-wins-abel-prize-for-work-wrangling-randomness-20240320/)
+## Morning Digest - 21-03-2024
+
+- [Redis License Changed](https://github.com/redis/redis/blob/unstable/LICENSE.txt)
+- [Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler](https://github.com/00-Evan/shattered-pixel-dungeon)
+- [Vernor Vinge (1944-2024)](https://file770.com/vernor-vinge-1944-2024/)
