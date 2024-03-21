@@ -1845,3 +1845,8 @@
 - [Redis License Changed](https://github.com/redis/redis/blob/unstable/LICENSE.txt)
 - [Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler](https://github.com/00-Evan/shattered-pixel-dungeon)
 - [Vernor Vinge (1944-2024)](https://file770.com/vernor-vinge-1944-2024/)
+## Afternoon/Evening Digest - 21-03-2024
+
+- [Show HN: Dropflow, a CSS layout engine for node or <canvas>](https://github.com/chearon/dropflow)
+- [The baffling intelligence of a single cell: The story of E. coli chemotaxis](https://jsomers.net/e-coli-chemotaxis/)
+- [Difftastic, a structural diff tool that understands syntax](https://difftastic.wilfred.me.uk/)
