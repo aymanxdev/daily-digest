@@ -1850,3 +1850,8 @@
 - [Show HN: Dropflow, a CSS layout engine for node or <canvas>](https://github.com/chearon/dropflow)
 - [The baffling intelligence of a single cell: The story of E. coli chemotaxis](https://jsomers.net/e-coli-chemotaxis/)
 - [Difftastic, a structural diff tool that understands syntax](https://difftastic.wilfred.me.uk/)
+## Morning Digest - 22-03-2024
+
+- [Show HN: Mapping almost every law, regulation and case in Australia](https://umarbutler.com/mapping-almost-every-law-regulation-and-case-in-australia/)
+- [Picotron Is a Fantasy Workstation](https://www.lexaloffle.com/picotron.php)
+- [Show HN: Memories – FOSS Google Photos alternative built for high performance](https://memories.gallery/)
