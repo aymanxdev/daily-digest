@@ -1855,3 +1855,8 @@
 - [Show HN: Mapping almost every law, regulation and case in Australia](https://umarbutler.com/mapping-almost-every-law-regulation-and-case-in-australia/)
 - [Picotron Is a Fantasy Workstation](https://www.lexaloffle.com/picotron.php)
 - [Show HN: Memories – FOSS Google Photos alternative built for high performance](https://memories.gallery/)
+## Afternoon/Evening Digest - 22-03-2024
+
+- [My grandfather Paul Tillich, the unbelieving theologian Essays](https://aeon.co/essays/my-grandfather-paul-tillich-the-unbelieving-theologian)
+- [Picotron Is a Fantasy Workstation](https://www.lexaloffle.com/picotron.php)
+- [Antithesis of a One-in-a-Million Bug: Taming Demonic Nondeterminism](https://www.cockroachlabs.com/blog/demonic-nondeterminism/)
