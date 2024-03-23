@@ -1865,3 +1865,8 @@
 - [SQLite Schema Diagram Generator](https://gitlab.com/Screwtapello/sqlite-schema-diagram)
 - [Fundamentals of Object Storage in Elixir](https://underjord.io/fundamentals-of-object-storage.html)
 - [Visiting Scarfolk, the most spectacular dystopia of the 1970s (2016)](https://www.collectorsweekly.com/articles/visiting-scarfolk/)
+## Afternoon/Evening Digest - 23-03-2024
+
+- [Game of Life, simulating itself, infinitely zoomable](https://oimo.io/works/life/)
+- [Bertie – A minimal, high-assurance implementation of TLS 1.3 written in hacspec](https://github.com/cryspen/bertie)
+- [Feedle: A search engine for blogs and podcasts](https://feedle.world/)
