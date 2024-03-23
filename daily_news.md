@@ -1860,3 +1860,8 @@
 - [My grandfather Paul Tillich, the unbelieving theologian Essays](https://aeon.co/essays/my-grandfather-paul-tillich-the-unbelieving-theologian)
 - [Picotron Is a Fantasy Workstation](https://www.lexaloffle.com/picotron.php)
 - [Antithesis of a One-in-a-Million Bug: Taming Demonic Nondeterminism](https://www.cockroachlabs.com/blog/demonic-nondeterminism/)
+## Morning Digest - 23-03-2024
+
+- [SQLite Schema Diagram Generator](https://gitlab.com/Screwtapello/sqlite-schema-diagram)
+- [Fundamentals of Object Storage in Elixir](https://underjord.io/fundamentals-of-object-storage.html)
+- [Visiting Scarfolk, the most spectacular dystopia of the 1970s (2016)](https://www.collectorsweekly.com/articles/visiting-scarfolk/)
