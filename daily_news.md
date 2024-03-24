@@ -1875,3 +1875,8 @@
 - [New Aztec Codices Discovered: The Codices of San Andrés Tetepilco](https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/)
 - [After 41 years, my first assembly program on my first computer, the Tomy Tutor](http://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html)
 - [Creating an autopilot in X-Plane using Python](https://austinsnerdythings.com/2021/10/15/creating-an-autopilot-in-x-plane-using-python-part-1/)
+## Afternoon/Evening Digest - 24-03-2024
+
+- [PSChess – A Chess Engine in PostScript](https://seriot.ch/projects/pschess.html)
+- [TinySSH is a small SSH server using NaCl, TweetNaCl](https://github.com/janmojzis/tinyssh)
+- [Fault tolerance and resilience patterns for Go](https://github.com/failsafe-go/failsafe-go)
