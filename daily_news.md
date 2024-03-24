@@ -1870,3 +1870,8 @@
 - [Game of Life, simulating itself, infinitely zoomable](https://oimo.io/works/life/)
 - [Bertie – A minimal, high-assurance implementation of TLS 1.3 written in hacspec](https://github.com/cryspen/bertie)
 - [Feedle: A search engine for blogs and podcasts](https://feedle.world/)
+## Morning Digest - 24-03-2024
+
+- [New Aztec Codices Discovered: The Codices of San Andrés Tetepilco](https://tlacuilolli.com/2024/03/21/new-aztec-codices-the-codices-of-san-andres-tetepilco/)
+- [After 41 years, my first assembly program on my first computer, the Tomy Tutor](http://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html)
+- [Creating an autopilot in X-Plane using Python](https://austinsnerdythings.com/2021/10/15/creating-an-autopilot-in-x-plane-using-python-part-1/)
