@@ -1885,3 +1885,8 @@
 - [Windows 98 Icons](https://win98icons.alexmeub.com/)
 - [Why choose async/await over threads?](https://notgull.net/why-not-threads/)
 - [Monolith – CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith)
+## Afternoon/Evening Digest - 25-03-2024
+
+- [For Brilliant Color: Packaging the First LSD Blotter](https://thereader.mitpress.mit.edu/for-brilliant-color-packaging-the-first-lsd-blotter/)
+- [Show HN: Nano-web, a low latency one binary webserver designed for serving SPAs](https://github.com/radiosilence/nano-web)
+- [Show HN: Jampack – Optimizes static websites as a post-processing step](https://github.com/divriots/jampack)
