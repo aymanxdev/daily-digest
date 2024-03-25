@@ -1880,3 +1880,8 @@
 - [PSChess – A Chess Engine in PostScript](https://seriot.ch/projects/pschess.html)
 - [TinySSH is a small SSH server using NaCl, TweetNaCl](https://github.com/janmojzis/tinyssh)
 - [Fault tolerance and resilience patterns for Go](https://github.com/failsafe-go/failsafe-go)
+## Morning Digest - 25-03-2024
+
+- [Windows 98 Icons](https://win98icons.alexmeub.com/)
+- [Why choose async/await over threads?](https://notgull.net/why-not-threads/)
+- [Monolith – CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith)
