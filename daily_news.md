@@ -1890,3 +1890,8 @@
 - [For Brilliant Color: Packaging the First LSD Blotter](https://thereader.mitpress.mit.edu/for-brilliant-color-packaging-the-first-lsd-blotter/)
 - [Show HN: Nano-web, a low latency one binary webserver designed for serving SPAs](https://github.com/radiosilence/nano-web)
 - [Show HN: Jampack – Optimizes static websites as a post-processing step](https://github.com/divriots/jampack)
+## Morning Digest - 26-03-2024
+
+- [The Francis Scott Key Bridge in Baltimore, Maryland Has Collapsed](https://twitter.com/sentdefender/status/1772514015790477667)
+- [Radios, how do they work?](https://lcamtuf.substack.com/p/radios-how-do-they-work)
+- [Google's First Tensor Processing Unit: Architecture](https://thechipletter.substack.com/p/googles-first-tpu-architecture)
