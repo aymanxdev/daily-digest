@@ -1895,3 +1895,8 @@
 - [The Francis Scott Key Bridge in Baltimore, Maryland Has Collapsed](https://twitter.com/sentdefender/status/1772514015790477667)
 - [Radios, how do they work?](https://lcamtuf.substack.com/p/radios-how-do-they-work)
 - [Google's First Tensor Processing Unit: Architecture](https://thechipletter.substack.com/p/googles-first-tpu-architecture)
+## Afternoon/Evening Digest - 26-03-2024
+
+- [Sega Saturn Architecture – A practical analysis](https://www.copetti.org/writings/consoles/sega-saturn/)
+- [Debian/Ubuntu privilege escalation PoC exploit for CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086)
+- [Hybrid-Net: Real-time audio source separation, generate lyrics, chords, beat](https://github.com/DoMusic/Hybrid-Net)
