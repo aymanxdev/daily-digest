@@ -1910,3 +1910,8 @@
 - [ST-DOS](http://sininenankka.dy.fi/~sami/fdshell/doskernel.php)
 - [Writing Gnome Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
 - [BeagleY-AI: a 4 TOPS-capable $70 board from Beagleboard](https://www.beagleboard.org/boards/beagley-ai)
+## Afternoon/Evening Digest - 28-03-2024
+
+- [Show HN: I made a binary enigma machine for manual encryption](https://makerworld.com/en/models/247798)
+- [What is DECT-2020 New Radio (NR), and how big a deal is it? (2021)](https://blog.nordicsemi.com/getconnected/what-is-dect-2020-new-radio-nr-and-how-big-a-deal-is-it)
+- [EpiPen For Heart Attacks? Idorsia Launches Phase III Study Of Selatogrel (2021)](https://scrip.citeline.com:443/SC144926/An-EpiPen-For-Heart-Attacks-Idorsia-Launches-Phase-III-Study-Of-Selatogrel)
