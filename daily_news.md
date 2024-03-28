@@ -1905,3 +1905,8 @@
 - [Introducing DBRX: A New State-of-the-Art Open LLM by Databricks](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
 - [The window for great-grandmothers is closing](https://memoirsandrambles.substack.com/p/the-window-for-great-grandmothers)
 - [FuryGpu – Custom PCIe FPGA GPU](https://www.furygpu.com)
+## Morning Digest - 28-03-2024
+
+- [ST-DOS](http://sininenankka.dy.fi/~sami/fdshell/doskernel.php)
+- [Writing Gnome Apps with Swift](https://www.swift.org/blog/adwaita-swift/)
+- [BeagleY-AI: a 4 TOPS-capable $70 board from Beagleboard](https://www.beagleboard.org/boards/beagley-ai)
