@@ -1915,3 +1915,8 @@
 - [Show HN: I made a binary enigma machine for manual encryption](https://makerworld.com/en/models/247798)
 - [What is DECT-2020 New Radio (NR), and how big a deal is it? (2021)](https://blog.nordicsemi.com/getconnected/what-is-dect-2020-new-radio-nr-and-how-big-a-deal-is-it)
 - [EpiPen For Heart Attacks? Idorsia Launches Phase III Study Of Selatogrel (2021)](https://scrip.citeline.com:443/SC144926/An-EpiPen-For-Heart-Attacks-Idorsia-Launches-Phase-III-Study-Of-Selatogrel)
+## Morning Digest - 29-03-2024
+
+- [PostgreSQL maintainer Simon Riggs has died in a small airplane crash](https://m6n.io/@fuzzychef/112172393647826741)
+- [The race to replace Redis](https://lwn.net/SubscriberLink/966631/6bf2063136effa1e/)
+- [Arraymancer – Deep Learning Nim Library](https://github.com/mratsim/Arraymancer)
