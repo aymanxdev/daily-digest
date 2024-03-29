@@ -1920,3 +1920,8 @@
 - [PostgreSQL maintainer Simon Riggs has died in a small airplane crash](https://m6n.io/@fuzzychef/112172393647826741)
 - [The race to replace Redis](https://lwn.net/SubscriberLink/966631/6bf2063136effa1e/)
 - [Arraymancer – Deep Learning Nim Library](https://github.com/mratsim/Arraymancer)
+## Afternoon/Evening Digest - 29-03-2024
+
+- [Simon Riggs has died](https://m6n.io/@fuzzychef/112172393647826741)
+- [OpenVoice: Versatile Instant Voice Cloning](https://research.myshell.ai/open-voice)
+- [James Webb Telescope Confirms That the Universe Is Expanding at Different Speeds](https://www.tomorrowsworldtoday.com/space/james-webb-telescope-to-confirms-that-the-universe-is-expanding-at-different-speeds/)
