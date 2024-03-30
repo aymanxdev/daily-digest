@@ -1925,3 +1925,8 @@
 - [Simon Riggs has died](https://m6n.io/@fuzzychef/112172393647826741)
 - [OpenVoice: Versatile Instant Voice Cloning](https://research.myshell.ai/open-voice)
 - [James Webb Telescope Confirms That the Universe Is Expanding at Different Speeds](https://www.tomorrowsworldtoday.com/space/james-webb-telescope-to-confirms-that-the-universe-is-expanding-at-different-speeds/)
+## Morning Digest - 30-03-2024
+
+- [We are under DDoS attack and we do nothing](https://tableplus.com/blog/2024/03/how-we-deal-with-ddos.html)
+- [Backdoor in upstream xz/liblzma leading to SSH server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
+- [Full-scale file system acceleration on GPU [pdf]](https://dl.gi.de/server/api/core/bitstreams/7c7a8830-fd81-4e56-8507-cd4809020660/content)
