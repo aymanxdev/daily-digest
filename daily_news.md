@@ -1940,3 +1940,8 @@
 - [XZ backdoor: "It's RCE, not auth bypass, and gated/unreplayable."](https://bsky.app/profile/filippo.abyssdomain.expert/post/3kowjkx2njy2b)
 - [Meta's Onavo VPN removed SSL encryption of competitor's analytics traffic](https://www.documentcloud.org/documents/24520332-merged-fb)
 - [xz: A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
+## Afternoon/Evening Digest - 31-03-2024
+
+- [Shutting down the letsblock.it project and its official instance](https://github.com/letsblockit/letsblockit/discussions/663)
+- [The Illusion of Being Stuck](https://the-simulation-strategists.beehiiv.com/p/being-stuck)
+- [Guess My RGB](https://susam.net/myrgb.html)
