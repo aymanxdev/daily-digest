@@ -1935,3 +1935,8 @@
 - [Garbage Collection for Systems Programmers (2023)](https://bitbashing.io/gc-for-systems-programmers.html)
 - [Prolog language for PostgreSQL proof of concept](https://github.com/tatut/pgprolog)
 - [When Will the Eclipse Happen? A Multimillennium Tale of Computation](https://writings.stephenwolfram.com/2024/03/when-exactly-will-the-eclipse-happen-a-multimillennium-tale-of-computation/)
+## Morning Digest - 31-03-2024
+
+- [XZ backdoor: "It's RCE, not auth bypass, and gated/unreplayable."](https://bsky.app/profile/filippo.abyssdomain.expert/post/3kowjkx2njy2b)
+- [Meta's Onavo VPN removed SSL encryption of competitor's analytics traffic](https://www.documentcloud.org/documents/24520332-merged-fb)
+- [xz: A Microcosm of the interactions in Open Source projects](https://robmensching.com/blog/posts/2024/03/30/a-microcosm-of-the-interactions-in-open-source-projects/)
