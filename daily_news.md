@@ -1945,3 +1945,8 @@
 - [Shutting down the letsblock.it project and its official instance](https://github.com/letsblockit/letsblockit/discussions/663)
 - [The Illusion of Being Stuck](https://the-simulation-strategists.beehiiv.com/p/being-stuck)
 - [Guess My RGB](https://susam.net/myrgb.html)
+## Morning Digest - 01-04-2024
+
+- [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
+- [First-in-human implantation of bionic device to halt Crohn's disease](https://florey.edu.au/news/2023/12/first-in-human-implantation-of-bionic-device-to-halt-crohns-disease/)
+- [Hosting a Public Website on MS-DOS](https://fsturmat.net/blog/04202022/)
