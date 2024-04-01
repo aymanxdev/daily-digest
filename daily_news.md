@@ -1950,3 +1950,8 @@
 - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
 - [First-in-human implantation of bionic device to halt Crohn's disease](https://florey.edu.au/news/2023/12/first-in-human-implantation-of-bionic-device-to-halt-crohns-disease/)
 - [Hosting a Public Website on MS-DOS](https://fsturmat.net/blog/04202022/)
+## Afternoon/Evening Digest - 01-04-2024
+
+- [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
+- [Century-Old Stone "Tsunami Stones" Dot Japan's Coastline](https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/)
+- [First-in-human implantation of bionic device to halt Crohn's disease](https://florey.edu.au/news/2023/12/first-in-human-implantation-of-bionic-device-to-halt-crohns-disease/)
