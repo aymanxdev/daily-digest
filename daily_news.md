@@ -1960,3 +1960,8 @@
 - [Low Cost Robot Arm](https://github.com/AlexanderKoch-Koch/low_cost_robot)
 - [Blue Ball Machine](https://blueballfixed.ytmnd.com/)
 - [Wireproxy: WireGuard client that exposes itself as a HTTP/SOCKS5 proxy](https://github.com/pufferffish/wireproxy)
+## Afternoon/Evening Digest - 02-04-2024
+
+- ['10 > 64, in QR Codes](https://huonw.github.io/blog/2024/03/qr-base10-base64/)
+- [Debian Git Monorepo](https://blog.liw.fi/posts/2024/monorepo/)
+- [Timeline of the xz open source attack](https://research.swtch.com/xz-timeline)
