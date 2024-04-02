@@ -1955,3 +1955,8 @@
 - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
 - [Century-Old Stone "Tsunami Stones" Dot Japan's Coastline](https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/)
 - [First-in-human implantation of bionic device to halt Crohn's disease](https://florey.edu.au/news/2023/12/first-in-human-implantation-of-bionic-device-to-halt-crohns-disease/)
+## Morning Digest - 02-04-2024
+
+- [Low Cost Robot Arm](https://github.com/AlexanderKoch-Koch/low_cost_robot)
+- [Blue Ball Machine](https://blueballfixed.ytmnd.com/)
+- [Wireproxy: WireGuard client that exposes itself as a HTTP/SOCKS5 proxy](https://github.com/pufferffish/wireproxy)
