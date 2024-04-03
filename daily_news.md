@@ -1965,3 +1965,8 @@
 - ['10 > 64, in QR Codes](https://huonw.github.io/blog/2024/03/qr-base10-base64/)
 - [Debian Git Monorepo](https://blog.liw.fi/posts/2024/monorepo/)
 - [Timeline of the xz open source attack](https://research.swtch.com/xz-timeline)
+## Afternoon/Evening Digest - 03-04-2024
+
+- [PyTorch Library for Running LLM on Intel CPU and GPU](https://github.com/intel-analytics/ipex-llm)
+- [LiveView Is Best with Svelte](https://blog.sequin.io/liveview-is-best-with-svelte/)
+- [The ancient world before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
