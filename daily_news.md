@@ -1975,3 +1975,8 @@
 - [Show HN: I've built a locally running Perplexity clone](https://github.com/nilsherzig/LLocalSearch)
 - [A disk so full, it couldn't be restored](https://sixcolors.com/post/2024/03/a-disk-so-full-it-couldnt-be-restored/)
 - [Online Encyclopedia of Integer Sequences](https://oeis.org/)
+## Afternoon/Evening Digest - 04-04-2024
+
+- [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
+- [Kobold letters: Why HTML emails are a risk to your organization](https://lutrasecurity.com/en/articles/kobold-letters/)
+- [A podcast about the xz backdoor with the guy who found it](https://risky.biz/RB743/)
