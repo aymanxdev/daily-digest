@@ -1970,3 +1970,8 @@
 - [PyTorch Library for Running LLM on Intel CPU and GPU](https://github.com/intel-analytics/ipex-llm)
 - [LiveView Is Best with Svelte](https://blog.sequin.io/liveview-is-best-with-svelte/)
 - [The ancient world before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
+## Morning Digest - 04-04-2024
+
+- [Show HN: I've built a locally running Perplexity clone](https://github.com/nilsherzig/LLocalSearch)
+- [A disk so full, it couldn't be restored](https://sixcolors.com/post/2024/03/a-disk-so-full-it-couldnt-be-restored/)
+- [Online Encyclopedia of Integer Sequences](https://oeis.org/)
