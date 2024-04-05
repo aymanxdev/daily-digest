@@ -1985,3 +1985,8 @@
 - [GitHub is down](https://www.githubstatus.com/incidents/bnkkbj90yhz6)
 - [Mario meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
 - [How Would You Turn This Dial to Make the Freezer Colder?](https://kottke.org/24/03/how-would-you-turn-this-dial-to-make-the-freezer-colder)
+## Afternoon/Evening Digest - 05-04-2024
+
+- [M 4.7 Earthquake 7 km N of Whitehouse Station, New Jersey – USGS](https://earthquake.usgs.gov/earthquakes/eventpage/at00sbh3yv/executive)
+- [4.7 Earthquake in NYC](https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=ld2009021400&extent=39.64377,-78.45886&extent=42.91218,-69.94446&range=search&sort=largest&listOnlyShown=true&baseLayer=terrain&timeZone=utc&search=%7B%22name%22:%22Search%20Results%22,%22params%22:%7B%22starttime%22:%221900-01-01%2000:00:00%22,%22maxlatitude%22:45.176,%22minlatitude%22:40.657,%22maxlongitude%22:-71.642,%22minlongitude%22:-79.991,%22minmagnitude%22:0,%22orderby%22:%22time%22%7D%7D)
+- [So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself)
