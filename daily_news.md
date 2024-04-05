@@ -1980,3 +1980,8 @@
 - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
 - [Kobold letters: Why HTML emails are a risk to your organization](https://lutrasecurity.com/en/articles/kobold-letters/)
 - [A podcast about the xz backdoor with the guy who found it](https://risky.biz/RB743/)
+## Morning Digest - 05-04-2024
+
+- [GitHub is down](https://www.githubstatus.com/incidents/bnkkbj90yhz6)
+- [Mario meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
+- [How Would You Turn This Dial to Make the Freezer Colder?](https://kottke.org/24/03/how-would-you-turn-this-dial-to-make-the-freezer-colder)
