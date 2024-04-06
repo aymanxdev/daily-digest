@@ -1995,3 +1995,8 @@
 - [What I think about when I edit](https://evaparish.com/blog/how-i-edit)
 - [SearXNG is a free internet metasearch engine](https://github.com/searxng/searxng)
 - [NIST researchers use cellphone compass to measure glucose](https://www.nist.gov/news-events/news/2024/04/nist-researchers-use-cellphone-compass-measure-tiny-concentrations)
+## Afternoon/Evening Digest - 06-04-2024
+
+- [Language Models Are Super Mario: Absorbing Abilities from Homologous Models](https://arxiv.org/abs/2311.03099)
+- [System/360 – CHM Revolution](https://www.computerhistory.org/revolution/mainframe-computers/7/164)
+- [When Wizards and Orcs Came to Death Row](https://www.themarshallproject.org/2023/08/31/dungeons-and-dragons-texas-death-row-tdcj)
