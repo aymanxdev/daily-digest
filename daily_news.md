@@ -2005,3 +2005,8 @@
 - [Is the frequency domain a real place?](https://lcamtuf.substack.com/p/is-the-frequency-domain-a-real-place)
 - [ElephantSQL Is Shutting Down](https://www.elephantsql.com/blog/end-of-life-announcement.html)
 - [WinBtrfs – an open-source btrfs driver for Windows](https://github.com/maharmstone/btrfs)
+## Afternoon/Evening Digest - 07-04-2024
+
+- [Command Injection and Backdoor Account in D-Link NAS Devices](https://github.com/netsecfish/dlink)
+- [Did any processor implement an integer square root instruction?](https://retrocomputing.stackexchange.com/questions/29787/did-any-processor-implement-an-integer-square-root-instruction)
+- [Adventures Making Vegemite](https://daveon.design/adventures-making-vegemite.html)
