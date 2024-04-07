@@ -2000,3 +2000,8 @@
 - [Language Models Are Super Mario: Absorbing Abilities from Homologous Models](https://arxiv.org/abs/2311.03099)
 - [System/360 – CHM Revolution](https://www.computerhistory.org/revolution/mainframe-computers/7/164)
 - [When Wizards and Orcs Came to Death Row](https://www.themarshallproject.org/2023/08/31/dungeons-and-dragons-texas-death-row-tdcj)
+## Morning Digest - 07-04-2024
+
+- [Is the frequency domain a real place?](https://lcamtuf.substack.com/p/is-the-frequency-domain-a-real-place)
+- [ElephantSQL Is Shutting Down](https://www.elephantsql.com/blog/end-of-life-announcement.html)
+- [WinBtrfs – an open-source btrfs driver for Windows](https://github.com/maharmstone/btrfs)
