@@ -2025,3 +2025,8 @@
 - [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
 - [Llm.c – LLM training in simple, pure C/CUDA](https://github.com/karpathy/llm.c)
 - [How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
+## Afternoon/Evening Digest - 09-04-2024
+
+- [New Grafana Loki UI: No LogQL Required](https://grafana.com/blog/2024/04/09/find-your-logs-data-with-explore-logs-no-logql-required/)
+- [Chronon, Airbnb's ML Feature Platform, Is Now Open Source](https://medium.com/airbnb-engineering/chronon-airbnbs-ml-feature-platform-is-now-open-source-d9c4dba859e8)
+- [Google CodeGemma: Open Code Models Based on Gemma [pdf]](https://storage.googleapis.com/deepmind-media/gemma/codegemma_report.pdf)
