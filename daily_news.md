@@ -2020,3 +2020,8 @@
 - [Vala Programming Language](https://vala.dev/)
 - [Just How Much Faster Are the Gnome 46 Terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)
 - [A brief history of keyboard encoding](https://kbd.news/A-brief-history-of-keyboard-encoding-2199.html)
+## Morning Digest - 09-04-2024
+
+- [Show HN: I made a discrete logic network card](https://qdiv.dev/posts/eth2/)
+- [Llm.c – LLM training in simple, pure C/CUDA](https://github.com/karpathy/llm.c)
+- [How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
