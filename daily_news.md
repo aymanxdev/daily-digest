@@ -2030,3 +2030,8 @@
 - [New Grafana Loki UI: No LogQL Required](https://grafana.com/blog/2024/04/09/find-your-logs-data-with-explore-logs-no-logql-required/)
 - [Chronon, Airbnb's ML Feature Platform, Is Now Open Source](https://medium.com/airbnb-engineering/chronon-airbnbs-ml-feature-platform-is-now-open-source-d9c4dba859e8)
 - [Google CodeGemma: Open Code Models Based on Gemma [pdf]](https://storage.googleapis.com/deepmind-media/gemma/codegemma_report.pdf)
+## Morning Digest - 10-04-2024
+
+- [Multimillion-dollar L.A. heist was seamless, sophisticated, stealthy](https://www.latimes.com/california/story/2024-04-06/30-million-theft-from-l-a-vault-was-seemless-sophisticated-daring)
+- [Verified Curl](https://daniel.haxx.se/blog/2024/04/10/verified-curl/)
+- [A MySQL compatible database engine written in pure Go](https://github.com/dolthub/go-mysql-server)
