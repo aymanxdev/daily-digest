@@ -2035,3 +2035,8 @@
 - [Multimillion-dollar L.A. heist was seamless, sophisticated, stealthy](https://www.latimes.com/california/story/2024-04-06/30-million-theft-from-l-a-vault-was-seemless-sophisticated-daring)
 - [Verified Curl](https://daniel.haxx.se/blog/2024/04/10/verified-curl/)
 - [A MySQL compatible database engine written in pure Go](https://github.com/dolthub/go-mysql-server)
+## Afternoon/Evening Digest - 10-04-2024
+
+- [Twitter's Clumsy Pivot to X.com Is a Gift to Phishers](https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/)
+- [Double-Entry Bookkeeping as a Directed Graph](https://matheusportela.com/double-entry-bookkeeping-as-a-directed-graph)
+- [Show HN: Ads-B Visualizer](https://adsb.exposed/)
