@@ -2040,3 +2040,8 @@
 - [Twitter's Clumsy Pivot to X.com Is a Gift to Phishers](https://krebsonsecurity.com/2024/04/twitters-clumsy-pivot-to-x-com-is-a-gift-to-phishers/)
 - [Double-Entry Bookkeeping as a Directed Graph](https://matheusportela.com/double-entry-bookkeeping-as-a-directed-graph)
 - [Show HN: Ads-B Visualizer](https://adsb.exposed/)
+## Morning Digest - 11-04-2024
+
+- [AI-generated sad girl with piano performs the text of the MIT License](https://suno.com/song/da6d4a83-1001-4694-8c28-648a6e8bad0a/)
+- [Continuous Social Media Scrolling Negatively Impacts Eye Movement](https://www.optometryadvisor.com/home/meetings/aaopt-2021/social-media-scrolling-detrimental-to-ocular-health/)
+- [Going in circles without a real-time clock](https://rachelbythebay.com/w/2024/04/10/rtc/)
