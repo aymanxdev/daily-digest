@@ -2055,3 +2055,8 @@
 - [Webb – Space Telescope Live. What Is Webb Observing Now?](https://spacetelescopelive.org/webb?obsId=01HTJT20C0STKNZ01KQYGEKBQ1)
 - [Explaining Llm.c in Layman Terms](https://nitter.poast.org/karpathy/status/1778153659106533806)
 - [Organizing OpenStreetMap Mapping Parties](https://contrapunctus.codeberg.page/blog/mapping-party-tips.html)
+## Afternoon/Evening Digest - 12-04-2024
+
+- [An open source initiative to share and compare heat pump performance data](https://heatpumpmonitor.org/)
+- [Tinygrad: Hacked 4090 driver to enable P2P](https://github.com/tinygrad/open-gpu-kernel-modules)
+- [Fast, Declarative, Reproduble and Composable Developer Environments Using Nix](https://devenv.sh/)
