@@ -2050,3 +2050,8 @@
 - [Stacking Triangles for Fun and Profit](https://www.oranlooney.com/post/angle-addition/)
 - [Roll-to-roll fabricated perovskite solar cells under ambient room conditions](https://www.nature.com/articles/s41467-024-46016-1)
 - [ESA Satellites to Test Razor-Sharp Formation Flying](https://spectrum.ieee.org/satellite-constellation-formation-flying-esa)
+## Morning Digest - 12-04-2024
+
+- [Webb – Space Telescope Live. What Is Webb Observing Now?](https://spacetelescopelive.org/webb?obsId=01HTJT20C0STKNZ01KQYGEKBQ1)
+- [Explaining Llm.c in Layman Terms](https://nitter.poast.org/karpathy/status/1778153659106533806)
+- [Organizing OpenStreetMap Mapping Parties](https://contrapunctus.codeberg.page/blog/mapping-party-tips.html)
