@@ -2060,3 +2060,8 @@
 - [An open source initiative to share and compare heat pump performance data](https://heatpumpmonitor.org/)
 - [Tinygrad: Hacked 4090 driver to enable P2P](https://github.com/tinygrad/open-gpu-kernel-modules)
 - [Fast, Declarative, Reproduble and Composable Developer Environments Using Nix](https://devenv.sh/)
+## Afternoon/Evening Digest - 13-04-2024
+
+- [Tree-shaking, the horticulturally misguided algorithm](https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm)
+- [350 tons of of chocolate and wine arrive on world’s largest cargo sailboat](https://untappedcities.com/2024/04/12/grain-de-sail-ll/)
+- [A disgruntled federal employee's 1980s desk calendar (2018)](https://internationaltimes.it/a-disgruntled-federal-employees-1980s-desk-calendar/)
