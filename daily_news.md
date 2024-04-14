@@ -2070,3 +2070,8 @@
 - [Godot as an Embeddable Game Engine](https://tirania.org/blog/archive/2024/Apr-23.html)
 - [Obituary for a Quiet Life](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
 - [Getting into way too much detail with the Z80 netlist simulation (2021)](https://floooh.github.io/2021/12/06/z80-instruction-timing.html#table-of-content)
+## Afternoon/Evening Digest - 14-04-2024
+
+- [Obituary for a Quiet Life](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
+- [Fedora 41 will unify bin and sbin](https://fedoraproject.org/wiki/Changes/Unify_bin_and_sbin)
+- [Show HN: After so many ups and downs, InvoicingAPI is finally ready](https://invoicingapi.com)
