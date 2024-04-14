@@ -2065,3 +2065,8 @@
 - [Tree-shaking, the horticulturally misguided algorithm](https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm)
 - [350 tons of of chocolate and wine arrive on world’s largest cargo sailboat](https://untappedcities.com/2024/04/12/grain-de-sail-ll/)
 - [A disgruntled federal employee's 1980s desk calendar (2018)](https://internationaltimes.it/a-disgruntled-federal-employees-1980s-desk-calendar/)
+## Morning Digest - 14-04-2024
+
+- [Godot as an Embeddable Game Engine](https://tirania.org/blog/archive/2024/Apr-23.html)
+- [Obituary for a Quiet Life](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
+- [Getting into way too much detail with the Z80 netlist simulation (2021)](https://floooh.github.io/2021/12/06/z80-instruction-timing.html#table-of-content)
