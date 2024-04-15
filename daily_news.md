@@ -2080,3 +2080,8 @@
 - [Visualizing Attention, a Transformer's Heart [video]](https://www.3blue1brown.com/lessons/attention)
 - [Beautifying Org Mode in Emacs (2018)](https://zzamboni.org/post/beautifying-org-mode-in-emacs/)
 - [A shrub in Nepal supplies the raw material for the bank notes used in Japan](https://www.nytimes.com/2024/04/15/world/asia/nepal-japan-yen-argeli.html)
+## Afternoon/Evening Digest - 15-04-2024
+
+- [Neon Is Generally Available: Serverless Postgres](https://neon.tech/blog/neon-ga)
+- [TwitchAdSolutions – Blocking Twitch Ads](https://github.com/pixeltris/TwitchAdSolutions)
+- [Emacs Info Expressions](https://susam.net/emacs-info-expressions.html)
