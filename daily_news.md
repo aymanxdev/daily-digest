@@ -2075,3 +2075,8 @@
 - [Obituary for a Quiet Life](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
 - [Fedora 41 will unify bin and sbin](https://fedoraproject.org/wiki/Changes/Unify_bin_and_sbin)
 - [Show HN: After so many ups and downs, InvoicingAPI is finally ready](https://invoicingapi.com)
+## Morning Digest - 15-04-2024
+
+- [Visualizing Attention, a Transformer's Heart [video]](https://www.3blue1brown.com/lessons/attention)
+- [Beautifying Org Mode in Emacs (2018)](https://zzamboni.org/post/beautifying-org-mode-in-emacs/)
+- [A shrub in Nepal supplies the raw material for the bank notes used in Japan](https://www.nytimes.com/2024/04/15/world/asia/nepal-japan-yen-argeli.html)
