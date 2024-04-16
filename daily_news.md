@@ -2085,3 +2085,8 @@
 - [Neon Is Generally Available: Serverless Postgres](https://neon.tech/blog/neon-ga)
 - [TwitchAdSolutions – Blocking Twitch Ads](https://github.com/pixeltris/TwitchAdSolutions)
 - [Emacs Info Expressions](https://susam.net/emacs-info-expressions.html)
+## Morning Digest - 16-04-2024
+
+- [Descent 3 Source Code](https://github.com/kevinbentley/Descent3)
+- [A curious phenomenon called 'Etak'](https://maphappenings.com/2024/04/11/story-of-etak/)
+- [BTFS: BitTorrent Filesystem](https://github.com/johang/btfs)
