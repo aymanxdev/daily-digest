@@ -2090,3 +2090,8 @@
 - [Descent 3 Source Code](https://github.com/kevinbentley/Descent3)
 - [A curious phenomenon called 'Etak'](https://maphappenings.com/2024/04/11/story-of-etak/)
 - [BTFS: BitTorrent Filesystem](https://github.com/johang/btfs)
+## Afternoon/Evening Digest - 16-04-2024
+
+- [Product-Market Fit Isn't a Black Box – A New Framework to Help B2B Founders](https://pmf.firstround.com/levels)
+- [Loading a trillion rows of weather data into TimescaleDB](https://aliramadhan.me/2024/03/31/trillion-rows.html)
+- [A visual guide to Vision Transformer – A scroll story](https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html)
