@@ -2095,3 +2095,8 @@
 - [Product-Market Fit Isn't a Black Box – A New Framework to Help B2B Founders](https://pmf.firstround.com/levels)
 - [Loading a trillion rows of weather data into TimescaleDB](https://aliramadhan.me/2024/03/31/trillion-rows.html)
 - [A visual guide to Vision Transformer – A scroll story](https://blog.mdturp.ch/posts/2024-04-05-visual_guide_to_vision_transformer.html)
+## Morning Digest - 17-04-2024
+
+- [Tailscale SSH is now Generally Available](https://tailscale.com/blog/tailscale-ssh-ga)
+- [Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
+- [Caching secrets of the HTTP elders, part 1](https://csvbase.com/blog/8)
