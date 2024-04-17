@@ -2100,3 +2100,8 @@
 - [Tailscale SSH is now Generally Available](https://tailscale.com/blog/tailscale-ssh-ga)
 - [Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
 - [Caching secrets of the HTTP elders, part 1](https://csvbase.com/blog/8)
+## Afternoon/Evening Digest - 17-04-2024
+
+- [Mixtral 8x22B](https://mistral.ai/news/mixtral-8x22b/)
+- [How many bathrooms have Neanderthals in the tile?](https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/)
+- [An Electric New Era for Atlas](https://bostondynamics.com/blog/electric-new-era-for-atlas/)
