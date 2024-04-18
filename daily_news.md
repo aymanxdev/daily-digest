@@ -2110,3 +2110,8 @@
 - [Short Stack: World’s smallest Nintendo Wii](https://github.com/loopj/short-stack)
 - [Hardest problem in computer science: centering things](https://tonsky.me/blog/centering/)
 - [Goldene: A single atom layer of gold](https://liu.se/en/news-item/ett-atomlager-guld-liu-forskare-skapar-gulden)
+## Afternoon/Evening Digest - 18-04-2024
+
+- [Halo 2 in HD: Pushing the Original Xbox to the Limit](https://icode4.coffee/?p=738)
+- [Feathers Are One of Evolution's Cleverest Inventions](https://www.scientificamerican.com/article/why-feathers-are-one-of-evolutions-cleverest-inventions/)
+- [Short Stack: World’s smallest Nintendo Wii](https://github.com/loopj/short-stack)
