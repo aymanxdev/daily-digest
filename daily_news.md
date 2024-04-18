@@ -2105,3 +2105,8 @@
 - [Mixtral 8x22B](https://mistral.ai/news/mixtral-8x22b/)
 - [How many bathrooms have Neanderthals in the tile?](https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/)
 - [An Electric New Era for Atlas](https://bostondynamics.com/blog/electric-new-era-for-atlas/)
+## Morning Digest - 18-04-2024
+
+- [Short Stack: World’s smallest Nintendo Wii](https://github.com/loopj/short-stack)
+- [Hardest problem in computer science: centering things](https://tonsky.me/blog/centering/)
+- [Goldene: A single atom layer of gold](https://liu.se/en/news-item/ett-atomlager-guld-liu-forskare-skapar-gulden)
