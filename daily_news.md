@@ -2120,3 +2120,8 @@
 - [Supabase Storage: now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
 - [Calculus Made Easy](https://calculusmadeeasy.org/prologue.html)
 - [I Used Netscape Composer in 2024](https://plbrault.com/blog-posts/i-used-netscape-composer-in-2024-en/)
+## Afternoon/Evening Digest - 19-04-2024
+
+- [3rd Edition of Programming: Principles and Practice Using C++ by Stroustrup](https://www.stroustrup.com/programming.html)
+- [Tips on how to structure your home directory (2023)](https://unixdigest.com/tutorials/tips-on-how-to-structure-your-home-directory.html)
+- [Quantum Algorithms for Lattice Problems – Update on April 18](http://www.chenyilei.net/)
