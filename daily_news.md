@@ -2115,3 +2115,8 @@
 - [Halo 2 in HD: Pushing the Original Xbox to the Limit](https://icode4.coffee/?p=738)
 - [Feathers Are One of Evolution's Cleverest Inventions](https://www.scientificamerican.com/article/why-feathers-are-one-of-evolutions-cleverest-inventions/)
 - [Short Stack: World’s smallest Nintendo Wii](https://github.com/loopj/short-stack)
+## Morning Digest - 19-04-2024
+
+- [Supabase Storage: now supports the S3 protocol](https://supabase.com/blog/s3-compatible-storage)
+- [Calculus Made Easy](https://calculusmadeeasy.org/prologue.html)
+- [I Used Netscape Composer in 2024](https://plbrault.com/blog-posts/i-used-netscape-composer-in-2024-en/)
