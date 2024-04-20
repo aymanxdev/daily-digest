@@ -2130,3 +2130,8 @@
 - [Ceefax Simulator](https://www.nathanmediaservices.co.uk/ceefax/)
 - [On Terry A. Davis](https://schizophrenic.io/blog/on-terry-a-davis)
 - [My 25-year engineering career retrospective](https://hybridhacker.email/p/my-25-year-engineering-career-retrospective)
+## Afternoon/Evening Digest - 20-04-2024
+
+- [U-M finds students with alphabetically lower-ranked names receive lower grades](https://record.umich.edu/articles/study-alphabetical-order-of-surnames-may-affect-grading/)
+- [MuPDF WASM Viewer Demo](https://mupdf.com/wasm/demo/index.html?file=../../docs/mupdf_explored.pdf)
+- [Debugging the Doctor Brain: Who's teaching doctors how to think?](https://bessstillman.substack.com/p/debugging-the-doctor-brain)
