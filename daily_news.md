@@ -2125,3 +2125,8 @@
 - [3rd Edition of Programming: Principles and Practice Using C++ by Stroustrup](https://www.stroustrup.com/programming.html)
 - [Tips on how to structure your home directory (2023)](https://unixdigest.com/tutorials/tips-on-how-to-structure-your-home-directory.html)
 - [Quantum Algorithms for Lattice Problems – Update on April 18](http://www.chenyilei.net/)
+## Morning Digest - 20-04-2024
+
+- [Ceefax Simulator](https://www.nathanmediaservices.co.uk/ceefax/)
+- [On Terry A. Davis](https://schizophrenic.io/blog/on-terry-a-davis)
+- [My 25-year engineering career retrospective](https://hybridhacker.email/p/my-25-year-engineering-career-retrospective)
