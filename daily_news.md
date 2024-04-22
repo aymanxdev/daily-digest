@@ -2150,3 +2150,8 @@
 - [Inside the Super Nintendo cartridges](https://fabiensanglard.net/snes_carts/index.html)
 - [I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/)
 - [Pico.sh – Hacker Labs](https://github.com/picosh/pico)
+## Afternoon/Evening Digest - 22-04-2024
+
+- [Py2wasm – A Python to WASM Compiler](https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler)
+- [Equinox.space](https://equinox.space/)
+- [Show HN: OpenOrb, a curated search engine for Atom and RSS feeds](https://openorb.idiot.sh/search)
