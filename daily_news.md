@@ -2155,3 +2155,8 @@
 - [Py2wasm – A Python to WASM Compiler](https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler)
 - [Equinox.space](https://equinox.space/)
 - [Show HN: OpenOrb, a curated search engine for Atom and RSS feeds](https://openorb.idiot.sh/search)
+## Morning Digest - 23-04-2024
+
+- [Phi-3 Technical Report](https://arxiv.org/abs/2404.14219)
+- [Krazam OS](https://www.krazam.tv/)
+- [Open Source Community Unites to Build EU CRA-Compliant Cybersecurity Processes](https://news.apache.org/foundation/entry/open-source-community-unites-to-build-cra-compliant-cybersecurity-processes)
