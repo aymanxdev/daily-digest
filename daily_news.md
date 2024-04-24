@@ -2160,3 +2160,8 @@
 - [Phi-3 Technical Report](https://arxiv.org/abs/2404.14219)
 - [Krazam OS](https://www.krazam.tv/)
 - [Open Source Community Unites to Build EU CRA-Compliant Cybersecurity Processes](https://news.apache.org/foundation/entry/open-source-community-unites-to-build-cra-compliant-cybersecurity-processes)
+## Morning Digest - 24-04-2024
+
+- [Piet](https://www.dangermouse.net/esoteric/piet.html)
+- [CoreNet: A library for training deep neural networks](https://github.com/apple/corenet)
+- [Simulating Jupiter](https://emildziewanowski.com/flowfields/)
