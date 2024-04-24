@@ -2165,3 +2165,8 @@
 - [Piet](https://www.dangermouse.net/esoteric/piet.html)
 - [CoreNet: A library for training deep neural networks](https://github.com/apple/corenet)
 - [Simulating Jupiter](https://emildziewanowski.com/flowfields/)
+## Afternoon/Evening Digest - 24-04-2024
+
+- [Open-Shell: A collection of utilities bringing back classic features to Windows](https://github.com/Open-Shell/Open-Shell-Menu)
+- [Piet (2018)](https://www.dangermouse.net/esoteric/piet.html)
+- [VideoGigaGAN: Towards Detail-Rich Video Super-Resolution](https://videogigagan.github.io/)
