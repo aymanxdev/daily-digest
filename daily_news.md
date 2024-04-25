@@ -2175,3 +2175,8 @@
 - [You are what you read, even if you don't always remember it](https://blog.jim-nielsen.com/2024/you-are-what-you-read/)
 - [A Beginner's Guide to the ESP8266](https://tttapa.github.io/ESP8266/Chap01%20-%20ESP8266.html)
 - [Anduril Selected for U.S. Air Force Collaborative Combat Aircraft Program](https://www.anduril.com/article/anduril-air-force-collaborative-combat-aircraft-CCA/)
+## Afternoon/Evening Digest - 25-04-2024
+
+- [A useful front-end confetti animation library](https://github.com/catdad/canvas-confetti)
+- [David Frankel is a man on a mission against robocalls](https://spectrum.ieee.org/how-to-stop-robocalls)
+- [Tribler: An attack-resilient micro-economy for media](https://github.com/Tribler/tribler/wiki)
