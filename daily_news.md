@@ -2180,3 +2180,8 @@
 - [A useful front-end confetti animation library](https://github.com/catdad/canvas-confetti)
 - [David Frankel is a man on a mission against robocalls](https://spectrum.ieee.org/how-to-stop-robocalls)
 - [Tribler: An attack-resilient micro-economy for media](https://github.com/Tribler/tribler/wiki)
+## Morning Digest - 26-04-2024
+
+- [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
+- [Multiple Displays on a Mac Sucks](https://wadetregaskis.com/multiple-displays-on-a-mac-sucks/)
+- [Show HN: I made a programmable computer from NAND gates](https://github.com/ArhanChaudhary/NAND)
