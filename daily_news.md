@@ -2185,3 +2185,8 @@
 - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
 - [Multiple Displays on a Mac Sucks](https://wadetregaskis.com/multiple-displays-on-a-mac-sucks/)
 - [Show HN: I made a programmable computer from NAND gates](https://github.com/ArhanChaudhary/NAND)
+## Afternoon/Evening Digest - 26-04-2024
+
+- [I'm creating PBR Textures and 3D models since 2018 and sharing them for free](https://www.sharetextures.com/)
+- [Qwen1.5-110B](https://qwenlm.github.io/blog/qwen1.5-110b/)
+- [Cult of the Dead Cow – Veilid (2023)](https://cultdeadcow.com/tools/veilid.html)
