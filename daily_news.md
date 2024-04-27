@@ -2195,3 +2195,8 @@
 - [The First Website](https://info.cern.ch/hypertext/WWW/TheProject.html)
 - [Apple users are being locked out of their Apple IDs with no explanation](https://9to5mac.com/2024/04/26/signed-out-of-apple-id-account-problem-password/)
 - [What contributing to Open-source is, and what it isn't](https://suchdevblog.com/opinions/WhatOpenSourceIs.html)
+## Afternoon/Evening Digest - 27-04-2024
+
+- [Moviecart – full length color movie and audio cartridges for stock Atari 2600](https://github.com/lodefmode/moviecart)
+- [World Wide Web (1991)](https://info.cern.ch/hypertext/WWW/TheProject.html)
+- [Self-hosting forms, the sane way](https://karelvo.com/blog/selfhosting-forms-the-sane-way)
