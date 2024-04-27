@@ -2190,3 +2190,8 @@
 - [I'm creating PBR Textures and 3D models since 2018 and sharing them for free](https://www.sharetextures.com/)
 - [Qwen1.5-110B](https://qwenlm.github.io/blog/qwen1.5-110b/)
 - [Cult of the Dead Cow – Veilid (2023)](https://cultdeadcow.com/tools/veilid.html)
+## Morning Digest - 27-04-2024
+
+- [The First Website](https://info.cern.ch/hypertext/WWW/TheProject.html)
+- [Apple users are being locked out of their Apple IDs with no explanation](https://9to5mac.com/2024/04/26/signed-out-of-apple-id-account-problem-password/)
+- [What contributing to Open-source is, and what it isn't](https://suchdevblog.com/opinions/WhatOpenSourceIs.html)
