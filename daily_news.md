@@ -2200,3 +2200,8 @@
 - [Moviecart – full length color movie and audio cartridges for stock Atari 2600](https://github.com/lodefmode/moviecart)
 - [World Wide Web (1991)](https://info.cern.ch/hypertext/WWW/TheProject.html)
 - [Self-hosting forms, the sane way](https://karelvo.com/blog/selfhosting-forms-the-sane-way)
+## Morning Digest - 28-04-2024
+
+- [Google made me ruin a perfectly good website (2023)](https://theluddite.org/#!post/google-ads)
+- [Google Quantum AI](https://quantumai.google/)
+- [Keep Out – WebGL Game](http://www.playkeepout.com/)
