@@ -2205,3 +2205,8 @@
 - [Google made me ruin a perfectly good website (2023)](https://theluddite.org/#!post/google-ads)
 - [Google Quantum AI](https://quantumai.google/)
 - [Keep Out – WebGL Game](http://www.playkeepout.com/)
+## Afternoon/Evening Digest - 28-04-2024
+
+- [Zilog Z80 CPU – Modern, free and open source silicon clone](https://github.com/rejunity/z80-open-silicon)
+- [LoRA+: Efficient Low Rank Adaptation of Large Models](https://arxiv.org/abs/2402.12354)
+- [TfL's simple pop-up message led to a significant drop in paper ticket sales](https://www.ianvisits.co.uk/articles/how-tfls-simple-pop-up-message-led-to-a-significant-drop-in-paper-ticket-sales-71920/)
