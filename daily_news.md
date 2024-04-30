@@ -2225,3 +2225,8 @@
 - [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
 - [Deep Dive into XZ Utils Backdoor – Columbia Engineering Guest Lecture [video]](https://www.youtube.com/watch?v=Q6ovtLdSbEA)
 - [Nintendo(1)](http://man.9front.org/1/nintendo)
+## Afternoon/Evening Digest - 30-04-2024
+
+- [Show HN: I made a CLI tool to create web extensions with no build configuration](https://github.com/cezaraugusto/extension.js)
+- [Bytecode VMs in Surprising Places](https://dubroy.com/blog/bytecode-vms-in-surprising-places/)
+- [Tesla failing to deliver Semi-trucks on time to PepsiCo, Sysco, UPS, and Walmart](https://www.reuters.com/business/autos-transportation/tesla-semi-trucks-short-supply-pepsico-its-rivals-use-competing-ev-big-rigs-2024-04-19/)
