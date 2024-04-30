@@ -2220,3 +2220,8 @@
 - [Answering Legal Questions with LLMs](https://hugodutka.com/posts/answering-legal-questions-with-llms/)
 - [SB-1047 will stifle open-source AI and decrease safety](https://www.answer.ai/posts/2024-04-29-sb1047.html)
 - [Cheyenne Super Computer Auction](https://gsaauctions.gov/auctions/preview/282996)
+## Morning Digest - 30-04-2024
+
+- [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
+- [Deep Dive into XZ Utils Backdoor – Columbia Engineering Guest Lecture [video]](https://www.youtube.com/watch?v=Q6ovtLdSbEA)
+- [Nintendo(1)](http://man.9front.org/1/nintendo)
