@@ -2235,3 +2235,8 @@
 - [Better and Faster Large Language Models via Multi-Token Prediction](https://arxiv.org/abs/2404.19737)
 - [Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
 - [Figma OSS Alternative](https://penpot.app/)
+## Afternoon/Evening Digest - 01-05-2024
+
+- [New findings point to an Earth-like environment on ancient Mars](https://discover.lanl.gov/news/0501-ancient-mars/)
+- [Car manufacturers break promise about sharing location data with police](https://www.wyden.senate.gov/news/press-releases/wyden-markey-reveal-automakers-provide-detailed-location-information-to-law-enforcement-without-a-warrant-rarely-notify-car-owners-request-ftc-investigate-broken-promises-to-protect-drivers-privacy)
+- [Better and Faster Large Language Models via Multi-Token Prediction](https://arxiv.org/abs/2404.19737)
