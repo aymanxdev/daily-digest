@@ -2240,3 +2240,8 @@
 - [New findings point to an Earth-like environment on ancient Mars](https://discover.lanl.gov/news/0501-ancient-mars/)
 - [Car manufacturers break promise about sharing location data with police](https://www.wyden.senate.gov/news/press-releases/wyden-markey-reveal-automakers-provide-detailed-location-information-to-law-enforcement-without-a-warrant-rarely-notify-car-owners-request-ftc-investigate-broken-promises-to-protect-drivers-privacy)
 - [Better and Faster Large Language Models via Multi-Token Prediction](https://arxiv.org/abs/2404.19737)
+## Morning Digest - 02-05-2024
+
+- [The Snapdragon 855's iGPU](https://chipsandcheese.com/2024/05/01/inside-the-snapdragon-855s-igpu/)
+- [Cognition: A new antisyntax language redefining metaprogramming](https://ret2pop.nullring.xyz/blog/cognition.html)
+- [Horizontal running inside circular walls of Moon settlements](https://royalsocietypublishing.org/doi/10.1098/rsos.231906)
