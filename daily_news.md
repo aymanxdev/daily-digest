@@ -2255,3 +2255,8 @@
 - [I'm writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
 - [Making a 3D modeler in C in a week](https://danielchasehooper.com/posts/shapeup/)
 - [A Single Div](https://a.singlediv.com/)
+## Afternoon/Evening Digest - 03-05-2024
+
+- [DNS traffic can leak outside the VPN tunnel on Android](https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android)
+- [Unique volumes of Brothers Grimm fairy tales discovered in Poland](https://english.nv.ua/life/27-unique-volumes-of-grimm-brothers-fairy-tales-were-found-in-poland-50415035.html)
+- [00Key a 75% Keyboard](https://github.com/ZeroZeroOne-dev/00Key)
