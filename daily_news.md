@@ -2250,3 +2250,8 @@
 - [Show HN: I built a tool for repeatable checklists](https://steplist.app/)
 - [Teranoptia – a typeface that allows you to imagine chimeric creatures](https://www.tunera.xyz/fonts/teranoptia/)
 - [Johnson and Johnson announces $6.5B settlement over ovarian cancer allegations](https://www.axios.com/2024/05/01/johnson-johnson-talc-baby-powder-settlement-ovarian-cancer)
+## Morning Digest - 03-05-2024
+
+- [I'm writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
+- [Making a 3D modeler in C in a week](https://danielchasehooper.com/posts/shapeup/)
+- [A Single Div](https://a.singlediv.com/)
