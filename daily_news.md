@@ -2260,3 +2260,8 @@
 - [DNS traffic can leak outside the VPN tunnel on Android](https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android)
 - [Unique volumes of Brothers Grimm fairy tales discovered in Poland](https://english.nv.ua/life/27-unique-volumes-of-grimm-brothers-fairy-tales-were-found-in-poland-50415035.html)
 - [00Key a 75% Keyboard](https://github.com/ZeroZeroOne-dev/00Key)
+## Morning Digest - 04-05-2024
+
+- [A love letter to bicycle maintenance and repair](https://tegowerk.eu/posts/bicycle-repair/)
+- [Show HN: BandMatch – "Tinder" but for finding musicians to create bands/collab](https://bandmatch.app)
+- [Figma's Journey to TypeScript](https://www.figma.com/blog/figmas-journey-to-typescript-compiling-away-our-custom-programming-language/)
