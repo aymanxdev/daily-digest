@@ -2275,3 +2275,8 @@
 - [Automated integer hash function discovery](https://github.com/skeeto/hash-prospector)
 - [Time-Based CSS Animations](https://yuanchuan.dev/time-based-css-animations)
 - [Xmake: A modern C/C++ build tool](https://github.com/xmake-io/xmake)
+## Afternoon/Evening Digest - 05-05-2024
+
+- [Machine unlearning: ML model minus the information to be unlearned](https://ai.stanford.edu/~kzliu/blog/unlearning)
+- [A History of C Compilers – Part 1: Performance, Portability and Freedom](https://thechipletter.substack.com/p/a-history-of-c-compilers-part-1-performance)
+- [Rewriting the Technical Interview (2020)](https://aphyr.com/posts/353-rewriting-the-technical-interview)
