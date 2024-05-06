@@ -2280,3 +2280,8 @@
 - [Machine unlearning: ML model minus the information to be unlearned](https://ai.stanford.edu/~kzliu/blog/unlearning)
 - [A History of C Compilers – Part 1: Performance, Portability and Freedom](https://thechipletter.substack.com/p/a-history-of-c-compilers-part-1-performance)
 - [Rewriting the Technical Interview (2020)](https://aphyr.com/posts/353-rewriting-the-technical-interview)
+## Morning Digest - 06-05-2024
+
+- [Social engineering takeovers of open source projects](https://openssf.org/blog/2024/04/15/open-source-security-openssf-and-openjs-foundations-issue-alert-for-social-engineering-takeovers-of-open-source-projects/)
+- [Remnants of a legendary typeface have been rescued from the Thames](https://news.artnet.com/art-world/doves-typeface-2454807)
+- [Show HN: Supertone Shift – AI powered Real-time voice changer](https://product.supertone.ai/shift)
