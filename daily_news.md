@@ -2285,3 +2285,8 @@
 - [Social engineering takeovers of open source projects](https://openssf.org/blog/2024/04/15/open-source-security-openssf-and-openjs-foundations-issue-alert-for-social-engineering-takeovers-of-open-source-projects/)
 - [Remnants of a legendary typeface have been rescued from the Thames](https://news.artnet.com/art-world/doves-typeface-2454807)
 - [Show HN: Supertone Shift – AI powered Real-time voice changer](https://product.supertone.ai/shift)
+## Afternoon/Evening Digest - 06-05-2024
+
+- [A fourteen-day free trial ain’t gonna cut it](https://keygen.sh/blog/your-14-day-free-trial-aint-gonna-cut-it/)
+- [Show HN: A free site to explore and discover 6k plants](https://www.getanyplant.com/plants)
+- [JTAG Hacking with a Raspberry Pi – Introducing the PiFex](https://voidstarsec.com/blog/jtag-pifex)
