@@ -2295,3 +2295,8 @@
 - [Caniemail.com – like caniuse but for email content](https://www.caniemail.com/)
 - [Design docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
 - [Secure Randomness in Go 1.22](https://go.dev/blog/chacha8rand?hn=1)
+## Afternoon/Evening Digest - 07-05-2024
+
+- [Apple Introduces M4 Chip](https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/)
+- [Apple unveils the redesigned 11-inch and all-new 13-inch iPad Air](https://www.apple.com/newsroom/2024/05/apple-unveils-the-redesigned-11-inch-and-all-new-13-inch-ipad-air-with-m2/)
+- [Caniwebview.com – Like Caniuse but for Webviews](https://caniwebview.com/)
