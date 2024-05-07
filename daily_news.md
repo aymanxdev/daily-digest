@@ -2290,3 +2290,8 @@
 - [A fourteen-day free trial ain’t gonna cut it](https://keygen.sh/blog/your-14-day-free-trial-aint-gonna-cut-it/)
 - [Show HN: A free site to explore and discover 6k plants](https://www.getanyplant.com/plants)
 - [JTAG Hacking with a Raspberry Pi – Introducing the PiFex](https://voidstarsec.com/blog/jtag-pifex)
+## Morning Digest - 07-05-2024
+
+- [Caniemail.com – like caniuse but for email content](https://www.caniemail.com/)
+- [Design docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
+- [Secure Randomness in Go 1.22](https://go.dev/blog/chacha8rand?hn=1)
