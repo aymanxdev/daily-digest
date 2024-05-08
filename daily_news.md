@@ -2300,3 +2300,8 @@
 - [Apple Introduces M4 Chip](https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/)
 - [Apple unveils the redesigned 11-inch and all-new 13-inch iPad Air](https://www.apple.com/newsroom/2024/05/apple-unveils-the-redesigned-11-inch-and-all-new-13-inch-ipad-air-with-m2/)
 - [Caniwebview.com – Like Caniuse but for Webviews](https://caniwebview.com/)
+## Morning Digest - 08-05-2024
+
+- [Apple introduces M4 chip](https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/)
+- [XLSTM: Extended Long Short-Term Memory](https://arxiv.org/abs/2405.04517)
+- [Why use ECC? (2015)](https://danluu.com/why-ecc/)
