@@ -2305,3 +2305,8 @@
 - [Apple introduces M4 chip](https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/)
 - [XLSTM: Extended Long Short-Term Memory](https://arxiv.org/abs/2405.04517)
 - [Why use ECC? (2015)](https://danluu.com/why-ecc/)
+## Afternoon/Evening Digest - 08-05-2024
+
+- [40 years later, a game for the ZX Spectrum will be again broadcast over FM radio](https://www.racunalniski-muzej.si/en/40-years-later-a-game-for-the-zx-spectrum-will-be-once-again-broadcast-over-fm-radio/)
+- [Canada's Bill S-210: The Push for Widespread Age Verification](https://www.michaelgeist.ca/2024/01/bill-s-210-is-just-the-beginning-how-a-canadian-digital-lobby-group-is-promoting-a-standard-to-foster-widespread-adoption-of-age-verification-technologies-in-canada/)
+- [TimesFM (Time Series Foundation Model) for time-series forecasting](https://github.com/google-research/timesfm)
