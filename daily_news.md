@@ -2310,3 +2310,8 @@
 - [40 years later, a game for the ZX Spectrum will be again broadcast over FM radio](https://www.racunalniski-muzej.si/en/40-years-later-a-game-for-the-zx-spectrum-will-be-once-again-broadcast-over-fm-radio/)
 - [Canada's Bill S-210: The Push for Widespread Age Verification](https://www.michaelgeist.ca/2024/01/bill-s-210-is-just-the-beginning-how-a-canadian-digital-lobby-group-is-promoting-a-standard-to-foster-widespread-adoption-of-age-verification-technologies-in-canada/)
 - [TimesFM (Time Series Foundation Model) for time-series forecasting](https://github.com/google-research/timesfm)
+## Morning Digest - 09-05-2024
+
+- [AlphaFold 3 predicts the structure and interactions of life's molecules](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
+- [Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x](https://hao-ai-lab.github.io/blogs/cllm/)
+- [Temporal Python – A durable, distributed asyncio event loop (2023)](https://temporal.io/blog/durable-distributed-asyncio-event-loop)
