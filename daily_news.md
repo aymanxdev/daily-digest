@@ -2320,3 +2320,8 @@
 - [Microsoft PlayReady – Complete Client Identity Compromise](https://seclists.org/fulldisclosure/2024/May/5)
 - [Algebraic Data Types for C99](https://github.com/Hirrolot/datatype99)
 - [Tracking Illicit Brazilian Beef from the Amazon to Your Burger](https://e360.yale.edu/features/marcel-gomes-interview)
+## Morning Digest - 10-05-2024
+
+- [Roman Tyrian purple snail dye found in UK for first time](https://www.bbc.com/news/articles/cjje132jvygo)
+- [Elvish, expressive programming language and a versatile interactive shell](https://elv.sh)
+- [It's always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
