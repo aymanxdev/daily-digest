@@ -2325,3 +2325,8 @@
 - [Roman Tyrian purple snail dye found in UK for first time](https://www.bbc.com/news/articles/cjje132jvygo)
 - [Elvish, expressive programming language and a versatile interactive shell](https://elv.sh)
 - [It's always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
+## Morning Digest - 11-05-2024
+
+- [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
+- [The Derivative of a Number](https://rjlipton.com/2014/08/19/the-derivative-of-a-number/)
+- [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
