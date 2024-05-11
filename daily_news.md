@@ -2330,3 +2330,8 @@
 - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
 - [The Derivative of a Number](https://rjlipton.com/2014/08/19/the-derivative-of-a-number/)
 - [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
+## Afternoon/Evening Digest - 11-05-2024
+
+- [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
+- [PeaZip: Open-source file compression and encryption software](https://peazip.github.io/)
+- [Why the CORDIC algorithm lives rent-free in my head](https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md)
