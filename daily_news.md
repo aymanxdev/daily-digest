@@ -2340,3 +2340,8 @@
 - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 - [Protecting your email address via SVG instead of JavaScript](https://rouninmedia.github.io/protecting-your-email-address-via-svg-instead-of-js/)
 - [A Slower Speed of Light (2012)](http://gamelab.mit.edu/games/a-slower-speed-of-light/)
+## Afternoon/Evening Digest - 13-05-2024
+
+- [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
+- [The USDA's gardening zones shifted, this map shows you what's changed](https://apps.npr.org/plant-hardiness-garden-map/)
+- [Doom didn't kill the Amiga. Wolfenstein 3D did [video]](https://www.youtube.com/watch?v=wsADJa-23Sg)
