@@ -2335,3 +2335,8 @@
 - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
 - [PeaZip: Open-source file compression and encryption software](https://peazip.github.io/)
 - [Why the CORDIC algorithm lives rent-free in my head](https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md)
+## Morning Digest - 13-05-2024
+
+- [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
+- [Protecting your email address via SVG instead of JavaScript](https://rouninmedia.github.io/protecting-your-email-address-via-svg-instead-of-js/)
+- [A Slower Speed of Light (2012)](http://gamelab.mit.edu/games/a-slower-speed-of-light/)
