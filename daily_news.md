@@ -2350,3 +2350,8 @@
 - [GPT-4o](https://openai.com/index/hello-gpt-4o/)
 - [Using ARG in a Dockerfile – beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)
 - [SEQUEL: A Structured English Query Language (1974)](https://dl.acm.org/doi/epdf/10.1145/800296.811515)
+## Afternoon/Evening Digest - 14-05-2024
+
+- [Blazingly fast linked lists](https://dygalo.dev/blog/blazingly-fast-linked-lists/)
+- [Disney's Robots Use Rockets to Stick the Landing](https://spectrum.ieee.org/disney-robot-2668135204)
+- [Wasp-193B, a giant planet with a density similar to that of cotton candy](https://www.exotic.uliege.be/cms/c_12662566/en/wasp-193b-a-giant-planet-with-a-density-similar-to-that-of-cotton-candy)
