@@ -2360,3 +2360,8 @@
 - [Translation of the Rust's core and alloc crates to Coq for formal verification](https://formal.land/blog/2024/04/26/translation-core-alloc-crates)
 - [A low budget consumer hardware espionage implant: a GSM device hidden in](https://ha.cking.ch/s8_data_line_locator/)
 - [Veo](https://deepmind.google/technologies/veo/)
+## Afternoon/Evening Digest - 15-05-2024
+
+- [The Worst Website in the Entire World](https://matduggan.com/the-worst-website-in-the-entire-world/)
+- [Raspberry Pi Ltd is considering an IPO](https://www.londonstockexchange.com/news-article/market-news/expected-intention-to-float/16470316)
+- [What went wrong with UniSuper and Google Cloud?](https://danielcompton.net/google-cloud-unisuper)
