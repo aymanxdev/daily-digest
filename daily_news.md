@@ -2355,3 +2355,8 @@
 - [Blazingly fast linked lists](https://dygalo.dev/blog/blazingly-fast-linked-lists/)
 - [Disney's Robots Use Rockets to Stick the Landing](https://spectrum.ieee.org/disney-robot-2668135204)
 - [Wasp-193B, a giant planet with a density similar to that of cotton candy](https://www.exotic.uliege.be/cms/c_12662566/en/wasp-193b-a-giant-planet-with-a-density-similar-to-that-of-cotton-candy)
+## Morning Digest - 15-05-2024
+
+- [Translation of the Rust's core and alloc crates to Coq for formal verification](https://formal.land/blog/2024/04/26/translation-core-alloc-crates)
+- [A low budget consumer hardware espionage implant: a GSM device hidden in](https://ha.cking.ch/s8_data_line_locator/)
+- [Veo](https://deepmind.google/technologies/veo/)
