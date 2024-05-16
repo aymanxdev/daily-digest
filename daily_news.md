@@ -2365,3 +2365,8 @@
 - [The Worst Website in the Entire World](https://matduggan.com/the-worst-website-in-the-entire-world/)
 - [Raspberry Pi Ltd is considering an IPO](https://www.londonstockexchange.com/news-article/market-news/expected-intention-to-float/16470316)
 - [What went wrong with UniSuper and Google Cloud?](https://danielcompton.net/google-cloud-unisuper)
+## Morning Digest - 16-05-2024
+
+- [VCs aren’t your friends](https://www.openvc.app/blog/vcs-arent-your-friends)
+- [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html)
+- [Things I won't work with: the higher states of bromine (2019)](https://blogs.sciencemag.org/pipeline/archives/2019/11/21/the-higher-states-of-bromine)
