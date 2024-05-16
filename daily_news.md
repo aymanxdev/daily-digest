@@ -2370,3 +2370,8 @@
 - [VCs aren’t your friends](https://www.openvc.app/blog/vcs-arent-your-friends)
 - [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html)
 - [Things I won't work with: the higher states of bromine (2019)](https://blogs.sciencemag.org/pipeline/archives/2019/11/21/the-higher-states-of-bromine)
+## Afternoon/Evening Digest - 16-05-2024
+
+- [F* – A Proof-Oriented Programming Language](https://www.fstar-lang.org/)
+- [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
+- [The spy who flunked it: Kurt Gödel's forgotten part in the atom-bomb story](https://www.nature.com/articles/d41586-024-00644-1)
