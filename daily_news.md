@@ -2375,3 +2375,8 @@
 - [F* – A Proof-Oriented Programming Language](https://www.fstar-lang.org/)
 - [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
 - [The spy who flunked it: Kurt Gödel's forgotten part in the atom-bomb story](https://www.nature.com/articles/d41586-024-00644-1)
+## Morning Digest - 17-05-2024
+
+- [Computer scientists invent an efficient new way to count](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)
+- [A forged Apple employee badge](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
+- [Exercises to Learn Rust](https://rust-exercises.com/)
