@@ -2380,3 +2380,8 @@
 - [Computer scientists invent an efficient new way to count](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)
 - [A forged Apple employee badge](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
 - [Exercises to Learn Rust](https://rust-exercises.com/)
+## Afternoon/Evening Digest - 17-05-2024
+
+- [Toon3D: Seeing Cartoons from a New Perspective](https://toon3d.studio/)
+- [Beekeeper furious over destruction of $2M honey crop](https://www.rnz.co.nz/news/business/516930/beekeeper-steven-brown-furious-over-destruction-of-2m-honey-crop)
+- [BIMI and DMARC Can't Save You: The Overlooked DKIM Exploit](https://www.zone.eu/blog/2024/05/17/bimi-and-dmarc-cant-save-you/)
