@@ -2390,3 +2390,8 @@
 - [OpenAI departures: Why can’t former employees talk?](https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release)
 - [Bend: a high-level language that runs on GPUs (via HVM2)](https://github.com/HigherOrderCO/Bend)
 - [Zoraxy: Open-Source, All in one homelab network routing solution](https://zoraxy.arozos.com/)
+## Afternoon/Evening Digest - 18-05-2024
+
+- [Gio UI – Cross-Platform GUI for Go](https://gioui.org/)
+- [If you’re seeing this, I’m in jail [video]](https://www.youtube.com/watch?v=VrFs2_uhz-o)
+- [OpenAI departures: Why can’t former employees talk?](https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release)
