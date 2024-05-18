@@ -2385,3 +2385,8 @@
 - [Toon3D: Seeing Cartoons from a New Perspective](https://toon3d.studio/)
 - [Beekeeper furious over destruction of $2M honey crop](https://www.rnz.co.nz/news/business/516930/beekeeper-steven-brown-furious-over-destruction-of-2m-honey-crop)
 - [BIMI and DMARC Can't Save You: The Overlooked DKIM Exploit](https://www.zone.eu/blog/2024/05/17/bimi-and-dmarc-cant-save-you/)
+## Morning Digest - 18-05-2024
+
+- [OpenAI departures: Why can’t former employees talk?](https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release)
+- [Bend: a high-level language that runs on GPUs (via HVM2)](https://github.com/HigherOrderCO/Bend)
+- [Zoraxy: Open-Source, All in one homelab network routing solution](https://zoraxy.arozos.com/)
