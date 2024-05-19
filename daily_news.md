@@ -2400,3 +2400,8 @@
 - [Classic Usenet posts on computer architecture, operating systems and languages](https://yarchive.net/comp/index.html)
 - [Riven](https://www.filfre.net/2024/05/riven/)
 - [Show HN: Open-source GeForce NOW alternative with Stadia's social features](https://github.com/netrisdotme/netris)
+## Afternoon/Evening Digest - 19-05-2024
+
+- [Show HN: Digital player board for Terraforming Mars](https://terraforming-mars-player-board.netlify.app/)
+- [Transforming a QLC SSD into an SLC SSD](https://theoverclockingpage.com/2024/05/13/tutorial-transforming-a-qlc-ssd-into-an-slc-ssd-dramatically-increasing-the-drives-endurance/?lang=en)
+- [Riven](https://www.filfre.net/2024/05/riven/)
