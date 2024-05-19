@@ -2395,3 +2395,8 @@
 - [Gio UI – Cross-Platform GUI for Go](https://gioui.org/)
 - [If you’re seeing this, I’m in jail [video]](https://www.youtube.com/watch?v=VrFs2_uhz-o)
 - [OpenAI departures: Why can’t former employees talk?](https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release)
+## Morning Digest - 19-05-2024
+
+- [Classic Usenet posts on computer architecture, operating systems and languages](https://yarchive.net/comp/index.html)
+- [Riven](https://www.filfre.net/2024/05/riven/)
+- [Show HN: Open-source GeForce NOW alternative with Stadia's social features](https://github.com/netrisdotme/netris)
