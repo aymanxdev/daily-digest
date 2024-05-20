@@ -2405,3 +2405,8 @@
 - [Show HN: Digital player board for Terraforming Mars](https://terraforming-mars-player-board.netlify.app/)
 - [Transforming a QLC SSD into an SLC SSD](https://theoverclockingpage.com/2024/05/13/tutorial-transforming-a-qlc-ssd-into-an-slc-ssd-dramatically-increasing-the-drives-endurance/?lang=en)
 - [Riven](https://www.filfre.net/2024/05/riven/)
+## Morning Digest - 20-05-2024
+
+- [Llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
+- [The Lunacy of Artemis](https://idlewords.com/2024/5/the_lunacy_of_artemis.htm)
+- [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
