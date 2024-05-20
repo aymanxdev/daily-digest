@@ -2410,3 +2410,8 @@
 - [Llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
 - [The Lunacy of Artemis](https://idlewords.com/2024/5/the_lunacy_of_artemis.htm)
 - [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
+## Afternoon/Evening Digest - 20-05-2024
+
+- [How a 64k intro is made (2017)](https://www.lofibucket.com/articles/64k_intro.html)
+- [Grothendieck’s use of equality](https://arxiv.org/abs/2405.10387)
+- [3M Execs Convinced a Scientist PFOS Found in Human Blood Were Safe](https://www.propublica.org/article/3m-forever-chemicals-pfas-pfos-inside-story)
