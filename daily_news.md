@@ -2420,3 +2420,8 @@
 - [Shipbreaking](https://www.edwardburtynsky.com/projects/photographs/shipbreaking)
 - [The OpenAI board was right – No (by a voice actres named Scarlet) means No](https://garymarcus.substack.com/p/the-openai-board-was-right)
 - [iTerm2 3.5.0](https://iterm2.com/downloads/stable/iTerm2-3_5_0.changelog)
+## Afternoon/Evening Digest - 21-05-2024
+
+- [What UI density means and how to design for it](https://matthewstrom.com/writing/ui-density/)
+- [40-Year old BASICA utility code for teaching](https://github.com/norton120/educator-tools-87)
+- [We created the first open source implementation of Meta's TestGen–LLM](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
