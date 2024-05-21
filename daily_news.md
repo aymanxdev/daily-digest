@@ -2415,3 +2415,8 @@
 - [How a 64k intro is made (2017)](https://www.lofibucket.com/articles/64k_intro.html)
 - [Grothendieck’s use of equality](https://arxiv.org/abs/2405.10387)
 - [3M Execs Convinced a Scientist PFOS Found in Human Blood Were Safe](https://www.propublica.org/article/3m-forever-chemicals-pfas-pfos-inside-story)
+## Morning Digest - 21-05-2024
+
+- [Shipbreaking](https://www.edwardburtynsky.com/projects/photographs/shipbreaking)
+- [The OpenAI board was right – No (by a voice actres named Scarlet) means No](https://garymarcus.substack.com/p/the-openai-board-was-right)
+- [iTerm2 3.5.0](https://iterm2.com/downloads/stable/iTerm2-3_5_0.changelog)
