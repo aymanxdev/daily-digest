@@ -2425,3 +2425,8 @@
 - [What UI density means and how to design for it](https://matthewstrom.com/writing/ui-density/)
 - [40-Year old BASICA utility code for teaching](https://github.com/norton120/educator-tools-87)
 - [We created the first open source implementation of Meta's TestGen–LLM](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
+## Morning Digest - 22-05-2024
+
+- [Gordon Bell has died](https://arstechnica.com/gadgets/2024/05/gordon-bell-an-architect-of-our-digital-age-dies-at-age-89/)
+- [The curious case of the missing period](https://tjaart.substack.com/p/the-curious-case-of-the-missing-period)
+- [A Road to Common Lisp (2018)](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
