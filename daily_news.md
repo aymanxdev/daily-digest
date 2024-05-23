@@ -2440,3 +2440,8 @@
 - [Windows 10 wallpaper was physically built and photographed (2015)](https://gmunk.com/Windows-10-Desktop/)
 - [OpenAI didn’t copy Scarlett Johansson’s voice for ChatGPT, records show](https://www.washingtonpost.com/technology/2024/05/22/openai-scarlett-johansson-chatgpt-ai-voice/)
 - [Leaked OpenAI documents reveal aggressive tactics toward former employees](https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees)
+## Afternoon/Evening Digest - 23-05-2024
+
+- [BB(3, 4) > Ack(14)](https://www.sligocki.com//2024/05/22/bb-3-4-a14.html)
+- [Making EC2 boot time 8x faster](https://depot.dev/blog/faster-ec2-boot-time)
+- [Windows 10 wallpaper was physically built and photographed (2015)](https://gmunk.com/Windows-10-Desktop/)
