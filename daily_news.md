@@ -2445,3 +2445,8 @@
 - [BB(3, 4) > Ack(14)](https://www.sligocki.com//2024/05/22/bb-3-4-a14.html)
 - [Making EC2 boot time 8x faster](https://depot.dev/blog/faster-ec2-boot-time)
 - [Windows 10 wallpaper was physically built and photographed (2015)](https://gmunk.com/Windows-10-Desktop/)
+## Morning Digest - 24-05-2024
+
+- [2D Rigid Body Collision Resolution](https://www.sassnow.ski/rigid-body-collisions/1)
+- [Daylight Computer – New 60fps e-paper tablet](https://daylightcomputer.com/product)
+- [Perplexica: Open-Source Perplexity Alternative](https://github.com/ItzCrazyKns/Perplexica)
