@@ -2450,3 +2450,8 @@
 - [2D Rigid Body Collision Resolution](https://www.sassnow.ski/rigid-body-collisions/1)
 - [Daylight Computer – New 60fps e-paper tablet](https://daylightcomputer.com/product)
 - [Perplexica: Open-Source Perplexity Alternative](https://github.com/ItzCrazyKns/Perplexica)
+## Afternoon/Evening Digest - 24-05-2024
+
+- [2D Rigid Body Collision Resolution](https://www.sassnow.ski/rigid-body-collisions/1)
+- [Daylight Computer – New 60fps e-paper tablet](https://daylightcomputer.com/product)
+- [Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
