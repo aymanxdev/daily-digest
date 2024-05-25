@@ -2455,3 +2455,8 @@
 - [2D Rigid Body Collision Resolution](https://www.sassnow.ski/rigid-body-collisions/1)
 - [Daylight Computer – New 60fps e-paper tablet](https://daylightcomputer.com/product)
 - [Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
+## Morning Digest - 25-05-2024
+
+- [Mistral Fine-Tune](https://github.com/mistralai/mistral-finetune)
+- [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311)
+- [Optimize Your Talking Points](https://rachelbythebay.com/w/2018/04/28/meta/)
