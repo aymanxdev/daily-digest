@@ -2460,3 +2460,8 @@
 - [Mistral Fine-Tune](https://github.com/mistralai/mistral-finetune)
 - [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311)
 - [Optimize Your Talking Points](https://rachelbythebay.com/w/2018/04/28/meta/)
+## Afternoon/Evening Digest - 25-05-2024
+
+- [Abusing Go's Infrastructure](https://reverse.put.as/2024/05/24/abusing-go-infrastructure/)
+- [Lapis: A Web Framework for Lua](https://leafo.net/lapis/)
+- [The Cognitive Design of Tools of Thought (2014) [pdf]](http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf)
