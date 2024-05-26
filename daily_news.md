@@ -2465,3 +2465,8 @@
 - [Abusing Go's Infrastructure](https://reverse.put.as/2024/05/24/abusing-go-infrastructure/)
 - [Lapis: A Web Framework for Lua](https://leafo.net/lapis/)
 - [The Cognitive Design of Tools of Thought (2014) [pdf]](http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf)
+## Morning Digest - 26-05-2024
+
+- [Hurl, the Exceptional Language](https://hurl.wtf/)
+- [How Home Assistant is being used to protect from missile and drone attacks](https://denysdovhan.com/home-assistant-config/config/war/)
+- [Braid: Synchronization for HTTP](https://braid.org/)
