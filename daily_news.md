@@ -2475,3 +2475,8 @@
 - [Feynman's Garden](https://www.marginalia.nu/log/a_108_feynman_revisited/)
 - [To the brain, reading computer code is not the same as reading language](https://news.mit.edu/2020/brain-reading-computer-code-1215)
 - [Hurl, the Exceptional Language](https://hurl.wtf/)
+## Morning Digest - 27-05-2024
+
+- [xAI announces series B funding round of $6B](https://x.ai/blog/series-b)
+- [A Big Ring on the Sky](https://cosmosmagazine.com/space/astronomy/giant-structure-space-universe/)
+- [What the damaged Svalbard cable looked like](https://www.nrk.no/tromsogfinnmark/this-is-what-the-damaged-svalbard-cable-looked-like-when-it-came-up-from-the-depths-1.16895904)
