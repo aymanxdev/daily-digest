@@ -2485,3 +2485,8 @@
 - [WP21](https://ma.tt/2024/05/wp21/)
 - [So many feed readers, so many behaviors](https://rachelbythebay.com/w/2024/05/27/feed/)
 - [Doing is normally distributed, learning is log-normal](https://hiandrewquinn.github.io/til-site/posts/doing-is-normally-distributed-learning-is-log-normal/)
+## Afternoon/Evening Digest - 28-05-2024
+
+- [Show HN: I made a free app to calibrate your turntable by simply playing a song](https://grooved.okat.best/)
+- [Surprising Supernova Scars Cover the Earth](https://www.scientificamerican.com/article/how-often-do-supernovas-strike-earth/)
+- [Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
