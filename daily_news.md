@@ -2480,3 +2480,8 @@
 - [xAI announces series B funding round of $6B](https://x.ai/blog/series-b)
 - [A Big Ring on the Sky](https://cosmosmagazine.com/space/astronomy/giant-structure-space-universe/)
 - [What the damaged Svalbard cable looked like](https://www.nrk.no/tromsogfinnmark/this-is-what-the-damaged-svalbard-cable-looked-like-when-it-came-up-from-the-depths-1.16895904)
+## Morning Digest - 28-05-2024
+
+- [WP21](https://ma.tt/2024/05/wp21/)
+- [So many feed readers, so many behaviors](https://rachelbythebay.com/w/2024/05/27/feed/)
+- [Doing is normally distributed, learning is log-normal](https://hiandrewquinn.github.io/til-site/posts/doing-is-normally-distributed-learning-is-log-normal/)
