@@ -2490,3 +2490,8 @@
 - [Show HN: I made a free app to calibrate your turntable by simply playing a song](https://grooved.okat.best/)
 - [Surprising Supernova Scars Cover the Earth](https://www.scientificamerican.com/article/how-often-do-supernovas-strike-earth/)
 - [Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
+## Morning Digest - 29-05-2024
+
+- [AI headphones let you listen to a single person in crowd, by looking at them](https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/)
+- [Three Laws of Software Complexity](https://maheshba.bitbucket.io/blog/2024/05/08/2024-ThreeLaws.html)
+- [TTE: Terminal Text Effects](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
