@@ -2500,3 +2500,8 @@
 - [AI headphones let you listen to a single person in crowd, by looking at them](https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/)
 - [AdFlush](https://dl.acm.org/doi/abs/10.1145/3589334.3645698)
 - [Codestral: Mistral's Code Model](https://mistral.ai/news/codestral/)
+## Morning Digest - 30-05-2024
+
+- [How Actors Remember Their Lines](https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/)
+- [Meaningful Nonsense: How I generate sentences](https://www.amygoodchild.com/blog/meaningful-nonsense-sentences)
+- [SVG Gobbler – Find, optimize, edit, and export SVGs](https://github.com/rossmoody/svg-gobbler)
