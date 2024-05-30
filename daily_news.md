@@ -2505,3 +2505,8 @@
 - [How Actors Remember Their Lines](https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/)
 - [Meaningful Nonsense: How I generate sentences](https://www.amygoodchild.com/blog/meaningful-nonsense-sentences)
 - [SVG Gobbler – Find, optimize, edit, and export SVGs](https://github.com/rossmoody/svg-gobbler)
+## Afternoon/Evening Digest - 30-05-2024
+
+- [Show HN: ChatGPT UI for Rabbit Holes](https://delve.a9.io/)
+- [How I run a software book club](https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html)
+- [How Actors Remember Their Lines](https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/)
