@@ -2510,3 +2510,8 @@
 - [Show HN: ChatGPT UI for Rabbit Holes](https://delve.a9.io/)
 - [How I run a software book club](https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html)
 - [How Actors Remember Their Lines](https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/)
+## Morning Digest - 31-05-2024
+
+- [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
+- [EU countries must implement right to repair laws within two years](https://www.consilium.europa.eu/en/press/press-releases/2024/05/30/circular-economy-council-gives-final-approval-to-right-to-repair-directive/)
+- [A man ordered to hide his boat painted the boat on his fence](https://news.artnet.com/art-world/fence-boat-painting-artist-hanif-panni-2487875)
