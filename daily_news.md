@@ -2515,3 +2515,8 @@
 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 - [EU countries must implement right to repair laws within two years](https://www.consilium.europa.eu/en/press/press-releases/2024/05/30/circular-economy-council-gives-final-approval-to-right-to-repair-directive/)
 - [A man ordered to hide his boat painted the boat on his fence](https://news.artnet.com/art-world/fence-boat-painting-artist-hanif-panni-2487875)
+## Afternoon/Evening Digest - 31-05-2024
+
+- [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
+- [Every mountain, building and tree shadow in the world simulated for any time](https://shademap.app)
+- [Intel's Anti-Upgrade Tricks Defeated with Kapton Tape](https://hackaday.com/2024/05/31/intels-anti-upgrade-tricks-defeated-with-kapton-tape/)
