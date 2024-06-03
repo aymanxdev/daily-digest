@@ -2525,3 +2525,8 @@
 - [Learn CSS Grid with a virtual garden game](https://cssgridgarden.com/)
 - [Quake in 13kb (2021)](https://js13kgames.com/entries/q1k3)
 - [EU: Users who refuse scanning to be prevented from sharing photos and links](https://www.patrick-breyer.de/en/majority-for-chat-control-possible-users-who-refuse-scanning-to-be-prevented-from-sharing-photos-and-links/)
+## Afternoon/Evening Digest - 03-06-2024
+
+- [How many photons are received per bit transmitted from Voyager 1?](https://physics.stackexchange.com/questions/816698/how-many-photons-are-received-per-bit-transmitted-from-voyager-1)
+- [Show HN: 10 Years to Build a Free SQL Editor](https://www.timestored.com/qstudio/release-version-3)
+- [Making USB devices – end to end guide to your first gadget](https://popovicu.com/posts/making-usb-devices/)
