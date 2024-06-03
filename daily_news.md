@@ -2520,3 +2520,8 @@
 - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 - [Every mountain, building and tree shadow in the world simulated for any time](https://shademap.app)
 - [Intel's Anti-Upgrade Tricks Defeated with Kapton Tape](https://hackaday.com/2024/05/31/intels-anti-upgrade-tricks-defeated-with-kapton-tape/)
+## Morning Digest - 03-06-2024
+
+- [Learn CSS Grid with a virtual garden game](https://cssgridgarden.com/)
+- [Quake in 13kb (2021)](https://js13kgames.com/entries/q1k3)
+- [EU: Users who refuse scanning to be prevented from sharing photos and links](https://www.patrick-breyer.de/en/majority-for-chat-control-possible-users-who-refuse-scanning-to-be-prevented-from-sharing-photos-and-links/)
