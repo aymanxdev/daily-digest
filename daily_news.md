@@ -2530,3 +2530,8 @@
 - [How many photons are received per bit transmitted from Voyager 1?](https://physics.stackexchange.com/questions/816698/how-many-photons-are-received-per-bit-transmitted-from-voyager-1)
 - [Show HN: 10 Years to Build a Free SQL Editor](https://www.timestored.com/qstudio/release-version-3)
 - [Making USB devices – end to end guide to your first gadget](https://popovicu.com/posts/making-usb-devices/)
+## Morning Digest - 04-06-2024
+
+- [Hacking millions of modems and investigating who hacked my modem](https://samcurry.net/hacking-millions-of-modems)
+- [Diffusion on syntax trees for program synthesis](https://tree-diffusion.github.io/)
+- [Koheesio: Nike's Python-based framework to build advanced data-pipelines](https://github.com/Nike-Inc/koheesio)
