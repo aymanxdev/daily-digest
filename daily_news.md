@@ -2535,3 +2535,8 @@
 - [Hacking millions of modems and investigating who hacked my modem](https://samcurry.net/hacking-millions-of-modems)
 - [Diffusion on syntax trees for program synthesis](https://tree-diffusion.github.io/)
 - [Koheesio: Nike's Python-based framework to build advanced data-pipelines](https://github.com/Nike-Inc/koheesio)
+## Afternoon/Evening Digest - 04-06-2024
+
+- [Hacking millions of modems and investigating who hacked my modem](https://samcurry.net/hacking-millions-of-modems)
+- [A breakthrough towards the Riemann hypothesis](https://mathstodon.xyz/@tao/112557248794707738)
+- [Don't be terrified of Pale Fire](https://unherd.com/2024/05/dont-be-terrified-of-pale-fire/)
