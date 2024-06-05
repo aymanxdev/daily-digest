@@ -2545,3 +2545,8 @@
 - [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
 - [An animated introduction to Fourier series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
 - [Intel Brings a Big Fork to a Server CPU Knife Fight](https://www.nextplatform.com/2024/06/03/intel-brings-a-big-fork-to-a-server-cpu-knife-fight/)
+## Afternoon/Evening Digest - 05-06-2024
+
+- [Is Microsoft trying to commit suicide?](https://www.antipope.org/charlie/blog-static/2024/06/is-microsoft-trying-to-commit-.html)
+- [Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in LLMs](https://arxiv.org/abs/2406.02061)
+- [Study finds 268% higher failure rates for Agile software projects](https://www.theregister.com/2024/06/05/agile_failure_rates/)
