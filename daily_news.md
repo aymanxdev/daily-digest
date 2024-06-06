@@ -2550,3 +2550,8 @@
 - [Is Microsoft trying to commit suicide?](https://www.antipope.org/charlie/blog-static/2024/06/is-microsoft-trying-to-commit-.html)
 - [Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in LLMs](https://arxiv.org/abs/2406.02061)
 - [Study finds 268% higher failure rates for Agile software projects](https://www.theregister.com/2024/06/05/agile_failure_rates/)
+## Morning Digest - 06-06-2024
+
+- [FBI has obtained 7k Lockbit ransomware decryption keys](https://www.fbi.gov/news/speeches/fbi-cyber-assistant-director-bryan-vorndran-s-remarks-at-the-2024-boston-conference-on-cyber-security)
+- [TPM GPIO fail: How bad OEM firmware ruins Intel TPM security](https://mkukri.xyz/2024/06/01/tpm-gpio-fail.html)
+- [Boeing Starliner launches first crewed mission](https://www.bbc.co.uk/news/live/world-us-canada-69094213)
