@@ -2565,3 +2565,8 @@
 - [Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
 - [CPU Energy Meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
 - [GNU Justified Public License (2007)](http://tom7.org/bovex/JCOPYING)
+## Afternoon/Evening Digest - 07-06-2024
+
+- [A Picture Is Worth 170 Tokens: How Does GPT-4o Encode Images?](https://www.oranlooney.com/post/gpt-cnn/)
+- [Instruction Sets Should Be Free: The Case for RISC-V [pdf] (2014)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf)
+- [Secret Hand Gestures in Paintings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/)
