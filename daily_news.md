@@ -2560,3 +2560,8 @@
 - [The Roads of Ancient Rome Visualized in the Style of Modern Subway Maps](https://www.openculture.com/2024/06/the-roads-of-ancient-rome-visualized-in-modern-subway-maps.html)
 - [I learned Vulkan and wrote a small game engine with it](https://edw.is/learning-vulkan/)
 - [Don Estridge: A misfit who built the IBM PC](https://every.to/the-crazy-ones/the-misfit-who-built-the-ibm-pc)
+## Morning Digest - 07-06-2024
+
+- [Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
+- [CPU Energy Meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
+- [GNU Justified Public License (2007)](http://tom7.org/bovex/JCOPYING)
