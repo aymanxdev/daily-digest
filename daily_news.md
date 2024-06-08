@@ -2575,3 +2575,8 @@
 - [Apollo 8 astronaut William Anders ID'd in WA plane crash](https://www.fox13seattle.com/news/william-anders-wa-plane-crash)
 - [Content Injection Attack on GitHub](https://github.com/younesbram/younesbram)
 - [What happened to Captura? OSS maintainer burnout (2023)](https://mathewsachin.github.io/blog/2023/04/09/captura-unmaintained.html)
+## Afternoon/Evening Digest - 08-06-2024
+
+- [Apollo 8 astronaut William Anders ID'd in WA plane crash](https://www.fox13seattle.com/news/william-anders-wa-plane-crash)
+- [Own a weather station? We want your data](https://www.weather.gov/iln/cwop)
+- [What Is PID 0?](https://blog.dave.tf/post/linux-pid0/)
