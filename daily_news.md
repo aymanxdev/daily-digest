@@ -2585,3 +2585,8 @@
 - [piku: The tiniest PaaS you've ever seen](https://github.com/piku/piku)
 - [Gene therapy restores hearing to children with inherited deafness](https://cosmosmagazine.com/science/biology/gene-therapy-restores-hearing-to-children-with-inherited-deafness/)
 - [The Backrooms of the Internet Archive](https://blog.archive.org/2024/06/01/the-backrooms-of-the-internet-archive/)
+## Afternoon/Evening Digest - 09-06-2024
+
+- [Teams of LLM Agents Can Exploit Zero-Day Vulnerabilities](https://arxiv.org/abs/2406.01637)
+- [piku: The tiniest PaaS you've ever seen](https://github.com/piku/piku)
+- [Gene therapy restores hearing to children with inherited deafness](https://cosmosmagazine.com/science/biology/gene-therapy-restores-hearing-to-children-with-inherited-deafness/)
