@@ -2580,3 +2580,8 @@
 - [Apollo 8 astronaut William Anders ID'd in WA plane crash](https://www.fox13seattle.com/news/william-anders-wa-plane-crash)
 - [Own a weather station? We want your data](https://www.weather.gov/iln/cwop)
 - [What Is PID 0?](https://blog.dave.tf/post/linux-pid0/)
+## Morning Digest - 09-06-2024
+
+- [piku: The tiniest PaaS you've ever seen](https://github.com/piku/piku)
+- [Gene therapy restores hearing to children with inherited deafness](https://cosmosmagazine.com/science/biology/gene-therapy-restores-hearing-to-children-with-inherited-deafness/)
+- [The Backrooms of the Internet Archive](https://blog.archive.org/2024/06/01/the-backrooms-of-the-internet-archive/)
