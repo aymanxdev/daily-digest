@@ -2595,3 +2595,8 @@
 - [Designing a Lego orrery](https://marian42.de/article/orrery/)
 - [It is time for more holistic practices in mental health](https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000028)
 - [Libtree: Ldd as a tree saying why a library is found or not](https://github.com/haampie/libtree)
+## Afternoon/Evening Digest - 10-06-2024
+
+- [Show HN: Markdown HN profiles at {user}.at.hn](https://at.hn)
+- [Mexican Computers: A Brief Technical and Historical Overview](https://arxiv.org/abs/2406.04912)
+- [The Mythical Non-Roboticist: Wouldn't it be great if everyone could do robotics?](https://spectrum.ieee.org/the-mythical-non-roboticist)
