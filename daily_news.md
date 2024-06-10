@@ -2590,3 +2590,8 @@
 - [Teams of LLM Agents Can Exploit Zero-Day Vulnerabilities](https://arxiv.org/abs/2406.01637)
 - [piku: The tiniest PaaS you've ever seen](https://github.com/piku/piku)
 - [Gene therapy restores hearing to children with inherited deafness](https://cosmosmagazine.com/science/biology/gene-therapy-restores-hearing-to-children-with-inherited-deafness/)
+## Morning Digest - 10-06-2024
+
+- [Designing a Lego orrery](https://marian42.de/article/orrery/)
+- [It is time for more holistic practices in mental health](https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000028)
+- [Libtree: Ldd as a tree saying why a library is found or not](https://github.com/haampie/libtree)
