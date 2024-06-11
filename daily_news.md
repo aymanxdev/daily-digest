@@ -2600,3 +2600,8 @@
 - [Show HN: Markdown HN profiles at {user}.at.hn](https://at.hn)
 - [Mexican Computers: A Brief Technical and Historical Overview](https://arxiv.org/abs/2406.04912)
 - [The Mythical Non-Roboticist: Wouldn't it be great if everyone could do robotics?](https://spectrum.ieee.org/the-mythical-non-roboticist)
+## Morning Digest - 11-06-2024
+
+- [POV-Ray – The Persistence of Vision Raytracer](http://www.povray.org/)
+- [macOS Sequoia to Allow iCloud Logins in Virtual Machines on ARM Macs](https://developer.apple.com/documentation/virtualization/using_icloud_with_macos_virtual_machines?language=objc)
+- [Apple's On-Device and Server Foundation Models](https://machinelearning.apple.com/research/introducing-apple-foundation-models)
