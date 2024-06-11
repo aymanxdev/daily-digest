@@ -2605,3 +2605,8 @@
 - [POV-Ray – The Persistence of Vision Raytracer](http://www.povray.org/)
 - [macOS Sequoia to Allow iCloud Logins in Virtual Machines on ARM Macs](https://developer.apple.com/documentation/virtualization/using_icloud_with_macos_virtual_machines?language=objc)
 - [Apple's On-Device and Server Foundation Models](https://machinelearning.apple.com/research/introducing-apple-foundation-models)
+## Afternoon/Evening Digest - 11-06-2024
+
+- [I like the RP2040](https://dgroshev.com/blog/rp2040/)
+- [Norway discovers Europe's largest deposit of rare earth metals](https://www.cnbc.com/2024/06/11/norway-discovers-europes-largest-deposit-of-rare-earth-metals.html)
+- [POV-Ray – The Persistence of Vision Raytracer (2021)](http://www.povray.org/)
