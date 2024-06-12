@@ -2615,3 +2615,8 @@
 - [Silicon Valley's best kept secret: Founder liquidity](https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/)
 - [I like the RP2040](https://dgroshev.com/blog/rp2040/)
 - [Why SQLite Is Taking over with Brian Holt and Marco Bambini](https://syntax.fm/show/779/why-sqlite-is-taking-over-with-brian-holt-and-marco-bambini)
+## Afternoon/Evening Digest - 12-06-2024
+
+- [Silicon Valley's best kept secret: Founder liquidity](https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/)
+- [Intel is trucking a 916,000-pound 'Super Load' across Ohio to its new fab](https://www.tomshardware.com/pc-components/cpus/intel-is-trucking-a-916000-pound-super-load-across-ohio-to-its-new-fab-spawning-road-closures-over-nine-days)
+- [How to Get the Most Out of Postgres Memory Settings](https://tembo.io/blog/optimizing-memory-usage)
