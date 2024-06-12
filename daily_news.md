@@ -2610,3 +2610,8 @@
 - [I like the RP2040](https://dgroshev.com/blog/rp2040/)
 - [Norway discovers Europe's largest deposit of rare earth metals](https://www.cnbc.com/2024/06/11/norway-discovers-europes-largest-deposit-of-rare-earth-metals.html)
 - [POV-Ray – The Persistence of Vision Raytracer (2021)](http://www.povray.org/)
+## Morning Digest - 12-06-2024
+
+- [Silicon Valley's best kept secret: Founder liquidity](https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/)
+- [I like the RP2040](https://dgroshev.com/blog/rp2040/)
+- [Why SQLite Is Taking over with Brian Holt and Marco Bambini](https://syntax.fm/show/779/why-sqlite-is-taking-over-with-brian-holt-and-marco-bambini)
