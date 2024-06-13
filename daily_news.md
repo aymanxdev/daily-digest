@@ -2620,3 +2620,8 @@
 - [Silicon Valley's best kept secret: Founder liquidity](https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/)
 - [Intel is trucking a 916,000-pound 'Super Load' across Ohio to its new fab](https://www.tomshardware.com/pc-components/cpus/intel-is-trucking-a-916000-pound-super-load-across-ohio-to-its-new-fab-spawning-road-closures-over-nine-days)
 - [How to Get the Most Out of Postgres Memory Settings](https://tembo.io/blog/optimizing-memory-usage)
+## Morning Digest - 13-06-2024
+
+- [The GJK Algorithm: A weird and beautiful way to do a simple thing](https://computerwebsite.net/writing/gjk)
+- [Gerald Sussman: Programming is (should be) fun (2022) [video]](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)
+- [Uncensor any LLM with abliteration](https://huggingface.co/blog/mlabonne/abliteration)
