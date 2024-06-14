@@ -2630,3 +2630,8 @@
 - [Indian Startup 3D Prints Rocket Engine in Just 72 Hours](https://spectrum.ieee.org/3d-printed-rocket)
 - [Show HN: Shpool, a Lightweight Tmux Alternative](https://github.com/shell-pool/shpool)
 - [Potential Ozone Depletion from Satellite Demise During Atmospheric Reentry](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109280)
+## Morning Digest - 14-06-2024
+
+- [A look at Apple's technical approach to AI including core model performance etc.](https://www.interconnects.ai/p/apple-intelligence)
+- [Land value tax in online games and virtual worlds](https://progressandpoverty.substack.com/p/land-value-tax-in-online-games-and)
+- [MLow: Meta's low bitrate audio codec](https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/)
