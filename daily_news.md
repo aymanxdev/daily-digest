@@ -2640,3 +2640,8 @@
 - [I Found a 55 Year Old Bug in the First Lunar Lander Game](https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/)
 - [Nvidia Warp: A Python framework for high performance GPU simulation and graphics](https://github.com/NVIDIA/warp)
 - [Start Presentations on the Second Slide](https://tidyfirst.substack.com/p/start-presentations-on-the-second)
+## Morning Digest - 15-06-2024
+
+- [Tesla's FSD – A Useless Technology Demo](https://tomverbeure.github.io/2024/05/20/Tesla-FSD-First-and-Last-Impressions.html)
+- [Voyager 1 is back online! NASA spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational)
+- [Eden Abhez: The strangest hit songwriter](https://www.honest-broker.com/p/the-strangest-hit-songwriter-in-history)
