@@ -2645,3 +2645,8 @@
 - [Tesla's FSD – A Useless Technology Demo](https://tomverbeure.github.io/2024/05/20/Tesla-FSD-First-and-Last-Impressions.html)
 - [Voyager 1 is back online! NASA spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational)
 - [Eden Abhez: The strangest hit songwriter](https://www.honest-broker.com/p/the-strangest-hit-songwriter-in-history)
+## Afternoon/Evening Digest - 15-06-2024
+
+- [Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
+- [Threescaper: A website for loading Townscaper models into Three.js](https://github.com/meliharvey/threescaper)
+- [Address Sanitizer Internals](https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/)
