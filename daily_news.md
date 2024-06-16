@@ -2655,3 +2655,8 @@
 - [What You Get After Running an SSH Honeypot for 30 Days](https://blog.sofiane.cc/ssh_honeypot/)
 - [Show HN: We Made The World's Smallest and Cheapest Network Switch](https://docs.murexrobotics.com/elec/boards/networking/switch)
 - [Making my first embedded Linux system](https://popovicu.com/posts/making-my-first-embedded-linux-system/)
+## Afternoon/Evening Digest - 16-06-2024
+
+- [NLRB judge declares non-compete clause is an unfair labor practice](https://www.nlrbedge.com/p/in-first-case-of-its-kind-nlrb-judge)
+- [PaperTapeReader: A DIY reader for vintage 8-bit paper tapes](https://github.com/dhansel/PaperTapeReader)
+- [Simple sabotage for software (2023)](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
