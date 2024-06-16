@@ -2650,3 +2650,8 @@
 - [Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
 - [Threescaper: A website for loading Townscaper models into Three.js](https://github.com/meliharvey/threescaper)
 - [Address Sanitizer Internals](https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/)
+## Morning Digest - 16-06-2024
+
+- [What You Get After Running an SSH Honeypot for 30 Days](https://blog.sofiane.cc/ssh_honeypot/)
+- [Show HN: We Made The World's Smallest and Cheapest Network Switch](https://docs.murexrobotics.com/elec/boards/networking/switch)
+- [Making my first embedded Linux system](https://popovicu.com/posts/making-my-first-embedded-linux-system/)
