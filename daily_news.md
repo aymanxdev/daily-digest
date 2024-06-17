@@ -2660,3 +2660,8 @@
 - [NLRB judge declares non-compete clause is an unfair labor practice](https://www.nlrbedge.com/p/in-first-case-of-its-kind-nlrb-judge)
 - [PaperTapeReader: A DIY reader for vintage 8-bit paper tapes](https://github.com/dhansel/PaperTapeReader)
 - [Simple sabotage for software (2023)](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
+## Morning Digest - 17-06-2024
+
+- [How to get stuff repaired when the manufacturer don't wanna: take 'em to court](https://blog.simonrumble.com/how-to-get-your-stuff-repaired-when-the-retailer-and-manufacturer-dont-wanna-take-em-to-court)
+- [Developer Takes 'Retro' Concept to New Level by Creating Physical Winamp Player](https://www.xatakaon.com/makers/a-developer-has-just-taken-the-concept-of-retro-to-a-new-level-by-creating-a-physical-winamp-player)
+- [The time keepers: pg_cron and pg_timetable](https://notso.boringsql.com/posts/time-keepers-pg-cron-pg-timetable/)
