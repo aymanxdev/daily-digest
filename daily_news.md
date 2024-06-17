@@ -2665,3 +2665,8 @@
 - [How to get stuff repaired when the manufacturer don't wanna: take 'em to court](https://blog.simonrumble.com/how-to-get-your-stuff-repaired-when-the-retailer-and-manufacturer-dont-wanna-take-em-to-court)
 - [Developer Takes 'Retro' Concept to New Level by Creating Physical Winamp Player](https://www.xatakaon.com/makers/a-developer-has-just-taken-the-concept-of-retro-to-a-new-level-by-creating-a-physical-winamp-player)
 - [The time keepers: pg_cron and pg_timetable](https://notso.boringsql.com/posts/time-keepers-pg-cron-pg-timetable/)
+## Afternoon/Evening Digest - 17-06-2024
+
+- [How I Made Trading Cards with E-Ink Displays](https://howtoware.co/wyldcard)
+- [The Programmer's Brain](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/the-programmers-brain)
+- [MicroMac, a Macintosh for under £5](https://axio.ms/projects/2024/06/16/MicroMac.html)
