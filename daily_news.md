@@ -2675,3 +2675,8 @@
 - [Cyber Scarecrow, making your computer look 'scary' to malware](https://www.cyberscarecrow.com/)
 - [FTC sues Adobe for hiding fees and inhibiting cancellations](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling)
 - [An Introduction to CSS-Doodle](https://yuanchuan.github.io/intro-to-css-doodle/)
+## Afternoon/Evening Digest - 18-06-2024
+
+- [Visualizing Data on a Mesh with Displacement Mapping in R](https://www.tylermw.com/posts/rayverse/displacement-mapping.html)
+- [Understanding the Misunderstood Kessler Syndrome](https://aerospaceamerica.aiaa.org/features/understanding-the-misunderstood-kessler-syndrome/)
+- [TikTag: bypassing ARM CPU MemTag via speculative execution attack](https://arxiv.org/abs/2406.08719)
