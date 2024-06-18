@@ -2670,3 +2670,8 @@
 - [How I Made Trading Cards with E-Ink Displays](https://howtoware.co/wyldcard)
 - [The Programmer's Brain](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/the-programmers-brain)
 - [MicroMac, a Macintosh for under £5](https://axio.ms/projects/2024/06/16/MicroMac.html)
+## Morning Digest - 18-06-2024
+
+- [Cyber Scarecrow, making your computer look 'scary' to malware](https://www.cyberscarecrow.com/)
+- [FTC sues Adobe for hiding fees and inhibiting cancellations](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling)
+- [An Introduction to CSS-Doodle](https://yuanchuan.github.io/intro-to-css-doodle/)
