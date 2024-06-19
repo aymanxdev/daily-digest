@@ -2685,3 +2685,8 @@
 - [KidPix](https://kidpix.app)
 - [Fern Hollow Bridge should have been closed years before it collapsed](https://practical.engineering/blog/2024/6/18/this-bridge-should-have-been-closed-years-before-it-collapsed)
 - [EU to Potentially Greenlight Chat Scanning Proposal on Thursday](https://www.patrick-breyer.de/en/posts/chat-control/)
+## Afternoon/Evening Digest - 19-06-2024
+
+- [Recovering an Agilent 2000A/3000A Oscilloscope with Corrupt Firmware NAND Flash](https://salvagedcircuitry.com/2000a-nand-recovery.html)
+- [Astronomers see a black hole awaken in real time](https://www.eso.org/public/germany/news/eso2409/)
+- [Mrs Perkins's Quilt (2017)](http://www.squaring.net/quilts/mrs-perkins-quilts.html)
