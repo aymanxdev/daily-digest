@@ -2680,3 +2680,8 @@
 - [Visualizing Data on a Mesh with Displacement Mapping in R](https://www.tylermw.com/posts/rayverse/displacement-mapping.html)
 - [Understanding the Misunderstood Kessler Syndrome](https://aerospaceamerica.aiaa.org/features/understanding-the-misunderstood-kessler-syndrome/)
 - [TikTag: bypassing ARM CPU MemTag via speculative execution attack](https://arxiv.org/abs/2406.08719)
+## Morning Digest - 19-06-2024
+
+- [KidPix](https://kidpix.app)
+- [Fern Hollow Bridge should have been closed years before it collapsed](https://practical.engineering/blog/2024/6/18/this-bridge-should-have-been-closed-years-before-it-collapsed)
+- [EU to Potentially Greenlight Chat Scanning Proposal on Thursday](https://www.patrick-breyer.de/en/posts/chat-control/)
