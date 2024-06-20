@@ -2695,3 +2695,8 @@
 - [What Is a Personal User Manual? (2022)](https://futureforum.com/2022/07/15/personal-user-manual/)
 - [Agricultural drones are transforming rice farming in the Mekong River delta](https://hakaimagazine.com/videos-visuals/rice-farming-gets-an-ai-upgrade/)
 - [Lessons Learned from Scaling to Multi-Terabyte Datasets](https://v2thegreat.com/2024/06/19/lessons-learned-from-scaling-to-multi-terabyte-datasets/)
+## Afternoon/Evening Digest - 20-06-2024
+
+- [Tetris as Font](https://erikdemaine.org/fonts/tetris/)
+- [Wc2: Investigates optimizing 'wc', the Unix word count program](https://github.com/robertdavidgraham/wc2)
+- [NASA Releases Hubble Image Taken in New Pointing Mode Using Only Single Gyro](https://science.nasa.gov/missions/hubble/nasa-releases-hubble-image-taken-in-new-pointing-mode/)
