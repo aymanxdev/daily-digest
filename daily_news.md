@@ -2690,3 +2690,8 @@
 - [Recovering an Agilent 2000A/3000A Oscilloscope with Corrupt Firmware NAND Flash](https://salvagedcircuitry.com/2000a-nand-recovery.html)
 - [Astronomers see a black hole awaken in real time](https://www.eso.org/public/germany/news/eso2409/)
 - [Mrs Perkins's Quilt (2017)](http://www.squaring.net/quilts/mrs-perkins-quilts.html)
+## Morning Digest - 20-06-2024
+
+- [What Is a Personal User Manual? (2022)](https://futureforum.com/2022/07/15/personal-user-manual/)
+- [Agricultural drones are transforming rice farming in the Mekong River delta](https://hakaimagazine.com/videos-visuals/rice-farming-gets-an-ai-upgrade/)
+- [Lessons Learned from Scaling to Multi-Terabyte Datasets](https://v2thegreat.com/2024/06/19/lessons-learned-from-scaling-to-multi-terabyte-datasets/)
