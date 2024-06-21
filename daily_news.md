@@ -2705,3 +2705,8 @@
 - [Ladybird browser spreads its wings](https://lwn.net/Articles/976822/)
 - [MeshAnything – converts 3D representations into efficient 3D meshes](https://buaacyw.github.io/mesh-anything/)
 - [Bessemer Venture Partners' Anti-Portfolio](https://www.bvp.com/anti-portfolio)
+## Afternoon/Evening Digest - 21-06-2024
+
+- [From Infocom to 80 Days: An oral history of text games and interactive fiction](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
+- [How does a computer/calculator compute logarithms?](https://zachartrand.github.io/SoME-3-Living/)
+- [Why Innovation Heroes Are a Sign of a Dysfunctional Organization](https://steveblank.substack.com/p/why-innovation-heroes-are-a-sign)
