@@ -2700,3 +2700,8 @@
 - [Tetris as Font](https://erikdemaine.org/fonts/tetris/)
 - [Wc2: Investigates optimizing 'wc', the Unix word count program](https://github.com/robertdavidgraham/wc2)
 - [NASA Releases Hubble Image Taken in New Pointing Mode Using Only Single Gyro](https://science.nasa.gov/missions/hubble/nasa-releases-hubble-image-taken-in-new-pointing-mode/)
+## Morning Digest - 21-06-2024
+
+- [Ladybird browser spreads its wings](https://lwn.net/Articles/976822/)
+- [MeshAnything – converts 3D representations into efficient 3D meshes](https://buaacyw.github.io/mesh-anything/)
+- [Bessemer Venture Partners' Anti-Portfolio](https://www.bvp.com/anti-portfolio)
