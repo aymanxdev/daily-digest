@@ -2710,3 +2710,8 @@
 - [From Infocom to 80 Days: An oral history of text games and interactive fiction](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
 - [How does a computer/calculator compute logarithms?](https://zachartrand.github.io/SoME-3-Living/)
 - [Why Innovation Heroes Are a Sign of a Dysfunctional Organization](https://steveblank.substack.com/p/why-innovation-heroes-are-a-sign)
+## Morning Digest - 22-06-2024
+
+- [Language is primarily a tool for communication rather than thought [pdf]](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf)
+- [Farm: Fast vite compatible build tool written in Rust](https://www.farmfe.org/)
+- [20x Faster Background Removal in the Browser Using ONNX Runtime with WebGPU](https://img.ly/blog/browser-background-removal-using-onnx-runtime-webgpu/)
