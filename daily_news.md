@@ -2715,3 +2715,8 @@
 - [Language is primarily a tool for communication rather than thought [pdf]](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf)
 - [Farm: Fast vite compatible build tool written in Rust](https://www.farmfe.org/)
 - [20x Faster Background Removal in the Browser Using ONNX Runtime with WebGPU](https://img.ly/blog/browser-background-removal-using-onnx-runtime-webgpu/)
+## Afternoon/Evening Digest - 22-06-2024
+
+- [CSS Tip: An em isn't an "m", but an ex is an "x" (2012)](https://blog.frankmtaylor.com/2012/01/25/css-font-size-an-em-isnt-an-m-but-an-ex-is-an-x/)
+- [After my dad died, I ran and sold his company (2018)](https://anandsanwal.me/2018/06/19/dad-company-sale/)
+- [Own Constant Folder in C/C++](https://www.neilhenning.dev/posts/yourownconstantfolder/)
