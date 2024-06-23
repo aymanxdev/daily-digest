@@ -2725,3 +2725,8 @@
 - [I've Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
 - [TinyLetter Shut Down by Mailchimp, So I Built the LetterDrop](https://github.com/i365dev/LetterDrop)
 - [Richard Stallman, su, and the 'wheel' group (2004)](https://www.meisterplanet.com/journal/2004/05/09/richard-stallman-su-and-the-wheel-group/)
+## Afternoon/Evening Digest - 23-06-2024
+
+- [Asynchronous Consensus Without Trusted Setup or Public-Key Cryptography](https://eprint.iacr.org/2024/677)
+- [Show HN: I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/)
+- [Llama.ttf: A font which is also an LLM](https://fuglede.github.io/llama.ttf/)
