@@ -2720,3 +2720,8 @@
 - [CSS Tip: An em isn't an "m", but an ex is an "x" (2012)](https://blog.frankmtaylor.com/2012/01/25/css-font-size-an-em-isnt-an-m-but-an-ex-is-an-x/)
 - [After my dad died, I ran and sold his company (2018)](https://anandsanwal.me/2018/06/19/dad-company-sale/)
 - [Own Constant Folder in C/C++](https://www.neilhenning.dev/posts/yourownconstantfolder/)
+## Morning Digest - 23-06-2024
+
+- [I've Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
+- [TinyLetter Shut Down by Mailchimp, So I Built the LetterDrop](https://github.com/i365dev/LetterDrop)
+- [Richard Stallman, su, and the 'wheel' group (2004)](https://www.meisterplanet.com/journal/2004/05/09/richard-stallman-su-and-the-wheel-group/)
