@@ -2730,3 +2730,8 @@
 - [Asynchronous Consensus Without Trusted Setup or Public-Key Cryptography](https://eprint.iacr.org/2024/677)
 - [Show HN: I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/)
 - [Llama.ttf: A font which is also an LLM](https://fuglede.github.io/llama.ttf/)
+## Morning Digest - 24-06-2024
+
+- [The tiny chip that powers Montreal subway tickets](http://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html)
+- [US prosecutors recommend Justice Department criminally charge Boeing](https://www.voanews.com/a/us-prosecutors-recommend-justice-department-criminally-charge-boeing-as-deadline-looms/7667194.html)
+- [Cosmopolitan v3.5.0](https://github.com/jart/cosmopolitan/releases/tag/3.5.0)
