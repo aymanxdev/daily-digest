@@ -2745,3 +2745,8 @@
 - [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.github.io/read.html?md=blog/simd-fast-esp32s3.md)
 - [Julian Assange has reached a plea deal with the U.S., allowing him to go free](https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695)
 - [Twonkie: A USB-PD sniffer/injector/sink based on Google's Twinkie open hardware](https://github.com/dojoe/Twonkie)
+## Afternoon/Evening Digest - 25-06-2024
+
+- [Microsoft charged with EU antitrust violations for bundling Teams](https://www.theverge.com/2024/6/25/24185467/microsoft-teams-eu-bundling-antitrust-violations)
+- [Why we must seek a widely-applicable Science of Systems.](https://www.hiranmay.xyz/blog/complex-systems)
+- [Remembering the LAN (2020)](https://tailscale.com/blog/remembering-the-lan)
