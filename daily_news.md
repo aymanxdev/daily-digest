@@ -2750,3 +2750,8 @@
 - [Microsoft charged with EU antitrust violations for bundling Teams](https://www.theverge.com/2024/6/25/24185467/microsoft-teams-eu-bundling-antitrust-violations)
 - [Why we must seek a widely-applicable Science of Systems.](https://www.hiranmay.xyz/blog/complex-systems)
 - [Remembering the LAN (2020)](https://tailscale.com/blog/remembering-the-lan)
+## Morning Digest - 26-06-2024
+
+- [Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball)
+- [Vigorous Exercise, Cognitive Decline, and High Blood Pressure](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13887)
+- [HyperCard Simulator](https://hcsimulator.com/)
