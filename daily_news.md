@@ -2755,3 +2755,8 @@
 - [Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball)
 - [Vigorous Exercise, Cognitive Decline, and High Blood Pressure](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13887)
 - [HyperCard Simulator](https://hcsimulator.com/)
+## Afternoon/Evening Digest - 26-06-2024
+
+- [Ghosts in the ROM (2012)](https://www.nycresistor.com/2012/08/21/ghosts-in-the-rom/)
+- [The Point of the Banach Tarski Theorem (2015)](https://www.solipsys.co.uk/new/ThePointOfTheBanachTarskiTheorem.html)
+- [Show HN: R2R V2 – A open source RAG engine with prod features](https://github.com/SciPhi-AI/R2R)
