@@ -2765,3 +2765,8 @@
 - [Eplot: A new package for making charts in Emacs](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
 - [One Million Checkboxes](https://onemillioncheckboxes.com/)
 - [Flow Charts with CSS Anchor Positioning](https://coryrylan.com/blog/flow-charts-with-css-anchor-positioning)
+## Afternoon/Evening Digest - 27-06-2024
+
+- [Gemma 2: Improving Open Language Models at a Practical Size [pdf]](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
+- [Google Sheets ported its calculation worker from JavaScript to WasmGC](https://web.dev/case-studies/google-sheets-wasmgc)
+- [Lessons I Wish I Had Been Taught (1997) [pdf]](https://www.ams.org/notices/199701/comm-rota.pdf)
