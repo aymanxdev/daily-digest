@@ -2760,3 +2760,8 @@
 - [Ghosts in the ROM (2012)](https://www.nycresistor.com/2012/08/21/ghosts-in-the-rom/)
 - [The Point of the Banach Tarski Theorem (2015)](https://www.solipsys.co.uk/new/ThePointOfTheBanachTarskiTheorem.html)
 - [Show HN: R2R V2 – A open source RAG engine with prod features](https://github.com/SciPhi-AI/R2R)
+## Morning Digest - 27-06-2024
+
+- [Eplot: A new package for making charts in Emacs](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
+- [One Million Checkboxes](https://onemillioncheckboxes.com/)
+- [Flow Charts with CSS Anchor Positioning](https://coryrylan.com/blog/flow-charts-with-css-anchor-positioning)
