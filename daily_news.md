@@ -2770,3 +2770,8 @@
 - [Gemma 2: Improving Open Language Models at a Practical Size [pdf]](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
 - [Google Sheets ported its calculation worker from JavaScript to WasmGC](https://web.dev/case-studies/google-sheets-wasmgc)
 - [Lessons I Wish I Had Been Taught (1997) [pdf]](https://www.ams.org/notices/199701/comm-rota.pdf)
+## Morning Digest - 28-06-2024
+
+- [Software galaxies](https://anvaka.github.io/pm/)
+- [A modern 8 bit design, built using 1950s thermionic valves](https://www.valve.computer/)
+- [Frame.work laptop now available in Denmark, Finland, and Sweden](https://community.frame.work/t/now-available-in-denmark-finland-and-sweden/53690)
