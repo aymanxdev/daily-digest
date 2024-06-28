@@ -2775,3 +2775,8 @@
 - [Software galaxies](https://anvaka.github.io/pm/)
 - [A modern 8 bit design, built using 1950s thermionic valves](https://www.valve.computer/)
 - [Frame.work laptop now available in Denmark, Finland, and Sweden](https://community.frame.work/t/now-available-in-denmark-finland-and-sweden/53690)
+## Afternoon/Evening Digest - 28-06-2024
+
+- [New ways to catch gravitational waves](https://www.nature.com/articles/d41586-024-02003-6)
+- [Is Clear Air Turbulence becoming more common?](https://www.flightradar24.com/blog/is-cat-more-common/)
+- [Software galaxies](https://anvaka.github.io/pm/)
