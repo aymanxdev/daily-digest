@@ -2785,3 +2785,8 @@
 - [I'm Terrified of Old People](https://guzey.com/old-people/)
 - [How to waste bandwidth, battery power, and annoy sysadmins](https://rachelbythebay.com/w/2024/06/28/fxios/)
 - [The XAES-256-GCM extended-nonce AEAD](https://words.filippo.io/dispatches/xaes-256-gcm/)
+## Afternoon/Evening Digest - 29-06-2024
+
+- [Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws](https://memorycorruption.net/posts/rce-lua-factorio/)
+- [A Hex Editor for Reverse Engineers](https://github.com/WerWolv/ImHex)
+- [To Be Real: On Emily Nussbaum's "Cue the Sun "](https://lareviewofbooks.org/article/to-be-real-on-emily-nussbaums-cue-the-sun/)
