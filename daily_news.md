@@ -2780,3 +2780,8 @@
 - [New ways to catch gravitational waves](https://www.nature.com/articles/d41586-024-02003-6)
 - [Is Clear Air Turbulence becoming more common?](https://www.flightradar24.com/blog/is-cat-more-common/)
 - [Software galaxies](https://anvaka.github.io/pm/)
+## Morning Digest - 29-06-2024
+
+- [I'm Terrified of Old People](https://guzey.com/old-people/)
+- [How to waste bandwidth, battery power, and annoy sysadmins](https://rachelbythebay.com/w/2024/06/28/fxios/)
+- [The XAES-256-GCM extended-nonce AEAD](https://words.filippo.io/dispatches/xaes-256-gcm/)
