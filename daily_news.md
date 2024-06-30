@@ -2790,3 +2790,8 @@
 - [Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws](https://memorycorruption.net/posts/rce-lua-factorio/)
 - [A Hex Editor for Reverse Engineers](https://github.com/WerWolv/ImHex)
 - [To Be Real: On Emily Nussbaum's "Cue the Sun "](https://lareviewofbooks.org/article/to-be-real-on-emily-nussbaums-cue-the-sun/)
+## Morning Digest - 30-06-2024
+
+- [Figma defaults to train AI models on personal data](https://help.figma.com/hc/en-us/articles/17725942479127-Control-AI-features-and-content-training-settings)
+- [Inside a $1 radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
+- [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
