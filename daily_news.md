@@ -2795,3 +2795,8 @@
 - [Figma defaults to train AI models on personal data](https://help.figma.com/hc/en-us/articles/17725942479127-Control-AI-features-and-content-training-settings)
 - [Inside a $1 radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
 - [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
+## Afternoon/Evening Digest - 30-06-2024
+
+- [Inside a $1 radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
+- [How the 1904 Marathon Became One of the Weirdest Olympic Events of All Time](https://www.smithsonianmag.com/history/how-the-1904-marathon-became-one-of-the-weirdest-olympic-events-of-all-time-14910747/)
+- [Buried Ancient Egyptian Port Reveals Hidden Connections () Distant Civilizations](https://www.smithsonianmag.com/history/hidden-ancient-egyptian-port-reveals-180984485/)
