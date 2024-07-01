@@ -2805,3 +2805,8 @@
 - [Cities Need More Trees](https://herman.bearblog.dev/cities-need-more-trees/)
 - [Pipes: A spiritual successor to Yahoo Pipes](https://www.pipes.digital/docs)
 - [RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
+## Afternoon/Evening Digest - 01-07-2024
+
+- [My Python code is a neural network](https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/)
+- [RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
+- [Show HN: I created an After Effects alternative](https://pikimov.com/)
