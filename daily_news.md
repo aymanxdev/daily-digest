@@ -2800,3 +2800,8 @@
 - [Inside a $1 radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
 - [How the 1904 Marathon Became One of the Weirdest Olympic Events of All Time](https://www.smithsonianmag.com/history/how-the-1904-marathon-became-one-of-the-weirdest-olympic-events-of-all-time-14910747/)
 - [Buried Ancient Egyptian Port Reveals Hidden Connections () Distant Civilizations](https://www.smithsonianmag.com/history/hidden-ancient-egyptian-port-reveals-180984485/)
+## Morning Digest - 01-07-2024
+
+- [Cities Need More Trees](https://herman.bearblog.dev/cities-need-more-trees/)
+- [Pipes: A spiritual successor to Yahoo Pipes](https://www.pipes.digital/docs)
+- [RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
