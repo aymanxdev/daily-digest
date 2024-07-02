@@ -2815,3 +2815,8 @@
 - [Mako – fast, production-grade web bundler based on Rust](https://makojs.dev/blog/mako-open-sourced)
 - [Booting Linux Off of Google Drive](https://ersei.net/en/blog/fuse-root)
 - [Diff-pdf: tool to visually compare two PDFs](https://github.com/vslavik/diff-pdf)
+## Afternoon/Evening Digest - 02-07-2024
+
+- [Why Is Chile So Long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long)
+- [Diff-pdf: tool to visually compare two PDFs](https://github.com/vslavik/diff-pdf)
+- [Show HN: Adding Mistral Codestral and GPT-4o to Jupyter Notebooks](https://github.com/pretzelai/pretzelai/blob/main/README.md)
