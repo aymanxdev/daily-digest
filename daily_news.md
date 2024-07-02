@@ -2810,3 +2810,8 @@
 - [My Python code is a neural network](https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/)
 - [RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
 - [Show HN: I created an After Effects alternative](https://pikimov.com/)
+## Morning Digest - 02-07-2024
+
+- [Mako – fast, production-grade web bundler based on Rust](https://makojs.dev/blog/mako-open-sourced)
+- [Booting Linux Off of Google Drive](https://ersei.net/en/blog/fuse-root)
+- [Diff-pdf: tool to visually compare two PDFs](https://github.com/vslavik/diff-pdf)
