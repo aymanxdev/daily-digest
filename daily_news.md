@@ -2820,3 +2820,8 @@
 - [Why Is Chile So Long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long)
 - [Diff-pdf: tool to visually compare two PDFs](https://github.com/vslavik/diff-pdf)
 - [Show HN: Adding Mistral Codestral and GPT-4o to Jupyter Notebooks](https://github.com/pretzelai/pretzelai/blob/main/README.md)
+## Morning Digest - 03-07-2024
+
+- [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email)
+- [Show HN: Improve LLM Performance by Maximizing Iterative Development](https://github.com/palico-ai/palico-ai)
+- [Meta 3D Gen](https://ai.meta.com/research/publications/meta-3d-gen/)
