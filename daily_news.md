@@ -2825,3 +2825,8 @@
 - [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email)
 - [Show HN: Improve LLM Performance by Maximizing Iterative Development](https://github.com/palico-ai/palico-ai)
 - [Meta 3D Gen](https://ai.meta.com/research/publications/meta-3d-gen/)
+## Afternoon/Evening Digest - 03-07-2024
+
+- [Do not taunt happy fun branch predictor](https://www.mattkeeter.com/blog/2023-01-25-branch/)
+- [Aboriginal ritual passed down over 12,000 years, cave find shows](https://phys.org/news/2024-07-aboriginal-ritual-years-cave.html)
+- [Living in a Lucid Dream](https://www.noemamag.com/living-in-a-lucid-dream/)
