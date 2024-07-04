@@ -2835,3 +2835,8 @@
 - [Building a data compression utility in Haskell using Huffman codes](https://lazamar.github.io/haskell-data-compression-with-huffman-codes/)
 - [Should this be a map or 500 maps?](https://escapethealgorithm.substack.com/p/should-this-be-a-map-or-500-maps)
 - [Shipt's Algorithm Squeezed Gig Workers. They Fought Back](https://spectrum.ieee.org/shipt)
+## Afternoon/Evening Digest - 04-07-2024
+
+- [Jeffrey Snover and the Making of PowerShell](https://corecursive.com/building-powershell-with-jeffrey-snover/)
+- [Building a data compression utility in Haskell using Huffman codes](https://lazamar.github.io/haskell-data-compression-with-huffman-codes/)
+- [Should this be a map or 500 maps?](https://escapethealgorithm.substack.com/p/should-this-be-a-map-or-500-maps)
