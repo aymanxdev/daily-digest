@@ -2845,3 +2845,8 @@
 - [The Programmers' Identity Crisis: how do we use our powers for 'good'?](https://chelseatroy.com/2024/07/03/programmers-identity-crises-and-moral-panic/)
 - [Moving to a RTOS on the RP2040](https://blog.brixit.nl/moving-to-a-rtos-on-the-rp2040/)
 - [SCIM: Ncurses based, Vim-like spreadsheet](https://github.com/andmarti1424/sc-im)
+## Afternoon/Evening Digest - 05-07-2024
+
+- [Map of Pontypandy in Fireman Sam](https://two-wrongs.com/map-of-pontypandy-in-fireman-sam.html)
+- [I have no constructor, and I must initialize](https://consteval.ca/2024/07/03/initialization/)
+- [Unlocking a Gary TL-15 Round-Door Safe (2009)](https://www.locksmithledger.com/keys-tools/article/10229247/unlocking-a-gary-tl-15-round-door-safe)
