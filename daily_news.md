@@ -2840,3 +2840,8 @@
 - [Jeffrey Snover and the Making of PowerShell](https://corecursive.com/building-powershell-with-jeffrey-snover/)
 - [Building a data compression utility in Haskell using Huffman codes](https://lazamar.github.io/haskell-data-compression-with-huffman-codes/)
 - [Should this be a map or 500 maps?](https://escapethealgorithm.substack.com/p/should-this-be-a-map-or-500-maps)
+## Morning Digest - 05-07-2024
+
+- [The Programmers' Identity Crisis: how do we use our powers for 'good'?](https://chelseatroy.com/2024/07/03/programmers-identity-crises-and-moral-panic/)
+- [Moving to a RTOS on the RP2040](https://blog.brixit.nl/moving-to-a-rtos-on-the-rp2040/)
+- [SCIM: Ncurses based, Vim-like spreadsheet](https://github.com/andmarti1424/sc-im)
