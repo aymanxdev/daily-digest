@@ -2855,3 +2855,8 @@
 - [Build and train GPT-2 from scratch using PyTorch](https://differ.blog/p/here-s-how-you-can-build-and-train-gpt-2-from-scratch-using-pytorch-ace4ba)
 - [Mineral winds down: 'We will no longer be an Alphabet company'](https://agfundernews.com/mineral-winds-down-we-will-no-longer-be-an-alphabet-company-but-our-technology-will-live-on)
 - [Tao Te Ching translated by Ursula Le Guin (1997)](https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md)
+## Afternoon/Evening Digest - 06-07-2024
+
+- [He might have been the first jazz star](https://www.honest-broker.com/p/he-might-have-been-the-first-jazz)
+- [Properly testing concurrent data structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
+- [Writing GUI applications on the Raspberry Pi without a desktop environment (2019)](https://avikdas.com/2019/01/23/writing-gui-applications-on-raspberry-pi-without-x.html)
