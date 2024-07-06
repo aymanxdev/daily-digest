@@ -2850,3 +2850,8 @@
 - [Map of Pontypandy in Fireman Sam](https://two-wrongs.com/map-of-pontypandy-in-fireman-sam.html)
 - [I have no constructor, and I must initialize](https://consteval.ca/2024/07/03/initialization/)
 - [Unlocking a Gary TL-15 Round-Door Safe (2009)](https://www.locksmithledger.com/keys-tools/article/10229247/unlocking-a-gary-tl-15-round-door-safe)
+## Morning Digest - 06-07-2024
+
+- [Build and train GPT-2 from scratch using PyTorch](https://differ.blog/p/here-s-how-you-can-build-and-train-gpt-2-from-scratch-using-pytorch-ace4ba)
+- [Mineral winds down: 'We will no longer be an Alphabet company'](https://agfundernews.com/mineral-winds-down-we-will-no-longer-be-an-alphabet-company-but-our-technology-will-live-on)
+- [Tao Te Ching translated by Ursula Le Guin (1997)](https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md)
