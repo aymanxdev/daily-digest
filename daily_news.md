@@ -2865,3 +2865,8 @@
 - [Show HN: BeaconDB – An Alternative to Mozilla Location Services](https://beacondb.net/)
 - ["Out of Band" network management is not trivial](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OutOfBandManagementNotTrivial)
 - [From the Transistor to the Web Browser, a rough outline for a 12 week course](https://github.com/geohot/fromthetransistor)
+## Afternoon/Evening Digest - 07-07-2024
+
+- [A reawakening of systems programming meetups](https://notes.eatonphil.com/2024-07-07-systems-meetups.html)
+- [Execute JavaScript in a WebAssembly QuickJS Sandbox](https://github.com/sebastianwessel/quickjs)
+- [Servant Leadership Theory](https://www.pon.harvard.edu/daily/leadership-skills-daily/servant-leadership-theory/)
