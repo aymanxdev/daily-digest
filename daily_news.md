@@ -2860,3 +2860,8 @@
 - [He might have been the first jazz star](https://www.honest-broker.com/p/he-might-have-been-the-first-jazz)
 - [Properly testing concurrent data structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
 - [Writing GUI applications on the Raspberry Pi without a desktop environment (2019)](https://avikdas.com/2019/01/23/writing-gui-applications-on-raspberry-pi-without-x.html)
+## Morning Digest - 07-07-2024
+
+- [Show HN: BeaconDB – An Alternative to Mozilla Location Services](https://beacondb.net/)
+- ["Out of Band" network management is not trivial](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OutOfBandManagementNotTrivial)
+- [From the Transistor to the Web Browser, a rough outline for a 12 week course](https://github.com/geohot/fromthetransistor)
