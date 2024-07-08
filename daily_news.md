@@ -2870,3 +2870,8 @@
 - [A reawakening of systems programming meetups](https://notes.eatonphil.com/2024-07-07-systems-meetups.html)
 - [Execute JavaScript in a WebAssembly QuickJS Sandbox](https://github.com/sebastianwessel/quickjs)
 - [Servant Leadership Theory](https://www.pon.harvard.edu/daily/leadership-skills-daily/servant-leadership-theory/)
+## Morning Digest - 08-07-2024
+
+- [Show HN: Simulating 20M Particles in JavaScript](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
+- [Show HN: A modern Jupyter client for macOS](https://satyrn.app/)
+- [Do Skis Get Blunt?](https://brooker.co.za/misc-blog/2024/01/23/skis.html)
