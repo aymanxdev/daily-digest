@@ -2875,3 +2875,8 @@
 - [Show HN: Simulating 20M Particles in JavaScript](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
 - [Show HN: A modern Jupyter client for macOS](https://satyrn.app/)
 - [Do Skis Get Blunt?](https://brooker.co.za/misc-blog/2024/01/23/skis.html)
+## Afternoon/Evening Digest - 08-07-2024
+
+- [Show HN: Open-sourced Webflow for your own app](https://github.com/onlook-dev/studio)
+- [Xpra: Persistent Remote Applications for X11](https://github.com/Xpra-org/xpra)
+- [For the first time in more than 150 years, Alberta's electricity is coal free](https://www.theglobeandmail.com/canada/alberta/article-for-the-first-time-in-more-than-150-years-albertas-electricity-is-coal/)
