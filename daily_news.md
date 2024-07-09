@@ -2885,3 +2885,8 @@
 - [The zombie misconception of theoretical computer science](https://scottaaronson.blog/?p=8106)
 - [No more boot loader: Please use the kernel instead](https://pretalx.com/devconf-cz-2024/talk/W3AVCT/)
 - [The Neuroscience of Resistance to Change](https://www.sanaross.com/the-neuroscience-of-achieving-more/neuroscience-and-ld-overcoming-resistance-to-change)
+## Afternoon/Evening Digest - 09-07-2024
+
+- [CVE-2024-6409: OpenSSH: Possible remote code execution in privsep child](https://www.openwall.com/lists/oss-security/2024/07/08/2)
+- [MobileLLM: Optimizing Sub-Billion Parameter Language Models for On-Device Use](https://github.com/facebookresearch/MobileLLM)
+- [Scoped Propagators](https://www.orionreed.com/posts/scoped-propagators)
