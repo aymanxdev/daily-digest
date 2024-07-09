@@ -2880,3 +2880,8 @@
 - [Show HN: Open-sourced Webflow for your own app](https://github.com/onlook-dev/studio)
 - [Xpra: Persistent Remote Applications for X11](https://github.com/Xpra-org/xpra)
 - [For the first time in more than 150 years, Alberta's electricity is coal free](https://www.theglobeandmail.com/canada/alberta/article-for-the-first-time-in-more-than-150-years-albertas-electricity-is-coal/)
+## Morning Digest - 09-07-2024
+
+- [The zombie misconception of theoretical computer science](https://scottaaronson.blog/?p=8106)
+- [No more boot loader: Please use the kernel instead](https://pretalx.com/devconf-cz-2024/talk/W3AVCT/)
+- [The Neuroscience of Resistance to Change](https://www.sanaross.com/the-neuroscience-of-achieving-more/neuroscience-and-ld-overcoming-resistance-to-change)
