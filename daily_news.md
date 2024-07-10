@@ -2890,3 +2890,8 @@
 - [CVE-2024-6409: OpenSSH: Possible remote code execution in privsep child](https://www.openwall.com/lists/oss-security/2024/07/08/2)
 - [MobileLLM: Optimizing Sub-Billion Parameter Language Models for On-Device Use](https://github.com/facebookresearch/MobileLLM)
 - [Scoped Propagators](https://www.orionreed.com/posts/scoped-propagators)
+## Morning Digest - 10-07-2024
+
+- [Spot the Drowning Child (2015)](http://spotthedrowningchild.com/)
+- [RouteLLM: A framework for serving and evaluating LLM routers](https://github.com/lm-sys/RouteLLM)
+- [Awsviz.dev simplifying AWS IAM policies](https://www.awsviz.dev/)
