@@ -2895,3 +2895,8 @@
 - [Spot the Drowning Child (2015)](http://spotthedrowningchild.com/)
 - [RouteLLM: A framework for serving and evaluating LLM routers](https://github.com/lm-sys/RouteLLM)
 - [Awsviz.dev simplifying AWS IAM policies](https://www.awsviz.dev/)
+## Afternoon/Evening Digest - 10-07-2024
+
+- [AMD to buy Finnish startup Silo AI for $665M in drive to compete with Nvidia](https://www.ft.com/content/7b8d2057-2687-45b3-bae4-1488a75ac5b2)
+- [Multi-agent chatbot murder mystery – AI Alibis (free, in-browser)](https://ai-murder-mystery.onrender.com/)
+- [SimSig: Railway Signalling Simulations](https://www.simsig.co.uk/)
