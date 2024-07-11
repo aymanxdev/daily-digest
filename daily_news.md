@@ -2905,3 +2905,8 @@
 - [Scientists discover a cause of lupus, possible way to reverse it](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
 - [Show HN: Dut, a fast Linux disk usage calculator](https://codeberg.org/201984/dut)
 - [The Overengineered Resume with Zola, JSON Resume, Weasyprint, and Nix](https://ktema.org/articles/the-overengineered-resume/)
+## Afternoon/Evening Digest - 11-07-2024
+
+- [The Typeset of Wall·E (2018)](https://typesetinthefuture.com/2018/12/04/walle/)
+- [Internet Archive and Library and Archives Canada Launches Digitization Project](https://internetarchivecanada.org/2024/07/01/internet-archive-canada-launches-digitization-project-with-library-and-archives-canada/)
+- [Qualcomm's Oryon Core: A Long Time in the Making](https://chipsandcheese.com/2024/07/09/qualcomms-oryon-core-a-long-time-in-the-making/)
