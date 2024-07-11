@@ -2900,3 +2900,8 @@
 - [AMD to buy Finnish startup Silo AI for $665M in drive to compete with Nvidia](https://www.ft.com/content/7b8d2057-2687-45b3-bae4-1488a75ac5b2)
 - [Multi-agent chatbot murder mystery – AI Alibis (free, in-browser)](https://ai-murder-mystery.onrender.com/)
 - [SimSig: Railway Signalling Simulations](https://www.simsig.co.uk/)
+## Morning Digest - 11-07-2024
+
+- [Scientists discover a cause of lupus, possible way to reverse it](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
+- [Show HN: Dut, a fast Linux disk usage calculator](https://codeberg.org/201984/dut)
+- [The Overengineered Resume with Zola, JSON Resume, Weasyprint, and Nix](https://ktema.org/articles/the-overengineered-resume/)
