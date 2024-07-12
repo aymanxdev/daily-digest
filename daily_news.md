@@ -2910,3 +2910,8 @@
 - [The Typeset of Wall·E (2018)](https://typesetinthefuture.com/2018/12/04/walle/)
 - [Internet Archive and Library and Archives Canada Launches Digitization Project](https://internetarchivecanada.org/2024/07/01/internet-archive-canada-launches-digitization-project-with-library-and-archives-canada/)
 - [Qualcomm's Oryon Core: A Long Time in the Making](https://chipsandcheese.com/2024/07/09/qualcomms-oryon-core-a-long-time-in-the-making/)
+## Morning Digest - 12-07-2024
+
+- [As an Employee, You Are Disposable (2023)](https://nelson.cloud/as-an-employee-you-are-disposable/)
+- [GE Aerospace Successfully Develops and Tests New Hypersonic Dual-Mode Ramjet](https://www.geaerospace.com/news/press-releases/ge-aerospace-successfully-develops-and-tests-new-hypersonic-dual-mode-ramjet)
+- [WebVM is a server-less virtual Linux environment running client-side](https://webvm.io/)
