@@ -2920,3 +2920,8 @@
 - [Windows NT for Power Macintosh](https://github.com/Wack0/maciNTosh)
 - [So you want to rent an NVIDIA H100 cluster? 2024 Consumer Guide](https://www.photoroom.com/inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide?slug=inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide&_storyblok_published=511470179&)
 - [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447)
+## Morning Digest - 13-07-2024
+
+- [Use a Work Journal to Recover Focus Faster and Clarify Your Thoughts](https://fev.al/posts/work-journal/)
+- [Introduction to Calvin and Hobbes: Sunday Pages 1985-1995 (2001)](http://timhulsizer.com/cwords/cintro.html)
+- [Wireless Amiga Tank Mouse](https://lyonsden.net/wireless-tank-mouse/)
