@@ -2925,3 +2925,8 @@
 - [Use a Work Journal to Recover Focus Faster and Clarify Your Thoughts](https://fev.al/posts/work-journal/)
 - [Introduction to Calvin and Hobbes: Sunday Pages 1985-1995 (2001)](http://timhulsizer.com/cwords/cintro.html)
 - [Wireless Amiga Tank Mouse](https://lyonsden.net/wireless-tank-mouse/)
+## Afternoon/Evening Digest - 13-07-2024
+
+- [Summing ASCII encoded integers on Haswell at almost the speed of memcpy](http://blog.mattstuchlik.com/2024/07/12/summing-integers-fast.html)
+- [Optimizing the Lichess Tablebase Server](https://lichess.org/@/revoof/blog/optimizing-the-tablebase-server/MetV0ZQd)
+- [The Birth of Standard Error (2013)](https://www2.dmst.aueb.gr/dds/blog/20131211/index.html)
