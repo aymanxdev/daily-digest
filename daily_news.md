@@ -2930,3 +2930,8 @@
 - [Summing ASCII encoded integers on Haswell at almost the speed of memcpy](http://blog.mattstuchlik.com/2024/07/12/summing-integers-fast.html)
 - [Optimizing the Lichess Tablebase Server](https://lichess.org/@/revoof/blog/optimizing-the-tablebase-server/MetV0ZQd)
 - [The Birth of Standard Error (2013)](https://www2.dmst.aueb.gr/dds/blog/20131211/index.html)
+## Morning Digest - 14-07-2024
+
+- [Z80 CPU Microprocessor Instant Reference Card (1981) [pdf]](https://ballyalley.com/ml/z80_docs/Z80%20CPU%20Instant%20Reference%20Card%20(Color).pdf)
+- [Go Range Iterators Demystified](https://www.dolthub.com/blog/2024-07-12-golang-range-iters-demystified/)
+- [ULID: Like UUID but Sortable (2019)](https://github.com/ulid/spec)
