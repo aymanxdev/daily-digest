@@ -2935,3 +2935,8 @@
 - [Z80 CPU Microprocessor Instant Reference Card (1981) [pdf]](https://ballyalley.com/ml/z80_docs/Z80%20CPU%20Instant%20Reference%20Card%20(Color).pdf)
 - [Go Range Iterators Demystified](https://www.dolthub.com/blog/2024-07-12-golang-range-iters-demystified/)
 - [ULID: Like UUID but Sortable (2019)](https://github.com/ulid/spec)
+## Afternoon/Evening Digest - 14-07-2024
+
+- [Show HN: I built a Jeopardy game maker with buzzer support](https://buzzinga.io/)
+- [Building and scaling Notion's data lake](https://www.notion.so/de-de/blog/building-and-scaling-notions-data-lake)
+- [Musical Notation for Modular Synthesizers](https://www.perfectcircuit.com/signal/modular-synthesizer-notation)
