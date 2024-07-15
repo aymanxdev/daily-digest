@@ -2940,3 +2940,8 @@
 - [Show HN: I built a Jeopardy game maker with buzzer support](https://buzzinga.io/)
 - [Building and scaling Notion's data lake](https://www.notion.so/de-de/blog/building-and-scaling-notions-data-lake)
 - [Musical Notation for Modular Synthesizers](https://www.perfectcircuit.com/signal/modular-synthesizer-notation)
+## Morning Digest - 15-07-2024
+
+- [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)
+- [Fusion – A hobby OS implemented in Nim](https://github.com/khaledh/fusion)
+- [The fascinating and complicated sex lives of white-throated sparrows](https://www.audubon.org/news/the-fascinating-and-complicated-sex-lives-white-throated-sparrows)
