@@ -2945,3 +2945,8 @@
 - [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)
 - [Fusion – A hobby OS implemented in Nim](https://github.com/khaledh/fusion)
 - [The fascinating and complicated sex lives of white-throated sparrows](https://www.audubon.org/news/the-fascinating-and-complicated-sex-lives-white-throated-sparrows)
+## Afternoon/Evening Digest - 15-07-2024
+
+- [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)
+- [Soviet Calculators History (1998)](https://xnumber.com/xnumber/russian_calcs.htm)
+- [I'm Not a Fan of Strlcpy(3)](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
