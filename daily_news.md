@@ -2950,3 +2950,8 @@
 - [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)
 - [Soviet Calculators History (1998)](https://xnumber.com/xnumber/russian_calcs.htm)
 - [I'm Not a Fan of Strlcpy(3)](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
+## Morning Digest - 16-07-2024
+
+- [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
+- [The Engineer's Guide to Deep Learning: Understanding the Transformer Model](https://www.interdb.jp/dl/)
+- [Exo: Run your own AI cluster at home with everyday devices](https://github.com/exo-explore/exo)
