@@ -2955,3 +2955,8 @@
 - [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
 - [The Engineer's Guide to Deep Learning: Understanding the Transformer Model](https://www.interdb.jp/dl/)
 - [Exo: Run your own AI cluster at home with everyday devices](https://github.com/exo-explore/exo)
+## Afternoon/Evening Digest - 16-07-2024
+
+- [People person: the greatness of Andrey Platonov](https://www.prospectmagazine.co.uk/culture/67208/people-person-the-greatness-of-andrey-platonov)
+- [Golang disables Nagle's algorithm, making it evil on shitty networks](https://withinboredom.info/2022/12/29/golang-is-evil-on-shitty-networks/)
+- [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
