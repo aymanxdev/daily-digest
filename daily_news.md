@@ -2965,3 +2965,8 @@
 - [Import and Export Markdown in Google Docs](https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html)
 - [Design a GraphQL Schema So Good, It'll Make REST APIs Cry](https://tailcall.run/blog/graphql-schema/)
 - [Darwin Machines](https://vedgie.net/writing/darwin_machines.md)
+## Afternoon/Evening Digest - 17-07-2024
+
+- [Import and Export Markdown in Google Docs](https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html)
+- [Puerto Rico files $1B suit against fossil fuel companies](https://www.theverge.com/2024/7/16/24199686/puerto-rico-fossil-fuel-industry-lawsuit-climate-change)
+- [Vulnerable transistors threaten to upend Europa Clipper mission](https://www.science.org/content/article/vulnerable-transistors-threaten-upend-europa-clipper-mission)
