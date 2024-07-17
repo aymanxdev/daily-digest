@@ -2960,3 +2960,8 @@
 - [People person: the greatness of Andrey Platonov](https://www.prospectmagazine.co.uk/culture/67208/people-person-the-greatness-of-andrey-platonov)
 - [Golang disables Nagle's algorithm, making it evil on shitty networks](https://withinboredom.info/2022/12/29/golang-is-evil-on-shitty-networks/)
 - [Run CUDA, unmodified, on AMD GPUs](https://docs.scale-lang.com/)
+## Morning Digest - 17-07-2024
+
+- [Import and Export Markdown in Google Docs](https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html)
+- [Design a GraphQL Schema So Good, It'll Make REST APIs Cry](https://tailcall.run/blog/graphql-schema/)
+- [Darwin Machines](https://vedgie.net/writing/darwin_machines.md)
