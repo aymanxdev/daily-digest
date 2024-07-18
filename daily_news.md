@@ -2970,3 +2970,8 @@
 - [Import and Export Markdown in Google Docs](https://workspaceupdates.googleblog.com/2024/07/import-and-export-markdown-in-google-docs.html)
 - [Puerto Rico files $1B suit against fossil fuel companies](https://www.theverge.com/2024/7/16/24199686/puerto-rico-fossil-fuel-industry-lawsuit-climate-change)
 - [Vulnerable transistors threaten to upend Europa Clipper mission](https://www.science.org/content/article/vulnerable-transistors-threaten-upend-europa-clipper-mission)
+## Morning Digest - 18-07-2024
+
+- [Jailbreaking RabbitOS](https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html)
+- [Elligator: Elliptic-curve points indistinguishable from uniform random strings](https://dl.acm.org/doi/10.1145/2508859.2516734)
+- [Panic at the Job Market](https://matt.sh/panic-at-the-job-market)
