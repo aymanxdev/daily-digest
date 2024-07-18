@@ -2975,3 +2975,8 @@
 - [Jailbreaking RabbitOS](https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html)
 - [Elligator: Elliptic-curve points indistinguishable from uniform random strings](https://dl.acm.org/doi/10.1145/2508859.2516734)
 - [Panic at the Job Market](https://matt.sh/panic-at-the-job-market)
+## Afternoon/Evening Digest - 18-07-2024
+
+- [SSH has become our universal (Unix) external access protocol](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOurUniversalAccessProtocol)
+- [Mistral NeMo](https://mistral.ai/news/mistral-nemo/)
+- [Steve's Talk at the 1983 International Design Conference in Aspen](https://stevejobsarchive.com/exhibits/objects-of-our-life)
