@@ -2985,3 +2985,8 @@
 - [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
 - [Crowdstrike Outage Causing Widespread Issues](https://www.afr.com/technology/businesses-crippled-by-widespread-it-outage-20240719-p5jv2t)
 - [Type in Morse code by repeatedly slamming your laptop shut](https://github.com/veggiedefender/open-and-shut)
+## Afternoon/Evening Digest - 19-07-2024
+
+- [Crowdstrike Update: Windows Bluescreen and Boot Loops](https://www.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/)
+- [FCC votes unanimously to dramatically limit prison telecom charges](https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms)
+- [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
