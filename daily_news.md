@@ -2980,3 +2980,8 @@
 - [SSH has become our universal (Unix) external access protocol](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOurUniversalAccessProtocol)
 - [Mistral NeMo](https://mistral.ai/news/mistral-nemo/)
 - [Steve's Talk at the 1983 International Design Conference in Aspen](https://stevejobsarchive.com/exhibits/objects-of-our-life)
+## Morning Digest - 19-07-2024
+
+- [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
+- [Crowdstrike Outage Causing Widespread Issues](https://www.afr.com/technology/businesses-crippled-by-widespread-it-outage-20240719-p5jv2t)
+- [Type in Morse code by repeatedly slamming your laptop shut](https://github.com/veggiedefender/open-and-shut)
