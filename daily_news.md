@@ -2990,3 +2990,8 @@
 - [Crowdstrike Update: Windows Bluescreen and Boot Loops](https://www.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/)
 - [FCC votes unanimously to dramatically limit prison telecom charges](https://worthrises.org/pressreleases/2024/7/18/fcc-votes-unanimously-to-significantly-lower-phone-and-video-communication-costs-after-decades-of-exploitation-by-prison-telecoms)
 - [Foliate: Read e-books in style, navigate with ease](https://johnfactotum.github.io/foliate/)
+## Morning Digest - 20-07-2024
+
+- [I mapped almost every USA traffic death in the 21st century](https://roadway.report)
+- [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
+- [CrowdStrike Update: Windows Bluescreen and Boot Loops](https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/)
