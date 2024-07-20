@@ -2995,3 +2995,8 @@
 - [I mapped almost every USA traffic death in the 21st century](https://roadway.report)
 - [Garage: Open-Source Distributed Object Storage](https://garagehq.deuxfleurs.fr/)
 - [CrowdStrike Update: Windows Bluescreen and Boot Loops](https://old.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/)
+## Afternoon/Evening Digest - 20-07-2024
+
+- [How to pwn a billion dollar VC firm using inspect element](https://www.kibty.town/blog/a16z/)
+- [No Uptime Hosting – Guaranteed Server Downtime](https://nouptime.com/)
+- [Typst: An easy to learn alternative for LaTex](https://github.com/typst/typst)
