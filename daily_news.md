@@ -3000,3 +3000,8 @@
 - [How to pwn a billion dollar VC firm using inspect element](https://www.kibty.town/blog/a16z/)
 - [No Uptime Hosting – Guaranteed Server Downtime](https://nouptime.com/)
 - [Typst: An easy to learn alternative for LaTex](https://github.com/typst/typst)
+## Morning Digest - 21-07-2024
+
+- [Initial details about why CrowdStrike's CSAgent.sys crashed](https://twitter.com/patrickwardle/status/1814343502886477857)
+- [What is the significance of the character "j" at the end of a Roman Numeral?](https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral)
+- [Minuteman missile communications](https://computer.rip/2024-07-20-minuteman-missile-communications.html)
