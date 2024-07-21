@@ -3005,3 +3005,8 @@
 - [Initial details about why CrowdStrike's CSAgent.sys crashed](https://twitter.com/patrickwardle/status/1814343502886477857)
 - [What is the significance of the character "j" at the end of a Roman Numeral?](https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral)
 - [Minuteman missile communications](https://computer.rip/2024-07-20-minuteman-missile-communications.html)
+## Afternoon/Evening Digest - 21-07-2024
+
+- [rr – record and replay debugger for C/C++](https://rr-project.org/)
+- [So you think you know box shadows?](https://dgerrells.com/blog/how-not-to-use-box-shadows)
+- [What is the significance of the character "j" at the end of a Roman Numeral?](https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral)
