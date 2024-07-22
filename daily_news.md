@@ -3010,3 +3010,8 @@
 - [rr – record and replay debugger for C/C++](https://rr-project.org/)
 - [So you think you know box shadows?](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 - [What is the significance of the character "j" at the end of a Roman Numeral?](https://genealogy.stackexchange.com/questions/3748/what-is-the-significance-of-the-character-j-at-the-end-of-a-roman-numeral)
+## Morning Digest - 22-07-2024
+
+- [Parse, Don't Validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+- [Jellyfin: We're Good, Seriously](https://forum.jellyfin.org/t-we-re-good-seriously)
+- [Jiff: A brand new Datetime library for Rust, from the author of ripgrep](https://github.com/BurntSushi/jiff)
