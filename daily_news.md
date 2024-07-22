@@ -3015,3 +3015,8 @@
 - [Parse, Don't Validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 - [Jellyfin: We're Good, Seriously](https://forum.jellyfin.org/t-we-re-good-seriously)
 - [Jiff: A brand new Datetime library for Rust, from the author of ripgrep](https://github.com/BurntSushi/jiff)
+## Afternoon/Evening Digest - 22-07-2024
+
+- [Mermaid Gantt diagrams are great for displaying distributed traces in Markdown (2023)](https://brycemecum.com/2023/03/31/til-mermaid-tracing/)
+- [Jiff: A brand new Datetime library for Rust, from the author of ripgrep](https://github.com/BurntSushi/jiff)
+- [No More Blue Fridays](https://www.brendangregg.com/blog/2024-07-22/no-more-blue-fridays.html)
