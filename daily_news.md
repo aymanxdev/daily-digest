@@ -3025,3 +3025,8 @@
 - [Database Design for Google Calendar: A Tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
 - [Storing UTC is not a silver bullet (2019)](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
 - [The Linux audio stack demystified (and more)](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
+## Afternoon/Evening Digest - 23-07-2024
+
+- [Llama 3.1 Official Launch](https://llama.meta.com/)
+- [A free tool to quickly detect counterfeit flash (2017)](https://fight-flash-fraud.readthedocs.io/en/latest/introduction.html#correcting-capacity-to-actual-size-with-f3fix)
+- [Median filtering (2022)](https://www.crisluengo.net/archives/1138/)
