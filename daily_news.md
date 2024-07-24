@@ -3030,3 +3030,8 @@
 - [Llama 3.1 Official Launch](https://llama.meta.com/)
 - [A free tool to quickly detect counterfeit flash (2017)](https://fight-flash-fraud.readthedocs.io/en/latest/introduction.html#correcting-capacity-to-actual-size-with-f3fix)
 - [Median filtering (2022)](https://www.crisluengo.net/archives/1138/)
+## Morning Digest - 24-07-2024
+
+- [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
+- [Hydrothermal explosion at Yellowstone National Park](https://www.jhnewsandguide.com/the_hole_scroll/video-biscuit-basin-geyser-explodes-sending-yellowstone-tourists-packing/article_6862fda2-4923-11ef-b5c4-abdc9bc8cd83.html)
+- ["Doors" in Solaris: Lightweight RPC Using File Descriptors (1996)](http://www.kohala.com/start/papers.others/doors.html)
