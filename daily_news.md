@@ -3045,3 +3045,8 @@
 - [Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725)
 - [Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
 - [Investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
+## Afternoon/Evening Digest - 25-07-2024
+
+- [Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725)
+- [Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
+- [My Favorite Algorithm: Linear Time Median Finding (2018)](https://rcoh.me/posts/linear-time-median-finding/)
