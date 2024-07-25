@@ -3040,3 +3040,8 @@
 - [Open source AI is the path forward](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/)
 - [The algebra (and calculus) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types)
 - [Solving the out-of-context chunk problem for RAG](https://d-star.ai/solving-the-out-of-context-chunk-problem-for-rag)
+## Morning Digest - 25-07-2024
+
+- [Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725)
+- [Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
+- [Investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
