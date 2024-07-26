@@ -3050,3 +3050,8 @@
 - [Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725)
 - [Anyone can access deleted and private repository data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
 - [My Favorite Algorithm: Linear Time Median Finding (2018)](https://rcoh.me/posts/linear-time-median-finding/)
+## Morning Digest - 26-07-2024
+
+- [AI solves International Math Olympiad problems at silver medal level](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/)
+- [Bcachefs, an Introduction/Exploration](http://blog.asleson.org/2024/07/24/bcachefs-an-introduction/exploration/)
+- [Show HN: Haystack – an IDE for exploring and editing code on an infinite canvas](https://haystackeditor.com/)
