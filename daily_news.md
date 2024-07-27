@@ -3065,3 +3065,8 @@
 - [In the Beginning Was the Command Line](https://web.stanford.edu/class/cs81n/command.txt)
 - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 - [Paper cuttings made by 17th-century schoolgirls discovered beneath floorboards](https://www.smithsonianmag.com/smart-news/rare-350-year-old-paper-cuttings-from-a-london-girls-school-go-on-display-180984712/)
+## Afternoon/Evening Digest - 27-07-2024
+
+- [A man who forgot about his own wedding](https://boogiemath.org/meta/meta-9.html)
+- [Free DDNS with Cloudflare and a Cronjob](https://github.com/devrim/cloudflare-noip)
+- [Learning about PCI-e: Driver and DMA](https://blog.davidv.dev/posts/pcie-driver-dma/)
