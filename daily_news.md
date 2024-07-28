@@ -3070,3 +3070,8 @@
 - [A man who forgot about his own wedding](https://boogiemath.org/meta/meta-9.html)
 - [Free DDNS with Cloudflare and a Cronjob](https://github.com/devrim/cloudflare-noip)
 - [Learning about PCI-e: Driver and DMA](https://blog.davidv.dev/posts/pcie-driver-dma/)
+## Morning Digest - 28-07-2024
+
+- [An experiment in UI density created with Svelte](https://cybernetic.dev/grid)
+- [How to Debug Your Battery](https://github.com/ionworks/how-to-debug-your-battery)
+- [A List of companies that use Array Languages (J, K, APL, q)](https://github.com/interregna/arraylanguage-companies)
