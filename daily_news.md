@@ -3075,3 +3075,8 @@
 - [An experiment in UI density created with Svelte](https://cybernetic.dev/grid)
 - [How to Debug Your Battery](https://github.com/ionworks/how-to-debug-your-battery)
 - [A List of companies that use Array Languages (J, K, APL, q)](https://github.com/interregna/arraylanguage-companies)
+## Afternoon/Evening Digest - 28-07-2024
+
+- [Logging C function calls with cosmopolitan Libc](https://justine.lol/ftrace/)
+- [Tech Companies Can't Find Good Employees, and It's Their Own Fault](https://www.inc.com/joe-procopio/tech-companies-cant-find-good-employees-its-their-own-fault.html)
+- [Show HN: CeLLama – Single cell annotation with local Large Language Models](https://github.com/CelVoxes/ceLLama)
