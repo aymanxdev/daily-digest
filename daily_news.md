@@ -3080,3 +3080,8 @@
 - [Logging C function calls with cosmopolitan Libc](https://justine.lol/ftrace/)
 - [Tech Companies Can't Find Good Employees, and It's Their Own Fault](https://www.inc.com/joe-procopio/tech-companies-cant-find-good-employees-its-their-own-fault.html)
 - [Show HN: CeLLama – Single cell annotation with local Large Language Models](https://github.com/CelVoxes/ceLLama)
+## Morning Digest - 29-07-2024
+
+- [tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
+- [SVG Triangle of Compromise](https://me.micahrl.com/blog/svg-triangle-of-compromise/)
+- [ps aux written in bash without forking](https://github.com/izabera/ps)
