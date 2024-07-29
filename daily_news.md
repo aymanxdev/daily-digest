@@ -3085,3 +3085,8 @@
 - [tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
 - [SVG Triangle of Compromise](https://me.micahrl.com/blog/svg-triangle-of-compromise/)
 - [ps aux written in bash without forking](https://github.com/izabera/ps)
+## Afternoon/Evening Digest - 29-07-2024
+
+- [My mental model of setf was wrong](https://simondobson.org/2024/07/27/my-mental-model-of-setf-was-wrong/)
+- [Movable tree CRDTs and Loro's implementation](https://loro.dev/blog/movable-tree)
+- [Show HN: Tea-tasting, a Python package for the statistical analysis of A/B tests](https://e10v.me/tea-tasting-analysis-of-experiments/)
