@@ -3095,3 +3095,8 @@
 - [SAM 2: Segment Anything in Images and Videos](https://github.com/facebookresearch/segment-anything-2)
 - [Diffusion Training from Scratch on a Micro-Budget](https://arxiv.org/abs/2407.15811)
 - [Lewis Lapham has died](https://www.nytimes.com/2024/07/24/business/media/lewis-h-lapham-dead.html)
+## Afternoon/Evening Digest - 30-07-2024
+
+- [Was the Internet created to survive a nuclear strike?](https://siliconfolklore.com/internet-history/)
+- [Calculating the Cost of a Google Deepmind Paper](https://152334H.github.io/blog/scaling-exponents/)
+- [Making Machines Move](https://fly.io/blog/machine-migrations/)
