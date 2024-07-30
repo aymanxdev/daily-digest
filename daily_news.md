@@ -3090,3 +3090,8 @@
 - [My mental model of setf was wrong](https://simondobson.org/2024/07/27/my-mental-model-of-setf-was-wrong/)
 - [Movable tree CRDTs and Loro's implementation](https://loro.dev/blog/movable-tree)
 - [Show HN: Tea-tasting, a Python package for the statistical analysis of A/B tests](https://e10v.me/tea-tasting-analysis-of-experiments/)
+## Morning Digest - 30-07-2024
+
+- [SAM 2: Segment Anything in Images and Videos](https://github.com/facebookresearch/segment-anything-2)
+- [Diffusion Training from Scratch on a Micro-Budget](https://arxiv.org/abs/2407.15811)
+- [Lewis Lapham has died](https://www.nytimes.com/2024/07/24/business/media/lewis-h-lapham-dead.html)
