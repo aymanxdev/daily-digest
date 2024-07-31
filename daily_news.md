@@ -3100,3 +3100,8 @@
 - [Was the Internet created to survive a nuclear strike?](https://siliconfolklore.com/internet-history/)
 - [Calculating the Cost of a Google Deepmind Paper](https://152334H.github.io/blog/scaling-exponents/)
 - [Making Machines Move](https://fly.io/blog/machine-migrations/)
+## Morning Digest - 31-07-2024
+
+- [Meta introduces Segment Anything Model 2](https://ai.meta.com/sam2/)
+- [Rustgo: Calling Rust from Go with near-zero overhead (2017)](https://words.filippo.io/rustgo/)
+- [macOS in Docker Container](https://github.com/sickcodes/Docker-OSX)
