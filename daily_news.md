@@ -3105,3 +3105,8 @@
 - [Meta introduces Segment Anything Model 2](https://ai.meta.com/sam2/)
 - [Rustgo: Calling Rust from Go with near-zero overhead (2017)](https://words.filippo.io/rustgo/)
 - [macOS in Docker Container](https://github.com/sickcodes/Docker-OSX)
+## Afternoon/Evening Digest - 31-07-2024
+
+- [How Great Was the "Great Oxidation Event"?](https://eos.org/science-updates/how-great-was-the-great-oxidation-event)
+- [Divers Discover Mesmerizing Roman Mosaic Beneath the Sea](https://www.smithsonianmag.com/smart-news/underwater-marble-floor-mosaic-discovered-off-the-coast-of-naples-180984772/)
+- [Crafting Interpreters with Rust: On Garbage Collection](https://www.tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/)
