@@ -3115,3 +3115,8 @@
 - [Breakthrough a step toward revealing hidden structure of prime numbers](https://www.science.org/content/article/sensational-breakthrough-marks-step-toward-revealing-hidden-structure-prime-numbers)
 - [Building a Local Perplexity Alternative with Perplexica, Ollama, and SearXNG](https://jointerminus.medium.com/building-a-local-perplexity-alternative-with-perplexica-ollama-and-searxng-71602523e256)
 - [PyTorch – Torchchat: Chat with LLMs Everywhere](https://github.com/pytorch/torchchat)
+## Afternoon/Evening Digest - 01-08-2024
+
+- [How I Got My Laser Eye Injury](https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/)
+- [I Recreated Shazam's Algorithm with Go](https://github.com/cgzirim/not-shazam)
+- [Breakthrough a step toward revealing hidden structure of prime numbers](https://www.science.org/content/article/sensational-breakthrough-marks-step-toward-revealing-hidden-structure-prime-numbers)
