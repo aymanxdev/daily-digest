@@ -3110,3 +3110,8 @@
 - [How Great Was the "Great Oxidation Event"?](https://eos.org/science-updates/how-great-was-the-great-oxidation-event)
 - [Divers Discover Mesmerizing Roman Mosaic Beneath the Sea](https://www.smithsonianmag.com/smart-news/underwater-marble-floor-mosaic-discovered-off-the-coast-of-naples-180984772/)
 - [Crafting Interpreters with Rust: On Garbage Collection](https://www.tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/)
+## Morning Digest - 01-08-2024
+
+- [Breakthrough a step toward revealing hidden structure of prime numbers](https://www.science.org/content/article/sensational-breakthrough-marks-step-toward-revealing-hidden-structure-prime-numbers)
+- [Building a Local Perplexity Alternative with Perplexica, Ollama, and SearXNG](https://jointerminus.medium.com/building-a-local-perplexity-alternative-with-perplexica-ollama-and-searxng-71602523e256)
+- [PyTorch – Torchchat: Chat with LLMs Everywhere](https://github.com/pytorch/torchchat)
