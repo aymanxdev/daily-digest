@@ -3120,3 +3120,8 @@
 - [How I Got My Laser Eye Injury](https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/)
 - [I Recreated Shazam's Algorithm with Go](https://github.com/cgzirim/not-shazam)
 - [Breakthrough a step toward revealing hidden structure of prime numbers](https://www.science.org/content/article/sensational-breakthrough-marks-step-toward-revealing-hidden-structure-prime-numbers)
+## Morning Digest - 02-08-2024
+
+- [Hundred Rabbits is a small collective exploring the failability of modern tech](https://100r.co/site/about_us.html)
+- [Peerfetch – Peer-to-Peer HTTP over WebRTC](https://github.com/ambianic/peerfetch)
+- [Flux: Open-source text-to-image model with 12B parameters](https://blog.fal.ai/flux-the-largest-open-sourced-text2img-model-now-available-on-fal/)
