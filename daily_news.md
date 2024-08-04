@@ -3140,3 +3140,8 @@
 - ["We ran out of columns" – The best, worst codebase](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
 - [An FPGA built with 7400 series logic [video]](https://media.ccc.de/v/cosin2024-56234-fpga-selber-bauen-mit-74)
 - [Primitive Recursive Functions for a Working Programmer](https://matklad.github.io/2024/08/01/primitive-recursive-functions.html)
+## Morning Digest - 04-08-2024
+
+- [Open Source Farming Robot](https://farm.bot/)
+- [racket/rhombus: "We're now officially in the "integration" phase for Rhombus."](https://github.com/racket/rhombus/discussions/521)
+- ["We ran out of columns"](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
