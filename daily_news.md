@@ -3145,3 +3145,8 @@
 - [Open Source Farming Robot](https://farm.bot/)
 - [racket/rhombus: "We're now officially in the "integration" phase for Rhombus."](https://github.com/racket/rhombus/discussions/521)
 - ["We ran out of columns"](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
+## Afternoon/Evening Digest - 04-08-2024
+
+- [Evaluating a class of infinite sums in closed form](https://www.johndcook.com/blog/2024/08/03/polylog/)
+- [Belenios: A Verifiable Online Voting System](https://www.belenios.org/)
+- [Open Source Farming Robot](https://farm.bot/)
