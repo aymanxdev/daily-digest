@@ -3155,3 +3155,8 @@
 - [How I Program in 2024](http://akkartik.name/post/programming-2024)
 - [Show HN: Free e-book about WebGPU Programming](https://shi-yan.github.io/webgpuunleashed/)
 - [Building Lego Machines to Destroy Tall Lego Towers](https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers)
+## Afternoon/Evening Digest - 05-08-2024
+
+- [Uncovered Euripides fragments are 'kind of a big deal'](https://www.colorado.edu/asmagazine/2024/08/01/uncovered-euripides-fragments-are-kind-big-deal)
+- [How Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
+- [Declaring 'Crisis,' South Korean Firms Tell Managers to Work 6 Days a Week](https://www.nytimes.com/2024/08/05/business/south-korea-labor-workweek.html)
