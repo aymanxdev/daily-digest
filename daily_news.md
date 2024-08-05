@@ -3150,3 +3150,8 @@
 - [Evaluating a class of infinite sums in closed form](https://www.johndcook.com/blog/2024/08/03/polylog/)
 - [Belenios: A Verifiable Online Voting System](https://www.belenios.org/)
 - [Open Source Farming Robot](https://farm.bot/)
+## Morning Digest - 05-08-2024
+
+- [How I Program in 2024](http://akkartik.name/post/programming-2024)
+- [Show HN: Free e-book about WebGPU Programming](https://shi-yan.github.io/webgpuunleashed/)
+- [Building Lego Machines to Destroy Tall Lego Towers](https://kottke.org/24/07/building-lego-machines-to-destroy-tall-lego-towers)
