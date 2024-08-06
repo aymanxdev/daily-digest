@@ -3160,3 +3160,8 @@
 - [Uncovered Euripides fragments are 'kind of a big deal'](https://www.colorado.edu/asmagazine/2024/08/01/uncovered-euripides-fragments-are-kind-big-deal)
 - [How Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
 - [Declaring 'Crisis,' South Korean Firms Tell Managers to Work 6 Days a Week](https://www.nytimes.com/2024/08/05/business/south-korea-labor-workweek.html)
+## Afternoon/Evening Digest - 06-08-2024
+
+- [Google Is Ending Production of Chromecast](https://blog.google/products/google-nest/chromecast-history/)
+- [Show HN: I built a simple, open-source tool to manage servers and SSH keys](https://github.com/d3witt/viking)
+- [Crafting Formulas: Lambdas All the Way Down](https://text.marvinborner.de/2024-04-16-10.html)
