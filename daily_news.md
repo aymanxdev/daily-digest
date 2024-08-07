@@ -3170,3 +3170,8 @@
 - [Medieval](https://teenage.engineering/products/ep-1320)
 - [Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/)
 - [The Private Life: On James Baldwin](https://www.theparisreview.org/blog/2024/08/02/the-private-life-on-james-baldwin/)
+## Afternoon/Evening Digest - 07-08-2024
+
+- [Smashing idea: how East Germany invented 'unbreakable' drinking glasses](https://www.theguardian.com/artanddesign/article/2024/aug/06/superfest-unbreakable-drinking-glasses-east-germany)
+- [Show HN: BudgetFlow – Budget planning using interactive Sankey diagrams](https://www.budgetflow.cc/)
+- [Medieval](https://teenage.engineering/products/ep-1320)
