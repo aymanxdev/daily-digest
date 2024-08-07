@@ -3165,3 +3165,8 @@
 - [Google Is Ending Production of Chromecast](https://blog.google/products/google-nest/chromecast-history/)
 - [Show HN: I built a simple, open-source tool to manage servers and SSH keys](https://github.com/d3witt/viking)
 - [Crafting Formulas: Lambdas All the Way Down](https://text.marvinborner.de/2024-04-16-10.html)
+## Morning Digest - 07-08-2024
+
+- [Medieval](https://teenage.engineering/products/ep-1320)
+- [Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/)
+- [The Private Life: On James Baldwin](https://www.theparisreview.org/blog/2024/08/02/the-private-life-on-james-baldwin/)
