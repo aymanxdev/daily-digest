@@ -3175,3 +3175,8 @@
 - [Smashing idea: how East Germany invented 'unbreakable' drinking glasses](https://www.theguardian.com/artanddesign/article/2024/aug/06/superfest-unbreakable-drinking-glasses-east-germany)
 - [Show HN: BudgetFlow – Budget planning using interactive Sankey diagrams](https://www.budgetflow.cc/)
 - [Medieval](https://teenage.engineering/products/ep-1320)
+## Morning Digest - 08-08-2024
+
+- [RLHF is just barely RL](https://twitter.com/karpathy/status/1821277264996352246)
+- [FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention](https://pytorch.org/blog/flexattention/)
+- [Prevention of HIV](https://www.science.org/content/blog-post/prevention-hiv)
