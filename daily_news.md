@@ -3180,3 +3180,8 @@
 - [RLHF is just barely RL](https://twitter.com/karpathy/status/1821277264996352246)
 - [FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention](https://pytorch.org/blog/flexattention/)
 - [Prevention of HIV](https://www.science.org/content/blog-post/prevention-hiv)
+## Afternoon/Evening Digest - 08-08-2024
+
+- [How we found and fixed an eBPF Linux Kernel Vulnerability](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
+- [A Better Light Source for Scanning Color Negative Film](https://jackw01.github.io/scanlight/)
+- [Firefox Sidebar and Vertical tabs: try them out in Nightly Firefox Labs 131](https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/)
