@@ -3190,3 +3190,8 @@
 - [OTranscribe: A free and open tool for transcribing audio interviews](https://otranscribe.com/)
 - [LibreCUDA – Launch CUDA code on Nvidia GPUs without the proprietary runtime](https://github.com/mikex86/LibreCuda)
 - [Public Work: a search engine for public domain images](https://public.work)
+## Afternoon/Evening Digest - 09-08-2024
+
+- [OTranscribe: A free and open tool for transcribing audio interviews](https://otranscribe.com/)
+- [Bootstrap post-collapse OOP technology (Part 1)](https://marianoguerra.org/posts/bootstrap-post-collapse-oop-technology-part-1/)
+- [Base 3 Computing Beats Binary](https://www.quantamagazine.org/how-base-3-computing-beats-binary-20240809/)
