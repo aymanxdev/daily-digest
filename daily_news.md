@@ -3185,3 +3185,8 @@
 - [How we found and fixed an eBPF Linux Kernel Vulnerability](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
 - [A Better Light Source for Scanning Color Negative Film](https://jackw01.github.io/scanlight/)
 - [Firefox Sidebar and Vertical tabs: try them out in Nightly Firefox Labs 131](https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/)
+## Morning Digest - 09-08-2024
+
+- [OTranscribe: A free and open tool for transcribing audio interviews](https://otranscribe.com/)
+- [LibreCUDA – Launch CUDA code on Nvidia GPUs without the proprietary runtime](https://github.com/mikex86/LibreCuda)
+- [Public Work: a search engine for public domain images](https://public.work)
