@@ -3200,3 +3200,8 @@
 - [Building a highly-available web service without a database](https://blog.screenshotbot.io/2024/08/10/building-a-highly-available-web-service-without-a-database/)
 - [Defcon stiffs badge HW vendor, drags FW author offstage during talk](https://twitter.com/mightymogomra/status/1822119942281650278)
 - [SNES Graphics: 186.2ns or Bust](https://fabiensanglard.net/snes_ppus_why/index.html)
+## Afternoon/Evening Digest - 10-08-2024
+
+- [A wonderful coincidence or an expected connection: why π² ≈ g](https://roitman.io/blog/91)
+- [Deep Live Cam: Real-Time Face Swapping and One-Click Video Deepfake Tool](https://deeplive.cam)
+- [Cookware company includes artificial customer prompts in website](https://thestaub.com/)
