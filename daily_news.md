@@ -3195,3 +3195,8 @@
 - [OTranscribe: A free and open tool for transcribing audio interviews](https://otranscribe.com/)
 - [Bootstrap post-collapse OOP technology (Part 1)](https://marianoguerra.org/posts/bootstrap-post-collapse-oop-technology-part-1/)
 - [Base 3 Computing Beats Binary](https://www.quantamagazine.org/how-base-3-computing-beats-binary-20240809/)
+## Morning Digest - 10-08-2024
+
+- [Building a highly-available web service without a database](https://blog.screenshotbot.io/2024/08/10/building-a-highly-available-web-service-without-a-database/)
+- [Defcon stiffs badge HW vendor, drags FW author offstage during talk](https://twitter.com/mightymogomra/status/1822119942281650278)
+- [SNES Graphics: 186.2ns or Bust](https://fabiensanglard.net/snes_ppus_why/index.html)
