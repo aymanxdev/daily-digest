@@ -3205,3 +3205,8 @@
 - [A wonderful coincidence or an expected connection: why π² ≈ g](https://roitman.io/blog/91)
 - [Deep Live Cam: Real-Time Face Swapping and One-Click Video Deepfake Tool](https://deeplive.cam)
 - [Cookware company includes artificial customer prompts in website](https://thestaub.com/)
+## Morning Digest - 11-08-2024
+
+- [The Gervais Principle, or the Office According to "The Office" (2009)](https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/)
+- [Firefox Browser Ported to HaikuOS](https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7)
+- [Show HN: Rust GUI Library via Flutter](https://cjycode.com/posts/rust-ui-flutter/)
