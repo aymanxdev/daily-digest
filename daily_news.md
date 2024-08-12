@@ -3220,3 +3220,8 @@
 - [Blitz: A lightweight, modular, extensible web renderer](https://github.com/DioxusLabs/blitz)
 - [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
 - [Verso – web browser built on top of the Servo web engine](https://github.com/versotile-org/verso)
+## Afternoon/Evening Digest - 12-08-2024
+
+- [There Is No Antimemetics Division (2018)](https://qntm.org/scp)
+- [Okay, I Like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
+- [US Government wants to make it easier for you to click the 'unsubscribe' button](https://apnews.com/article/consumer-protection-ftc-fcc-biden-250f6eece6e2665535019128e8fa38da)
