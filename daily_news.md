@@ -3215,3 +3215,8 @@
 - [Verso – web browser built on top of the Servo web engine](https://github.com/versotile-org/verso)
 - [Firefox Browser Ported to HaikuOS](https://discuss.haiku-os.org/t/progress-on-porting-firefox/13493?page=7)
 - [A high energy hadron collider on the Moon](https://iopscience.iop.org/article/10.1088/1367-2630/ac4921/meta)
+## Morning Digest - 12-08-2024
+
+- [Blitz: A lightweight, modular, extensible web renderer](https://github.com/DioxusLabs/blitz)
+- [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
+- [Verso – web browser built on top of the Servo web engine](https://github.com/versotile-org/verso)
