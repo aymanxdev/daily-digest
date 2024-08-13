@@ -3225,3 +3225,8 @@
 - [There Is No Antimemetics Division (2018)](https://qntm.org/scp)
 - [Okay, I Like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
 - [US Government wants to make it easier for you to click the 'unsubscribe' button](https://apnews.com/article/consumer-protection-ftc-fcc-biden-250f6eece6e2665535019128e8fa38da)
+## Morning Digest - 13-08-2024
+
+- [Hacking the largest airline and hotel rewards platform (2023)](https://samcurry.net/points-com)
+- [The new PostgreSQL 17 make dist](http://peter.eisentraut.org/blog/2024/08/13/the-new-postgresql-17-make-dist)
+- [Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig](https://github.com/judofyr/spice)
