@@ -3230,3 +3230,8 @@
 - [Hacking the largest airline and hotel rewards platform (2023)](https://samcurry.net/points-com)
 - [The new PostgreSQL 17 make dist](http://peter.eisentraut.org/blog/2024/08/13/the-new-postgresql-17-make-dist)
 - [Spice: Fine-grained parallelism with sub-nanosecond overhead in Zig](https://github.com/judofyr/spice)
+## Morning Digest - 14-08-2024
+
+- [All of Earth's water in a single sphere (2019)](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere)
+- [MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images](https://donydchen.github.io/mvsplat/)
+- [Show HN: I made a tool to help collect and validate startup ideas](https://www.keepmyidea.app)
