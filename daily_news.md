@@ -3235,3 +3235,8 @@
 - [All of Earth's water in a single sphere (2019)](https://www.usgs.gov/media/images/all-earths-water-a-single-sphere)
 - [MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images](https://donydchen.github.io/mvsplat/)
 - [Show HN: I made a tool to help collect and validate startup ideas](https://www.keepmyidea.app)
+## Afternoon/Evening Digest - 14-08-2024
+
+- [Examples of Great URL Design (2023)](https://blog.jim-nielsen.com/2023/examples-of-great-urls/)
+- [Show HN: Open-source LLM provider price comparison](https://github.com/arc53/llm-price-compass)
+- [Where Banking APIs Fall Short](https://blog.svapnil.com/p/where-bank-apis-fall-short)
