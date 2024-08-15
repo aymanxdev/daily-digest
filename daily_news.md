@@ -3240,3 +3240,8 @@
 - [Examples of Great URL Design (2023)](https://blog.jim-nielsen.com/2023/examples-of-great-urls/)
 - [Show HN: Open-source LLM provider price comparison](https://github.com/arc53/llm-price-compass)
 - [Where Banking APIs Fall Short](https://blog.svapnil.com/p/where-bank-apis-fall-short)
+## Morning Digest - 15-08-2024
+
+- [Exact Polygonal Filtering: Using Green's Theorem and Clipping for Anti-Aliasing](https://jonathanolson.net/exact-polygonal-filtering)
+- [Show HN: If YouTube had actual channels](https://ytch.xyz)
+- [Cryptographic Right Answers: Post Quantum Edition](https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/)
