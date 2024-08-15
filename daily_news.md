@@ -3245,3 +3245,8 @@
 - [Exact Polygonal Filtering: Using Green's Theorem and Clipping for Anti-Aliasing](https://jonathanolson.net/exact-polygonal-filtering)
 - [Show HN: If YouTube had actual channels](https://ytch.xyz)
 - [Cryptographic Right Answers: Post Quantum Edition](https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/)
+## Afternoon/Evening Digest - 15-08-2024
+
+- [ONNX: The Open Standard for Seamless Machine Learning Interoperability](https://github.com/onnx/onnx)
+- [Show HN: High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
+- [YouTube Video to Tabs and Lyrics](https://github.com/JoinMusic/fish)
