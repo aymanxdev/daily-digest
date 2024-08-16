@@ -3250,3 +3250,8 @@
 - [ONNX: The Open Standard for Seamless Machine Learning Interoperability](https://github.com/onnx/onnx)
 - [Show HN: High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
 - [YouTube Video to Tabs and Lyrics](https://github.com/JoinMusic/fish)
+## Morning Digest - 16-08-2024
+
+- [CSS Grid Areas](https://ishadeed.com/article/css-grid-area/)
+- [Aristotle – How to live a good life](https://ralphammer.com/aristotle-how-to-live-a-good-life/)
+- [PyScript: An open source platform for Python in the browser](https://pyscript.net/)
