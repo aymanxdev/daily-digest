@@ -3255,3 +3255,8 @@
 - [CSS Grid Areas](https://ishadeed.com/article/css-grid-area/)
 - [Aristotle – How to live a good life](https://ralphammer.com/aristotle-how-to-live-a-good-life/)
 - [PyScript: An open source platform for Python in the browser](https://pyscript.net/)
+## Afternoon/Evening Digest - 16-08-2024
+
+- [Crafting a 13KB Game: The Story of Space Huggers](https://frankforce.com/space-huggers-how-i-made-a-game-in-13-kilobytes/)
+- [JPlag – Detecting Software Plagiarism](https://github.com/jplag/JPlag)
+- [Cleed – simple feed reader for the command line](https://github.com/radulucut/cleed)
