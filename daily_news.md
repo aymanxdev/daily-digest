@@ -3265,3 +3265,8 @@
 - [Epic Games Store and Fortnite Arrive on EU iPhones](https://arstechnica.com/gadgets/2024/08/epic-games-store-and-fortnite-arrive-on-eu-iphones/)
 - [VanillaJSX.com](https://vanillajsx.com/)
 - [NIST Announces Post-Quantum Cryptography Standards](https://spectrum.ieee.org/post-quantum-cryptography-2668949802)
+## Afternoon/Evening Digest - 17-08-2024
+
+- [Increasing Retention Without Increasing Study Time [pdf]](https://files.eric.ed.gov/fulltext/ED505647.pdf)
+- [Interviewing the Interviewer: Questions to Uncover a Company's True Culture](https://praachi.work/blog/questions-to-ask-in-a-job-interview)
+- [Hacking with PDF (2022)](https://0xcybery.github.io/blog/hacking-with-pdf)
