@@ -3260,3 +3260,8 @@
 - [Crafting a 13KB Game: The Story of Space Huggers](https://frankforce.com/space-huggers-how-i-made-a-game-in-13-kilobytes/)
 - [JPlag – Detecting Software Plagiarism](https://github.com/jplag/JPlag)
 - [Cleed – simple feed reader for the command line](https://github.com/radulucut/cleed)
+## Morning Digest - 17-08-2024
+
+- [Epic Games Store and Fortnite Arrive on EU iPhones](https://arstechnica.com/gadgets/2024/08/epic-games-store-and-fortnite-arrive-on-eu-iphones/)
+- [VanillaJSX.com](https://vanillajsx.com/)
+- [NIST Announces Post-Quantum Cryptography Standards](https://spectrum.ieee.org/post-quantum-cryptography-2668949802)
