@@ -3270,3 +3270,8 @@
 - [Increasing Retention Without Increasing Study Time [pdf]](https://files.eric.ed.gov/fulltext/ED505647.pdf)
 - [Interviewing the Interviewer: Questions to Uncover a Company's True Culture](https://praachi.work/blog/questions-to-ask-in-a-job-interview)
 - [Hacking with PDF (2022)](https://0xcybery.github.io/blog/hacking-with-pdf)
+## Morning Digest - 18-08-2024
+
+- [Mpv – A free, open-source, and cross-platform media player](https://mpv.io/)
+- [Magic Wormhole: get things from one computer to another, safely](https://github.com/magic-wormhole/magic-wormhole)
+- [The Games People Play with Cash Flow](https://commoncog.com/cash-flow-games/)
