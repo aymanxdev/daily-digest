@@ -3275,3 +3275,8 @@
 - [Mpv – A free, open-source, and cross-platform media player](https://mpv.io/)
 - [Magic Wormhole: get things from one computer to another, safely](https://github.com/magic-wormhole/magic-wormhole)
 - [The Games People Play with Cash Flow](https://commoncog.com/cash-flow-games/)
+## Afternoon/Evening Digest - 18-08-2024
+
+- [TomWright/dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV](https://github.com/TomWright/dasel)
+- [Getting back into C programming for CP/M](https://kevinboone.me/cpm-c.html)
+- [How the OCaml type checker works (2022)](https://okmij.org/ftp/ML/generalization.html)
