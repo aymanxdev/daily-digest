@@ -3280,3 +3280,8 @@
 - [TomWright/dasel: Select, put and delete data from JSON, TOML, YAML, XML and CSV](https://github.com/TomWright/dasel)
 - [Getting back into C programming for CP/M](https://kevinboone.me/cpm-c.html)
 - [How the OCaml type checker works (2022)](https://okmij.org/ftp/ML/generalization.html)
+## Morning Digest - 19-08-2024
+
+- [The Dying Computer Museum](http://ascii.textfiles.com/archives/5672)
+- [Renderings Created with Only a Pencil](https://www.core77.com/posts/133324/Fighting-Through-Mental-Struggles-Incredible-Renderings-Created-with-Only-a-Pencil)
+- [Show HN: PgQueuer – Transform PostgreSQL into a Job Queue](https://github.com/janbjorge/PgQueuer)
