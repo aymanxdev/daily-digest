@@ -3285,3 +3285,8 @@
 - [The Dying Computer Museum](http://ascii.textfiles.com/archives/5672)
 - [Renderings Created with Only a Pencil](https://www.core77.com/posts/133324/Fighting-Through-Mental-Struggles-Incredible-Renderings-Created-with-Only-a-Pencil)
 - [Show HN: PgQueuer – Transform PostgreSQL into a Job Queue](https://github.com/janbjorge/PgQueuer)
+## Afternoon/Evening Digest - 19-08-2024
+
+- [Classifying all of the pdfs on the internet](https://snats.xyz/pages/articles/classifying_a_bunch_of_pdfs.html)
+- [Parsing protobuf at 2+GB/s: how I learned to love tail calls in C (2021)](https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html)
+- [Bit-banging a BASIC Birthday](https://thingswemake.com/bit-banging-a-basic-birthday/)
