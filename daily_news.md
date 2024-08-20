@@ -3290,3 +3290,8 @@
 - [Classifying all of the pdfs on the internet](https://snats.xyz/pages/articles/classifying_a_bunch_of_pdfs.html)
 - [Parsing protobuf at 2+GB/s: how I learned to love tail calls in C (2021)](https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html)
 - [Bit-banging a BASIC Birthday](https://thingswemake.com/bit-banging-a-basic-birthday/)
+## Morning Digest - 20-08-2024
+
+- [Pragtical: Practical and pragmatic code editor](https://pragtical.dev/)
+- [Sourcegraph went dark](https://eric-fritz.com/articles/sourcegraph-went-dark/)
+- [13ft – A site similar to 12ft.io but self-hosted](https://github.com/wasi-master/13ft)
