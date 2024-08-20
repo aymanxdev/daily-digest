@@ -3295,3 +3295,8 @@
 - [Pragtical: Practical and pragmatic code editor](https://pragtical.dev/)
 - [Sourcegraph went dark](https://eric-fritz.com/articles/sourcegraph-went-dark/)
 - [13ft – A site similar to 12ft.io but self-hosted](https://github.com/wasi-master/13ft)
+## Afternoon/Evening Digest - 20-08-2024
+
+- [1953 US Navy training film on mechanical computers [video]](https://www.youtube.com/watch?v=gwf5mAlI7Ug)
+- [The anatomy of a 2AM mental breakdown](https://zarar.dev/anatomy-of-a-mental-breakdown/)
+- [Transformers for Ruby](https://github.com/ankane/transformers-ruby)
