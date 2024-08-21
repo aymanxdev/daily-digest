@@ -3305,3 +3305,8 @@
 - [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
 - [PS4 Emulator for Windows,Linux,macOS](https://github.com/shadps4-emu/shadPS4)
 - [Data Exfiltration from Slack AI via indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via)
+## Afternoon/Evening Digest - 21-08-2024
+
+- [I've built my first successful side project, and I hate it](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
+- [Show HN: Handwriter.ttf – Handwriting Synthesis with Harfbuzz WASM](https://github.com/hsfzxjy/handwriter.ttf)
+- [The Discovery of the Celendrical Date Line](https://webspace.science.uu.nl/~gent0113/idl/idl_discovery.htm)
