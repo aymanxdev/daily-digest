@@ -3300,3 +3300,8 @@
 - [1953 US Navy training film on mechanical computers [video]](https://www.youtube.com/watch?v=gwf5mAlI7Ug)
 - [The anatomy of a 2AM mental breakdown](https://zarar.dev/anatomy-of-a-mental-breakdown/)
 - [Transformers for Ruby](https://github.com/ankane/transformers-ruby)
+## Morning Digest - 21-08-2024
+
+- [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
+- [PS4 Emulator for Windows,Linux,macOS](https://github.com/shadps4-emu/shadPS4)
+- [Data Exfiltration from Slack AI via indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-slack-ai-via)
