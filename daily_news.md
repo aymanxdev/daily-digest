@@ -3315,3 +3315,8 @@
 - [SwiftUI for Mac 2024](https://troz.net/post/2024/swiftui-mac-2024/)
 - [Mourning and moving on: rituals for leaving a career](https://franceshocutt.com/2014/09/10/on-mourning-and-moving-on-rituals-for-leaving-a-career/)
 - [Show HN: Isaiah – open-source and self-hosted app to manage everything Docker](https://github.com/will-moss/isaiah)
+## Afternoon/Evening Digest - 22-08-2024
+
+- [Show HN: A Ghidra extension for exporting parts of a program as object files](https://github.com/boricj/ghidra-delinker-extension)
+- [What is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
+- [Ethernet History Deepdive – Why Do We Have Different Frame Types?](https://lostintransit.se/2024/08/21/ethernet-history-deepdive-why-do-we-have-different-frame-types/)
