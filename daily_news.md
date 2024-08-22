@@ -3310,3 +3310,8 @@
 - [I've built my first successful side project, and I hate it](https://switowski.com/blog/i-have-built-my-first-successful-side-project-and-i-hate-it/)
 - [Show HN: Handwriter.ttf – Handwriting Synthesis with Harfbuzz WASM](https://github.com/hsfzxjy/handwriter.ttf)
 - [The Discovery of the Celendrical Date Line](https://webspace.science.uu.nl/~gent0113/idl/idl_discovery.htm)
+## Morning Digest - 22-08-2024
+
+- [SwiftUI for Mac 2024](https://troz.net/post/2024/swiftui-mac-2024/)
+- [Mourning and moving on: rituals for leaving a career](https://franceshocutt.com/2014/09/10/on-mourning-and-moving-on-rituals-for-leaving-a-career/)
+- [Show HN: Isaiah – open-source and self-hosted app to manage everything Docker](https://github.com/will-moss/isaiah)
