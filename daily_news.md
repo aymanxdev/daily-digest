@@ -3320,3 +3320,8 @@
 - [Show HN: A Ghidra extension for exporting parts of a program as object files](https://github.com/boricj/ghidra-delinker-extension)
 - [What is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
 - [Ethernet History Deepdive – Why Do We Have Different Frame Types?](https://lostintransit.se/2024/08/21/ethernet-history-deepdive-why-do-we-have-different-frame-types/)
+## Morning Digest - 23-08-2024
+
+- [Government report proves that we need to liberate the Postcode Address File](https://takes.jamesomalley.co.uk/p/secret-paf-report)
+- [Show HN: InstantDB – A Modern Firebase](https://github.com/instantdb/instant)
+- [Tales from the Far Side](http://www.kleefeldoncomics.com/2024/08/tales-from-far-side.html)
