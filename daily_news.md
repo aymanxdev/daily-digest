@@ -3325,3 +3325,8 @@
 - [Government report proves that we need to liberate the Postcode Address File](https://takes.jamesomalley.co.uk/p/secret-paf-report)
 - [Show HN: InstantDB – A Modern Firebase](https://github.com/instantdb/instant)
 - [Tales from the Far Side](http://www.kleefeldoncomics.com/2024/08/tales-from-far-side.html)
+## Afternoon/Evening Digest - 23-08-2024
+
+- [Nanolog supports logging with 7 ns median latency](https://github.com/PlatformLab/NanoLog)
+- [Show HN: AI Tool Is Now Supporting React, Angular, CSS, Svelte, Vue](https://www.webcrumbs.org/frontend-ai)
+- [Valve New Employee Handbook (2012) [pdf]](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf)
