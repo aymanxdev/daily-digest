@@ -3330,3 +3330,8 @@
 - [Nanolog supports logging with 7 ns median latency](https://github.com/PlatformLab/NanoLog)
 - [Show HN: AI Tool Is Now Supporting React, Angular, CSS, Svelte, Vue](https://www.webcrumbs.org/frontend-ai)
 - [Valve New Employee Handbook (2012) [pdf]](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf)
+## Morning Digest - 24-08-2024
+
+- [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/)
+- [The UX of HTML (2023)](https://www.htmhell.dev/adventcalendar/2023/1/)
+- [Reddit banned me for developing Geddit](https://www.buzl.uk/2024/08/24/reddit.html)
