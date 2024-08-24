@@ -3335,3 +3335,8 @@
 - [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/)
 - [The UX of HTML (2023)](https://www.htmhell.dev/adventcalendar/2023/1/)
 - [Reddit banned me for developing Geddit](https://www.buzl.uk/2024/08/24/reddit.html)
+## Afternoon/Evening Digest - 24-08-2024
+
+- [Hot Page – a graphical site builder](https://hot.page/)
+- [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/)
+- [Microwaves: A Haven for Bacterial Diversity](https://tecscience.tec.mx/en/biotechnology/bacteria-in-microwave/)
