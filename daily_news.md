@@ -3345,3 +3345,8 @@
 - [Removing stuff is never obvious yet often better](https://www.gkogan.co/removing-stuff/)
 - [Avante.nvim: Use Your Neovim Like Using Cursor AI IDE](https://github.com/yetone/avante.nvim)
 - [Database "sharding" came from Ultima Online? (2009)](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
+## Afternoon/Evening Digest - 26-08-2024
+
+- [Why Rust?](https://rerun.io/blog/why-rust)
+- [Fixing a Bug in Google Chrome as a First-Time Contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
+- [Removing stuff is never obvious yet often better](https://www.gkogan.co/removing-stuff/)
