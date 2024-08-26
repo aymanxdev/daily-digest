@@ -3340,3 +3340,8 @@
 - [Hot Page – a graphical site builder](https://hot.page/)
 - [Did you lose your AirPods?](https://alexyancey.com/lost-airpods/)
 - [Microwaves: A Haven for Bacterial Diversity](https://tecscience.tec.mx/en/biotechnology/bacteria-in-microwave/)
+## Morning Digest - 26-08-2024
+
+- [Removing stuff is never obvious yet often better](https://www.gkogan.co/removing-stuff/)
+- [Avante.nvim: Use Your Neovim Like Using Cursor AI IDE](https://github.com/yetone/avante.nvim)
+- [Database "sharding" came from Ultima Online? (2009)](https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/)
