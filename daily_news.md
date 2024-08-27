@@ -3355,3 +3355,8 @@
 - [Box64 and RISC-V in 2024: What It Takes to Run the Witcher 3 on RISC-V](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
 - [Notes on Buttondown.com](https://jmduke.com/posts/microblog/buttondown-dot-com/)
 - [Ruby in Jupyter Notebook](https://nbviewer.org/github/SciRuby/sciruby-notebooks/blob/master/getting_started.ipynb)
+## Afternoon/Evening Digest - 27-08-2024
+
+- [The Real Exponential Curve for LLMs](https://fume.substack.com/p/inference-is-free-and-instant)
+- [Box64 and RISC-V in 2024: What It Takes to Run the Witcher 3 on RISC-V](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
+- [New 0-Day Attacks Linked to China's 'Volt Typhoon'](https://krebsonsecurity.com/2024/08/new-0-day-attacks-linked-to-chinas-volt-typhoon/)
