@@ -3350,3 +3350,8 @@
 - [Why Rust?](https://rerun.io/blog/why-rust)
 - [Fixing a Bug in Google Chrome as a First-Time Contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
 - [Removing stuff is never obvious yet often better](https://www.gkogan.co/removing-stuff/)
+## Morning Digest - 27-08-2024
+
+- [Box64 and RISC-V in 2024: What It Takes to Run the Witcher 3 on RISC-V](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
+- [Notes on Buttondown.com](https://jmduke.com/posts/microblog/buttondown-dot-com/)
+- [Ruby in Jupyter Notebook](https://nbviewer.org/github/SciRuby/sciruby-notebooks/blob/master/getting_started.ipynb)
