@@ -3365,3 +3365,8 @@
 - [Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io)
 - [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/)
 - [Cosmic Alpha Released](https://blog.system76.com/post/cosmic-alpha-released-heres-what-people-are-saying/)
+## Afternoon/Evening Digest - 28-08-2024
+
+- [The journey of an internet packet: Exploring networks with traceroute](https://sebastianmarines.com/post/journey-of-a-packet-exploring-networks-with-traceroute/)
+- [Formal CHERI: rigorous engineering and design-time proof of full-scale architect](https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/)
+- [Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io)
