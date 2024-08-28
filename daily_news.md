@@ -3360,3 +3360,8 @@
 - [The Real Exponential Curve for LLMs](https://fume.substack.com/p/inference-is-free-and-instant)
 - [Box64 and RISC-V in 2024: What It Takes to Run the Witcher 3 on RISC-V](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
 - [New 0-Day Attacks Linked to China's 'Volt Typhoon'](https://krebsonsecurity.com/2024/08/new-0-day-attacks-linked-to-chinas-volt-typhoon/)
+## Morning Digest - 28-08-2024
+
+- [Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io)
+- [Microsoft donates the Mono Project to the Wine team](https://www.mono-project.com/)
+- [Cosmic Alpha Released](https://blog.system76.com/post/cosmic-alpha-released-heres-what-people-are-saying/)
