@@ -3375,3 +3375,8 @@
 - [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
 - [What Life Means to Einstein (1929) [pdf]](https://www.saturdayeveningpost.com/wp-content/uploads/satevepost/what_life_means_to_einstein.pdf)
 - [Docusaurus – Build optimized websites quickly, focus on your content](https://docusaurus.io/)
+## Afternoon/Evening Digest - 29-08-2024
+
+- [OpenAI is shockingly good at unminifying code](https://glama.ai/blog/2024-08-29-reverse-engineering-minified-code-using-openai)
+- [An update on Llama adoption](https://ai.meta.com/blog/llama-usage-doubled-may-through-july-2024/)
+- [How I learned to stop worrying and love userspace networking](https://friendshipcastle.zip/blog/glaceon)
