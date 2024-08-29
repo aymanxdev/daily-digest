@@ -3370,3 +3370,8 @@
 - [The journey of an internet packet: Exploring networks with traceroute](https://sebastianmarines.com/post/journey-of-a-packet-exploring-networks-with-traceroute/)
 - [Formal CHERI: rigorous engineering and design-time proof of full-scale architect](https://www.lightbluetouchpaper.org/2022/07/22/formal-cheri/)
 - [Diffusion Models Are Real-Time Game Engines](https://gamengen.github.io)
+## Morning Digest - 29-08-2024
+
+- [Air Con: $1697 for an on/off switch](https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/)
+- [What Life Means to Einstein (1929) [pdf]](https://www.saturdayeveningpost.com/wp-content/uploads/satevepost/what_life_means_to_einstein.pdf)
+- [Docusaurus – Build optimized websites quickly, focus on your content](https://docusaurus.io/)
