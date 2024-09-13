@@ -3380,3 +3380,8 @@
 - [OpenAI is shockingly good at unminifying code](https://glama.ai/blog/2024-08-29-reverse-engineering-minified-code-using-openai)
 - [An update on Llama adoption](https://ai.meta.com/blog/llama-usage-doubled-may-through-july-2024/)
 - [How I learned to stop worrying and love userspace networking](https://friendshipcastle.zip/blog/glaceon)
+## Afternoon/Evening Digest - 13-09-2024
+
+- [Zero-Click Calendar invite – Critical zero-click vulnerability chain in macOS](https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b)
+- [Lisp Implemented in Rust Macros](https://github.com/RyanWelly/lisp-in-rs-macros)
+- [OpenAI threatens to revoke o1 access for asking it about its chain of thought](https://twitter.com/SmokeAwayyy/status/1834641370486915417)
