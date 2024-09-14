@@ -3385,3 +3385,8 @@
 - [Zero-Click Calendar invite – Critical zero-click vulnerability chain in macOS](https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b)
 - [Lisp Implemented in Rust Macros](https://github.com/RyanWelly/lisp-in-rs-macros)
 - [OpenAI threatens to revoke o1 access for asking it about its chain of thought](https://twitter.com/SmokeAwayyy/status/1834641370486915417)
+## Morning Digest - 14-09-2024
+
+- [My 71 TiB ZFS NAS After 10 Years and Zero Drive Failures](https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html)
+- [Lisp implemented in Rust macros](https://github.com/RyanWelly/lisp-in-rs-macros)
+- [Techniques I use to create a great user experience for shell scripts](https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts)
