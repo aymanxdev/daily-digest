@@ -3395,3 +3395,8 @@
 - [OpenSCAD: The Programmer's Solid 3D CAD Modeller](https://openscad.org/)
 - [Show HN: Wordllama – Things you can do with the token embeddings of an LLM](https://github.com/dleemiller/WordLlama)
 - [Lazarus Group laundered $200M from 25 crypto hacks to fiat](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
+## Afternoon/Evening Digest - 15-09-2024
+
+- [The Disunity of Consciousness in Everyday Experience](http://schwitzsplinters.blogspot.com/2024/09/the-disunity-of-consciousness-in.html)
+- [Show HN: Wordllama – Things you can do with the token embeddings of an LLM](https://github.com/dleemiller/WordLlama)
+- [AT&T's Hobbit Microprocessor (2023)](https://thechipletter.substack.com/p/at-and-ts-crisp-hobbits)
