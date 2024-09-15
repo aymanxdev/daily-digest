@@ -3390,3 +3390,8 @@
 - [My 71 TiB ZFS NAS After 10 Years and Zero Drive Failures](https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html)
 - [Lisp implemented in Rust macros](https://github.com/RyanWelly/lisp-in-rs-macros)
 - [Techniques I use to create a great user experience for shell scripts](https://nochlin.com/blog/6-techniques-i-use-to-create-a-great-user-experience-for-shell-scripts)
+## Morning Digest - 15-09-2024
+
+- [OpenSCAD: The Programmer's Solid 3D CAD Modeller](https://openscad.org/)
+- [Show HN: Wordllama – Things you can do with the token embeddings of an LLM](https://github.com/dleemiller/WordLlama)
+- [Lazarus Group laundered $200M from 25 crypto hacks to fiat](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
