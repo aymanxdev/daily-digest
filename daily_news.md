@@ -3405,3 +3405,8 @@
 - [How Chainalysis Made Their Way into Popular Monero Wallets](https://www.digilol.net/blog/chainanalysis-malicious-xmr.html)
 - [How to Succeed in Mr Beast Production (Leaked PDF)](https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/)
 - [Byte Ordering: On Holy Wars and a Plea for Peace (1980)](https://www.rfc-editor.org/ien/ien137.txt)
+## Morning Digest - 17-09-2024
+
+- [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
+- [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](https://twitter.com/denny_zhou/status/1835761801453306089)
+- [Show HN: Void, an open-source Cursor/GitHub Copilot alternative](https://voideditor.com)
