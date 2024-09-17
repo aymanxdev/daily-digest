@@ -3410,3 +3410,8 @@
 - [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
 - [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](https://twitter.com/denny_zhou/status/1835761801453306089)
 - [Show HN: Void, an open-source Cursor/GitHub Copilot alternative](https://voideditor.com)
+## Afternoon/Evening Digest - 17-09-2024
+
+- ["Four Seconds to Hot Up the Disintegrator, Google Had Told Me It Wasn't Enough"](https://quoteinvestigator.com/2024/09/16/hot-sf/)
+- [Rio-labs/rio: WebApps in pure Python. No JavaScript, HTML and CSS needed](https://github.com/rio-labs/rio)
+- [The Centrality of Stupidity in Mathematics](https://mathforlove.com/2024/09/the-centrality-of-stupidity-in-mathematics/)
