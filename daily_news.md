@@ -3415,3 +3415,8 @@
 - ["Four Seconds to Hot Up the Disintegrator, Google Had Told Me It Wasn't Enough"](https://quoteinvestigator.com/2024/09/16/hot-sf/)
 - [Rio-labs/rio: WebApps in pure Python. No JavaScript, HTML and CSS needed](https://github.com/rio-labs/rio)
 - [The Centrality of Stupidity in Mathematics](https://mathforlove.com/2024/09/the-centrality-of-stupidity-in-mathematics/)
+## Morning Digest - 18-09-2024
+
+- [Apple mobile processors are now made in America by TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made)
+- [Scramble: Open-Source Alternative to Grammarly](https://github.com/zlwaterfield/scramble)
+- [Independent directors of 23andMe resign from board](https://investors.23andme.com/news-releases/news-release-details/independent-directors-23andme-resign-board/)
