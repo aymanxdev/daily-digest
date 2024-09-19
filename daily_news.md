@@ -3425,3 +3425,8 @@
 - [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
 - [Apple mobile processors are now made in America by TSMC](https://timculpan.substack.com/p/apple-mobile-processors-are-now-made)
 - [Papermill: Parameterizing, executing, and analyzing Jupyter Notebooks](https://github.com/nteract/papermill)
+## Morning Digest - 19-09-2024
+
+- [Have you ever seen soldering this close? [video]](https://www.youtube.com/watch?v=m3Ny3j5nH0U)
+- [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
+- [Is Tor still safe to use?](https://blog.torproject.org/tor-is-still-safe/)
