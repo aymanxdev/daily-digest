@@ -3430,3 +3430,8 @@
 - [Have you ever seen soldering this close? [video]](https://www.youtube.com/watch?v=m3Ny3j5nH0U)
 - [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
 - [Is Tor still safe to use?](https://blog.torproject.org/tor-is-still-safe/)
+## Afternoon/Evening Digest - 19-09-2024
+
+- [Show HN: Chili. Rust port of Spice, a low-overhead parallelization library](https://github.com/dragostis/chili)
+- [Drift towards danger and the normalization of deviance (2017)](https://risk-engineering.org/concept/Rasmussen-practical-drift)
+- [Diatom Arrangements](https://www.trebeljahr.com/posts/diatoms)
