@@ -3435,3 +3435,8 @@
 - [Show HN: Chili. Rust port of Spice, a low-overhead parallelization library](https://github.com/dragostis/chili)
 - [Drift towards danger and the normalization of deviance (2017)](https://risk-engineering.org/concept/Rasmussen-practical-drift)
 - [Diatom Arrangements](https://www.trebeljahr.com/posts/diatoms)
+## Morning Digest - 20-09-2024
+
+- [No same site = None cookies for iOS18](https://github.com/WebKit/WebKit/pull/33164)
+- [3K free SVG icons for popular brands](https://simpleicons.org/)
+- [GitHub Notification Emails Hijacked to Send Malware](https://ianspence.com/blog/2024-09/github-email-hijack/)
