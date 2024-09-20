@@ -3440,3 +3440,8 @@
 - [No same site = None cookies for iOS18](https://github.com/WebKit/WebKit/pull/33164)
 - [3K free SVG icons for popular brands](https://simpleicons.org/)
 - [GitHub Notification Emails Hijacked to Send Malware](https://ianspence.com/blog/2024-09/github-email-hijack/)
+## Afternoon/Evening Digest - 20-09-2024
+
+- [CuPy: NumPy and SciPy for GPU](https://github.com/cupy/cupy)
+- [Linux/4004: booting Linux on Intel 4004 for fun, art, and no profit](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
+- [New AI diffusion model approach solves the aspect ratio problem](https://news.rice.edu/news/2024/rice-research-could-make-weird-ai-images-thing-past)
