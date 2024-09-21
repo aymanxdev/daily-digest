@@ -3450,3 +3450,8 @@
 - [I Like Makefiles](https://switowski.com/blog/i-like-makefiles/)
 - [Visualizing Weather Forecasts Through Landscape Imagery](https://github.com/lds133/weather_landscape)
 - [Show HN: Container Desktop – Podman Desktop Companion](https://container-desktop.com/)
+## Afternoon/Evening Digest - 21-09-2024
+
+- [Ultra high-resolution image of The Night Watch](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-image-of-the-night-watch)
+- [Scaling up linear programming with PDLP](https://research.google/blog/scaling-up-linear-programming-with-pdlp/)
+- [Kamal Proxy – A minimal HTTP proxy for zero-downtime deployments](https://github.com/basecamp/kamal-proxy)
