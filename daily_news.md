@@ -3445,3 +3445,8 @@
 - [CuPy: NumPy and SciPy for GPU](https://github.com/cupy/cupy)
 - [Linux/4004: booting Linux on Intel 4004 for fun, art, and no profit](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
 - [New AI diffusion model approach solves the aspect ratio problem](https://news.rice.edu/news/2024/rice-research-could-make-weird-ai-images-thing-past)
+## Morning Digest - 21-09-2024
+
+- [I Like Makefiles](https://switowski.com/blog/i-like-makefiles/)
+- [Visualizing Weather Forecasts Through Landscape Imagery](https://github.com/lds133/weather_landscape)
+- [Show HN: Container Desktop – Podman Desktop Companion](https://container-desktop.com/)
