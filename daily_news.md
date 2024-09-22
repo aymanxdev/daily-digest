@@ -3455,3 +3455,8 @@
 - [Ultra high-resolution image of The Night Watch](https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-image-of-the-night-watch)
 - [Scaling up linear programming with PDLP](https://research.google/blog/scaling-up-linear-programming-with-pdlp/)
 - [Kamal Proxy – A minimal HTTP proxy for zero-downtime deployments](https://github.com/basecamp/kamal-proxy)
+## Morning Digest - 22-09-2024
+
+- [Nextcloud: Open-Source Cloud Apps](https://nextcloud.com/)
+- [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)
+- [Is this the civilization we want? (2017)](https://dynamicland.org/archive/2017/Is_this_the_civilization_we_really_want%3F)
