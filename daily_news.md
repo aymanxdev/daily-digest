@@ -3460,3 +3460,8 @@
 - [Nextcloud: Open-Source Cloud Apps](https://nextcloud.com/)
 - [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)
 - [Is this the civilization we want? (2017)](https://dynamicland.org/archive/2017/Is_this_the_civilization_we_really_want%3F)
+## Afternoon/Evening Digest - 22-09-2024
+
+- [HTTP: , FTP:, and Dict:?](https://shkspr.mobi/blog/2024/09/http-ftp-and-dict/)
+- [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)
+- [Flappy Bird for Android, only C, under 100KB](https://github.com/VadimBoev/FlappyBird)
