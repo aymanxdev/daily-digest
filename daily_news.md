@@ -3465,3 +3465,8 @@
 - [HTTP: , FTP:, and Dict:?](https://shkspr.mobi/blog/2024/09/http-ftp-and-dict/)
 - [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)
 - [Flappy Bird for Android, only C, under 100KB](https://github.com/VadimBoev/FlappyBird)
+## Morning Digest - 23-09-2024
+
+- [What's inside the QR code menu at this cafe?](https://peabee.substack.com/p/whats-inside-the-qr-code-menu-at)
+- [How the iPhone 16's electrically-released adhesive works](https://www.ifixit.com/News/100352/we-hot-wired-the-iphone-16)
+- [Low Cost CO2 Sensors Comparison: Photo-Acoustic vs. NDIR](https://www.airgradient.com/blog/co2-sensors-photo-acoustic-vs-ndir-updated/)
