@@ -3475,3 +3475,8 @@
 - [I Designed a Dieter Rams Inspired iPhone Dock](https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/)
 - [Alan Turing's 1950 manual for the Mark I electronic computer [pdf]](https://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-4-pdf/k-4-u2780-Manchester-Mark-I-manual.pdf)
 - [GPU Puzzles](https://github.com/srush/GPU-Puzzles)
+## Morning Digest - 24-09-2024
+
+- [3D-Stacked CMOS Takes Moore's Law to New Heights](https://spectrum.ieee.org/3d-cmos)
+- [GUI Examples – Rye Language](https://ryelang.org/cookbook/rye-fyne/examples/)
+- [America's oldest tombstone came from Belgium and belonged to an English knight](https://phys.org/news/2024-09-reveals-america-oldest-tombstone-belgium.html)
