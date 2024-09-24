@@ -3480,3 +3480,8 @@
 - [3D-Stacked CMOS Takes Moore's Law to New Heights](https://spectrum.ieee.org/3d-cmos)
 - [GUI Examples – Rye Language](https://ryelang.org/cookbook/rye-fyne/examples/)
 - [America's oldest tombstone came from Belgium and belonged to an English knight](https://phys.org/news/2024-09-reveals-america-oldest-tombstone-belgium.html)
+## Afternoon/Evening Digest - 24-09-2024
+
+- [Winamp Legacy player source code is now open](https://github.com/WinampDesktop/winamp)
+- [Show HN: OpenFreeMap – Open-Source Map Hosting](https://openfreemap.org/)
+- [Move Fast and Abandon Things](https://engineersneedart.com/blog/movefast/movefast.html)
