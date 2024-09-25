@@ -3485,3 +3485,8 @@
 - [Winamp Legacy player source code is now open](https://github.com/WinampDesktop/winamp)
 - [Show HN: OpenFreeMap – Open-Source Map Hosting](https://openfreemap.org/)
 - [Move Fast and Abandon Things](https://engineersneedart.com/blog/movefast/movefast.html)
+## Morning Digest - 25-09-2024
+
+- [NASA spacecraft to probe possibility of life in Europa's salty ocean](https://www.science.org/content/article/nasa-spacecraft-probe-possibility-life-europa-s-salty-ocean)
+- [FRED: New Zealand open-access and crowdsource database of fossil records](https://fred.org.nz/)
+- [Hack GPON – how to access, change and edit fibre ONTs](https://hack-gpon.org/)
