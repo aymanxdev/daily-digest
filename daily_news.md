@@ -3490,3 +3490,8 @@
 - [NASA spacecraft to probe possibility of life in Europa's salty ocean](https://www.science.org/content/article/nasa-spacecraft-probe-possibility-life-europa-s-salty-ocean)
 - [FRED: New Zealand open-access and crowdsource database of fossil records](https://fred.org.nz/)
 - [Hack GPON – how to access, change and edit fibre ONTs](https://hack-gpon.org/)
+## Afternoon/Evening Digest - 25-09-2024
+
+- [Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/)
+- [Global EV Charging Points with Open Charge Map](https://tech.marksblogg.com/open-charge-map-global-ev-charging-point-dataset.html)
+- [Optimizing Guile Scheme](https://dthompson.us/posts/optimizing-guile-scheme.html)
