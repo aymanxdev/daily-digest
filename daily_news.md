@@ -3500,3 +3500,8 @@
 - [Xkcd 1425 (Tasks) turns ten years old today](https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/)
 - [Incident: Wordpress.org has blocked WP Engine customers from registry](https://wpenginestatus.com/incidents/640187)
 - [Show HN: Cronexpr, a Rust library to parse and iter crontab expression](https://docs.rs/cronexpr/latest/cronexpr/)
+## Afternoon/Evening Digest - 26-09-2024
+
+- [NKRYPT Sculpture](https://www.meme.net.au/nkrypt/)
+- [Xkcd 1425 (Tasks) turns ten years old today](https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/)
+- [Italian Music Through the Lens of Complex Networks](https://www.michelecoscia.com/?p=2372)
