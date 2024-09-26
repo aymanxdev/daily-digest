@@ -3495,3 +3495,8 @@
 - [Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/)
 - [Global EV Charging Points with Open Charge Map](https://tech.marksblogg.com/open-charge-map-global-ev-charging-point-dataset.html)
 - [Optimizing Guile Scheme](https://dthompson.us/posts/optimizing-guile-scheme.html)
+## Morning Digest - 26-09-2024
+
+- [Xkcd 1425 (Tasks) turns ten years old today](https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/)
+- [Incident: Wordpress.org has blocked WP Engine customers from registry](https://wpenginestatus.com/incidents/640187)
+- [Show HN: Cronexpr, a Rust library to parse and iter crontab expression](https://docs.rs/cronexpr/latest/cronexpr/)
