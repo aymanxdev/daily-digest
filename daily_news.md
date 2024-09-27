@@ -3510,3 +3510,8 @@
 - [Small3dlib: Suckless PD 3D software rasterizer](https://codeberg.org/drummyfish/small3dlib)
 - [Legalizing Sports Gambling Was a Mistake](https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/)
 - [End of an era: Landsat 7 mission takes final images](https://www.usgs.gov/news/national-news-release/end-era-historic-landsat-7-mission-takes-final-images)
+## Afternoon/Evening Digest - 27-09-2024
+
+- [CNN and USA Today Have Fake Websites, I Believe Forbes Marketplace Runs Them](https://larslofgren.com/cnn-usa-today-forbes-marketplace/)
+- [Everything we know about spies is wrong](https://lithub.com/why-everything-we-think-we-know-about-spies-is-wrong/)
+- [Money-Laundering Practices in the Online Scam Industry](https://globalchinapulse.net/moving-bricks-money-laundering-practices-in-the-online-scam-industry/)
