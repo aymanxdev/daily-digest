@@ -3505,3 +3505,8 @@
 - [NKRYPT Sculpture](https://www.meme.net.au/nkrypt/)
 - [Xkcd 1425 (Tasks) turns ten years old today](https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/)
 - [Italian Music Through the Lens of Complex Networks](https://www.michelecoscia.com/?p=2372)
+## Morning Digest - 27-09-2024
+
+- [Small3dlib: Suckless PD 3D software rasterizer](https://codeberg.org/drummyfish/small3dlib)
+- [Legalizing Sports Gambling Was a Mistake](https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/)
+- [End of an era: Landsat 7 mission takes final images](https://www.usgs.gov/news/national-news-release/end-era-historic-landsat-7-mission-takes-final-images)
