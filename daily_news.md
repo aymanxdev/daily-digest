@@ -3515,3 +3515,8 @@
 - [CNN and USA Today Have Fake Websites, I Believe Forbes Marketplace Runs Them](https://larslofgren.com/cnn-usa-today-forbes-marketplace/)
 - [Everything we know about spies is wrong](https://lithub.com/why-everything-we-think-we-know-about-spies-is-wrong/)
 - [Money-Laundering Practices in the Online Scam Industry](https://globalchinapulse.net/moving-bricks-money-laundering-practices-in-the-online-scam-industry/)
+## Morning Digest - 28-09-2024
+
+- [Amusing Ourselves to Death](https://otpok.com/2014/01/03/amusing-ourselves-to-death/)
+- [I Made a Rubbish Clock](https://blog.jgc.org/2024/09/i-made-rubbish-clock.html)
+- [FFT-based ocean-wave rendering, implemented in Godot](https://github.com/2Retr0/GodotOceanWaves)
