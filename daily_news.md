@@ -3530,3 +3530,8 @@
 - [Too much efficiency makes everything worse (2022)](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
 - [Text2CAD Generating Sequential CAD Designs from Text Prompts](https://sadilkhan.github.io/text2cad-project/)
 - [Feldera Incremental Compute Engine](https://github.com/feldera/feldera)
+## Afternoon/Evening Digest - 29-09-2024
+
+- [Flexible RISC-V Processor: Could Cost Less Than a Dollar](https://spectrum.ieee.org/flexible-risc-v)
+- [Web components are okay](https://nolanlawson.com/2024/09/28/web-components-are-okay/)
+- [Too much efficiency makes everything worse (2022)](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
