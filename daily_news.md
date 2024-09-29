@@ -3525,3 +3525,8 @@
 - [Role of Deliberate Practice in the Development of Creativity (2014)](https://repositories.lib.utexas.edu/server/api/core/bitstreams/c8cc4a4f-e641-462b-9a72-654e60f71485/content)
 - [FFT-based ocean-wave rendering, implemented in Godot](https://github.com/2Retr0/GodotOceanWaves)
 - [SunVox: Powerful Modular Synthesizer and DAW](https://www.warmplace.ru/soft/sunvox/)
+## Morning Digest - 29-09-2024
+
+- [Too much efficiency makes everything worse (2022)](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
+- [Text2CAD Generating Sequential CAD Designs from Text Prompts](https://sadilkhan.github.io/text2cad-project/)
+- [Feldera Incremental Compute Engine](https://github.com/feldera/feldera)
