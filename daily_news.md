@@ -3540,3 +3540,8 @@
 - [NotebookLM's automatically generated podcasts are surprisingly effective](https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/)
 - [Brazilian Electric "Suicide" Shower Heads [video]](https://www.youtube.com/watch?v=FuQ_AAkkgIg)
 - [Bop Spotter](https://walzr.com/bop-spotter)
+## Afternoon/Evening Digest - 30-09-2024
+
+- [Bop Spotter](https://walzr.com/bop-spotter)
+- [NotebookLM's automatically generated podcasts are surprisingly effective](https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/)
+- [Phrase Matching in Marginalia Search](https://www.marginalia.nu/log/a_111_phrase_matching/)
