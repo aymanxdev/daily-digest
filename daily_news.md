@@ -3535,3 +3535,8 @@
 - [Flexible RISC-V Processor: Could Cost Less Than a Dollar](https://spectrum.ieee.org/flexible-risc-v)
 - [Web components are okay](https://nolanlawson.com/2024/09/28/web-components-are-okay/)
 - [Too much efficiency makes everything worse (2022)](https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html)
+## Morning Digest - 30-09-2024
+
+- [NotebookLM's automatically generated podcasts are surprisingly effective](https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/)
+- [Brazilian Electric "Suicide" Shower Heads [video]](https://www.youtube.com/watch?v=FuQ_AAkkgIg)
+- [Bop Spotter](https://walzr.com/bop-spotter)
