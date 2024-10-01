@@ -3550,3 +3550,8 @@
 - [Boris Vallejo and the pixel art of the demoscene](https://marincomics.com/vallejo-pixelart.html)
 - [Bop Spotter](https://walzr.com/bop-spotter)
 - [Multiversion Python Thoughts](https://lucumr.pocoo.org/2024/9/9/multiversion-python/)
+## Afternoon/Evening Digest - 01-10-2024
+
+- [ESO telescope captures the most detailed infrared map of the Milky Way](https://www.eso.org/public/news/eso2413/)
+- [Dead Internet (2023)](https://darkfutura.substack.com/p/dead-internet)
+- [Comedy Theory (2022)](https://rpgadventures.io/post/comedy-theory)
