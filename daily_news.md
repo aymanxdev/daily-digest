@@ -3545,3 +3545,8 @@
 - [Bop Spotter](https://walzr.com/bop-spotter)
 - [NotebookLM's automatically generated podcasts are surprisingly effective](https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/)
 - [Phrase Matching in Marginalia Search](https://www.marginalia.nu/log/a_111_phrase_matching/)
+## Morning Digest - 01-10-2024
+
+- [Boris Vallejo and the pixel art of the demoscene](https://marincomics.com/vallejo-pixelart.html)
+- [Bop Spotter](https://walzr.com/bop-spotter)
+- [Multiversion Python Thoughts](https://lucumr.pocoo.org/2024/9/9/multiversion-python/)
