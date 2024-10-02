@@ -3555,3 +3555,8 @@
 - [ESO telescope captures the most detailed infrared map of the Milky Way](https://www.eso.org/public/news/eso2413/)
 - [Dead Internet (2023)](https://darkfutura.substack.com/p/dead-internet)
 - [Comedy Theory (2022)](https://rpgadventures.io/post/comedy-theory)
+## Morning Digest - 02-10-2024
+
+- [A $1k Wheelchair](https://newmobility.com/not-a-wheelchair/)
+- [Math from Three to Seven](https://www.thepsmiths.com/p/review-math-from-three-to-seven-by)
+- [Serialization Is the Secret](https://www.zachdaniel.dev/p/serialization-is-the-secret)
