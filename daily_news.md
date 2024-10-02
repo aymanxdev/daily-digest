@@ -3560,3 +3560,8 @@
 - [A $1k Wheelchair](https://newmobility.com/not-a-wheelchair/)
 - [Math from Three to Seven](https://www.thepsmiths.com/p/review-math-from-three-to-seven-by)
 - [Serialization Is the Secret](https://www.zachdaniel.dev/p/serialization-is-the-secret)
+## Afternoon/Evening Digest - 02-10-2024
+
+- [Show HN: I made a game you can play without anyone knowing (No Visuals/Sound)](https://apps.apple.com/us/app/tik/id6720712299)
+- [Cups Remote Code Execution Vulnerability Fix Available](https://ubuntu.com/blog/cups-remote-code-execution-vulnerability-fix-available)
+- [Why I'm leaving Medium: AI policy](https://medium.com/@jpolak/why-im-leaving-medium-ai-policy-ce925cffb91c)
