@@ -3570,3 +3570,8 @@
 - [What Excessive Screen Time Does to the Adult Brain](https://longevity.stanford.edu/lifestyle/2024/05/30/what-excessive-screen-time-does-to-the-adult-brain/)
 - [Terminal Colours Are Tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
 - [The Fastest Mutexes](https://justine.lol/mutex/)
+## Afternoon/Evening Digest - 03-10-2024
+
+- [Image Editing with Gaussian Splatting](https://www.unite.ai/image-editing-with-gaussian-splatting/)
+- [Solving methane mysteries with satellite imagery](https://blog.datadesk.eco/p/methane-mysteries)
+- [Serving 70B-Scale LLMs Efficiently on Low-Resource Edge Devices [pdf]](https://arxiv.org/abs/2410.00531)
