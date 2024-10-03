@@ -3565,3 +3565,8 @@
 - [Show HN: I made a game you can play without anyone knowing (No Visuals/Sound)](https://apps.apple.com/us/app/tik/id6720712299)
 - [Cups Remote Code Execution Vulnerability Fix Available](https://ubuntu.com/blog/cups-remote-code-execution-vulnerability-fix-available)
 - [Why I'm leaving Medium: AI policy](https://medium.com/@jpolak/why-im-leaving-medium-ai-policy-ce925cffb91c)
+## Morning Digest - 03-10-2024
+
+- [What Excessive Screen Time Does to the Adult Brain](https://longevity.stanford.edu/lifestyle/2024/05/30/what-excessive-screen-time-does-to-the-adult-brain/)
+- [Terminal Colours Are Tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
+- [The Fastest Mutexes](https://justine.lol/mutex/)
