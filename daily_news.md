@@ -3575,3 +3575,8 @@
 - [Image Editing with Gaussian Splatting](https://www.unite.ai/image-editing-with-gaussian-splatting/)
 - [Solving methane mysteries with satellite imagery](https://blog.datadesk.eco/p/methane-mysteries)
 - [Serving 70B-Scale LLMs Efficiently on Low-Resource Edge Devices [pdf]](https://arxiv.org/abs/2410.00531)
+## Morning Digest - 04-10-2024
+
+- [Experimental web browser optimized for rabbit-holing](https://szymonkaliski.com/projects/cartographist/)
+- [Why does man print "gimme gimme gimme" at 00:30? (2017)](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030)
+- [Robert Dennard, DRAM Pioneer, has died](https://spectrum.ieee.org/in-memoriam-oct-2024)
