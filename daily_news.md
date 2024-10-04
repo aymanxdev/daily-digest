@@ -3580,3 +3580,8 @@
 - [Experimental web browser optimized for rabbit-holing](https://szymonkaliski.com/projects/cartographist/)
 - [Why does man print "gimme gimme gimme" at 00:30? (2017)](https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030)
 - [Robert Dennard, DRAM Pioneer, has died](https://spectrum.ieee.org/in-memoriam-oct-2024)
+## Afternoon/Evening Digest - 04-10-2024
+
+- [Show HN: Chebyshev approximation calculator (open source web app)](https://stuffmatic.com/chebyshev/)
+- [Experimental web browser optimized for rabbit-holing](https://szymonkaliski.com/projects/cartographist/)
+- [Meta Movie Gen](https://ai.meta.com/research/movie-gen/?_fb_noscript=1)
