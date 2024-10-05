@@ -3585,3 +3585,8 @@
 - [Show HN: Chebyshev approximation calculator (open source web app)](https://stuffmatic.com/chebyshev/)
 - [Experimental web browser optimized for rabbit-holing](https://szymonkaliski.com/projects/cartographist/)
 - [Meta Movie Gen](https://ai.meta.com/research/movie-gen/?_fb_noscript=1)
+## Morning Digest - 05-10-2024
+
+- [Noise](https://noise.jake.fun/)
+- [Getting my daily news from a dot matrix printer](https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/)
+- [Meta Movie Gen](https://ai.meta.com/research/movie-gen/?_fb_noscript=1)
