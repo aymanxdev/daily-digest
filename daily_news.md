@@ -3590,3 +3590,8 @@
 - [Noise](https://noise.jake.fun/)
 - [Getting my daily news from a dot matrix printer](https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/)
 - [Meta Movie Gen](https://ai.meta.com/research/movie-gen/?_fb_noscript=1)
+## Afternoon/Evening Digest - 05-10-2024
+
+- [The Globus INK: a mechanical navigation computer for Soviet spaceflight](https://www.righto.com/2023/01/inside-globus-ink-mechanical-navigation.html)
+- [Noise](https://noise.jake.fun/)
+- [Linux from Scratch](https://www.linuxfromscratch.org/index.html)
