@@ -3600,3 +3600,8 @@
 - [HPy – A better C API for Python](https://hpyproject.org/)
 - [Fuzzing 101](https://github.com/antonio-morales/Fuzzing101)
 - [Arthur Whitney's one liner sudoku solver (2011)](https://dfns.dyalog.com/n_sudoku.htm)
+## Afternoon/Evening Digest - 06-10-2024
+
+- [When Earth Had Rings](https://nautil.us/when-earth-had-rings-920177/)
+- [HPy – A better C API for Python](https://hpyproject.org/)
+- [Imagining faces in tree trunks and your morning eggs? AI can see them, too](https://www.science.org/content/article/imagining-faces-tree-trunks-and-your-morning-eggs-ai-can-see-them-too)
