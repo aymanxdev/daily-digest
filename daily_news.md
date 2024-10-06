@@ -3595,3 +3595,8 @@
 - [The Globus INK: a mechanical navigation computer for Soviet spaceflight](https://www.righto.com/2023/01/inside-globus-ink-mechanical-navigation.html)
 - [Noise](https://noise.jake.fun/)
 - [Linux from Scratch](https://www.linuxfromscratch.org/index.html)
+## Morning Digest - 06-10-2024
+
+- [HPy – A better C API for Python](https://hpyproject.org/)
+- [Fuzzing 101](https://github.com/antonio-morales/Fuzzing101)
+- [Arthur Whitney's one liner sudoku solver (2011)](https://dfns.dyalog.com/n_sudoku.htm)
