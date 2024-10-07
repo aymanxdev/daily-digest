@@ -3605,3 +3605,8 @@
 - [When Earth Had Rings](https://nautil.us/when-earth-had-rings-920177/)
 - [HPy – A better C API for Python](https://hpyproject.org/)
 - [Imagining faces in tree trunks and your morning eggs? AI can see them, too](https://www.science.org/content/article/imagining-faces-tree-trunks-and-your-morning-eggs-ai-can-see-them-too)
+## Afternoon/Evening Digest - 07-10-2024
+
+- [Can You Get Root with Only a Cigarette Lighter?](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
+- [The Rise of Worse Is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
+- [Silicon Valley, the New Lobbying Monster](https://www.newyorker.com/magazine/2024/10/14/silicon-valley-the-new-lobbying-monster)
