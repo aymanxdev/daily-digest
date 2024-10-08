@@ -3615,3 +3615,8 @@
 - [An illustrated proof of the CAP theorem (2018)](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
 - [Video Surveillance with YOLO+llava](https://github.com/PsyChip/machina)
 - [Jazz – Apps with Distributed State](https://jazz.tools/)
+## Afternoon/Evening Digest - 08-10-2024
+
+- [Differential Transformer](https://arxiv.org/abs/2410.05258)
+- [The Atlantic Did Me Dirty](https://cmsthomas.substack.com/p/the-atlantic-did-me-dirty)
+- [Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
