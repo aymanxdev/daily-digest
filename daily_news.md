@@ -3610,3 +3610,8 @@
 - [Can You Get Root with Only a Cigarette Lighter?](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
 - [The Rise of Worse Is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
 - [Silicon Valley, the New Lobbying Monster](https://www.newyorker.com/magazine/2024/10/14/silicon-valley-the-new-lobbying-monster)
+## Morning Digest - 08-10-2024
+
+- [An illustrated proof of the CAP theorem (2018)](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
+- [Video Surveillance with YOLO+llava](https://github.com/PsyChip/machina)
+- [Jazz – Apps with Distributed State](https://jazz.tools/)
