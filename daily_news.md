@@ -3625,3 +3625,8 @@
 - [John Carmack on Inlined Code](http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html)
 - [Cognizant found guilty of discriminating against non-Indian employees](https://twitter.com/USTechWorkers/status/1843744799607898260)
 - [Miqt: MIT-licensed Qt bindings for Go](https://github.com/mappu/miqt)
+## Afternoon/Evening Digest - 09-10-2024
+
+- [Chemistry Nobel: Computational protein design and protein structure prediction](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
+- [John Carmack on Inlined Code (2014)](http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html)
+- [Addition Is All You Need for Energy-Efficient Language Models](https://arxiv.org/abs/2410.00907)
