@@ -3620,3 +3620,8 @@
 - [Differential Transformer](https://arxiv.org/abs/2410.05258)
 - [The Atlantic Did Me Dirty](https://cmsthomas.substack.com/p/the-atlantic-did-me-dirty)
 - [Kotlin Money](https://blog.eriksen.com.br/en/introducing-kotlin-money)
+## Morning Digest - 09-10-2024
+
+- [John Carmack on Inlined Code](http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html)
+- [Cognizant found guilty of discriminating against non-Indian employees](https://twitter.com/USTechWorkers/status/1843744799607898260)
+- [Miqt: MIT-licensed Qt bindings for Go](https://github.com/mappu/miqt)
