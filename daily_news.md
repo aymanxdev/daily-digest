@@ -3630,3 +3630,8 @@
 - [Chemistry Nobel: Computational protein design and protein structure prediction](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
 - [John Carmack on Inlined Code (2014)](http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html)
 - [Addition Is All You Need for Energy-Efficient Language Models](https://arxiv.org/abs/2410.00907)
+## Afternoon/Evening Digest - 10-10-2024
+
+- [Why we're helping more wikis move away from Fandom](https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom)
+- [Show HN: Tenno – Markdown and JavaScript = an Hybrid of Word and Excel](https://tenno.app)
+- [Let's talk about Animation Quality](https://theorangeduck.com/page/animation-quality)
