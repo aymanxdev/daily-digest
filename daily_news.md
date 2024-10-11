@@ -3640,3 +3640,8 @@
 - [DeskPad – A virtual monitor for screen sharing](https://github.com/Stengo/DeskPad)
 - [The Copenhagen Book: general guideline on implementing auth in web applications](https://thecopenhagenbook.com/)
 - [Scuda – Virtual GPU over IP](https://github.com/kevmo314/scuda)
+## Afternoon/Evening Digest - 11-10-2024
+
+- [Show HN: Pocache, preemptive optimistic caching for Go](https://github.com/naughtygopher/pocache)
+- [Show HN: NotesHub: cross-platform, Markdown-based note-taking app](https://about.noteshub.app)
+- [A Lisp compiler to RISC-V written in Lisp](http://www.ulisp.com/show?4Y20)
