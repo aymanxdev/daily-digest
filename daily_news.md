@@ -3635,3 +3635,8 @@
 - [Why we're helping more wikis move away from Fandom](https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom)
 - [Show HN: Tenno – Markdown and JavaScript = an Hybrid of Word and Excel](https://tenno.app)
 - [Let's talk about Animation Quality](https://theorangeduck.com/page/animation-quality)
+## Morning Digest - 11-10-2024
+
+- [DeskPad – A virtual monitor for screen sharing](https://github.com/Stengo/DeskPad)
+- [The Copenhagen Book: general guideline on implementing auth in web applications](https://thecopenhagenbook.com/)
+- [Scuda – Virtual GPU over IP](https://github.com/kevmo314/scuda)
