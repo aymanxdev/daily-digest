@@ -3645,3 +3645,8 @@
 - [Show HN: Pocache, preemptive optimistic caching for Go](https://github.com/naughtygopher/pocache)
 - [Show HN: NotesHub: cross-platform, Markdown-based note-taking app](https://about.noteshub.app)
 - [A Lisp compiler to RISC-V written in Lisp](http://www.ulisp.com/show?4Y20)
+## Morning Digest - 12-10-2024
+
+- [AMD's Turin: 5th Gen EPYC Launched](https://chipsandcheese.com/p/amds-turin-5th-gen-epyc-launched)
+- [Started a guide to writing FUSE filesystems in Python](https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html)
+- [Lm.rs: Minimal CPU LLM inference in Rust with no dependency](https://github.com/samuel-vitorino/lm.rs)
