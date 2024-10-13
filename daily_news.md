@@ -3660,3 +3660,8 @@
 - [WordPress.org's latest move involves taking control of a WP Engine plugin](https://www.theverge.com/2024/10/12/24268637/wordpress-org-matt-mullenweg-acf-fork-secure-custom-fields-wp-engine)
 - [1 bug, $50k in bounties, a Zendesk backdoor](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
 - [Exploring Typst, a new typesetting system similar to LaTeX](https://blog.jreyesr.com/posts/typst/)
+## Afternoon/Evening Digest - 13-10-2024
+
+- [Starship Flight 5 [video]](https://twitter.com/SpaceX/status/1845152255944819015)
+- [Large language models reduce public knowledge sharing on online Q&A platforms](https://academic.oup.com/pnasnexus/article/3/9/pgae400/7754871)
+- [Diffusion for World Modeling](https://diamond-wm.github.io/)
