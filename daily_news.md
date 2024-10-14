@@ -3665,3 +3665,8 @@
 - [Starship Flight 5 [video]](https://twitter.com/SpaceX/status/1845152255944819015)
 - [Large language models reduce public knowledge sharing on online Q&A platforms](https://academic.oup.com/pnasnexus/article/3/9/pgae400/7754871)
 - [Diffusion for World Modeling](https://diamond-wm.github.io/)
+## Morning Digest - 14-10-2024
+
+- [A review after using Rust on embedded in production for over a year](https://blog.lohr.dev/embedded-rust)
+- [Huly – Open-source project management platform](https://github.com/hcengineering/platform)
+- [Zero-latency SQLite storage in every Durable Object](https://simonwillison.net/2024/Oct/13/zero-latency-sqlite-storage-in-every-durable-object/)
