@@ -3670,3 +3670,8 @@
 - [A review after using Rust on embedded in production for over a year](https://blog.lohr.dev/embedded-rust)
 - [Huly – Open-source project management platform](https://github.com/hcengineering/platform)
 - [Zero-latency SQLite storage in every Durable Object](https://simonwillison.net/2024/Oct/13/zero-latency-sqlite-storage-in-every-durable-object/)
+## Afternoon/Evening Digest - 14-10-2024
+
+- [Upgrading Uber's MySQL Fleet](https://www.uber.com/en-JO/blog/upgrading-ubers-mysql-fleet/)
+- [Show HN: X11 tool to share a screen area in any video meeting](https://github.com/splitbrain/clipscreen)
+- [Show HN: I made a git rebase TUI editor](https://github.com/NyuB/ocli)
