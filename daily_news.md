@@ -3680,3 +3680,8 @@
 - [Cheating alleged after men's world conker champion found with steel chestnut](https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut)
 - [Busy Status Bar](https://busy.bar/?hn)
 - [Making FreeDOS Smaller [video]](https://www.youtube.com/watch?v=0zYUHU-ZdqQ)
+## Afternoon/Evening Digest - 15-10-2024
+
+- [Show HN: I built the most over-engineered Deal With It emoji generator](https://emoji.build/deal-with-it-generator/)
+- [Web Browser Engineering](https://browser.engineering/index.html)
+- [Show HN: Pumpkin – A Modern Minecraft server written in Rust](https://github.com/Snowiiii/Pumpkin)
