@@ -3675,3 +3675,8 @@
 - [Upgrading Uber's MySQL Fleet](https://www.uber.com/en-JO/blog/upgrading-ubers-mysql-fleet/)
 - [Show HN: X11 tool to share a screen area in any video meeting](https://github.com/splitbrain/clipscreen)
 - [Show HN: I made a git rebase TUI editor](https://github.com/NyuB/ocli)
+## Morning Digest - 15-10-2024
+
+- [Cheating alleged after men's world conker champion found with steel chestnut](https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut)
+- [Busy Status Bar](https://busy.bar/?hn)
+- [Making FreeDOS Smaller [video]](https://www.youtube.com/watch?v=0zYUHU-ZdqQ)
