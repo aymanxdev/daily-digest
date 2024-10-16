@@ -3685,3 +3685,8 @@
 - [Show HN: I built the most over-engineered Deal With It emoji generator](https://emoji.build/deal-with-it-generator/)
 - [Web Browser Engineering](https://browser.engineering/index.html)
 - [Show HN: Pumpkin – A Modern Minecraft server written in Rust](https://github.com/Snowiiii/Pumpkin)
+## Morning Digest - 16-10-2024
+
+- [I Self-Hosted Llama 3.2 with Coolify on My Home Server](https://geek.sg/blog/how-i-self-hosted-llama-32-with-coolify-on-my-home-server-a-step-by-step-guide)
+- [Sqlite3 WebAssembly](https://sqlite.org/wasm/doc/trunk/index.md)
+- [Show HN: Graphite, a Blender-inspired 2D procedural design Rust app](https://graphite.rs/)
