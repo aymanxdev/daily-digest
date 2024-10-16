@@ -3690,3 +3690,8 @@
 - [I Self-Hosted Llama 3.2 with Coolify on My Home Server](https://geek.sg/blog/how-i-self-hosted-llama-32-with-coolify-on-my-home-server-a-step-by-step-guide)
 - [Sqlite3 WebAssembly](https://sqlite.org/wasm/doc/trunk/index.md)
 - [Show HN: Graphite, a Blender-inspired 2D procedural design Rust app](https://graphite.rs/)
+## Afternoon/Evening Digest - 16-10-2024
+
+- [Douglas Hofstadter on Lisp (1983)](https://gist.github.com/jackrusher/5139396)
+- [FTC Announces "Click-to-Cancel" Rule Making It Easier to Cancel Subscriptions](https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring)
+- [Show HN: Graphite, a Blender-inspired 2D procedural design Rust app](https://graphite.rs/)
