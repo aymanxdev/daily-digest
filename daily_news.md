@@ -3700,3 +3700,8 @@
 - [Escaping the Chrome Sandbox Through DevTools](https://ading.dev/blog/posts/chrome_sandbox_escape.html)
 - [UndefinedBehaviorSanitizer's Unexpected Behavior](https://daniel.haxx.se/blog/2024/10/17/undefinedbehaviorsanitizers-unexpected-behavior/)
 - [Amazon reveals first color Kindle, new Kindle Scribe, and more](https://www.aboutamazon.com/news/devices/new-kindle-color-scribe-paperwhite-entry)
+## Afternoon/Evening Digest - 17-10-2024
+
+- [Gamedev in Lisp. Part 2: Dungeons and Interfaces](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2)
+- [Study: Cats Are Almost Liquid](https://www.cell.com/iscience/fulltext/S2589-0042(24)02024-8)
+- [Escaping the Chrome Sandbox Through DevTools](https://ading.dev/blog/posts/chrome_sandbox_escape.html)
