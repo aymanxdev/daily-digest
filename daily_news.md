@@ -3695,3 +3695,8 @@
 - [Douglas Hofstadter on Lisp (1983)](https://gist.github.com/jackrusher/5139396)
 - [FTC Announces "Click-to-Cancel" Rule Making It Easier to Cancel Subscriptions](https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring)
 - [Show HN: Graphite, a Blender-inspired 2D procedural design Rust app](https://graphite.rs/)
+## Morning Digest - 17-10-2024
+
+- [Escaping the Chrome Sandbox Through DevTools](https://ading.dev/blog/posts/chrome_sandbox_escape.html)
+- [UndefinedBehaviorSanitizer's Unexpected Behavior](https://daniel.haxx.se/blog/2024/10/17/undefinedbehaviorsanitizers-unexpected-behavior/)
+- [Amazon reveals first color Kindle, new Kindle Scribe, and more](https://www.aboutamazon.com/news/devices/new-kindle-color-scribe-paperwhite-entry)
