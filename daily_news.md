@@ -3705,3 +3705,8 @@
 - [Gamedev in Lisp. Part 2: Dungeons and Interfaces](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2)
 - [Study: Cats Are Almost Liquid](https://www.cell.com/iscience/fulltext/S2589-0042(24)02024-8)
 - [Escaping the Chrome Sandbox Through DevTools](https://ading.dev/blog/posts/chrome_sandbox_escape.html)
+## Morning Digest - 18-10-2024
+
+- [Factorio – Visualizing construction material dependencies](https://community.wolfram.com/groups/-/m/t/1793319)
+- [Smart pointers for the kernel](https://lwn.net/Articles/992055/)
+- [Crokinole](https://pudding.cool/2024/10/crokinole/)
