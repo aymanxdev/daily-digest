@@ -3715,3 +3715,8 @@
 - [Secret 3D Scans in the French Supreme Court](https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme)
 - [Running an Open Source App: Usage, Costs and Community Donations](https://spliit.app/blog/spliit-by-the-stats-usage-costs-donations)
 - [Show HN: Go Plan9 Memo, Speeding Up Calculations 450%](https://pehringer.info/go_plan9_memo.html)
+## Morning Digest - 19-10-2024
+
+- [The long road to lazy preemption in the Linux CPU scheduler](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
+- [New Mersenne Prime discovered (probably)](https://www.mersenne.org/)
+- [Secret 3D scans in the French Supreme Court](https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme)
