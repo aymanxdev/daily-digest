@@ -3720,3 +3720,8 @@
 - [The long road to lazy preemption in the Linux CPU scheduler](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
 - [New Mersenne Prime discovered (probably)](https://www.mersenne.org/)
 - [Secret 3D scans in the French Supreme Court](https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme)
+## Afternoon/Evening Digest - 19-10-2024
+
+- [Typst 0.12 is just... better](https://typst.app/blog/2024/typst-0.12/)
+- [The long road to lazy preemption in the Linux CPU scheduler](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
+- [Knocker uppers: Waking up the workers in industrial Britain (2016)](https://www.bbc.com/news/uk-england-35840393)
