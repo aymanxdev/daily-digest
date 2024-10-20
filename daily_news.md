@@ -3730,3 +3730,8 @@
 - [Accountability sinks](https://aworkinglibrary.com/writing/accountability-sinks)
 - [A website to generate many cute coloring pages: ColoringCanva](https://coloringcanva.com/)
 - [Language is not essential for the cognitive processes that underlie thought](https://www.scientificamerican.com/article/you-dont-need-words-to-think/)
+## Afternoon/Evening Digest - 20-10-2024
+
+- [How to do distributed locking (2016)](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+- [Jujutsu (jj), a Git compatible VCS](https://tonyfinn.com/blog/jj/)
+- [Scratches in 2001: A Space Osyssey (2018)](https://aphelis.net/scratches-kubrick-2001-space-odyssey/)
