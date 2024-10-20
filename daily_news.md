@@ -3725,3 +3725,8 @@
 - [Typst 0.12 is just... better](https://typst.app/blog/2024/typst-0.12/)
 - [The long road to lazy preemption in the Linux CPU scheduler](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
 - [Knocker uppers: Waking up the workers in industrial Britain (2016)](https://www.bbc.com/news/uk-england-35840393)
+## Morning Digest - 20-10-2024
+
+- [Accountability sinks](https://aworkinglibrary.com/writing/accountability-sinks)
+- [A website to generate many cute coloring pages: ColoringCanva](https://coloringcanva.com/)
+- [Language is not essential for the cognitive processes that underlie thought](https://www.scientificamerican.com/article/you-dont-need-words-to-think/)
