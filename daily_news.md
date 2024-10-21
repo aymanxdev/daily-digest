@@ -3740,3 +3740,8 @@
 - [A step toward fully 3D-printed active electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
 - [Show HN: HN Update – Hourly news broadcast of top HN stories](https://hnup.date/)
 - [WebGPU-Based WiFi Simulator](https://wifi-solver.com)
+## Afternoon/Evening Digest - 21-10-2024
+
+- [Show HN: Epublifier – scrape pages (books, manuals) for offline reading](https://github.com/maoserr/epublifier)
+- [Ioccc Flight Simulator (2010)](https://blog.aerojockey.com/iocccsim/)
+- [Is It Better to Fail Spectacularly?](https://danielmangum.com/posts/better-to-fail-spectacularly/)
