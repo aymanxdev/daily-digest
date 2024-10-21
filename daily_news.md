@@ -3735,3 +3735,8 @@
 - [How to do distributed locking (2016)](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 - [Jujutsu (jj), a Git compatible VCS](https://tonyfinn.com/blog/jj/)
 - [Scratches in 2001: A Space Osyssey (2018)](https://aphelis.net/scratches-kubrick-2001-space-odyssey/)
+## Morning Digest - 21-10-2024
+
+- [A step toward fully 3D-printed active electronics](https://news.mit.edu/2024/mit-team-takes-major-step-toward-fully-3d-printed-active-electronics-1015)
+- [Show HN: HN Update – Hourly news broadcast of top HN stories](https://hnup.date/)
+- [WebGPU-Based WiFi Simulator](https://wifi-solver.com)
