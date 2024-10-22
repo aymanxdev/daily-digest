@@ -3745,3 +3745,8 @@
 - [Show HN: Epublifier – scrape pages (books, manuals) for offline reading](https://github.com/maoserr/epublifier)
 - [Ioccc Flight Simulator (2010)](https://blog.aerojockey.com/iocccsim/)
 - [Is It Better to Fail Spectacularly?](https://danielmangum.com/posts/better-to-fail-spectacularly/)
+## Morning Digest - 22-10-2024
+
+- [Math is still catching up to the genius of Ramanujan](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
+- [First images from Euclid are in](https://dlmultimedia.esa.int/download/public/videos/2024/10/023/orig-2410_023_AR_EN.mp4)
+- [Performance of popular microcontroller boards running uLisp](http://www.ulisp.com/show?36M3)
