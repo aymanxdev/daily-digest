@@ -3750,3 +3750,8 @@
 - [Math is still catching up to the genius of Ramanujan](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
 - [First images from Euclid are in](https://dlmultimedia.esa.int/download/public/videos/2024/10/023/orig-2410_023_AR_EN.mp4)
 - [Performance of popular microcontroller boards running uLisp](http://www.ulisp.com/show?36M3)
+## Afternoon/Evening Digest - 22-10-2024
+
+- [Show HN: Rust Web Framework](https://github.com/levkk/rwf)
+- [Tog's Paradox](https://www.votito.com/methods/togs-paradox/)
+- [One Plus One Equals Two (2006)](https://blog.plover.com/math/PM.html)
