@@ -3755,3 +3755,8 @@
 - [Show HN: Rust Web Framework](https://github.com/levkk/rwf)
 - [Tog's Paradox](https://www.votito.com/methods/togs-paradox/)
 - [One Plus One Equals Two (2006)](https://blog.plover.com/math/PM.html)
+## Morning Digest - 23-10-2024
+
+- [Adding row polymorphism to Damas-Hindley-Milner](https://bernsteinbear.com/blog/row-poly/)
+- [Solving Sudoku in Python Packaging](https://github.com/konstin/sudoku-in-python-packaging)
+- [The Dawn of a New Era for Supernova 1987a](https://science.nasa.gov/missions/chandra/the-dawn-of-a-new-era-for-supernova-1987a/)
