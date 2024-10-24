@@ -3760,3 +3760,8 @@
 - [Adding row polymorphism to Damas-Hindley-Milner](https://bernsteinbear.com/blog/row-poly/)
 - [Solving Sudoku in Python Packaging](https://github.com/konstin/sudoku-in-python-packaging)
 - [The Dawn of a New Era for Supernova 1987a](https://science.nasa.gov/missions/chandra/the-dawn-of-a-new-era-for-supernova-1987a/)
+## Morning Digest - 24-10-2024
+
+- [AWS data center latencies, visualized](https://benjdd.com/aws/)
+- [Show HN: Microsoft Teams Ticketing System – Ticketing as a Service](https://www.teamswork.app/best-microsoft-teams-ticketing-service-desk)
+- [Show HN: Wall-mounted diffusion mirror that turns reflections into paintings](https://www.matthieulc.com/posts/pablonet/)
