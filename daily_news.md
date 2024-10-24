@@ -3765,3 +3765,8 @@
 - [AWS data center latencies, visualized](https://benjdd.com/aws/)
 - [Show HN: Microsoft Teams Ticketing System – Ticketing as a Service](https://www.teamswork.app/best-microsoft-teams-ticketing-service-desk)
 - [Show HN: Wall-mounted diffusion mirror that turns reflections into paintings](https://www.matthieulc.com/posts/pablonet/)
+## Afternoon/Evening Digest - 24-10-2024
+
+- [Developing with Docker](https://danielquinn.org/blog/developing-with-docker/)
+- [Show HN: Which Animal Shares Your Body Fat Percentage?](https://animalbodyfatmatch.netlify.app/)
+- [JetBrains Rider is now free for non-commercial use](https://www.jetbrains.com/rider/)
