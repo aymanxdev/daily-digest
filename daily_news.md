@@ -3770,3 +3770,8 @@
 - [Developing with Docker](https://danielquinn.org/blog/developing-with-docker/)
 - [Show HN: Which Animal Shares Your Body Fat Percentage?](https://animalbodyfatmatch.netlify.app/)
 - [JetBrains Rider is now free for non-commercial use](https://www.jetbrains.com/rider/)
+## Morning Digest - 25-10-2024
+
+- [Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b)
+- [Quantized Llama models with increased speed and a reduced memory footprint](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/?_fb_noscript=1)
+- [OpenFeature – a vendor-agnostic, community-driven API for feature flagging](https://github.com/open-feature)
