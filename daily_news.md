@@ -3780,3 +3780,8 @@
 - [Category Theory Illustrated: Logic(2021)](https://abuseofnotation.github.io/category-theory-illustrated/05_logic/)
 - [Waymo closes $5.6B investment round](https://waymo.com/blog/2024/10/investing-to-bring-the-waymo-driver-to-more-riders/)
 - [Bitwarden SDK relicensed from proprietary to GPLv3](https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b)
+## Morning Digest - 26-10-2024
+
+- [Bluesky Is Not Decentralized](https://beige.party/@possibledog/113367977656537478)
+- [We can now fix McDonald's ice cream machines](https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines)
+- [Before you buy a domain name, first check to see if it's haunted](https://www.bryanbraun.com/2024/10/25/before-you-buy-a-domain-name-first-check-to-see-if-its-haunted/)
