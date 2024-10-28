@@ -3800,3 +3800,8 @@
 - [A Chopin Waltz Unearthed After Nearly 200 Years](https://www.nytimes.com/2024/10/27/arts/music/chopin-waltz-discovery.html)
 - [You-get: Dumb downloader that scrapes the web](https://github.com/soimort/you-get)
 - [Amphion: An Open-Source Audio, Music, and Speech Generation Toolkit](https://github.com/open-mmlab/Amphion)
+## Morning Digest - 28-10-2024
+
+- [On Good Software Engineers](https://candost.blog/on-good-software-engineers/)
+- [418 I'm a Teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
+- [Suite smells: testing legacy code](https://bitfieldconsulting.com/posts/testing-legacy-code)
