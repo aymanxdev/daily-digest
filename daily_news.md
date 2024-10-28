@@ -3805,3 +3805,8 @@
 - [On Good Software Engineers](https://candost.blog/on-good-software-engineers/)
 - [418 I'm a Teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
 - [Suite smells: testing legacy code](https://bitfieldconsulting.com/posts/testing-legacy-code)
+## Afternoon/Evening Digest - 28-10-2024
+
+- [Gothic Architecture Became Spooky](https://www.architecturaldigest.com/story/how-gothic-architecture-became-spooky)
+- [F.A. Hayek – The Use of Knowledge in Society [pdf]](https://www.kysq.org/docs/Hayek_45.pdf)
+- [Using Rust in Non-Rust Servers to Improve Performance](https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md)
