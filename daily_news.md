@@ -3815,3 +3815,8 @@
 - [A return to hand-written notes by learning to read and write](https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/)
 - [How I write code using Cursor](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
 - [What's New in POSIX 2024](https://blog.toast.cafe/posix2024-xcu)
+## Afternoon/Evening Digest - 29-10-2024
+
+- [Writing in Pictures: Richard Scarry and the art of children's literature](https://yalereview.org/article/chris-ware-richard-scarry)
+- [A Very Deep History of Halloween](https://resobscura.substack.com/p/a-very-deep-history-of-halloween)
+- [Launch HN: Integuru (YC W24): Reverse-Engineer Internal APIs Using LLMs](https://github.com/Integuru-AI/Integuru)
