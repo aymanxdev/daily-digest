@@ -3810,3 +3810,8 @@
 - [Gothic Architecture Became Spooky](https://www.architecturaldigest.com/story/how-gothic-architecture-became-spooky)
 - [F.A. Hayek – The Use of Knowledge in Society [pdf]](https://www.kysq.org/docs/Hayek_45.pdf)
 - [Using Rust in Non-Rust Servers to Improve Performance](https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md)
+## Morning Digest - 29-10-2024
+
+- [A return to hand-written notes by learning to read and write](https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/)
+- [How I write code using Cursor](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
+- [What's New in POSIX 2024](https://blog.toast.cafe/posix2024-xcu)
