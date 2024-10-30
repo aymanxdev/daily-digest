@@ -3825,3 +3825,8 @@
 - [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
 - [1BRC Coding Challenge: Nerd Sniping the Java Community](https://www.infoq.com/presentations/1brc/)
 - [The Influence of Japanese Archaeology on the Legend of Zelda: Breath of the Wild](https://jgeekstudies.org/2024/10/27/on-the-influence-of-japanese-archaeological-heritage-on-the-legend-of-zelda-breath-of-the-wild/)
+## Afternoon/Evening Digest - 30-10-2024
+
+- [Internal representations of LLMs encode information about truthfulness](https://arxiv.org/abs/2410.02707)
+- [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
+- [Dropbox announces 20% global workforce reduction](https://blog.dropbox.com/topics/company/an-update-from-drew)
