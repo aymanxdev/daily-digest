@@ -3835,3 +3835,8 @@
 - [Zed: SSH Remoting Is Here](https://zed.dev/blog/remote-development)
 - [Rust and C++ with Steve Klabnik and Herb Sutter](https://softwareengineeringdaily.com/2024/10/23/rust-vs-c-with-steve-klabnik-herb-sutter/)
 - [OpenZFS deduplication is good now and you shouldn't use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
+## Afternoon/Evening Digest - 31-10-2024
+
+- [Fuzzing between the lines in popular barcode software](https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/)
+- [Probability-Generating Functions](https://entropicthoughts.com/probability-generating-functions)
+- [OpenZFS deduplication is good now and you shouldn't use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
