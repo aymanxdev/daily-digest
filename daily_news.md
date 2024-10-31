@@ -3830,3 +3830,8 @@
 - [Internal representations of LLMs encode information about truthfulness](https://arxiv.org/abs/2410.02707)
 - [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
 - [Dropbox announces 20% global workforce reduction](https://blog.dropbox.com/topics/company/an-update-from-drew)
+## Morning Digest - 31-10-2024
+
+- [Zed: SSH Remoting Is Here](https://zed.dev/blog/remote-development)
+- [Rust and C++ with Steve Klabnik and Herb Sutter](https://softwareengineeringdaily.com/2024/10/23/rust-vs-c-with-steve-klabnik-herb-sutter/)
+- [OpenZFS deduplication is good now and you shouldn't use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
