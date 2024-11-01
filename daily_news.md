@@ -3840,3 +3840,8 @@
 - [Fuzzing between the lines in popular barcode software](https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/)
 - [Probability-Generating Functions](https://entropicthoughts.com/probability-generating-functions)
 - [OpenZFS deduplication is good now and you shouldn't use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
+## Morning Digest - 01-11-2024
+
+- [ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/)
+- [An Update on Apple M1/M2 GPU Drivers](https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/)
+- [Org Mode Syntax Cheat Sheet (2017)](https://nhigham.com/2017/11/02/org-mode-syntax-cheat-sheet/)
