@@ -3855,3 +3855,8 @@
 - [SmolLM2](https://simonwillison.net/2024/Nov/2/smollm2/)
 - [Apple acquires Pixelmator](https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/)
 - [My Time Working at Stripe](https://jondlm.github.io/website/blog/leaving_stripe/)
+## Afternoon/Evening Digest - 02-11-2024
+
+- [Weird Lexical Syntax](https://justine.lol/lex/)
+- [Cramming Solitaire onto a Nintendo E-Reader card](https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/)
+- [Ghosts in the Machine](https://daily.jstor.org/ghosts-in-the-machine/)
