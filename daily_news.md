@@ -3850,3 +3850,8 @@
 - [Alexander the Great's tunic identified in royal tomb at Vergina](https://www.tandfonline.com/doi/full/10.1080/00934690.2024.2409503#abstract)
 - [TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters](https://arxiv.org/abs/2410.23168)
 - [ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/)
+## Morning Digest - 02-11-2024
+
+- [SmolLM2](https://simonwillison.net/2024/Nov/2/smollm2/)
+- [Apple acquires Pixelmator](https://www.pixelmator.com/blog/2024/11/01/a-new-home-for-pixelmator/)
+- [My Time Working at Stripe](https://jondlm.github.io/website/blog/leaving_stripe/)
