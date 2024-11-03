@@ -3865,3 +3865,8 @@
 - [The motor turns too much](https://www.projectgus.com/2024/01/kona-motor-turns/)
 - [Saving historic cruise ships](https://www.afar.com/magazine/historic-cruise-ships-are-at-risk-peter-knego-saves-them)
 - [Eighty Years of the Finite Element Method (2022)](https://link.springer.com/article/10.1007/s11831-022-09740-9)
+## Afternoon/Evening Digest - 03-11-2024
+
+- [Auth Wiki](https://auth.wiki/)
+- [If you need the money, don't take the job](https://bitfieldconsulting.com/posts/need-money)
+- [Create block devices on your computer backed by Redstone Memory](https://github.com/williambl/blockblockdevice)
