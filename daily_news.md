@@ -3860,3 +3860,8 @@
 - [Weird Lexical Syntax](https://justine.lol/lex/)
 - [Cramming Solitaire onto a Nintendo E-Reader card](https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/)
 - [Ghosts in the Machine](https://daily.jstor.org/ghosts-in-the-machine/)
+## Morning Digest - 03-11-2024
+
+- [The motor turns too much](https://www.projectgus.com/2024/01/kona-motor-turns/)
+- [Saving historic cruise ships](https://www.afar.com/magazine/historic-cruise-ships-are-at-risk-peter-knego-saves-them)
+- [Eighty Years of the Finite Element Method (2022)](https://link.springer.com/article/10.1007/s11831-022-09740-9)
