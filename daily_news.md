@@ -3870,3 +3870,8 @@
 - [Auth Wiki](https://auth.wiki/)
 - [If you need the money, don't take the job](https://bitfieldconsulting.com/posts/need-money)
 - [Create block devices on your computer backed by Redstone Memory](https://github.com/williambl/blockblockdevice)
+## Morning Digest - 04-11-2024
+
+- [Scientists glue two proteins together, driving cancer cells to self-destruct](https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html)
+- [An embarrassingly simple approach to recover unlearned knowledge for LLMs](https://arxiv.org/abs/2410.16454)
+- [I've had a change of heart regarding employee metrics](http://rachelbythebay.com/w/2024/11/03/metrics/)
