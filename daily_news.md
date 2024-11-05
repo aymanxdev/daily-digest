@@ -3885,3 +3885,8 @@
 - [Pagination widows, or, why I'm embarrassed about my eBook (2023)](https://clagnut.com/blog/2426)
 - [Former Bayesian captain on sinking, vessel ballast and stability](https://www.sailingscuttlebutt.com/2024/08/27/former-bayesian-captain-offers-insight/)
 - [Diagram as Code](https://diagrams.mingrammer.com/)
+## Afternoon/Evening Digest - 05-11-2024
+
+- [Failure Analysis of the Arecibo 305 Meter Telescope Collapse](https://nap.nationalacademies.org/read/26982/chapter/1)
+- [Show HN: rallyup – Lightweight Wake-on-LAN Scheduler](https://github.com/darwindarak/rallyup)
+- [What if they are all wrong? (2020)](https://igorpak.wordpress.com/2020/12/10/what-if-they-are-all-wrong/)
