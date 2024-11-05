@@ -3880,3 +3880,8 @@
 - [Limitations of Frame Pointer Unwinding](https://developers.redhat.com/articles/2024/10/30/limitations-frame-pointer-unwinding)
 - [Cheap Thrills, an album cover by Robert Crumb (2020)](https://musicaficionado.blog/2020/01/28/cheap-thrills-an-album-cover-by-robert-crumb/)
 - [The history of Unix's ioctl and signal about window sizes](https://utcc.utoronto.ca/~cks/space/blog/unix/WindowSizeIoctlAndSignal)
+## Morning Digest - 05-11-2024
+
+- [Pagination widows, or, why I'm embarrassed about my eBook (2023)](https://clagnut.com/blog/2426)
+- [Former Bayesian captain on sinking, vessel ballast and stability](https://www.sailingscuttlebutt.com/2024/08/27/former-bayesian-captain-offers-insight/)
+- [Diagram as Code](https://diagrams.mingrammer.com/)
