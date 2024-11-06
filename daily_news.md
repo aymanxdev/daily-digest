@@ -3895,3 +3895,8 @@
 - [Title drops in movies](https://www.titledrops.net/)
 - [New images of Jupiter](https://www.missionjuno.swri.edu/junocam/processing?source=all&ob_from=2024-10-01&ob_to=2024-11-01&phases%5B%5D=PERIJOVE+66&perpage=16)
 - [Hacking 700M Electronic Arts accounts](https://battleda.sh/blog/ea-account-takeover)
+## Afternoon/Evening Digest - 06-11-2024
+
+- [Show HN: SuperSplat – open-source 3D Gaussian Splat Editor](https://playcanvas.com/supersplat/editor?load=https://raw.githubusercontent.com/willeastcott/assets/main/toy-cat.ply&camera.overlay=false&show.bound=false)
+- [Private Cloud Compute Security Guide](https://security.apple.com/documentation/private-cloud-compute/)
+- [New images of Jupiter](https://www.missionjuno.swri.edu/junocam/processing?source=all&ob_from=2024-10-01&ob_to=2024-11-01&phases%5B%5D=PERIJOVE+66&perpage=16)
