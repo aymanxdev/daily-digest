@@ -3890,3 +3890,8 @@
 - [Failure Analysis of the Arecibo 305 Meter Telescope Collapse](https://nap.nationalacademies.org/read/26982/chapter/1)
 - [Show HN: rallyup – Lightweight Wake-on-LAN Scheduler](https://github.com/darwindarak/rallyup)
 - [What if they are all wrong? (2020)](https://igorpak.wordpress.com/2020/12/10/what-if-they-are-all-wrong/)
+## Morning Digest - 06-11-2024
+
+- [Title drops in movies](https://www.titledrops.net/)
+- [New images of Jupiter](https://www.missionjuno.swri.edu/junocam/processing?source=all&ob_from=2024-10-01&ob_to=2024-11-01&phases%5B%5D=PERIJOVE+66&perpage=16)
+- [Hacking 700M Electronic Arts accounts](https://battleda.sh/blog/ea-account-takeover)
