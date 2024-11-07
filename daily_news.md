@@ -3900,3 +3900,8 @@
 - [Show HN: SuperSplat – open-source 3D Gaussian Splat Editor](https://playcanvas.com/supersplat/editor?load=https://raw.githubusercontent.com/willeastcott/assets/main/toy-cat.ply&camera.overlay=false&show.bound=false)
 - [Private Cloud Compute Security Guide](https://security.apple.com/documentation/private-cloud-compute/)
 - [New images of Jupiter](https://www.missionjuno.swri.edu/junocam/processing?source=all&ob_from=2024-10-01&ob_to=2024-11-01&phases%5B%5D=PERIJOVE+66&perpage=16)
+## Morning Digest - 07-11-2024
+
+- [Evaluating the world model implicit in a generative model](https://arxiv.org/abs/2406.03689)
+- [Accelerating the Performance of Rosetta in Linux VMs on Apple Silicon](https://developer.apple.com/documentation/virtualization/accelerating_the_performance_of_rosetta)
+- [Passport Photos](https://maxsiedentopf.com/passport-photos/)
