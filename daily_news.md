@@ -3905,3 +3905,8 @@
 - [Evaluating the world model implicit in a generative model](https://arxiv.org/abs/2406.03689)
 - [Accelerating the Performance of Rosetta in Linux VMs on Apple Silicon](https://developer.apple.com/documentation/virtualization/accelerating_the_performance_of_rosetta)
 - [Passport Photos](https://maxsiedentopf.com/passport-photos/)
+## Afternoon/Evening Digest - 07-11-2024
+
+- [Excerpts from John Wiegley and Adam Porter about personal information management](https://sachachua.com/blog/2024/11/excerpts-from-a-conversation-with-john-wiegley-johnw-and-adam-porter-alphapapa-about-personal-information-management/)
+- [I'm Not Mutable, I'm Partially Instantiated (Prolog)](https://blog.dnmfarrell.com/post/incomplete-data-structures/)
+- [Passport Photos](https://maxsiedentopf.com/passport-photos/)
