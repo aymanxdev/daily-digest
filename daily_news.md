@@ -3910,3 +3910,8 @@
 - [Excerpts from John Wiegley and Adam Porter about personal information management](https://sachachua.com/blog/2024/11/excerpts-from-a-conversation-with-john-wiegley-johnw-and-adam-porter-alphapapa-about-personal-information-management/)
 - [I'm Not Mutable, I'm Partially Instantiated (Prolog)](https://blog.dnmfarrell.com/post/incomplete-data-structures/)
 - [Passport Photos](https://maxsiedentopf.com/passport-photos/)
+## Morning Digest - 08-11-2024
+
+- [Methodology is bullshit: principles for product velocity](https://ssoready.com/blog/from-the-founders/methodology-is-bullshit/)
+- [Why I love Rust for tokenising and parsing](https://xnacly.me/posts/2024/rust-pldev/)
+- [Ham Radio 101: What is WSPR?](https://www.onallbands.com/ham-radio-101-what-is-wspr/)
