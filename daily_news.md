@@ -3915,3 +3915,8 @@
 - [Methodology is bullshit: principles for product velocity](https://ssoready.com/blog/from-the-founders/methodology-is-bullshit/)
 - [Why I love Rust for tokenising and parsing](https://xnacly.me/posts/2024/rust-pldev/)
 - [Ham Radio 101: What is WSPR?](https://www.onallbands.com/ham-radio-101-what-is-wspr/)
+## Afternoon/Evening Digest - 08-11-2024
+
+- [Multiple new macOS sandbox escape vulnerabilities](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/)
+- [Stabilizing the Obra Dinn 1-bit dithering process (2017)](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)
+- [Show HN: Asterogue, my sci-fi roguelike, is now playable on the web](https://asterogue.com)
