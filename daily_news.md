@@ -3925,3 +3925,8 @@
 - [Delta: A syntax-highlighting pager for Git, diff, grep, and blame output](https://github.com/dandavison/delta)
 - [SVDQuant: 4-Bit Quantization Powers 12B Flux on a 16GB 4090 GPU with 3x Speedup](https://hanlab.mit.edu/blog/svdquant)
 - [Mitochondria Are Alive](https://www.asimov.press/p/mitochondria)
+## Afternoon/Evening Digest - 09-11-2024
+
+- [Mergiraf: a syntax-aware merge driver for Git](https://mergiraf.org/)
+- [PSA: SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
+- [Show HN: HTML-to-Markdown – convert entire websites to Markdown with Golang/CLI](https://github.com/JohannesKaufmann/html-to-markdown)
