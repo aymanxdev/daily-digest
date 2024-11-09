@@ -3920,3 +3920,8 @@
 - [Multiple new macOS sandbox escape vulnerabilities](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/)
 - [Stabilizing the Obra Dinn 1-bit dithering process (2017)](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)
 - [Show HN: Asterogue, my sci-fi roguelike, is now playable on the web](https://asterogue.com)
+## Morning Digest - 09-11-2024
+
+- [Delta: A syntax-highlighting pager for Git, diff, grep, and blame output](https://github.com/dandavison/delta)
+- [SVDQuant: 4-Bit Quantization Powers 12B Flux on a 16GB 4090 GPU with 3x Speedup](https://hanlab.mit.edu/blog/svdquant)
+- [Mitochondria Are Alive](https://www.asimov.press/p/mitochondria)
