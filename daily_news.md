@@ -3935,3 +3935,8 @@
 - [OpenCoder: Open Cookbook for Top-Tier Code Large Language Models](https://opencoder-llm.github.io/)
 - [IronCalc – Open-Source Spreadsheet Engine](https://www.ironcalc.com/)
 - [Physical Intelligence's first generalist policy AI can finally do your laundry](https://www.physicalintelligence.company/blog/pi0)
+## Afternoon/Evening Digest - 10-11-2024
+
+- [Dobble (The Mathematics Of) (2018)](https://www.petercollingridge.co.uk/blog/mathematics-toys-and-games/dobble/)
+- [Making Sense of Lambda Calculus 0: Abstration, Reduction, Substitution?](https://aartaka.me/lambda-0)
+- [The Principles of Mr. Harrison's Time-Keeper](https://incoherency.co.uk/blog/stories/principles-harrison-timekeeper.html)
