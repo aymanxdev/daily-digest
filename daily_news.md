@@ -3930,3 +3930,8 @@
 - [Mergiraf: a syntax-aware merge driver for Git](https://mergiraf.org/)
 - [PSA: SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
 - [Show HN: HTML-to-Markdown – convert entire websites to Markdown with Golang/CLI](https://github.com/JohannesKaufmann/html-to-markdown)
+## Morning Digest - 10-11-2024
+
+- [OpenCoder: Open Cookbook for Top-Tier Code Large Language Models](https://opencoder-llm.github.io/)
+- [IronCalc – Open-Source Spreadsheet Engine](https://www.ironcalc.com/)
+- [Physical Intelligence's first generalist policy AI can finally do your laundry](https://www.physicalintelligence.company/blog/pi0)
