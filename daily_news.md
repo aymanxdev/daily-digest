@@ -3940,3 +3940,8 @@
 - [Dobble (The Mathematics Of) (2018)](https://www.petercollingridge.co.uk/blog/mathematics-toys-and-games/dobble/)
 - [Making Sense of Lambda Calculus 0: Abstration, Reduction, Substitution?](https://aartaka.me/lambda-0)
 - [The Principles of Mr. Harrison's Time-Keeper](https://incoherency.co.uk/blog/stories/principles-harrison-timekeeper.html)
+## Morning Digest - 11-11-2024
+
+- [I Sent an Ethernet Packet](https://github.com/francisrstokes/githublog/blob/main/2024%2F11%2F1%2Fsending-an-ethernet-packet.md)
+- [IMG_0416](https://ben-mini.github.io/2024/img-0416)
+- [Virtual Windows 3.11 Computer](https://pieter.com/)
