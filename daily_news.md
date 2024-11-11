@@ -3945,3 +3945,8 @@
 - [I Sent an Ethernet Packet](https://github.com/francisrstokes/githublog/blob/main/2024%2F11%2F1%2Fsending-an-ethernet-packet.md)
 - [IMG_0416](https://ben-mini.github.io/2024/img-0416)
 - [Virtual Windows 3.11 Computer](https://pieter.com/)
+## Afternoon/Evening Digest - 11-11-2024
+
+- [The Silurian Hypothesis](https://pacificklaus.com/the-silurian-hypothesis-it-was-the-cephalopods/)
+- [Microscope Museum](https://www.antiquemicroscopes.co.uk/)
+- [IMG_0416](https://ben-mini.github.io/2024/img-0416)
