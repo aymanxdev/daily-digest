@@ -3955,3 +3955,8 @@
 - [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
 - [Improving Steam Client Stability on Linux](https://ttimo.typepad.com/blog/2024/11/the-steam-client-update-earlier-this-week-mentions-fixed-some-miscellaneous-common-crashes-in-the-linux-notes-which-i-wante.html)
 - [Defensive Communication (1961)](https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html)
+## Afternoon/Evening Digest - 12-11-2024
+
+- [When muscles work out, they help neurons to grow, a new study shows](https://news.mit.edu/2024/when-muscles-work-out-they-help-neurons-grow-1112)
+- [Visualizing World War II](https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/)
+- [The Soul of an Old Machine: Revisiting the Timeless von Neumann Architecture](https://ankush.dev/p/neumann_architecture)
