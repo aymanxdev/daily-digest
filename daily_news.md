@@ -3950,3 +3950,8 @@
 - [The Silurian Hypothesis](https://pacificklaus.com/the-silurian-hypothesis-it-was-the-cephalopods/)
 - [Microscope Museum](https://www.antiquemicroscopes.co.uk/)
 - [IMG_0416](https://ben-mini.github.io/2024/img-0416)
+## Morning Digest - 12-11-2024
+
+- [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
+- [Improving Steam Client Stability on Linux](https://ttimo.typepad.com/blog/2024/11/the-steam-client-update-earlier-this-week-mentions-fixed-some-miscellaneous-common-crashes-in-the-linux-notes-which-i-wante.html)
+- [Defensive Communication (1961)](https://reagle.org/joseph/2010/conflict/media/gibb-defensive-communication.html)
