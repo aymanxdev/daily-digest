@@ -3960,3 +3960,8 @@
 - [When muscles work out, they help neurons to grow, a new study shows](https://news.mit.edu/2024/when-muscles-work-out-they-help-neurons-grow-1112)
 - [Visualizing World War II](https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/)
 - [The Soul of an Old Machine: Revisiting the Timeless von Neumann Architecture](https://ankush.dev/p/neumann_architecture)
+## Morning Digest - 13-11-2024
+
+- [Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac](https://simonwillison.net/2024/Nov/12/qwen25-coder/)
+- [We Built a Self-Healing System to Survive a Concurrency Bug at Netflix](https://pushtoprod.substack.com/p/netflix-terrifying-concurrency-bug)
+- [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/)
