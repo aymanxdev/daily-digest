@@ -3970,3 +3970,8 @@
 - [Show HN: Bluetooth USB Peripheral Relay – Bridge Bluetooth Devices to USB](https://github.com/bahaaador/bluetooth-usb-peripheral-relay)
 - [From BSP to ESP – How S3ctor Abused Quake Editors to Redefine the Morrowind Mod](https://openmw.org/2024/from-bsp-to-esp-how-s3ctor-abused-quake-editors-to-redefine-the-morrowind-modding-experience/)
 - [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/)
+## Morning Digest - 14-11-2024
+
+- [I Followed the Official AWS Amplify Guide and Was Charged $1,100](https://elliott-king.github.io/2024/10/amplify-overcharge/)
+- [Go-Safeweb](https://github.com/google/go-safeweb)
+- [The Impact of Jungle Music in 90s Video Game Development](https://pikuma.com/blog/jungle-music-video-game-drum-bass)
