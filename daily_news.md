@@ -3975,3 +3975,8 @@
 - [I Followed the Official AWS Amplify Guide and Was Charged $1,100](https://elliott-king.github.io/2024/10/amplify-overcharge/)
 - [Go-Safeweb](https://github.com/google/go-safeweb)
 - [The Impact of Jungle Music in 90s Video Game Development](https://pikuma.com/blog/jungle-music-video-game-drum-bass)
+## Afternoon/Evening Digest - 14-11-2024
+
+- [Why is it so hard to find a job now? Enter Ghost Jobs](https://arxiv.org/abs/2410.21771)
+- [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
+- [A memory leak in Apple's Network Extension framework](https://obdev.at/blog/a-memory-leak-in-apples-network-extension-framework/)
