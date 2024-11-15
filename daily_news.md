@@ -3985,3 +3985,8 @@
 - [Upcoming Hardening in PHP](https://dustri.org/b/upcoming-hardening-in-php.html)
 - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 - [Windows Memory Mapped File IO](https://www.jeremyong.com/winapi/io/2024/11/03/windows-memory-mapped-file-io/)
+## Afternoon/Evening Digest - 15-11-2024
+
+- [Seer: A GUI front end to GDB for Linux](https://github.com/epasveer/seer)
+- [The Battle Line at Louvain](https://www.privatdozent.co/p/the-battle-line-at-louvain-1914)
+- [Show HN: OnAir – create link, receive calls](https://onair.io/)
