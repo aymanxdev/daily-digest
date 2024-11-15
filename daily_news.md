@@ -3980,3 +3980,8 @@
 - [Why is it so hard to find a job now? Enter Ghost Jobs](https://arxiv.org/abs/2410.21771)
 - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 - [A memory leak in Apple's Network Extension framework](https://obdev.at/blog/a-memory-leak-in-apples-network-extension-framework/)
+## Morning Digest - 15-11-2024
+
+- [Upcoming Hardening in PHP](https://dustri.org/b/upcoming-hardening-in-php.html)
+- [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
+- [Windows Memory Mapped File IO](https://www.jeremyong.com/winapi/io/2024/11/03/windows-memory-mapped-file-io/)
