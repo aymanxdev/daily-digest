@@ -3990,3 +3990,8 @@
 - [Seer: A GUI front end to GDB for Linux](https://github.com/epasveer/seer)
 - [The Battle Line at Louvain](https://www.privatdozent.co/p/the-battle-line-at-louvain-1914)
 - [Show HN: OnAir – create link, receive calls](https://onair.io/)
+## Morning Digest - 16-11-2024
+
+- [Kyanos: eBPF-based network issue analysis tool](https://github.com/hengyoush/kyanos)
+- [Biological Miracle – Wood Frog](https://www.nps.gov/gaar/learn/nature/wood-frog-page-2.htm)
+- [Llama-OCR: Document to Markdown](https://llamaocr.com/)
