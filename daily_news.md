@@ -3995,3 +3995,8 @@
 - [Kyanos: eBPF-based network issue analysis tool](https://github.com/hengyoush/kyanos)
 - [Biological Miracle – Wood Frog](https://www.nps.gov/gaar/learn/nature/wood-frog-page-2.htm)
 - [Llama-OCR: Document to Markdown](https://llamaocr.com/)
+## Afternoon/Evening Digest - 16-11-2024
+
+- [Yggdrasil Network](https://yggdrasil-network.github.io/)
+- [Kyanos: eBPF-based network issue analysis tool](https://github.com/hengyoush/kyanos)
+- [Biological Miracle – Wood Frog](https://www.nps.gov/gaar/learn/nature/wood-frog-page-2.htm)
