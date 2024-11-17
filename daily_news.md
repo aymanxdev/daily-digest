@@ -4000,3 +4000,8 @@
 - [Yggdrasil Network](https://yggdrasil-network.github.io/)
 - [Kyanos: eBPF-based network issue analysis tool](https://github.com/hengyoush/kyanos)
 - [Biological Miracle – Wood Frog](https://www.nps.gov/gaar/learn/nature/wood-frog-page-2.htm)
+## Morning Digest - 17-11-2024
+
+- [All-in-one embedding model for interleaved text, images, and screenshots](https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/)
+- [CSS gets a new logo and it uses the color `rebeccapurple`](https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo)
+- [The Bluesky firehose viewed in the style of a Windows XP screensaver](https://firehose3d.theo.io/)
