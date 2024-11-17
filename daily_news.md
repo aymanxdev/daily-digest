@@ -4005,3 +4005,8 @@
 - [All-in-one embedding model for interleaved text, images, and screenshots](https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/)
 - [CSS gets a new logo and it uses the color `rebeccapurple`](https://michaelcharl.es/aubrey/en/code/new-rebeccapurple-css-logo)
 - [The Bluesky firehose viewed in the style of a Windows XP screensaver](https://firehose3d.theo.io/)
+## Afternoon/Evening Digest - 17-11-2024
+
+- [Claude AI built me a React app to compare maps side by side](https://github.com/veloplanner/map-matrix)
+- [Bpftune uses BPF to auto-tune Linux systems](https://github.com/oracle/bpftune)
+- [All-in-one embedding model for interleaved text, images, and screenshots](https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/)
