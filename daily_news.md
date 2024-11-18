@@ -4015,3 +4015,8 @@
 - [We are shutting down the Ondsel FreeCAD business](https://ondsel.com/blog/goodbye/)
 - [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
 - [Voyager 1 Breaks Its Silence with NASA via Radio Transmitter Not Used Since 1981](https://www.smithsonianmag.com/smart-news/voyager-1-breaks-its-silence-with-nasa-via-a-radio-transmitter-not-used-since-1981-180985399/)
+## Afternoon/Evening Digest - 18-11-2024
+
+- [Museum of Bad Art](https://museumofbadart.org/)
+- [I was banned from the hCaptcha accessibility account for not being blind (2023)](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
+- [Phonetic Matching](https://smoores.dev/post/phonetic_matching/)
