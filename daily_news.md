@@ -4010,3 +4010,8 @@
 - [Claude AI built me a React app to compare maps side by side](https://github.com/veloplanner/map-matrix)
 - [Bpftune uses BPF to auto-tune Linux systems](https://github.com/oracle/bpftune)
 - [All-in-one embedding model for interleaved text, images, and screenshots](https://blog.voyageai.com/2024/11/12/voyage-multimodal-3/)
+## Morning Digest - 18-11-2024
+
+- [We are shutting down the Ondsel FreeCAD business](https://ondsel.com/blog/goodbye/)
+- [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
+- [Voyager 1 Breaks Its Silence with NASA via Radio Transmitter Not Used Since 1981](https://www.smithsonianmag.com/smart-news/voyager-1-breaks-its-silence-with-nasa-via-a-radio-transmitter-not-used-since-1981-180985399/)
