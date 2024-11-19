@@ -4020,3 +4020,8 @@
 - [Museum of Bad Art](https://museumofbadart.org/)
 - [I was banned from the hCaptcha accessibility account for not being blind (2023)](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
 - [Phonetic Matching](https://smoores.dev/post/phonetic_matching/)
+## Afternoon/Evening Digest - 19-11-2024
+
+- [Show HN: Rust library for numerical integration of real-valued functions](https://github.com/mtantaoui/Integrate)
+- [OpenStreetMap's New Vector Tiles](https://tech.marksblogg.com/osm-mvt-vector-tiles.html)
+- [Show HN: Embed an SQLite database in your PostgreSQL table](https://github.com/frectonz/pglite-fusion)
