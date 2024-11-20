@@ -4030,3 +4030,8 @@
 - [Tiny Glade 'built' its way to >600k sold in a month](https://newsletter.gamediscover.co/p/how-tiny-glade-built-its-way-to-600k)
 - [Let's Encrypt is 10 years old now](https://letsencrypt.org/2014/11/18/announcing-lets-encrypt/)
 - [Webvm: Virtual Machine for the Web](https://github.com/leaningtech/webvm)
+## Afternoon/Evening Digest - 20-11-2024
+
+- [What is the origin of the lake tank image that has become a meme? (2021)](https://history.stackexchange.com/questions/57033/what-is-the-origin-of-the-lake-tank-image-that-has-become-a-meme)
+- [AAA – Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
+- [Show HN: Unbug – Rust macros for programmatically invoking breakpoints](https://github.com/greymattergames/unbug)
