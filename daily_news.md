@@ -4025,3 +4025,8 @@
 - [Show HN: Rust library for numerical integration of real-valued functions](https://github.com/mtantaoui/Integrate)
 - [OpenStreetMap's New Vector Tiles](https://tech.marksblogg.com/osm-mvt-vector-tiles.html)
 - [Show HN: Embed an SQLite database in your PostgreSQL table](https://github.com/frectonz/pglite-fusion)
+## Morning Digest - 20-11-2024
+
+- [Tiny Glade 'built' its way to >600k sold in a month](https://newsletter.gamediscover.co/p/how-tiny-glade-built-its-way-to-600k)
+- [Let's Encrypt is 10 years old now](https://letsencrypt.org/2014/11/18/announcing-lets-encrypt/)
+- [Webvm: Virtual Machine for the Web](https://github.com/leaningtech/webvm)
