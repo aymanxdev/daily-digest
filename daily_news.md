@@ -4040,3 +4040,8 @@
 - [Hyrum's Law in Golang](https://abenezer.org/blog/hyrum-law-in-golang)
 - [Everyone is capable of, and can benefit from, mathematical thinking](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
 - [Niantic announces “Large Geospatial Model” trained on Pokémon Go player data](https://nianticlabs.com/news/largegeospatialmodel)
+## Afternoon/Evening Digest - 21-11-2024
+
+- [The Rectangular Cows of UK Art (2018)](https://artuk.org/discover/stories/the-rectangular-cows-of-art-uk)
+- [The meme-ification of the "Demon Core"](https://doomsdaymachines.net/p/the-meme-ification-of-the-demon-core)
+- [Show HN: Bike route planner that follows almost only official bike trails](https://trailimap.com/)
