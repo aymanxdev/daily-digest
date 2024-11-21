@@ -4035,3 +4035,8 @@
 - [What is the origin of the lake tank image that has become a meme? (2021)](https://history.stackexchange.com/questions/57033/what-is-the-origin-of-the-lake-tank-image-that-has-become-a-meme)
 - [AAA – Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
 - [Show HN: Unbug – Rust macros for programmatically invoking breakpoints](https://github.com/greymattergames/unbug)
+## Morning Digest - 21-11-2024
+
+- [Hyrum's Law in Golang](https://abenezer.org/blog/hyrum-law-in-golang)
+- [Everyone is capable of, and can benefit from, mathematical thinking](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
+- [Niantic announces “Large Geospatial Model” trained on Pokémon Go player data](https://nianticlabs.com/news/largegeospatialmodel)
