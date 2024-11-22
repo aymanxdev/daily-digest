@@ -4045,3 +4045,8 @@
 - [The Rectangular Cows of UK Art (2018)](https://artuk.org/discover/stories/the-rectangular-cows-of-art-uk)
 - [The meme-ification of the "Demon Core"](https://doomsdaymachines.net/p/the-meme-ification-of-the-demon-core)
 - [Show HN: Bike route planner that follows almost only official bike trails](https://trailimap.com/)
+## Morning Digest - 22-11-2024
+
+- [Story of the two thousand stolen Playdate handhelds](https://podcast.play.date/episodes/s01e31/)
+- [Show HN: Llama 3.2 Interpretability with Sparse Autoencoders](https://github.com/PaulPauls/llama3_interpretability_sae)
+- [Autoflow, a Graph RAG based and conversational knowledge base tool](https://github.com/pingcap/autoflow)
