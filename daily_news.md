@@ -4050,3 +4050,8 @@
 - [Story of the two thousand stolen Playdate handhelds](https://podcast.play.date/episodes/s01e31/)
 - [Show HN: Llama 3.2 Interpretability with Sparse Autoencoders](https://github.com/PaulPauls/llama3_interpretability_sae)
 - [Autoflow, a Graph RAG based and conversational knowledge base tool](https://github.com/pingcap/autoflow)
+## Afternoon/Evening Digest - 22-11-2024
+
+- [Show HN: A Marble Madness-inspired WebGL game we built for Netlify](https://5-million-devs.netlify.com/)
+- [Show HN: Rebels in the sky – Terminal game about space pirates](https://github.com/ricott1/rebels-in-the-sky)
+- [FaSTer: Atari ST Digital Magazine](https://www.goto10retro.com/p/faster-atari-st-digital-magazine)
