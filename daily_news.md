@@ -4060,3 +4060,8 @@
 - [My new POWER Indigo 2](https://thejpster.org.uk/blog/blog-2024-11-22/)
 - ['Thirsty' ChatGPT uses four times more water than previously thought](https://www.thetimes.com/uk/technology-uk/article/thirsty-chatgpt-uses-four-times-more-water-than-previously-thought-bc0pqswdr)
 - [Phased Array Microphone (2023)](https://benwang.dev/2023/02/26/Phased-Array-Microphone.html)
+## Afternoon/Evening Digest - 23-11-2024
+
+- [Highest-resolution images ever captured of the sun’s entire surface](https://www.smithsonianmag.com/smart-news/check-out-the-highest-resolution-images-ever-captured-of-the-suns-entire-surface-180985518/)
+- [OpenMPTCProuter: Aggregate and encrypt multiple internet connections using MPTCP](https://www.openmptcprouter.com/)
+- [Using GPS in the Year 1565](https://www.verbeeld.be/2024/11/17/using-gps-in-the-year-1565/)
