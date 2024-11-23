@@ -4055,3 +4055,8 @@
 - [Show HN: A Marble Madness-inspired WebGL game we built for Netlify](https://5-million-devs.netlify.com/)
 - [Show HN: Rebels in the sky – Terminal game about space pirates](https://github.com/ricott1/rebels-in-the-sky)
 - [FaSTer: Atari ST Digital Magazine](https://www.goto10retro.com/p/faster-atari-st-digital-magazine)
+## Morning Digest - 23-11-2024
+
+- [My new POWER Indigo 2](https://thejpster.org.uk/blog/blog-2024-11-22/)
+- ['Thirsty' ChatGPT uses four times more water than previously thought](https://www.thetimes.com/uk/technology-uk/article/thirsty-chatgpt-uses-four-times-more-water-than-previously-thought-bc0pqswdr)
+- [Phased Array Microphone (2023)](https://benwang.dev/2023/02/26/Phased-Array-Microphone.html)
