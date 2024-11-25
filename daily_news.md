@@ -4080,3 +4080,8 @@
 - [How I configure my Git identities](https://www.benji.dog/articles/git-config/)
 - [RFC 35140: HTTP Do-Not-Stab (2023)](https://www.5snb.club/posts/2023/do-not-stab/)
 - [Starlink Direct to Cell](https://www.starlink.com/business/direct-to-cell)
+## Afternoon/Evening Digest - 25-11-2024
+
+- [Computing with Time: Microarchitectural Weird Machines](https://cacm.acm.org/research-highlights/computing-with-time-microarchitectural-weird-machines/)
+- [Noise-Canceling Single-Layer Woven Silk and Cotton Fabric](https://onlinelibrary.wiley.com/doi/10.1002/adma.202313328)
+- [Show HN: Trilogy – A Reusable, Composable SQL Experiment](https://trilogydata.dev/demo)
