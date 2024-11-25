@@ -4075,3 +4075,8 @@
 - [Frosted Glass from Games to the Web: HTML glass UI inspired by AAA game dev](https://www.tyleo.com/html-glass.html)
 - [Evidence of oldest known alphabetic writing unearthed in ancient Syrian city](https://hub.jhu.edu/2024/11/21/ancient-alphabet-discovered-syria/)
 - [Bocker: Docker implemented in around 100 lines of Bash (2015)](https://github.com/p8952/bocker)
+## Morning Digest - 25-11-2024
+
+- [How I configure my Git identities](https://www.benji.dog/articles/git-config/)
+- [RFC 35140: HTTP Do-Not-Stab (2023)](https://www.5snb.club/posts/2023/do-not-stab/)
+- [Starlink Direct to Cell](https://www.starlink.com/business/direct-to-cell)
