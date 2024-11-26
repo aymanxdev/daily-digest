@@ -4085,3 +4085,8 @@
 - [Computing with Time: Microarchitectural Weird Machines](https://cacm.acm.org/research-highlights/computing-with-time-microarchitectural-weird-machines/)
 - [Noise-Canceling Single-Layer Woven Silk and Cotton Fabric](https://onlinelibrary.wiley.com/doi/10.1002/adma.202313328)
 - [Show HN: Trilogy – A Reusable, Composable SQL Experiment](https://trilogydata.dev/demo)
+## Morning Digest - 26-11-2024
+
+- [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
+- [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
+- [Cybertruck's Many Recalls Make It Worse Than 91 Percent of All 2024 Vehicles](https://www.wired.com/story/cybertrucks-many-recalls-make-it-worse-than-91-percent-of-all-2024-vehicles/)
