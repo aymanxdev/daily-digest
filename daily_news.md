@@ -4090,3 +4090,8 @@
 - [Lies we tell ourselves to keep using Golang](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang)
 - [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 - [Cybertruck's Many Recalls Make It Worse Than 91 Percent of All 2024 Vehicles](https://www.wired.com/story/cybertrucks-many-recalls-make-it-worse-than-91-percent-of-all-2024-vehicles/)
+## Afternoon/Evening Digest - 26-11-2024
+
+- [The Crime Messenger](https://www.cbc.ca/newsinteractives/features/the-crime-messenger)
+- [Show HN: SQLite Plugin for Jekyll](https://github.com/captn3m0/jekyll-sqlite)
+- [Henry James and H.G. Wells (1958)](https://www.bopsecrets.org/rexroth/essays/james-wells.htm)
