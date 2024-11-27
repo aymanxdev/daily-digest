@@ -4095,3 +4095,8 @@
 - [The Crime Messenger](https://www.cbc.ca/newsinteractives/features/the-crime-messenger)
 - [Show HN: SQLite Plugin for Jekyll](https://github.com/captn3m0/jekyll-sqlite)
 - [Henry James and H.G. Wells (1958)](https://www.bopsecrets.org/rexroth/essays/james-wells.htm)
+## Morning Digest - 27-11-2024
+
+- [The capacitor that Apple soldered incorrectly at the factory](https://www.downtowndougbrown.com/2024/11/the-capacitor-that-apple-soldered-incorrectly-at-the-factory/)
+- [Show HN: App that asks 'why?' every time you unlock your phone](https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US)
+- [Hacker in Snowflake extortions may be a U.S. soldier](https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/)
