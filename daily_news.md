@@ -4105,3 +4105,8 @@
 - [Show HN: App that asks ‘why?’ every time you unlock your phone](https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US)
 - [Emacs Arbitrary Code Execution and How to Avoid It](https://eshelyaron.com/posts/2024-11-27-emacs-aritrary-code-execution-and-how-to-avoid-it.html)
 - [Ancient Sumerians Created the First Writing System](https://lithub.com/how-the-ancient-sumerians-created-the-worlds-first-writing-system/)
+## Morning Digest - 28-11-2024
+
+- [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out)
+- [Conversational Game Theory](https://aikiwiki.com/)
+- [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
