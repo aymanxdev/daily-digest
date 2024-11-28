@@ -4110,3 +4110,8 @@
 - [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out)
 - [Conversational Game Theory](https://aikiwiki.com/)
 - [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
+## Afternoon/Evening Digest - 28-11-2024
+
+- [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out)
+- [Show HN: myphotos.site – Google photos to a website in 60 seconds](https://www.myphotos.site)
+- [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
