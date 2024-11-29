@@ -4115,3 +4115,8 @@
 - [Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230](https://github.com/xairy/lights-out)
 - [Show HN: myphotos.site – Google photos to a website in 60 seconds](https://www.myphotos.site)
 - [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
+## Morning Digest - 29-11-2024
+
+- [How much memory do you need in 2024 to run 1M concurrent tasks?](https://hez2010.github.io/async-runtimes-benchmarks-2024/)
+- [Send someone you appreciate an official 'Continue and Persist' Letter](https://ContinueAndPersist.org)
+- [BYD launches sodium-ion grid-scale BESS product](https://www.energy-storage.news/byd-launches-sodium-ion-grid-scale-bess-product/)
