@@ -4120,3 +4120,8 @@
 - [How much memory do you need in 2024 to run 1M concurrent tasks?](https://hez2010.github.io/async-runtimes-benchmarks-2024/)
 - [Send someone you appreciate an official 'Continue and Persist' Letter](https://ContinueAndPersist.org)
 - [BYD launches sodium-ion grid-scale BESS product](https://www.energy-storage.news/byd-launches-sodium-ion-grid-scale-bess-product/)
+## Afternoon/Evening Digest - 29-11-2024
+
+- [Send someone you appreciate an official 'Continue and Persist' Letter](https://ContinueAndPersist.org)
+- [Borgo Programming Language](https://borgo-lang.github.io/)
+- [Engineers do not get to make startup mistakes when they build ledgers](https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup)
