@@ -4130,3 +4130,8 @@
 - [Geometric line-art of Wacław Szpakowski (2017)](https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/)
 - [Engineering Sleep](https://minjunes.ai/posts/sleep/index.html)
 - [Nodezator is a generalist Python node editor](https://github.com/IndiePython/nodezator)
+## Afternoon/Evening Digest - 30-11-2024
+
+- [Make the Most Of Your Burl](https://www.cindydrozda.com/html/Video_Pages/VideoMostOfBurl.html)
+- [Geometric line-art of Wacław Szpakowski (2017)](https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/)
+- [Engineering Sleep](https://minjunes.ai/posts/sleep/index.html)
