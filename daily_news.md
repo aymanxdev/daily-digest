@@ -4125,3 +4125,8 @@
 - [Send someone you appreciate an official 'Continue and Persist' Letter](https://ContinueAndPersist.org)
 - [Borgo Programming Language](https://borgo-lang.github.io/)
 - [Engineers do not get to make startup mistakes when they build ledgers](https://news.alvaroduran.com/p/engineers-do-not-get-to-make-startup)
+## Morning Digest - 30-11-2024
+
+- [Geometric line-art of Wacław Szpakowski (2017)](https://www.theparisreview.org/blog/2017/02/15/rhythmical-lines/)
+- [Engineering Sleep](https://minjunes.ai/posts/sleep/index.html)
+- [Nodezator is a generalist Python node editor](https://github.com/IndiePython/nodezator)
