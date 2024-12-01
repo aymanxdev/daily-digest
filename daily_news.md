@@ -4140,3 +4140,8 @@
 - [DynaSaur: Large Language Agents Beyond Predefined Actions](https://arxiv.org/abs/2411.01747)
 - [Map UI – Ghost in the Shell](https://ilikeinterfaces.com/2015/03/09/map-ui-ghost-in-the-shell/)
 - [Ntfs2btrfs does in-place conversion of NTFS filesystem to the open-source Btrfs](https://github.com/maharmstone/ntfs2btrfs)
+## Afternoon/Evening Digest - 01-12-2024
+
+- [Advent of Code 2024](https://adventofcode.com/2024/about)
+- [Handwriting but not typewriting leads to widespread connectivity in brain](https://www.openread.academy/paper/reading?corpusId=null)
+- [Advent of No-Code 2024](https://www.adventofnocode.io/)
