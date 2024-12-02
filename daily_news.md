@@ -4145,3 +4145,8 @@
 - [Advent of Code 2024](https://adventofcode.com/2024/about)
 - [Handwriting but not typewriting leads to widespread connectivity in brain](https://www.openread.academy/paper/reading?corpusId=null)
 - [Advent of No-Code 2024](https://www.adventofnocode.io/)
+## Morning Digest - 02-12-2024
+
+- [Vesuvius Challenge: First letters found in new scroll](https://scrollprize.substack.com/p/first-letters-found-in-new-scroll)
+- [Bicameral, Not Homoiconic](https://parentheticallyspeaking.org/articles/bicameral-not-homoiconic/)
+- [Rails is better low code than low code](https://radanskoric.com/articles/rails-is-better-low-code-than-low-code)
