@@ -4150,3 +4150,8 @@
 - [Vesuvius Challenge: First letters found in new scroll](https://scrollprize.substack.com/p/first-letters-found-in-new-scroll)
 - [Bicameral, Not Homoiconic](https://parentheticallyspeaking.org/articles/bicameral-not-homoiconic/)
 - [Rails is better low code than low code](https://radanskoric.com/articles/rails-is-better-low-code-than-low-code)
+## Afternoon/Evening Digest - 02-12-2024
+
+- [Intel Announces Retirement of CEO Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html)
+- [Kenya and "The Decline of the Greatest Coffee" (2021)](https://christopherferan.com/2021/12/25/kenya-and-the-decline-of-the-worlds-greatest-coffee/)
+- [KlongPy: High-Performance Array Programming in Python](https://github.com/briangu/klongpy)
