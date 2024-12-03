@@ -4160,3 +4160,8 @@
 - [Raspberry Pi boosts Pi 5 performance with SDRAM tuning](https://www.jeffgeerling.com/blog/2024/raspberry-pi-boosts-pi-5-performance-sdram-tuning)
 - [Y Combinator and Power in Silicon Valley](https://commoncog.com/c/cases/y-combinator-power/)
 - [Lessons I learned working at an art gallery](https://www.henrikkarlsson.xyz/p/art-gallery)
+## Afternoon/Evening Digest - 03-12-2024
+
+- [Tweaking Stunt Island's 30-year-old 3D Engine](https://annali.netlify.app/2024/11/20/tweaking-stunt-island)
+- [Thoughts on DuckDB's Crazy Grammar Thing](https://buttondown.com/jaffray/archive/thoughts-on-duckdbs-crazy-grammar-thing/)
+- [Kagi Search API](https://help.kagi.com/kagi/api/search.html)
