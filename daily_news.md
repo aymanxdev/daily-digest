@@ -4155,3 +4155,8 @@
 - [Intel Announces Retirement of CEO Pat Gelsinger](https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html)
 - [Kenya and "The Decline of the Greatest Coffee" (2021)](https://christopherferan.com/2021/12/25/kenya-and-the-decline-of-the-worlds-greatest-coffee/)
 - [KlongPy: High-Performance Array Programming in Python](https://github.com/briangu/klongpy)
+## Morning Digest - 03-12-2024
+
+- [Raspberry Pi boosts Pi 5 performance with SDRAM tuning](https://www.jeffgeerling.com/blog/2024/raspberry-pi-boosts-pi-5-performance-sdram-tuning)
+- [Y Combinator and Power in Silicon Valley](https://commoncog.com/c/cases/y-combinator-power/)
+- [Lessons I learned working at an art gallery](https://www.henrikkarlsson.xyz/p/art-gallery)
