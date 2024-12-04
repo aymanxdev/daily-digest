@@ -4165,3 +4165,8 @@
 - [Tweaking Stunt Island's 30-year-old 3D Engine](https://annali.netlify.app/2024/11/20/tweaking-stunt-island)
 - [Thoughts on DuckDB's Crazy Grammar Thing](https://buttondown.com/jaffray/archive/thoughts-on-duckdbs-crazy-grammar-thing/)
 - [Kagi Search API](https://help.kagi.com/kagi/api/search.html)
+## Morning Digest - 04-12-2024
+
+- [IMG_0001](https://walzr.com/IMG_0001/)
+- [OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe](https://www.openttd.org/)
+- [A particle physics course for high-school students](https://ppc.web.cern.ch/)
