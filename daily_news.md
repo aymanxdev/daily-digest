@@ -4170,3 +4170,8 @@
 - [IMG_0001](https://walzr.com/IMG_0001/)
 - [OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe](https://www.openttd.org/)
 - [A particle physics course for high-school students](https://ppc.web.cern.ch/)
+## Afternoon/Evening Digest - 04-12-2024
+
+- [Nearly half of teenagers globally cannot read with comprehension](https://ourworldindata.org/data-insights/nearly-half-of-teenagers-globally-cannot-read-with-comprehension)
+- [IMG_0001](https://walzr.com/IMG_0001/)
+- [How to grow professional relationships](https://tej.as/blog/how-to-grow-professional-relationships-tjs-model)
