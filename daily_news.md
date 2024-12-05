@@ -4180,3 +4180,8 @@
 - [Diátaxis – A systematic approach to technical documentation authoring](https://diataxis.fr/)
 - [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
 - [Bringing K/V context quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
+## Afternoon/Evening Digest - 05-12-2024
+
+- [Diátaxis – A systematic approach to technical documentation authoring](https://diataxis.fr/)
+- [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
+- [They don't make them like that any more: the Yamaha DX7 keyboard](https://kevinboone.me/dx7.html)
