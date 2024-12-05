@@ -4175,3 +4175,8 @@
 - [Nearly half of teenagers globally cannot read with comprehension](https://ourworldindata.org/data-insights/nearly-half-of-teenagers-globally-cannot-read-with-comprehension)
 - [IMG_0001](https://walzr.com/IMG_0001/)
 - [How to grow professional relationships](https://tej.as/blog/how-to-grow-professional-relationships-tjs-model)
+## Morning Digest - 05-12-2024
+
+- [Diátaxis – A systematic approach to technical documentation authoring](https://diataxis.fr/)
+- [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
+- [Bringing K/V context quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
