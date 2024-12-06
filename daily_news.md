@@ -4190,3 +4190,8 @@
 - [Trailbase: Fast, single-file, open-source app server built using Rust and SQLite](https://github.com/trailbaseio/trailbase)
 - [The correct amount of ads is zero](https://manuelmoreale.com/the-correct-amount-of-ads-is-zero)
 - [Portland airport grows with expansive mass timber roof canopy](https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/)
+## Afternoon/Evening Digest - 06-12-2024
+
+- [Show HN: Hacker Herald – like HN but with crowdsourced pics and subtitles](https://hackerherald.com/)
+- [Show HN: Prompt Engine – Auto pick LLMs based on your prompts](https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-moa-outperform-any-single-llm-and-reduce-cost-with-prompt-engine)
+- [Trailbase: Fast, single-file, open-source app server built using Rust and SQLite](https://github.com/trailbaseio/trailbase)
