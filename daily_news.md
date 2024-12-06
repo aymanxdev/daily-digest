@@ -4185,3 +4185,8 @@
 - [Diátaxis – A systematic approach to technical documentation authoring](https://diataxis.fr/)
 - [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
 - [They don't make them like that any more: the Yamaha DX7 keyboard](https://kevinboone.me/dx7.html)
+## Morning Digest - 06-12-2024
+
+- [Trailbase: Fast, single-file, open-source app server built using Rust and SQLite](https://github.com/trailbaseio/trailbase)
+- [The correct amount of ads is zero](https://manuelmoreale.com/the-correct-amount-of-ads-is-zero)
+- [Portland airport grows with expansive mass timber roof canopy](https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/)
