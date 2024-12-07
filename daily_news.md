@@ -4195,3 +4195,8 @@
 - [Show HN: Hacker Herald – like HN but with crowdsourced pics and subtitles](https://hackerherald.com/)
 - [Show HN: Prompt Engine – Auto pick LLMs based on your prompts](https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-moa-outperform-any-single-llm-and-reduce-cost-with-prompt-engine)
 - [Trailbase: Fast, single-file, open-source app server built using Rust and SQLite](https://github.com/trailbaseio/trailbase)
+## Morning Digest - 07-12-2024
+
+- [Postgres for everything (e/Postgres)](https://github.com/Olshansk/postgres_for_everything)
+- [Every V4 UUID](https://everyuuid.com/)
+- [The Curse of Recursion: Training on generated data makes models forget (2023)](https://arxiv.org/abs/2305.17493)
