@@ -4200,3 +4200,8 @@
 - [Postgres for everything (e/Postgres)](https://github.com/Olshansk/postgres_for_everything)
 - [Every V4 UUID](https://everyuuid.com/)
 - [The Curse of Recursion: Training on generated data makes models forget (2023)](https://arxiv.org/abs/2305.17493)
+## Afternoon/Evening Digest - 07-12-2024
+
+- [I algorithmically donated $5000 to Open Source](https://kvinogradov.com/algo-sponsors/)
+- [Show HN: Countless.dev – A website to compare every AI model: LLMs, TTSs, STTs](https://countless.dev/)
+- [Every V4 UUID](https://everyuuid.com/)
