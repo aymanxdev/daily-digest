@@ -4210,3 +4210,8 @@
 - [Nyxt: The Hacker's Browser](https://nyxt.atlas.engineer/)
 - [Reverse engineering the Sega Channel game image file format](https://www.infochunk.com/schannel/index.html)
 - [Just: Just a Command Runner](https://just.systems/)
+## Afternoon/Evening Digest - 08-12-2024
+
+- [Insects rely on sounds made by distressed vegetation to guide reproduction](https://www.nytimes.com/2024/12/06/science/moths-hearing-plant-sounds.html)
+- [GW-BASIC User's Guide (1987)](http://www.antonis.de/qbebooks/gwbasman/)
+- [Show HN: Cut the crap – remove the AI bullshit from websites](https://cut-the-crab.streamlit.app/)
