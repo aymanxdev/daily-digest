@@ -4205,3 +4205,8 @@
 - [I algorithmically donated $5000 to Open Source](https://kvinogradov.com/algo-sponsors/)
 - [Show HN: Countless.dev – A website to compare every AI model: LLMs, TTSs, STTs](https://countless.dev/)
 - [Every V4 UUID](https://everyuuid.com/)
+## Morning Digest - 08-12-2024
+
+- [Nyxt: The Hacker's Browser](https://nyxt.atlas.engineer/)
+- [Reverse engineering the Sega Channel game image file format](https://www.infochunk.com/schannel/index.html)
+- [Just: Just a Command Runner](https://just.systems/)
