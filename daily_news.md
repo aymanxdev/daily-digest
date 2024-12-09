@@ -4215,3 +4215,8 @@
 - [Insects rely on sounds made by distressed vegetation to guide reproduction](https://www.nytimes.com/2024/12/06/science/moths-hearing-plant-sounds.html)
 - [GW-BASIC User's Guide (1987)](http://www.antonis.de/qbebooks/gwbasman/)
 - [Show HN: Cut the crap – remove the AI bullshit from websites](https://cut-the-crab.streamlit.app/)
+## Morning Digest - 09-12-2024
+
+- [Compromising OpenWrt Supply Chain](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
+- [Itch.io Taken Down by Funko](https://bsky.app/profile/itch.io/post/3lcu6h465bs2n)
+- [Efficient Track Anything](https://yformer.github.io/efficient-track-anything/)
