@@ -4220,3 +4220,8 @@
 - [Compromising OpenWrt Supply Chain](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
 - [Itch.io Taken Down by Funko](https://bsky.app/profile/itch.io/post/3lcu6h465bs2n)
 - [Efficient Track Anything](https://yformer.github.io/efficient-track-anything/)
+## Afternoon/Evening Digest - 09-12-2024
+
+- [Himalaya: CLI to Manage Emails](https://github.com/pimalaya/himalaya)
+- [Starlark Programming Language](https://starlark-lang.org/)
+- [The Theory and Technique of Electronic Music (2006)](https://msp.ucsd.edu/techniques.htm)
