@@ -4225,3 +4225,8 @@
 - [Himalaya: CLI to Manage Emails](https://github.com/pimalaya/himalaya)
 - [Starlark Programming Language](https://starlark-lang.org/)
 - [The Theory and Technique of Electronic Music (2006)](https://msp.ucsd.edu/techniques.htm)
+## Morning Digest - 10-12-2024
+
+- [Tree Calculus](https://treecalcul.us/)
+- [Willow, Our Quantum Chip](https://blog.google/technology/research/google-willow-quantum-chip/)
+- [Sora is here](https://openai.com/index/sora-is-here/)
