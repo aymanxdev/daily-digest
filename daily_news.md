@@ -4230,3 +4230,8 @@
 - [Tree Calculus](https://treecalcul.us/)
 - [Willow, Our Quantum Chip](https://blog.google/technology/research/google-willow-quantum-chip/)
 - [Sora is here](https://openai.com/index/sora-is-here/)
+## Morning Digest - 11-12-2024
+
+- [From where I left](https://antirez.com/news/144)
+- [The Google Willow Thing](https://scottaaronson.blog/?p=8525)
+- [GM exits robotaxi market, will bring Cruise operations in house](https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html)
