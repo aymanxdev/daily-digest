@@ -4235,3 +4235,8 @@
 - [From where I left](https://antirez.com/news/144)
 - [The Google Willow Thing](https://scottaaronson.blog/?p=8525)
 - [GM exits robotaxi market, will bring Cruise operations in house](https://www.cnbc.com/2024/12/10/gm-halts-funding-of-robotaxi-development-by-cruise.html)
+## Afternoon/Evening Digest - 11-12-2024
+
+- [Making memcpy(NULL, NULL, 0) well-defined](https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined)
+- [Bi-elliptic transfer orbit maneuver](https://www.johndcook.com/blog/2024/12/03/bi-elliptic-transfer/)
+- [Helium: Lighter Web Automation with Python](https://github.com/mherrmann/helium)
