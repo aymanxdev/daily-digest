@@ -4240,3 +4240,8 @@
 - [Making memcpy(NULL, NULL, 0) well-defined](https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined)
 - [Bi-elliptic transfer orbit maneuver](https://www.johndcook.com/blog/2024/12/03/bi-elliptic-transfer/)
 - [Helium: Lighter Web Automation with Python](https://github.com/mherrmann/helium)
+## Morning Digest - 12-12-2024
+
+- [A ChatGPT clone, in 3000 bytes of C, backed by GPT-2 (2023)](https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html)
+- [FCC opens entire 6 GHz band to low power device operations](https://docs.fcc.gov/public/attachments/DOC-408129A1.txt)
+- [Run Database in GitHub Actions, Persisting Data to S3, and Access It Publicly](https://wesql.io/blog/use-github-actions-as-database)
