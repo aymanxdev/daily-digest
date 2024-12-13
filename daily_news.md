@@ -4250,3 +4250,8 @@
 - [Gukesh becomes the youngest chess world champion in history](https://lichess.org/@/Lichess/blog/wcc-2024-round-14-gukesh-becomes-the-youngest-world-champion-in-history/cDggdNZw)
 - [Timemap.org – Interactive Map of History](https://www.oldmapsonline.org/en/history/regions)
 - [Fermat's Last Theorem – how it's going](https://xenaproject.wordpress.com/2024/12/11/fermats-last-theorem-how-its-going/)
+## Morning Digest - 13-12-2024
+
+- [Show HN: I designed an espresso machine and coffee grinder](https://velofuso.com)
+- [A new video captures a 1968 demo of IBM’s Executive Terminal](https://spectrum.ieee.org/ibm-demo)
+- [The age of average (2023)](https://www.alexmurrell.co.uk/articles/the-age-of-average)
