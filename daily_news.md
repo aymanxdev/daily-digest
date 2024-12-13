@@ -4255,3 +4255,8 @@
 - [Show HN: I designed an espresso machine and coffee grinder](https://velofuso.com)
 - [A new video captures a 1968 demo of IBM’s Executive Terminal](https://spectrum.ieee.org/ibm-demo)
 - [The age of average (2023)](https://www.alexmurrell.co.uk/articles/the-age-of-average)
+## Afternoon/Evening Digest - 13-12-2024
+
+- [Noninvasive imaging method can penetrate deeper into living tissue](https://news.mit.edu/2024/noninvasive-imaging-method-can-penetrate-deeper-living-tissue-1211)
+- [Show HN: I designed an espresso machine and coffee grinder](https://velofuso.com)
+- [A new video captures a 1968 demo of IBM’s Executive Terminal](https://spectrum.ieee.org/ibm-demo)
