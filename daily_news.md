@@ -4260,3 +4260,8 @@
 - [Noninvasive imaging method can penetrate deeper into living tissue](https://news.mit.edu/2024/noninvasive-imaging-method-can-penetrate-deeper-living-tissue-1211)
 - [Show HN: I designed an espresso machine and coffee grinder](https://velofuso.com)
 - [A new video captures a 1968 demo of IBM’s Executive Terminal](https://spectrum.ieee.org/ibm-demo)
+## Morning Digest - 14-12-2024
+
+- [macOS 15.2 breaks the ability to copy the OS to another drive](https://www.shirtpocket.com/blog/index.php/shadedgrey/youre_a_mean_one/)
+- [Byte Latent Transformer: Patches Scale Better Than Tokens](https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/?_fb_noscript=1)
+- [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/?_fb_noscript=1)
