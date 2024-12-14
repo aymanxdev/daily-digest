@@ -4265,3 +4265,8 @@
 - [macOS 15.2 breaks the ability to copy the OS to another drive](https://www.shirtpocket.com/blog/index.php/shadedgrey/youre_a_mean_one/)
 - [Byte Latent Transformer: Patches Scale Better Than Tokens](https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/?_fb_noscript=1)
 - [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-updates-agents-robustness-safety-architecture/?_fb_noscript=1)
+## Afternoon/Evening Digest - 14-12-2024
+
+- [Show HN: Svader – Create GPU-rendered Svelte components](https://github.com/sockmaster27/svader)
+- [Racing's Deadliest Day: How the 1955 Le Mans Disaster Changed Motorsport Forever](https://www.essesmag.com/articles/racings-deadliest-day)
+- [I made a free Figma library packed with components for fast prototyping](https://veryfront.com/figma-kit)
