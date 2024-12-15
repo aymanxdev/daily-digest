@@ -4270,3 +4270,8 @@
 - [Show HN: Svader – Create GPU-rendered Svelte components](https://github.com/sockmaster27/svader)
 - [Racing's Deadliest Day: How the 1955 Le Mans Disaster Changed Motorsport Forever](https://www.essesmag.com/articles/racings-deadliest-day)
 - [I made a free Figma library packed with components for fast prototyping](https://veryfront.com/figma-kit)
+## Morning Digest - 15-12-2024
+
+- [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/)
+- [Tenstorrent and the State of AI Hardware Startups](https://irrationalanalysis.substack.com/p/tenstorrent-and-the-state-of-ai-hardware)
+- [When a Crystal Ball Isn't Enough to Make You Rich – Elm Partners](https://elmwealth.com/crystal-ball/)
