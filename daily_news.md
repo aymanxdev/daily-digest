@@ -4285,3 +4285,8 @@
 - [OpenERV](https://www.openerv.ca)
 - [Map of GitHub](https://github.com/anvaka/map-of-github)
 - [Cyphernetes: A Query Language for Kubernetes](https://cyphernet.es/#)
+## Afternoon/Evening Digest - 16-12-2024
+
+- [Most iPhone owners see little to no value in Apple Intelligence so far](https://9to5mac.com/2024/12/16/most-iphone-owners-see-little-to-no-value-in-apple-intelligence-so-far/)
+- [OpenERV](https://www.openerv.ca)
+- [Nokia 5110 – Back from the Dead (2022)](https://opsbros.com/nokia-5110-back-from-the-dead/)
