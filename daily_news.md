@@ -4280,3 +4280,8 @@
 - [In-Depth Ruby Concurrency: Navigating the Ruby Concurrency Landscape](https://jpcamara.com/2024/12/14/my-rubyconf-talk.html)
 - [A visual proof that a^2 – b^2 = (a + b)(a – b)](https://www.futilitycloset.com/2024/12/15/tidy-2/)
 - [School smartphone ban results in better sleep and improved mood: study](https://www.york.ac.uk/news-and-events/news/2024/research/school-smartphone-ban-better-sleep/)
+## Morning Digest - 16-12-2024
+
+- [OpenERV](https://www.openerv.ca)
+- [Map of GitHub](https://github.com/anvaka/map-of-github)
+- [Cyphernetes: A Query Language for Kubernetes](https://cyphernet.es/#)
