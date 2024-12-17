@@ -4295,3 +4295,8 @@
 - [Running NetBSD on IBM ThinkPad 380Z](https://luke8086.dev/netbsd-on-thinkpad-380z.html)
 - [New LLM optimization technique slashes memory costs](https://venturebeat.com/ai/new-llm-optimization-technique-slashes-memory-costs-up-to-75/)
 - [Xiaomi Home Integration for Home Assistant](https://github.com/XiaoMi/ha_xiaomi_home)
+## Afternoon/Evening Digest - 17-12-2024
+
+- [Getting to Two Million Users as a One Woman Dev Team](https://brightonruby.com/2024/getting-to-2-million-users-as-a-one-woman-dev-team/)
+- [Crunch – a Scheme compiler with a minimal runtime](https://www.more-magic.net/posts/crunch.html)
+- [Droste’s Lair](https://vezwork.github.io/drostes-lair-post/)
