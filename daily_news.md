@@ -4290,3 +4290,8 @@
 - [Most iPhone owners see little to no value in Apple Intelligence so far](https://9to5mac.com/2024/12/16/most-iphone-owners-see-little-to-no-value-in-apple-intelligence-so-far/)
 - [OpenERV](https://www.openerv.ca)
 - [Nokia 5110 – Back from the Dead (2022)](https://opsbros.com/nokia-5110-back-from-the-dead/)
+## Morning Digest - 17-12-2024
+
+- [Running NetBSD on IBM ThinkPad 380Z](https://luke8086.dev/netbsd-on-thinkpad-380z.html)
+- [New LLM optimization technique slashes memory costs](https://venturebeat.com/ai/new-llm-optimization-technique-slashes-memory-costs-up-to-75/)
+- [Xiaomi Home Integration for Home Assistant](https://github.com/XiaoMi/ha_xiaomi_home)
