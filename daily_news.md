@@ -4305,3 +4305,8 @@
 - [Show HN: ImPlot3D – A 3D Plotting Library for Dear ImGui](https://github.com/brenocq/implot3d)
 - [Moon](https://ciechanow.ski/moon/)
 - [Lou's Pseudo 3D Page (2013)](http://www.extentofthejam.com/pseudo/)
+## Afternoon/Evening Digest - 18-12-2024
+
+- [Moon](https://ciechanow.ski/moon/)
+- [Trying to Recreate iOS on the Web](https://homescreen.app/)
+- [The unbearable slowness of being: Why do we live at 10 bits/s?](https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324008080%3Fshowall%3Dtrue)
