@@ -4300,3 +4300,8 @@
 - [Getting to Two Million Users as a One Woman Dev Team](https://brightonruby.com/2024/getting-to-2-million-users-as-a-one-woman-dev-team/)
 - [Crunch – a Scheme compiler with a minimal runtime](https://www.more-magic.net/posts/crunch.html)
 - [Droste’s Lair](https://vezwork.github.io/drostes-lair-post/)
+## Morning Digest - 18-12-2024
+
+- [Show HN: ImPlot3D – A 3D Plotting Library for Dear ImGui](https://github.com/brenocq/implot3d)
+- [Moon](https://ciechanow.ski/moon/)
+- [Lou's Pseudo 3D Page (2013)](http://www.extentofthejam.com/pseudo/)
