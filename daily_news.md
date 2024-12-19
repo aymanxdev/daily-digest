@@ -4315,3 +4315,8 @@
 - [Markov Keyboard: keyboard layout that changes by Markov frequency](https://github.com/shapr/markovkeyboard)
 - [Developing Developers (2015)](https://felleisen.org/matthias/Thoughts/Developing_Developers.html)
 - [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking)
+## Afternoon/Evening Digest - 19-12-2024
+
+- [How do you do, fellow web developers? A growing disconnect](https://rakhim.exotext.com/web-developers-a-growing-disconnect)
+- [Santa Prefers Wealthy Sick Children](https://taylor.town/santa-prefers)
+- [Kowloon Walled City: Heterotopia in a Space of Disappearance (2013)](https://mascontext.com/issues/trace/kowloon-walled-city-heterotopia-in-a-space-of-disappearance)
