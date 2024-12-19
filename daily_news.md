@@ -4310,3 +4310,8 @@
 - [Moon](https://ciechanow.ski/moon/)
 - [Trying to Recreate iOS on the Web](https://homescreen.app/)
 - [The unbearable slowness of being: Why do we live at 10 bits/s?](https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324008080%3Fshowall%3Dtrue)
+## Morning Digest - 19-12-2024
+
+- [Markov Keyboard: keyboard layout that changes by Markov frequency](https://github.com/shapr/markovkeyboard)
+- [Developing Developers (2015)](https://felleisen.org/matthias/Thoughts/Developing_Developers.html)
+- [Alignment faking in large language models](https://www.anthropic.com/research/alignment-faking)
