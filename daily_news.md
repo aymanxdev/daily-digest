@@ -4320,3 +4320,8 @@
 - [How do you do, fellow web developers? A growing disconnect](https://rakhim.exotext.com/web-developers-a-growing-disconnect)
 - [Santa Prefers Wealthy Sick Children](https://taylor.town/santa-prefers)
 - [Kowloon Walled City: Heterotopia in a Space of Disappearance (2013)](https://mascontext.com/issues/trace/kowloon-walled-city-heterotopia-in-a-space-of-disappearance)
+## Morning Digest - 20-12-2024
+
+- [My favourite colour is Chuck Norris red](https://htmhell.dev/adventcalendar/2024/20/)
+- [Tldraw Computer](https://computer.tldraw.com)
+- [Kelly Can't Fail](https://win-vector.com/2024/12/19/kelly-cant-fail/)
