@@ -4325,3 +4325,8 @@
 - [My favourite colour is Chuck Norris red](https://htmhell.dev/adventcalendar/2024/20/)
 - [Tldraw Computer](https://computer.tldraw.com)
 - [Kelly Can't Fail](https://win-vector.com/2024/12/19/kelly-cant-fail/)
+## Afternoon/Evening Digest - 20-12-2024
+
+- [My favourite colour is Chuck Norris red](https://htmhell.dev/adventcalendar/2024/20/)
+- [Tldraw Computer](https://computer.tldraw.com)
+- [Boardgame.io: an engine for creating turn-based games using JavaScript](https://github.com/boardgameio/boardgame.io)
