@@ -4330,3 +4330,8 @@
 - [My favourite colour is Chuck Norris red](https://htmhell.dev/adventcalendar/2024/20/)
 - [Tldraw Computer](https://computer.tldraw.com)
 - [Boardgame.io: an engine for creating turn-based games using JavaScript](https://github.com/boardgameio/boardgame.io)
+## Morning Digest - 21-12-2024
+
+- [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough)
+- [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
+- [The Ugly Truth About Spotify Is Finally Revealed](https://www.honest-broker.com/p/the-ugly-truth-about-spotify-is-finally)
