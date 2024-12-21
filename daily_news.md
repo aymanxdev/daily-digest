@@ -4335,3 +4335,8 @@
 - [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough)
 - [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
 - [The Ugly Truth About Spotify Is Finally Revealed](https://www.honest-broker.com/p/the-ugly-truth-about-spotify-is-finally)
+## Afternoon/Evening Digest - 21-12-2024
+
+- [Query Apple's FindMy Network with Python](https://github.com/malmeloo/FindMy.py)
+- [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough)
+- [Kannel: Open-Source WAP and SMS Gateway](https://www.kannel.org/overview.shtml)
