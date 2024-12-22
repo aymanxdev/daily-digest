@@ -4340,3 +4340,8 @@
 - [Query Apple's FindMy Network with Python](https://github.com/malmeloo/FindMy.py)
 - [OpenAI O3 breakthrough high score on ARC-AGI-PUB](https://arcprize.org/blog/oai-o3-pub-breakthrough)
 - [Kannel: Open-Source WAP and SMS Gateway](https://www.kannel.org/overview.shtml)
+## Morning Digest - 22-12-2024
+
+- [The essays of Michel de Montaigne online](https://hyperessays.net/)
+- [Slow deployment causes meetings (2015)](https://tidyfirst.substack.com/p/slow-deployment-causes-meetings)
+- [A data table thousands of years old (2020)](https://www.datafix.com.au/BASHing/2020-08-12.html)
