@@ -4345,3 +4345,8 @@
 - [The essays of Michel de Montaigne online](https://hyperessays.net/)
 - [Slow deployment causes meetings (2015)](https://tidyfirst.substack.com/p/slow-deployment-causes-meetings)
 - [A data table thousands of years old (2020)](https://www.datafix.com.au/BASHing/2020-08-12.html)
+## Afternoon/Evening Digest - 22-12-2024
+
+- [Feed readers which don't take "no" for an answer](https://rachelbythebay.com/w/2024/12/17/packets/)
+- [We use our own hardware at Fastmail](https://www.fastmail.com/blog/why-we-use-our-own-hardware/)
+- [The essays of Michel de Montaigne online](https://hyperessays.net/)
