@@ -4350,3 +4350,8 @@
 - [Feed readers which don't take "no" for an answer](https://rachelbythebay.com/w/2024/12/17/packets/)
 - [We use our own hardware at Fastmail](https://www.fastmail.com/blog/why-we-use-our-own-hardware/)
 - [The essays of Michel de Montaigne online](https://hyperessays.net/)
+## Morning Digest - 23-12-2024
+
+- [I built a platform for discovering and sharing Chrome extension collections](https://webextension.net/collections)
+- [Infinigen: Infinite Photorealistic Worlds Using Procedural Generation](https://github.com/princeton-vl/infinigen)
+- [Twtxt is a decentralised, minimalist microblogging service for hackers](https://twtxt.readthedocs.io/en/latest/index.html)
