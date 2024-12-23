@@ -4355,3 +4355,8 @@
 - [I built a platform for discovering and sharing Chrome extension collections](https://webextension.net/collections)
 - [Infinigen: Infinite Photorealistic Worlds Using Procedural Generation](https://github.com/princeton-vl/infinigen)
 - [Twtxt is a decentralised, minimalist microblogging service for hackers](https://twtxt.readthedocs.io/en/latest/index.html)
+## Afternoon/Evening Digest - 23-12-2024
+
+- [Xerox to acquire Lexmark](https://newsroom.lexmark.com/2024-12-23-Xerox-to-Acquire-Lexmark)
+- [The intricacies of implementing memoization in Ruby](https://denisdefreyne.com/articles/2024-memoization/)
+- [Happy 400th birthday to the world’s oldest bond](https://www.ft.com/content/5122706e-39ca-4bbc-95cc-373188a9b1c9)
