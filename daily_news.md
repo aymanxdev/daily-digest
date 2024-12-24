@@ -4360,3 +4360,8 @@
 - [Xerox to acquire Lexmark](https://newsroom.lexmark.com/2024-12-23-Xerox-to-Acquire-Lexmark)
 - [The intricacies of implementing memoization in Ruby](https://denisdefreyne.com/articles/2024-memoization/)
 - [Happy 400th birthday to the world’s oldest bond](https://www.ft.com/content/5122706e-39ca-4bbc-95cc-373188a9b1c9)
+## Morning Digest - 24-12-2024
+
+- [38th Chaos Communication Congress](https://events.ccc.de/congress/2024/infos/index.html)
+- [The number pi has an evil twin](https://mathstodon.xyz/@johncarlosbaez/113703444230936435)
+- [Making AMD GPUs competitive for LLM inference (2023)](https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference)
