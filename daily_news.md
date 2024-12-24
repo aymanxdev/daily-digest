@@ -4365,3 +4365,8 @@
 - [38th Chaos Communication Congress](https://events.ccc.de/congress/2024/infos/index.html)
 - [The number pi has an evil twin](https://mathstodon.xyz/@johncarlosbaez/113703444230936435)
 - [Making AMD GPUs competitive for LLM inference (2023)](https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference)
+## Afternoon/Evening Digest - 24-12-2024
+
+- [JavaScript Benchmarking Is a Mess](https://byteofdev.com/posts/javascript-benchmarking-mess/)
+- [Adversarial Policies Beat Superhuman Go AIs](https://arxiv.org/abs/2211.00241)
+- [The number pi has an evil twin](https://mathstodon.xyz/@johncarlosbaez/113703444230936435)
