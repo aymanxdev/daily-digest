@@ -4370,3 +4370,8 @@
 - [JavaScript Benchmarking Is a Mess](https://byteofdev.com/posts/javascript-benchmarking-mess/)
 - [Adversarial Policies Beat Superhuman Go AIs](https://arxiv.org/abs/2211.00241)
 - [The number pi has an evil twin](https://mathstodon.xyz/@johncarlosbaez/113703444230936435)
+## Afternoon/Evening Digest - 25-12-2024
+
+- [This open problem taught me what topology is [video]](https://www.youtube.com/watch?v=IQqtsm-bBRU)
+- [When power cycling your (x86) server isn't enough to recover it](https://utcc.utoronto.ca/~cks/space/blog/tech/ServerWhenPowerCycleNotEnough)
+- [Show HN: I made a website to semantically search ArXiv papers](https://papermatch.mitanshu.tech/)
