@@ -4375,3 +4375,8 @@
 - [This open problem taught me what topology is [video]](https://www.youtube.com/watch?v=IQqtsm-bBRU)
 - [When power cycling your (x86) server isn't enough to recover it](https://utcc.utoronto.ca/~cks/space/blog/tech/ServerWhenPowerCycleNotEnough)
 - [Show HN: I made a website to semantically search ArXiv papers](https://papermatch.mitanshu.tech/)
+## Morning Digest - 26-12-2024
+
+- [Blackcandy: Self hosted music streaming server](https://github.com/blackcandy-org/blackcandy)
+- [Egui – An immediate mode GUI written in Rust](https://www.egui.rs/)
+- [Cognitive load is what matters](https://minds.md/zakirullin/cognitive)
