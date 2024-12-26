@@ -4380,3 +4380,8 @@
 - [Blackcandy: Self hosted music streaming server](https://github.com/blackcandy-org/blackcandy)
 - [Egui – An immediate mode GUI written in Rust](https://www.egui.rs/)
 - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive)
+## Afternoon/Evening Digest - 26-12-2024
+
+- [Blackcandy: Self hosted music streaming server](https://github.com/blackcandy-org/blackcandy)
+- [Cognitive load is what matters](https://minds.md/zakirullin/cognitive)
+- [Unorm and SNORM to float, hardware edition](https://fgiesen.wordpress.com/2024/12/24/unorm-and-snorm-to-float-hardware-edition/)
