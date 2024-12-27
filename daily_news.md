@@ -4390,3 +4390,8 @@
 - [Quiver: A Modern Commutative Diagram Editor](https://github.com/varkor/quiver)
 - [Ghostty 1.0](https://ghostty.org/)
 - [Implementing SM-2 in Rust](https://borretti.me/article/implementing-sm2-in-rust)
+## Afternoon/Evening Digest - 27-12-2024
+
+- [Does current AI represent a dead end?](https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/)
+- [The new science of controlling lucid dreams](https://www.scientificamerican.com/article/engineering-lucid-dreams-could-improve-sleep-and-defuse-nightmares/)
+- [I send myself automated emails to practice Dutch](https://github.com/ThReinecke/dutch_vocabulary)
