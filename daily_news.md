@@ -4385,3 +4385,8 @@
 - [Blackcandy: Self hosted music streaming server](https://github.com/blackcandy-org/blackcandy)
 - [Cognitive load is what matters](https://minds.md/zakirullin/cognitive)
 - [Unorm and SNORM to float, hardware edition](https://fgiesen.wordpress.com/2024/12/24/unorm-and-snorm-to-float-hardware-edition/)
+## Morning Digest - 27-12-2024
+
+- [Quiver: A Modern Commutative Diagram Editor](https://github.com/varkor/quiver)
+- [Ghostty 1.0](https://ghostty.org/)
+- [Implementing SM-2 in Rust](https://borretti.me/article/implementing-sm2-in-rust)
