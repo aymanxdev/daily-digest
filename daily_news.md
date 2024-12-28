@@ -4400,3 +4400,8 @@
 - [Machine-Assisted Proof by Terence Tao [pdf]](https://www.ams.org/notices/202501/rnoti-p6.pdf)
 - [That's not an abstraction, that's a layer of indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
 - [Ada's dependent types, and its types as a whole](https://nytpu.com/gemlog/2024-12-27)
+## Afternoon/Evening Digest - 28-12-2024
+
+- [So You Want to Write Java in Neovim](https://ptrtojoel.dev/posts/so-you-want-to-write-java-in-neovim/)
+- [Where can you go in Europe by train in 8h?](https://www.chronotrains.com/en)
+- [That's not an abstraction, that's a layer of indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
