@@ -4395,3 +4395,8 @@
 - [Does current AI represent a dead end?](https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/)
 - [The new science of controlling lucid dreams](https://www.scientificamerican.com/article/engineering-lucid-dreams-could-improve-sleep-and-defuse-nightmares/)
 - [I send myself automated emails to practice Dutch](https://github.com/ThReinecke/dutch_vocabulary)
+## Morning Digest - 28-12-2024
+
+- [Machine-Assisted Proof by Terence Tao [pdf]](https://www.ams.org/notices/202501/rnoti-p6.pdf)
+- [That's not an abstraction, that's a layer of indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
+- [Ada's dependent types, and its types as a whole](https://nytpu.com/gemlog/2024-12-27)
