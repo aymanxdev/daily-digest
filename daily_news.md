@@ -4405,3 +4405,8 @@
 - [So You Want to Write Java in Neovim](https://ptrtojoel.dev/posts/so-you-want-to-write-java-in-neovim/)
 - [Where can you go in Europe by train in 8h?](https://www.chronotrains.com/en)
 - [That's not an abstraction, that's a layer of indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
+## Morning Digest - 29-12-2024
+
+- [38C3: Illegal Instructions](https://media.ccc.de/c/38c3)
+- [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+- [Apple Photos phones home on iOS 18 and macOS 15](https://lapcatsoftware.com/articles/2024/12/3.html)
