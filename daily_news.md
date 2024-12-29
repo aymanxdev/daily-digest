@@ -4410,3 +4410,8 @@
 - [38C3: Illegal Instructions](https://media.ccc.de/c/38c3)
 - [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 - [Apple Photos phones home on iOS 18 and macOS 15](https://lapcatsoftware.com/articles/2024/12/3.html)
+## Afternoon/Evening Digest - 29-12-2024
+
+- [38C3: Illegal Instructions](https://media.ccc.de/c/38c3)
+- [Apple Photos phones home on iOS 18 and macOS 15](https://lapcatsoftware.com/articles/2024/12/3.html)
+- [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
