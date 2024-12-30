@@ -4415,3 +4415,8 @@
 - [38C3: Illegal Instructions](https://media.ccc.de/c/38c3)
 - [Apple Photos phones home on iOS 18 and macOS 15](https://lapcatsoftware.com/articles/2024/12/3.html)
 - [WebGL Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+## Morning Digest - 30-12-2024
+
+- [From Pegasus to Predator – The evolution of commercial spyware on iOS [video]](https://media.ccc.de/v/38c3-from-pegasus-to-predator-the-evolution-of-commercial-spyware-on-ios)
+- [Pigment Mixing into Digital Painting](https://scrtwpns.com/mixbox/)
+- [KAG – Knowledge Graph RAG Framework](https://github.com/OpenSPG/KAG)
