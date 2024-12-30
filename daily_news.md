@@ -4420,3 +4420,8 @@
 - [From Pegasus to Predator – The evolution of commercial spyware on iOS [video]](https://media.ccc.de/v/38c3-from-pegasus-to-predator-the-evolution-of-commercial-spyware-on-ios)
 - [Pigment Mixing into Digital Painting](https://scrtwpns.com/mixbox/)
 - [KAG – Knowledge Graph RAG Framework](https://github.com/OpenSPG/KAG)
+## Afternoon/Evening Digest - 30-12-2024
+
+- [Curl-Impersonate](https://github.com/lexiforest/curl-impersonate)
+- [From Pegasus to Predator – The evolution of commercial spyware on iOS [video]](https://media.ccc.de/v/38c3-from-pegasus-to-predator-the-evolution-of-commercial-spyware-on-ios)
+- [MiceWine – run Windows applications and games on Android smartphones](https://github.com/KreitinnSoftware/MiceWine-Application)
