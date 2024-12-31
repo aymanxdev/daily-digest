@@ -4430,3 +4430,8 @@
 - [I keep turning my Google Sheets into phone-friendly webapps](https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/)
 - [Dog Aging Project](https://dogagingproject.org/)
 - [Coconut by Meta AI – Better LLM Reasoning with Chain of Continuous Thought?](https://aipapersacademy.com/chain-of-continuous-thought/)
+## Afternoon/Evening Digest - 31-12-2024
+
+- [How to monitor your local weather with Grafana](https://grafana.com/blog/2024/12/26/how-to-monitor-your-local-weather-with-grafana/)
+- [Debugging memory corruption: who the hell writes "2" into my stack? (2016)](https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell)
+- [I keep turning my Google Sheets into phone-friendly webapps](https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/)
