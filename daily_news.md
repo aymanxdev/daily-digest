@@ -4425,3 +4425,8 @@
 - [Curl-Impersonate](https://github.com/lexiforest/curl-impersonate)
 - [From Pegasus to Predator – The evolution of commercial spyware on iOS [video]](https://media.ccc.de/v/38c3-from-pegasus-to-predator-the-evolution-of-commercial-spyware-on-ios)
 - [MiceWine – run Windows applications and games on Android smartphones](https://github.com/KreitinnSoftware/MiceWine-Application)
+## Morning Digest - 31-12-2024
+
+- [I keep turning my Google Sheets into phone-friendly webapps](https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/)
+- [Dog Aging Project](https://dogagingproject.org/)
+- [Coconut by Meta AI – Better LLM Reasoning with Chain of Continuous Thought?](https://aipapersacademy.com/chain-of-continuous-thought/)
