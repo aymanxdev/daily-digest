@@ -4435,3 +4435,8 @@
 - [How to monitor your local weather with Grafana](https://grafana.com/blog/2024/12/26/how-to-monitor-your-local-weather-with-grafana/)
 - [Debugging memory corruption: who the hell writes "2" into my stack? (2016)](https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell)
 - [I keep turning my Google Sheets into phone-friendly webapps](https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/)
+## Afternoon/Evening Digest - 01-01-2025
+
+- [30% Drop In o1-Preview Accuracy When Putnam Problems Are Slightly Variated](https://openreview.net/forum?id=YXnwlZe0yf&noteId=yrsGpHd0Sf)
+- [Show HN: API Parrot – Automatically Reverse Engineer HTTP APIs](https://apiparrot.com/)
+- [Books I Loved Reading in 2024](https://thoughts.wyounas.com/p/books-i-enjoyed-most-in-2024)
