@@ -4445,3 +4445,8 @@
 - [Zasper: A Modern and Efficient Alternative to JupyterLab, Built in Go](https://github.com/zasper-io/zasper)
 - [MitmProxy2Swagger: Automagically reverse-engineer REST APIs](https://github.com/alufers/mitmproxy2swagger)
 - [One of my papers got declined today](https://mathstodon.xyz/@tao/113721192051328193)
+## Afternoon/Evening Digest - 02-01-2025
+
+- [MitmProxy2Swagger: Automagically reverse-engineer REST APIs](https://github.com/alufers/mitmproxy2swagger)
+- [What Is miniKanren?](http://minikanren.org/)
+- [Zasper: A Modern and Efficient Alternative to JupyterLab, Built in Go](https://github.com/zasper-io/zasper)
