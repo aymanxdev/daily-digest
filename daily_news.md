@@ -4455,3 +4455,8 @@
 - [Digital gardens people maintain outside the "Big Tech" walled gardens](https://blogscroll.com/)
 - [UK ISO response to Google's policy change on device fingerprinting](https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/12/our-response-to-google-s-policy-change-on-fingerprinting/)
 - [Mars Exploration: How the CIA's Project Stargate Went to Mars [pdf]](https://www.cia.gov/readingroom/docs/cia-rdp96-00788r001900760001-9.pdf)
+## Afternoon/Evening Digest - 03-01-2025
+
+- [Can LLMs write better code if you keep asking them to “write better code”?](https://minimaxir.com/2025/01/write-better-code/)
+- [Gource: Software Version Control Visualization](https://github.com/acaudwell/Gource)
+- [Laser mapping reveals oldest Amazonian cities, built 2500 years ago (2024)](https://www.science.org/content/article/laser-mapping-reveals-oldest-amazonian-cities-built-2500-years-ago)
