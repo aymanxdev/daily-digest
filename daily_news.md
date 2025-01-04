@@ -4465,3 +4465,8 @@
 - [Phase behavior of Cacio and Pepe sauce](https://arxiv.org/abs/2501.00536)
 - [Show HN: I completed shipping my desktop app](https://pimosa.app/)
 - [Breaking Up with Long Tasks or: how I learned to group loops and wield the yield](https://calendar.perfplanet.com/2024/breaking-up-with-long-tasks-or-how-i-learned-to-group-loops-and-wield-the-yield/)
+## Afternoon/Evening Digest - 04-01-2025
+
+- [How to draw an outline in a video game](https://ameye.dev/notes/rendering-outlines/)
+- [Self driving 1993 Volvo with open pilot](https://practicapp.com/carbagepilot-part1/)
+- [Phase behavior of Cacio and Pepe sauce](https://arxiv.org/abs/2501.00536)
