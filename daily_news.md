@@ -4460,3 +4460,8 @@
 - [Can LLMs write better code if you keep asking them to “write better code”?](https://minimaxir.com/2025/01/write-better-code/)
 - [Gource: Software Version Control Visualization](https://github.com/acaudwell/Gource)
 - [Laser mapping reveals oldest Amazonian cities, built 2500 years ago (2024)](https://www.science.org/content/article/laser-mapping-reveals-oldest-amazonian-cities-built-2500-years-ago)
+## Morning Digest - 04-01-2025
+
+- [Phase behavior of Cacio and Pepe sauce](https://arxiv.org/abs/2501.00536)
+- [Show HN: I completed shipping my desktop app](https://pimosa.app/)
+- [Breaking Up with Long Tasks or: how I learned to group loops and wield the yield](https://calendar.perfplanet.com/2024/breaking-up-with-long-tasks-or-how-i-learned-to-group-loops-and-wield-the-yield/)
