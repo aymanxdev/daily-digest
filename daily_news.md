@@ -4475,3 +4475,8 @@
 - [No more needles Tracking blood sugar on your wrist](https://uwaterloo.ca/news/media/no-more-needles-tracking-blood-sugar-your-wrist)
 - [Guten: A Tiny Newspaper Printer](https://amanvir.com/guten)
 - [Nanoimprint Lithography Aims to Take on EUV](https://spectrum.ieee.org/nanoimprint-lithography)
+## Afternoon/Evening Digest - 05-01-2025
+
+- [The day I taught AI to read code like a Senior Developer](https://nmn.gl/blog/ai-senior-developer)
+- [Learn New Skills](https://www.attejuvonen.fi/learn/)
+- [How Nat Traversal Works (2020)](https://tailscale.com/blog/how-nat-traversal-works)
