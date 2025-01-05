@@ -4470,3 +4470,8 @@
 - [How to draw an outline in a video game](https://ameye.dev/notes/rendering-outlines/)
 - [Self driving 1993 Volvo with open pilot](https://practicapp.com/carbagepilot-part1/)
 - [Phase behavior of Cacio and Pepe sauce](https://arxiv.org/abs/2501.00536)
+## Morning Digest - 05-01-2025
+
+- [No more needles Tracking blood sugar on your wrist](https://uwaterloo.ca/news/media/no-more-needles-tracking-blood-sugar-your-wrist)
+- [Guten: A Tiny Newspaper Printer](https://amanvir.com/guten)
+- [Nanoimprint Lithography Aims to Take on EUV](https://spectrum.ieee.org/nanoimprint-lithography)
