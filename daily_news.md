@@ -4485,3 +4485,8 @@
 - [Doom, the Gallery Experience](https://bobatealee.itch.io/doom-the-gallery-experience)
 - [Lord of the Io_uring](https://unixism.net/loti/index.html)
 - [Regulations Enabling 6 GHz Wi-Fi](https://www.wi-fi.org/regulations-enabling-6-ghz-wi-fi)
+## Afternoon/Evening Digest - 06-01-2025
+
+- [Dive into Time-Series Anomaly Detection: A Decade Review](https://arxiv.org/abs/2412.20512)
+- [The evolution of a structural code editor](https://crowdhailer.me/2025-01-02/the-evolution-of-a-structural-code-editor/)
+- [Doom, the Gallery Experience](https://bobatealee.itch.io/doom-the-gallery-experience)
