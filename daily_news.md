@@ -4495,3 +4495,8 @@
 - [Playing Chess with 84,688 Regular Expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
 - [Stimulation Clicker](https://neal.fun/stimulation-clicker/)
 - [The Rise of the French Fry Cartel](https://jacobin.com/2025/01/french-fry-price-fixing-antitrust/)
+## Afternoon/Evening Digest - 07-01-2025
+
+- [Federal Reserve Bank of NY "Doomsday Book" 2022 via FOIA [pdf]](https://www.crisesnotes.com/content/files/2023/12/NYFRB-2006.--Doomsday-Book--Searchable.pdf)
+- [Why Is the American Diet So Deadly?](https://www.newyorker.com/magazine/2024/01/13/why-is-the-american-diet-so-deadly)
+- [A minimax chess engine in regular expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
