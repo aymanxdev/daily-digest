@@ -4490,3 +4490,8 @@
 - [Dive into Time-Series Anomaly Detection: A Decade Review](https://arxiv.org/abs/2412.20512)
 - [The evolution of a structural code editor](https://crowdhailer.me/2025-01-02/the-evolution-of-a-structural-code-editor/)
 - [Doom, the Gallery Experience](https://bobatealee.itch.io/doom-the-gallery-experience)
+## Morning Digest - 07-01-2025
+
+- [Playing Chess with 84,688 Regular Expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
+- [Stimulation Clicker](https://neal.fun/stimulation-clicker/)
+- [The Rise of the French Fry Cartel](https://jacobin.com/2025/01/french-fry-price-fixing-antitrust/)
