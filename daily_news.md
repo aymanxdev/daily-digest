@@ -4500,3 +4500,8 @@
 - [Federal Reserve Bank of NY "Doomsday Book" 2022 via FOIA [pdf]](https://www.crisesnotes.com/content/files/2023/12/NYFRB-2006.--Doomsday-Book--Searchable.pdf)
 - [Why Is the American Diet So Deadly?](https://www.newyorker.com/magazine/2024/01/13/why-is-the-american-diet-so-deadly)
 - [A minimax chess engine in regular expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
+## Morning Digest - 08-01-2025
+
+- [Operating System in 1,000 Lines – Intro](https://operating-system-in-1000-lines.vercel.app/en)
+- [Gate-level simulation of ASIC in browser](https://znah.net/tt09/)
+- [Magic/tragic email links: don't make them the only option](https://recyclebin.zip/posts/annoyinglinks/)
