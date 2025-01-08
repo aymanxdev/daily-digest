@@ -4505,3 +4505,8 @@
 - [Operating System in 1,000 Lines – Intro](https://operating-system-in-1000-lines.vercel.app/en)
 - [Gate-level simulation of ASIC in browser](https://znah.net/tt09/)
 - [Magic/tragic email links: don't make them the only option](https://recyclebin.zip/posts/annoyinglinks/)
+## Afternoon/Evening Digest - 08-01-2025
+
+- [We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
+- [Fidget](https://www.mattkeeter.com/projects/fidget/)
+- [Operating System in 1,000 Lines – Intro](https://operating-system-in-1000-lines.vercel.app/en)
