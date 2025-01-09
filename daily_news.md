@@ -4515,3 +4515,8 @@
 - [NeuralSVG: An Implicit Representation for Text-to-Vector Generation](https://sagipolaczek.github.io/NeuralSVG/)
 - [Writing a simple pool allocator in C](https://8dcc.github.io/programming/pool-allocator.html)
 - [Cracking a 512-bit DKIM key for less than $8 in the cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
+## Afternoon/Evening Digest - 09-01-2025
+
+- [Directory of remote-only job boards](https://www.jobsearchdb.com/job-board-categories/remote-only)
+- [Show HN: Factorio Blueprint Visualizer](https://github.com/piebro/factorio-blueprint-visualizer)
+- [Writing as Transformation](https://www.newyorker.com/culture/the-weekend-essay/writing-as-transformation-louise-gluck)
