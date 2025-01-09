@@ -4510,3 +4510,8 @@
 - [We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
 - [Fidget](https://www.mattkeeter.com/projects/fidget/)
 - [Operating System in 1,000 Lines – Intro](https://operating-system-in-1000-lines.vercel.app/en)
+## Morning Digest - 09-01-2025
+
+- [NeuralSVG: An Implicit Representation for Text-to-Vector Generation](https://sagipolaczek.github.io/NeuralSVG/)
+- [Writing a simple pool allocator in C](https://8dcc.github.io/programming/pool-allocator.html)
+- [Cracking a 512-bit DKIM key for less than $8 in the cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
