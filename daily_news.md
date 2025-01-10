@@ -4525,3 +4525,8 @@
 - [Visualizing All ISBNs](https://annas-archive.org/blog/all-isbns.html)
 - [Before Squid Game, there was Battle Royale](https://www.tokyoweekender.com/entertainment/movies-tv/before-squid-game-there-was-battle-royale/)
 - [Predictions Scorecard, 2025 January 01](https://rodneybrooks.com/predictions-scorecard-2025-january-01/)
+## Afternoon/Evening Digest - 10-01-2025
+
+- [Who Can Understand the Proof? A Window on Formalized Mathematics](https://writings.stephenwolfram.com/2025/01/who-can-understand-the-proof-a-window-on-formalized-mathematics/)
+- [Show HN: Boulette - Protect you from yourself (even as root).](https://github.com/pipelight/boulette)
+- [Learning How to Think with Meta Chain-of-Thought](https://arxiv.org/abs/2501.04682)
