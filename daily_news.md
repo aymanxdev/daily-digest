@@ -4520,3 +4520,8 @@
 - [Directory of remote-only job boards](https://www.jobsearchdb.com/job-board-categories/remote-only)
 - [Show HN: Factorio Blueprint Visualizer](https://github.com/piebro/factorio-blueprint-visualizer)
 - [Writing as Transformation](https://www.newyorker.com/culture/the-weekend-essay/writing-as-transformation-louise-gluck)
+## Morning Digest - 10-01-2025
+
+- [Visualizing All ISBNs](https://annas-archive.org/blog/all-isbns.html)
+- [Before Squid Game, there was Battle Royale](https://www.tokyoweekender.com/entertainment/movies-tv/before-squid-game-there-was-battle-royale/)
+- [Predictions Scorecard, 2025 January 01](https://rodneybrooks.com/predictions-scorecard-2025-january-01/)
