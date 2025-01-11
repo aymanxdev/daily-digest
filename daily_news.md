@@ -4535,3 +4535,8 @@
 - [I've acquired a new superpower](https://danielwirtz.com/blog/spot-the-difference-superpower)
 - [Is XYplorer really written in VB6?](https://www.xyplorer.com/faq-topic.php?id=VB6)
 - [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake/)
+## Afternoon/Evening Digest - 11-01-2025
+
+- [Ingrid Daubechies Awarded National Medal of Science](https://today.duke.edu/2025/01/ingrid-daubechies-awarded-national-medal-science)
+- [Show HN: A Better Log Service](https://txtlog.net/)
+- [Track your devices via Apple FindMy network in Go/TinyGo](https://github.com/hybridgroup/go-haystack)
