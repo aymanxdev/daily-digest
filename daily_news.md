@@ -4530,3 +4530,8 @@
 - [Who Can Understand the Proof? A Window on Formalized Mathematics](https://writings.stephenwolfram.com/2025/01/who-can-understand-the-proof-a-window-on-formalized-mathematics/)
 - [Show HN: Boulette - Protect you from yourself (even as root).](https://github.com/pipelight/boulette)
 - [Learning How to Think with Meta Chain-of-Thought](https://arxiv.org/abs/2501.04682)
+## Morning Digest - 11-01-2025
+
+- [I've acquired a new superpower](https://danielwirtz.com/blog/spot-the-difference-superpower)
+- [Is XYplorer really written in VB6?](https://www.xyplorer.com/faq-topic.php?id=VB6)
+- [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake/)
