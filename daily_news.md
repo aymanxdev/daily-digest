@@ -4540,3 +4540,8 @@
 - [Ingrid Daubechies Awarded National Medal of Science](https://today.duke.edu/2025/01/ingrid-daubechies-awarded-national-medal-science)
 - [Show HN: A Better Log Service](https://txtlog.net/)
 - [Track your devices via Apple FindMy network in Go/TinyGo](https://github.com/hybridgroup/go-haystack)
+## Morning Digest - 12-01-2025
+
+- [The Illustrated Guide to a PhD](https://matt.might.net/articles/phd-school-in-pictures/?_nospa=true)
+- [Why I Chose Common Lisp](https://blog.djhaskin.com/blog/why-i-chose-common-lisp/)
+- [Kenney.nl: Free Game Assets](https://www.kenney.nl/)
