@@ -4545,3 +4545,8 @@
 - [The Illustrated Guide to a PhD](https://matt.might.net/articles/phd-school-in-pictures/?_nospa=true)
 - [Why I Chose Common Lisp](https://blog.djhaskin.com/blog/why-i-chose-common-lisp/)
 - [Kenney.nl: Free Game Assets](https://www.kenney.nl/)
+## Afternoon/Evening Digest - 12-01-2025
+
+- [Kenney.nl: Free Game Assets](https://www.kenney.nl/)
+- [Why I Chose Common Lisp](https://blog.djhaskin.com/blog/why-i-chose-common-lisp/)
+- [Rewilding the Self](https://worldsensorium.com/rewilding-the-self/)
