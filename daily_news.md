@@ -4550,3 +4550,8 @@
 - [Kenney.nl: Free Game Assets](https://www.kenney.nl/)
 - [Why I Chose Common Lisp](https://blog.djhaskin.com/blog/why-i-chose-common-lisp/)
 - [Rewilding the Self](https://worldsensorium.com/rewilding-the-self/)
+## Morning Digest - 13-01-2025
+
+- [Blue Origin New Glenn Mission NG-1 – Live](https://www.blueorigin.com)
+- [Why is my CPU usage always 100%?](https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/)
+- [Show HN: Doom (1993) in a PDF](https://doompdf.pages.dev/doom.pdf)
