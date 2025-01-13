@@ -4555,3 +4555,8 @@
 - [Blue Origin New Glenn Mission NG-1 – Live](https://www.blueorigin.com)
 - [Why is my CPU usage always 100%?](https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/)
 - [Show HN: Doom (1993) in a PDF](https://doompdf.pages.dev/doom.pdf)
+## Afternoon/Evening Digest - 13-01-2025
+
+- [Debugging: Indispensable rules for finding even the most elusive problems (2004)](https://dwheeler.com/essays/debugging-agans.html)
+- [Luck Be a Landlord Might Be Banned from Google Play](https://blog.trampolinetales.com/luck-be-a-landlord-might-be-banned-from-google-play-2/)
+- [Literate programming: Knuth is doing it wrong (2014)](https://akkartik.name/post/literate-programming)
