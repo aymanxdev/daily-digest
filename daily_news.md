@@ -4560,3 +4560,8 @@
 - [Debugging: Indispensable rules for finding even the most elusive problems (2004)](https://dwheeler.com/essays/debugging-agans.html)
 - [Luck Be a Landlord Might Be Banned from Google Play](https://blog.trampolinetales.com/luck-be-a-landlord-might-be-banned-from-google-play-2/)
 - [Literate programming: Knuth is doing it wrong (2014)](https://akkartik.name/post/literate-programming)
+## Morning Digest - 14-01-2025
+
+- [Snyk security researcher deploys malicious NPM packages targeting cursor.com](https://sourcecodered.com/snyk-malicious-npm-package/)
+- [ZFS 2.3.0 released with ZFS raidz expansion](https://github.com/openzfs/zfs/releases/tag/zfs-2.3.0)
+- [The Plunge (2014)](https://grantland.com/features/the-plunge-shavarsh-karapetyan-heroic-rescue-armenia-trolleybus-ussr-history-finswimming/)
