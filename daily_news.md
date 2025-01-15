@@ -4575,3 +4575,8 @@
 - [FFmpeg by Example](https://ffmpegbyexample.com/)
 - [Homomorphic Encryption in iOS 18](https://boehs.org/node/homomorphic-encryption)
 - [Free Music Archive](https://freemusicarchive.org/home)
+## Afternoon/Evening Digest - 15-01-2025
+
+- [Why the weak nuclear force is short range](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-astonishing-standard-model/why-the-weak-nuclear-force-is-short-range/)
+- [Lambda Calculus in 383 Bytes (2022)](https://justine.lol/lambda/)
+- [FFmpeg by Example](https://ffmpegbyexample.com/)
