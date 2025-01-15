@@ -4570,3 +4570,8 @@
 - [In the Belly of the MrBeast](https://kevinmunger.substack.com/p/in-the-belly-of-the-mrbeast)
 - [Reversible Computing Escapes the Lab](https://spectrum.ieee.org/reversible-computing)
 - [PostgreSQL Is the Database Management System of the Year 2024](https://db-engines.com/en/blog_post/109)
+## Morning Digest - 15-01-2025
+
+- [FFmpeg by Example](https://ffmpegbyexample.com/)
+- [Homomorphic Encryption in iOS 18](https://boehs.org/node/homomorphic-encryption)
+- [Free Music Archive](https://freemusicarchive.org/home)
