@@ -4580,3 +4580,8 @@
 - [Why the weak nuclear force is short range](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/the-astonishing-standard-model/why-the-weak-nuclear-force-is-short-range/)
 - [Lambda Calculus in 383 Bytes (2022)](https://justine.lol/lambda/)
 - [FFmpeg by Example](https://ffmpegbyexample.com/)
+## Morning Digest - 16-01-2025
+
+- [Intel's Tofino P4 Software Is Now Open Source](https://p4.org/intels-tofino-p4-software-is-now-open-source/)
+- [100x defect tolerance: How we solved the yield problem](https://cerebras.ai/blog/100x-defect-tolerance-how-cerebras-solved-the-yield-problem)
+- [Why is Cloudflare Pages' bandwidth unlimited?](https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/)
