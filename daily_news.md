@@ -4585,3 +4585,8 @@
 - [Intel's Tofino P4 Software Is Now Open Source](https://p4.org/intels-tofino-p4-software-is-now-open-source/)
 - [100x defect tolerance: How we solved the yield problem](https://cerebras.ai/blog/100x-defect-tolerance-how-cerebras-solved-the-yield-problem)
 - [Why is Cloudflare Pages' bandwidth unlimited?](https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/)
+## Afternoon/Evening Digest - 16-01-2025
+
+- [Nokia's internal presentation after iPhone was launched (2007) [pdf]](https://nokia-apple-iphone-was-launched-presentation.tiiny.site/)
+- [Nepenthes is a tarpit to catch AI web crawlers](https://zadzmo.org/code/nepenthes/)
+- [Mathematicians Discover New Way for Spheres to 'Kiss'](https://www.quantamagazine.org/mathematicians-discover-new-way-for-spheres-to-kiss-20250115/)
