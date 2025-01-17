@@ -4595,3 +4595,8 @@
 - [Thoughts on a Month with Devin](https://www.answer.ai/posts/2025-01-08-devin.html)
 - [Issues with Color Spaces and Perceptual Brightness](https://johnaustin.io/articles/2025/issues-with-cielab-and-perceptual-brightness)
 - [Trusting clients is probably a security flaw](https://liberda.nl/weblog/trust-no-client/)
+## Afternoon/Evening Digest - 17-01-2025
+
+- [No Calls](https://keygen.sh/blog/no-calls/)
+- [Starship Flight 7](https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit)
+- [PostgreSQL Anonymizer](https://postgresql-anonymizer.readthedocs.io/en/stable/)
