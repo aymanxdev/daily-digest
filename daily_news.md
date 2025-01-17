@@ -4590,3 +4590,8 @@
 - [Nokia's internal presentation after iPhone was launched (2007) [pdf]](https://nokia-apple-iphone-was-launched-presentation.tiiny.site/)
 - [Nepenthes is a tarpit to catch AI web crawlers](https://zadzmo.org/code/nepenthes/)
 - [Mathematicians Discover New Way for Spheres to 'Kiss'](https://www.quantamagazine.org/mathematicians-discover-new-way-for-spheres-to-kiss-20250115/)
+## Morning Digest - 17-01-2025
+
+- [Thoughts on a Month with Devin](https://www.answer.ai/posts/2025-01-08-devin.html)
+- [Issues with Color Spaces and Perceptual Brightness](https://johnaustin.io/articles/2025/issues-with-cielab-and-perceptual-brightness)
+- [Trusting clients is probably a security flaw](https://liberda.nl/weblog/trust-no-client/)
