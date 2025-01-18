@@ -4605,3 +4605,8 @@
 - [I've been advocating for RSS support, and you should too](https://reedybear.bearblog.dev/ive-been-advocating-for-rss-support-and-you-should-too/)
 - [Investigating an "evil" RJ45 dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
 - [So you want to build your own data center](https://blog.railway.com/p/data-center-build-part-one)
+## Afternoon/Evening Digest - 18-01-2025
+
+- [The AMD Radeon Instinct MI300A's Giant Memory Subsystem](https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as)
+- [Investigating an “evil” RJ45 dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
+- [Can you read this cursive handwriting? The National Archives wants your help](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/)
