@@ -4600,3 +4600,8 @@
 - [No Calls](https://keygen.sh/blog/no-calls/)
 - [Starship Flight 7](https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit)
 - [PostgreSQL Anonymizer](https://postgresql-anonymizer.readthedocs.io/en/stable/)
+## Morning Digest - 18-01-2025
+
+- [I've been advocating for RSS support, and you should too](https://reedybear.bearblog.dev/ive-been-advocating-for-rss-support-and-you-should-too/)
+- [Investigating an "evil" RJ45 dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
+- [So you want to build your own data center](https://blog.railway.com/p/data-center-build-part-one)
