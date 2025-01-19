@@ -4615,3 +4615,8 @@
 - [TikTok goes dark in the US](https://techcrunch.com/2025/01/18/tiktok-goes-dark-in-the-u-s/)
 - [Forgejo: A self-hosted lightweight software forge](https://forgejo.org/)
 - [The "35-cent" Commodore 64 softmodem](http://oldvcr.blogspot.com/2025/01/the-35-cent-commodore-64-softmodem.html)
+## Afternoon/Evening Digest - 19-01-2025
+
+- [TikTok goes dark in the US](https://techcrunch.com/2025/01/18/tiktok-goes-dark-in-the-u-s/)
+- [When America's Top Spies Were Academics and Librarians](https://newrepublic.com/article/188991/americas-top-spies-academics-librarians)
+- [Making glow-in-the-dark Strontium Aluminate](https://maurycyz.com/projects/strontium_aluminate/)
