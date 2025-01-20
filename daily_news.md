@@ -4625,3 +4625,8 @@
 - [Reverse Engineering Bambu Connect](https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect)
 - [TikTok says it is restoring service for U.S. users](https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320)
 - [UK's hardware talent is being wasted](https://josef.cn/blog/uk-talent)
+## Afternoon/Evening Digest - 20-01-2025
+
+- [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
+- [Celestial Navigation for Drones](https://www.mdpi.com/2504-446X/8/11/652)
+- [Zork: The Great Inner Workings (2020)](https://medium.com/swlh/zork-the-great-inner-workings-b68012952bdc)
