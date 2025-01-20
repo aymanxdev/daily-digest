@@ -4620,3 +4620,8 @@
 - [TikTok goes dark in the US](https://techcrunch.com/2025/01/18/tiktok-goes-dark-in-the-u-s/)
 - [When America's Top Spies Were Academics and Librarians](https://newrepublic.com/article/188991/americas-top-spies-academics-librarians)
 - [Making glow-in-the-dark Strontium Aluminate](https://maurycyz.com/projects/strontium_aluminate/)
+## Morning Digest - 20-01-2025
+
+- [Reverse Engineering Bambu Connect](https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect)
+- [TikTok says it is restoring service for U.S. users](https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320)
+- [UK's hardware talent is being wasted](https://josef.cn/blog/uk-talent)
