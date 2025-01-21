@@ -4635,3 +4635,8 @@
 - [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
 - [Reverse engineering Call of Duty anti-cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
 - [Mixxx: GPL DJ Software](https://mixxx.org/)
+## Afternoon/Evening Digest - 21-01-2025
+
+- [Metacognitive laziness: Effects of generative AI on learning motivation](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13544)
+- [Kimi K1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5)
+- [Show HN: Printercow – Turn any thermal printer into an API endpoint](https://www.printercow.com/)
