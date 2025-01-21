@@ -4630,3 +4630,8 @@
 - [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
 - [Celestial Navigation for Drones](https://www.mdpi.com/2504-446X/8/11/652)
 - [Zork: The Great Inner Workings (2020)](https://medium.com/swlh/zork-the-great-inner-workings-b68012952bdc)
+## Morning Digest - 21-01-2025
+
+- [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
+- [Reverse engineering Call of Duty anti-cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
+- [Mixxx: GPL DJ Software](https://mixxx.org/)
