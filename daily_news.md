@@ -4645,3 +4645,8 @@
 - [Ross Ulbricht granted a full pardon](https://twitter.com/Free_Ross/status/1881851923005165704)
 - [Stargate Project: SoftBank, OpenAI, Oracle, MGX to build data centers](https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41)
 - [Arm releases Chiplet System Architecture spec beta version](https://newsroom.arm.com/blog/arm-chiplet-system-architecture-accelerating-evolution-of-silicon)
+## Afternoon/Evening Digest - 22-01-2025
+
+- [Ross Ulbricht granted a full pardon](https://twitter.com/Free_Ross/status/1881851923005165704)
+- [Open Socrates by Agnes Callard review – a design for life](https://www.theguardian.com/books/2025/jan/16/open-socrates-by-agnes-callard-review-a-design-for-life)
+- [Stargate Project: SoftBank, OpenAI, Oracle, MGX to build data centers](https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41)
