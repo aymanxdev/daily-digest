@@ -4640,3 +4640,8 @@
 - [Metacognitive laziness: Effects of generative AI on learning motivation](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.13544)
 - [Kimi K1.5: Scaling Reinforcement Learning with LLMs](https://github.com/MoonshotAI/Kimi-k1.5)
 - [Show HN: Printercow – Turn any thermal printer into an API endpoint](https://www.printercow.com/)
+## Morning Digest - 22-01-2025
+
+- [Ross Ulbricht granted a full pardon](https://twitter.com/Free_Ross/status/1881851923005165704)
+- [Stargate Project: SoftBank, OpenAI, Oracle, MGX to build data centers](https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41)
+- [Arm releases Chiplet System Architecture spec beta version](https://newsroom.arm.com/blog/arm-chiplet-system-architecture-accelerating-evolution-of-silicon)
