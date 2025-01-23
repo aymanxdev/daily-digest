@@ -4655,3 +4655,8 @@
 - [Show HN: I made an open-source laptop from scratch](https://www.byran.ee/posts/creation/)
 - [Minecraft with object impermanence](https://www.aiweirdness.com/minecraft-with-object-impermanence/)
 - [Mastercard DNS error went unnoticed for years](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/)
+## Afternoon/Evening Digest - 23-01-2025
+
+- [Show HN: I made an open-source laptop from scratch](https://www.byran.ee/posts/creation/)
+- [Shifting Cyber Norms: Microsoft security POST-ing to you](https://berthub.eu/articles/posts/shifting-cyber-norms-microsoft-post/)
+- [Where is London's most central sheep?](https://diamondgeezer.blogspot.com/2025/01/londons-most-central-sheep.html)
