@@ -4650,3 +4650,8 @@
 - [Ross Ulbricht granted a full pardon](https://twitter.com/Free_Ross/status/1881851923005165704)
 - [Open Socrates by Agnes Callard review – a design for life](https://www.theguardian.com/books/2025/jan/16/open-socrates-by-agnes-callard-review-a-design-for-life)
 - [Stargate Project: SoftBank, OpenAI, Oracle, MGX to build data centers](https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41)
+## Morning Digest - 23-01-2025
+
+- [Show HN: I made an open-source laptop from scratch](https://www.byran.ee/posts/creation/)
+- [Minecraft with object impermanence](https://www.aiweirdness.com/minecraft-with-object-impermanence/)
+- [Mastercard DNS error went unnoticed for years](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/)
