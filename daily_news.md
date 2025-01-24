@@ -4660,3 +4660,8 @@
 - [Show HN: I made an open-source laptop from scratch](https://www.byran.ee/posts/creation/)
 - [Shifting Cyber Norms: Microsoft security POST-ing to you](https://berthub.eu/articles/posts/shifting-cyber-norms-microsoft-post/)
 - [Where is London's most central sheep?](https://diamondgeezer.blogspot.com/2025/01/londons-most-central-sheep.html)
+## Afternoon/Evening Digest - 24-01-2025
+
+- [Build It Yourself](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/)
+- [AI Is Creating a Generation of Illiterate Programmers](https://nmn.gl/blog/ai-illiterate-programmers)
+- [Tilde, My LLVM Alternative](https://yasserarg.com/tb)
