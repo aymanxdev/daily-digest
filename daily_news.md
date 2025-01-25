@@ -4670,3 +4670,8 @@
 - [Life lessons from the first half-century of my career](https://cacm.acm.org/opinion/life-lessons-from-the-first-half-century-of-my-career/)
 - [Show HN: Cs16.css – CSS library based on Counter Strike 1.6 UI](https://cs16.samke.me)
 - [File Explorer is merged to Helix editor](https://github.com/helix-editor/helix/pull/11285)
+## Afternoon/Evening Digest - 25-01-2025
+
+- [How far can you get in 40 minutes from each subway station in NYC?](https://subwaysheds.com/#11.27/40.7427/-73.9869)
+- [Pixelfed Hit 500K Users](https://fedidb.org/software/pixelfed)
+- [I got OpenAI o1 to play the boardgame Codenames and it's super good](https://suveenellawela.com/thoughts/codenames-ai)
