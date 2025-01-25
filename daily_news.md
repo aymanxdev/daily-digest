@@ -4665,3 +4665,8 @@
 - [Build It Yourself](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/)
 - [AI Is Creating a Generation of Illiterate Programmers](https://nmn.gl/blog/ai-illiterate-programmers)
 - [Tilde, My LLVM Alternative](https://yasserarg.com/tb)
+## Morning Digest - 25-01-2025
+
+- [Life lessons from the first half-century of my career](https://cacm.acm.org/opinion/life-lessons-from-the-first-half-century-of-my-career/)
+- [Show HN: Cs16.css – CSS library based on Counter Strike 1.6 UI](https://cs16.samke.me)
+- [File Explorer is merged to Helix editor](https://github.com/helix-editor/helix/pull/11285)
