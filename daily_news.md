@@ -4690,3 +4690,8 @@
 - [Show HN: Making AR experiences is still painful – had to make my own editor](https://ordinary.space/)
 - [Hedy: Textual programming made easy](https://www.hedy.org/)
 - [Openhaystack: Build 'AirTags' – track Bluetooth devices via Apple's network](https://github.com/seemoo-lab/openhaystack)
+## Afternoon/Evening Digest - 27-01-2025
+
+- [Oliver Heaviside and the theory of transmission lines (2021)](https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html)
+- [My failed attempt to shrink all NPM packages by 5%](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/)
+- [Show HN: I Made an iOS Podcast Player with Racket](https://defn.io/2024/11/16/podcatcher/)
