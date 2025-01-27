@@ -4685,3 +4685,8 @@
 - [Steam Brick: No screen, no controller, just a power button and a USB port](https://crastinator-pro.github.io/steam-brick/)
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL](https://arxiv.org/abs/2501.12948)
 - [Paxo: A DIY Phone](https://paxo.fr/)
+## Morning Digest - 27-01-2025
+
+- [Show HN: Making AR experiences is still painful – had to make my own editor](https://ordinary.space/)
+- [Hedy: Textual programming made easy](https://www.hedy.org/)
+- [Openhaystack: Build 'AirTags' – track Bluetooth devices via Apple's network](https://github.com/seemoo-lab/openhaystack)
