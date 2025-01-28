@@ -4695,3 +4695,8 @@
 - [Oliver Heaviside and the theory of transmission lines (2021)](https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html)
 - [My failed attempt to shrink all NPM packages by 5%](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/)
 - [Show HN: I Made an iOS Podcast Player with Racket](https://defn.io/2024/11/16/podcatcher/)
+## Morning Digest - 28-01-2025
+
+- [We're bringing Pebble back](https://repebble.com/)
+- [Machine Learning in Production (CMU Course)](https://mlip-cmu.github.io/s2025/)
+- [Open-R1: an open reproduction of DeepSeek-R1](https://huggingface.co/blog/open-r1)
