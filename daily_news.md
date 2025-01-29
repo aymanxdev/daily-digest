@@ -4700,3 +4700,8 @@
 - [We're bringing Pebble back](https://repebble.com/)
 - [Machine Learning in Production (CMU Course)](https://mlip-cmu.github.io/s2025/)
 - [Open-R1: an open reproduction of DeepSeek-R1](https://huggingface.co/blog/open-r1)
+## Morning Digest - 29-01-2025
+
+- [What Have We Forgotten?](http://mikhailian.mova.org/node/291)
+- [New speculative attacks on Apple CPUs](https://predictors.fail/)
+- [Boom XB-1 First Supersonic Flight [video]](https://www.youtube.com/watch?v=-qisIViAHwI)
