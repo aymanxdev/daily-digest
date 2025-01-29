@@ -4705,3 +4705,8 @@
 - [What Have We Forgotten?](http://mikhailian.mova.org/node/291)
 - [New speculative attacks on Apple CPUs](https://predictors.fail/)
 - [Boom XB-1 First Supersonic Flight [video]](https://www.youtube.com/watch?v=-qisIViAHwI)
+## Afternoon/Evening Digest - 29-01-2025
+
+- [Bacteria (and Their Metabolites) and Depression](https://www.science.org/content/blog-post/bacteria-and-their-metabolites-and-depression)
+- [I still like Sublime Text](https://ohdoylerules.com/workflows/why-i-still-like-sublime-text-in-2025/)
+- [Seagate: 'new' hard drives used for tens of thousands of hours](https://www.tomshardware.com/pc-components/hdds/german-seagate-customers-say-their-new-hard-drives-were-actually-used-resold-hdds-reportedly-used-for-tens-of-thousands-of-hours)
