@@ -4725,3 +4725,8 @@
 - [sixos: A nix OS without systemd [video]](https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd)
 - [Basel has to buy domain name in the Bahamas after mishap](https://www.bluewin.ch/en/news/switzerland/basel-has-to-buy-internet-address-in-bahamas-after-breakdown-2541936.html)
 - [Hydro: Distributed Programming Framework for Rust](https://hydro.run/docs/hydro/)
+## Afternoon/Evening Digest - 31-01-2025
+
+- [Taking a $15 Casio F91W 5km underwater](https://www.watchesofespionage.com/blogs/woe-dispatch/casio-f91w-diving-underwater-pressure-test)
+- [Hacker News for Gamedev](https://gamedev.city/)
+- [Show HN: Ldump – serialize any Lua data](https://github.com/girvel/ldump)
