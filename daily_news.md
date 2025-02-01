@@ -4730,3 +4730,8 @@
 - [Taking a $15 Casio F91W 5km underwater](https://www.watchesofespionage.com/blogs/woe-dispatch/casio-f91w-diving-underwater-pressure-test)
 - [Hacker News for Gamedev](https://gamedev.city/)
 - [Show HN: Ldump – serialize any Lua data](https://github.com/girvel/ldump)
+## Morning Digest - 01-02-2025
+
+- [OpenAI O3-Mini](https://openai.com/index/openai-o3-mini/)
+- [Bypass DeepSeek censorship by speaking in hex](https://substack.com/home/post/p-156004330)
+- [Show HN: Perforator – cluster-wide profiling tool for large data centers](https://github.com/yandex/perforator)
