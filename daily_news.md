@@ -4735,3 +4735,8 @@
 - [OpenAI O3-Mini](https://openai.com/index/openai-o3-mini/)
 - [Bypass DeepSeek censorship by speaking in hex](https://substack.com/home/post/p-156004330)
 - [Show HN: Perforator – cluster-wide profiling tool for large data centers](https://github.com/yandex/perforator)
+## Afternoon/Evening Digest - 01-02-2025
+
+- [The Zizians and the Rationalist Death Cult](https://maxread.substack.com/p/the-zizians-and-the-rationalist-death)
+- [What we get wrong about athleticism](https://www.nytimes.com/athletic/6096850/2025/01/30/patrick-mahomes-nikoa-jokic-body-athletes-workout/)
+- [Visualizing all books of the world in ISBN-Space](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/)
