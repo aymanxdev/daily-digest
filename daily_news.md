@@ -4740,3 +4740,8 @@
 - [The Zizians and the Rationalist Death Cult](https://maxread.substack.com/p/the-zizians-and-the-rationalist-death)
 - [What we get wrong about athleticism](https://www.nytimes.com/athletic/6096850/2025/01/30/patrick-mahomes-nikoa-jokic-body-athletes-workout/)
 - [Visualizing all books of the world in ISBN-Space](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/)
+## Morning Digest - 02-02-2025
+
+- [Show HN: ESP32 RC Cars](https://github.com/mattsroufe/esp32_rc_cars)
+- [Fixing Left and Mutual Recursions in Grammars](https://brightprogrammer.in/posts/fixing-recursions-in-grammar/)
+- [Recent results show that LLMs struggle with compositional tasks](https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/)
