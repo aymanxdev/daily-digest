@@ -4745,3 +4745,8 @@
 - [Show HN: ESP32 RC Cars](https://github.com/mattsroufe/esp32_rc_cars)
 - [Fixing Left and Mutual Recursions in Grammars](https://brightprogrammer.in/posts/fixing-recursions-in-grammar/)
 - [Recent results show that LLMs struggle with compositional tasks](https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/)
+## Afternoon/Evening Digest - 02-02-2025
+
+- [Reverse-engineering and analysis of SanDisk High Endurance microSDXC card (2020)](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/)
+- [Show HN: Lume – OS lightweight CLI for MacOS & Linux VMs on Apple Silicon.](https://github.com/trycua/lume)
+- [Life Is More Than an Engineering Problem – Interview with Ted Chiang](https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/)
