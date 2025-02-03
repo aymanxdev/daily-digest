@@ -4755,3 +4755,8 @@
 - [Anthropic: "Applicants should not use AI assistants"](https://simonwillison.net/2025/Feb/2/anthropic/)
 - [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
 - [Polish city is using mussels to monitor water quality (2020)](https://www.awa.asn.au/resources/latest-news/technology/innovation/polish-city-using-mussels-monitor-water-quality)
+## Afternoon/Evening Digest - 03-02-2025
+
+- [I Wrote a WebAssembly VM in C](https://irreducible.io/blog/my-wasm-interpreter/)
+- [Show HN: Klarity – Open-source tool to analyze uncertainty/entropy in LLM output](https://github.com/klara-research/klarity)
+- [Ruby "Thread Contention" Is Simply GVL Queuing](https://island94.org/2025/01/ruby-thread-contention-simply-gvl-queuing)
