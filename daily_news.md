@@ -4760,3 +4760,8 @@
 - [I Wrote a WebAssembly VM in C](https://irreducible.io/blog/my-wasm-interpreter/)
 - [Show HN: Klarity – Open-source tool to analyze uncertainty/entropy in LLM output](https://github.com/klara-research/klarity)
 - [Ruby "Thread Contention" Is Simply GVL Queuing](https://island94.org/2025/01/ruby-thread-contention-simply-gvl-queuing)
+## Morning Digest - 04-02-2025
+
+- [Alibaba/T-HEAD's Xuantie C910](https://chipsandcheese.com/p/alibabat-heads-xuantie-c910)
+- [OWASP Non-Human Identities Top 10](https://owasp.org/www-project-non-human-identities-top-10/2025/)
+- [Mitochondria as you've never seen them](https://www.nature.com/immersive/d41586-025-00269-y/)
