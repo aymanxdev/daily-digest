@@ -4765,3 +4765,8 @@
 - [Alibaba/T-HEAD's Xuantie C910](https://chipsandcheese.com/p/alibabat-heads-xuantie-c910)
 - [OWASP Non-Human Identities Top 10](https://owasp.org/www-project-non-human-identities-top-10/2025/)
 - [Mitochondria as you've never seen them](https://www.nature.com/immersive/d41586-025-00269-y/)
+## Afternoon/Evening Digest - 04-02-2025
+
+- [Dolní Vĕstonice Portrait Head: The oldest known human portrait in the world](https://www.livescience.com/archaeology/dolni-vestonice-portrait-head-the-oldest-known-human-portrait-in-the-world)
+- [Bouncing Beholder, my winning JS1K entry (2012)](https://marijnhaverbeke.nl/js1k/)
+- [Radiant Foam: Real-Time Differentiable Ray Tracing](https://radfoam.github.io)
