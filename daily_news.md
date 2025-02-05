@@ -4770,3 +4770,8 @@
 - [Dolní Vĕstonice Portrait Head: The oldest known human portrait in the world](https://www.livescience.com/archaeology/dolni-vestonice-portrait-head-the-oldest-known-human-portrait-in-the-world)
 - [Bouncing Beholder, my winning JS1K entry (2012)](https://marijnhaverbeke.nl/js1k/)
 - [Radiant Foam: Real-Time Differentiable Ray Tracing](https://radfoam.github.io)
+## Morning Digest - 05-02-2025
+
+- [Kagi – Introducing Fair Pricing](https://kagi.com/changelog#6155)
+- [They Thought They Were Free, by Milton Mayer, an Excerpt](https://press.uchicago.edu/Misc/Chicago/511928.htm)
+- [Beej's Guide to Git](https://beej.us/guide/bggit/)
