@@ -4775,3 +4775,8 @@
 - [Kagi – Introducing Fair Pricing](https://kagi.com/changelog#6155)
 - [They Thought They Were Free, by Milton Mayer, an Excerpt](https://press.uchicago.edu/Misc/Chicago/511928.htm)
 - [Beej's Guide to Git](https://beej.us/guide/bggit/)
+## Afternoon/Evening Digest - 05-02-2025
+
+- [S1: The $6 R1 Competitor?](https://timkellogg.me/blog/2025/02/03/s1)
+- [Software development topics I've changed my mind on](https://chriskiehl.com/article/thoughts-after-10-years)
+- [I'm Done with Ubuntu](https://ounapuu.ee/posts/2025/02/05/done-with-ubuntu/)
