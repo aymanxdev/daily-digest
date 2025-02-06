@@ -4785,3 +4785,8 @@
 - [Ingesting PDFs and why Gemini 2.0 changes everything](https://www.sergey.fyi/articles/gemini-flash-2)
 - [Programming SDF Animations of Rick and Morty](https://danielchasehooper.com/posts/code-animated-rick/)
 - [OpenWrt 24.10.0 – First Stable Release](https://openwrt.org/releases/24.10/notes-24.10.0)
+## Afternoon/Evening Digest - 06-02-2025
+
+- [Paper Apps](https://gladdendesign.com/collections/paper-apps)
+- [Ingesting PDFs and why Gemini 2.0 changes everything](https://www.sergey.fyi/articles/gemini-flash-2)
+- [Programming SDF Animations of Rick and Morty](https://danielchasehooper.com/posts/code-animated-rick/)
