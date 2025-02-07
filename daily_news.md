@@ -4790,3 +4790,8 @@
 - [Paper Apps](https://gladdendesign.com/collections/paper-apps)
 - [Ingesting PDFs and why Gemini 2.0 changes everything](https://www.sergey.fyi/articles/gemini-flash-2)
 - [Programming SDF Animations of Rick and Morty](https://danielchasehooper.com/posts/code-animated-rick/)
+## Morning Digest - 07-02-2025
+
+- [Donald Knuth's 2024 Christmas Lecture: Strong and Weak Components [video]](https://www.youtube.com/watch?v=Hi8r_63LGyg)
+- [Transformer – Spreadsheet](https://www.byhand.ai/p/transformer-spreadsheet)
+- [Easy 6502](https://skilldrick.github.io/easy6502/)
