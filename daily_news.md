@@ -4795,3 +4795,8 @@
 - [Donald Knuth's 2024 Christmas Lecture: Strong and Weak Components [video]](https://www.youtube.com/watch?v=Hi8r_63LGyg)
 - [Transformer – Spreadsheet](https://www.byhand.ai/p/transformer-spreadsheet)
 - [Easy 6502](https://skilldrick.github.io/easy6502/)
+## Afternoon/Evening Digest - 07-02-2025
+
+- [How to help us build open source Pebble software](https://ericmigi.com/blog/how-to-help-build-open-source-pebble-software/)
+- [Meta torrented & seeded 81.7 TB dataset containing copyrighted data](https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/)
+- [Apple Ordered by UK to Create Global iCloud Encryption Backdoor](https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/)
