@@ -4800,3 +4800,8 @@
 - [How to help us build open source Pebble software](https://ericmigi.com/blog/how-to-help-build-open-source-pebble-software/)
 - [Meta torrented & seeded 81.7 TB dataset containing copyrighted data](https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/)
 - [Apple Ordered by UK to Create Global iCloud Encryption Backdoor](https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/)
+## Morning Digest - 08-02-2025
+
+- [Hotline for modern Apple systems](https://github.com/mierau/hotline)
+- [Farewell potholes? UK team invents self-healing road surface](https://www.theguardian.com/science/2025/feb/03/farewell-potholes-uk-team-invents-self-healing-road-surface)
+- [The PS2's backwards compatibility from the engineer who built it (2020)](https://freelansations.medium.com/the-story-of-the-ps2s-backwards-compatibility-from-the-engineer-who-built-it-ec39cf5a0353)
