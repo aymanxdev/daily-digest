@@ -4805,3 +4805,8 @@
 - [Hotline for modern Apple systems](https://github.com/mierau/hotline)
 - [Farewell potholes? UK team invents self-healing road surface](https://www.theguardian.com/science/2025/feb/03/farewell-potholes-uk-team-invents-self-healing-road-surface)
 - [The PS2's backwards compatibility from the engineer who built it (2020)](https://freelansations.medium.com/the-story-of-the-ps2s-backwards-compatibility-from-the-engineer-who-built-it-ec39cf5a0353)
+## Afternoon/Evening Digest - 08-02-2025
+
+- [Do-nothing scripting: the key to gradual automation (2019)](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
+- [Generating Voronoi Diagrams Using Fortune's Algorithm (With Odin)](https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html)
+- [The Leaning Tower of New York](https://www.newyorker.com/magazine/2025/02/10/the-leaning-tower-of-new-york)
