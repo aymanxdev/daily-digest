@@ -4815,3 +4815,8 @@
 - [Modern-Day Oracles or Bullshit Machines](https://thebullshitmachines.com)
 - [The Man in the Midnight-Blue Six-Ply Italian-Milled Wool Suit](https://www.theatlantic.com/magazine/archive/2025/03/gary-shteyngart-bespoke-suit-mens-fashion-self-love/681441/)
 - [Go Data Structures: Interfaces](https://research.swtch.com/interfaces)
+## Afternoon/Evening Digest - 09-02-2025
+
+- [Don't "optimize" conditional moves in shaders with mix()+step()](https://iquilezles.org/articles/gpuconditionals/)
+- [Rwandan scientists develop local yeast for banana wine-makers](https://phys.org/news/2025-01-rwandan-scientists-local-yeast-banana.html)
+- [Classic Data science pipelines built with LLMs](https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples)
