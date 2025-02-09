@@ -4810,3 +4810,8 @@
 - [Do-nothing scripting: the key to gradual automation (2019)](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
 - [Generating Voronoi Diagrams Using Fortune's Algorithm (With Odin)](https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html)
 - [The Leaning Tower of New York](https://www.newyorker.com/magazine/2025/02/10/the-leaning-tower-of-new-york)
+## Morning Digest - 09-02-2025
+
+- [Modern-Day Oracles or Bullshit Machines](https://thebullshitmachines.com)
+- [The Man in the Midnight-Blue Six-Ply Italian-Milled Wool Suit](https://www.theatlantic.com/magazine/archive/2025/03/gary-shteyngart-bespoke-suit-mens-fashion-self-love/681441/)
+- [Go Data Structures: Interfaces](https://research.swtch.com/interfaces)
