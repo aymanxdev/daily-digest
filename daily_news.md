@@ -4825,3 +4825,8 @@
 - [To buy a Tesla Model 3, only to end up in hell](https://www.myteslaexperience.com/2025-02-01/to-buy-a-tesla-mode-3-only-to-end-up-in-hell)
 - [TL;DR of Deep Dive into LLMs Like ChatGPT by Andrej Karpathy](https://anfalmushtaq.com/articles/deep-dive-into-llms-like-chatgpt-tldr)
 - [Apple's Best Option: Decentralize iCloud](https://www.mnot.net/blog/2025/02/09/decentralize-icloud)
+## Afternoon/Evening Digest - 10-02-2025
+
+- [Show HN: HTML visualization of a PDF file's internal structure](https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md)
+- [What about K?](https://xpqz.github.io/kbook/Introduction.html)
+- [The Anthropic Economic Index](https://www.anthropic.com/news/the-anthropic-economic-index)
