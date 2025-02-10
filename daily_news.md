@@ -4820,3 +4820,8 @@
 - [Don't "optimize" conditional moves in shaders with mix()+step()](https://iquilezles.org/articles/gpuconditionals/)
 - [Rwandan scientists develop local yeast for banana wine-makers](https://phys.org/news/2025-01-rwandan-scientists-local-yeast-banana.html)
 - [Classic Data science pipelines built with LLMs](https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples)
+## Morning Digest - 10-02-2025
+
+- [To buy a Tesla Model 3, only to end up in hell](https://www.myteslaexperience.com/2025-02-01/to-buy-a-tesla-mode-3-only-to-end-up-in-hell)
+- [TL;DR of Deep Dive into LLMs Like ChatGPT by Andrej Karpathy](https://anfalmushtaq.com/articles/deep-dive-into-llms-like-chatgpt-tldr)
+- [Apple's Best Option: Decentralize iCloud](https://www.mnot.net/blog/2025/02/09/decentralize-icloud)
