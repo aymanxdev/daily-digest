@@ -4835,3 +4835,8 @@
 - [Meta's Hyperscale Infrastructure: Overview and Insights](https://cacm.acm.org/research/metas-hyperscale-infrastructure-overview-and-insights/)
 - [Undergraduate shows that searches within hash tables can be much faster](https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/)
 - [Surnames from nicknames nobody has any more](https://blog.plover.com/lang/etym/nickname-names.html)
+## Afternoon/Evening Digest - 11-02-2025
+
+- [Boring tech is mature, not old](https://rubenerd.com/boring-tech-is-mature-not-old/)
+- [Building a personal, private AI computer on a budget](https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/)
+- [FLAC 1.5 Delivers Multi-Threaded Encoding](https://www.phoronix.com/news/FLAC-1.5-Released)
