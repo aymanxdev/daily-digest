@@ -4830,3 +4830,8 @@
 - [Show HN: HTML visualization of a PDF file's internal structure](https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md)
 - [What about K?](https://xpqz.github.io/kbook/Introduction.html)
 - [The Anthropic Economic Index](https://www.anthropic.com/news/the-anthropic-economic-index)
+## Morning Digest - 11-02-2025
+
+- [Meta's Hyperscale Infrastructure: Overview and Insights](https://cacm.acm.org/research/metas-hyperscale-infrastructure-overview-and-insights/)
+- [Undergraduate shows that searches within hash tables can be much faster](https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/)
+- [Surnames from nicknames nobody has any more](https://blog.plover.com/lang/etym/nickname-names.html)
