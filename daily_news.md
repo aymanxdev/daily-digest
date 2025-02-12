@@ -4845,3 +4845,8 @@
 - [The year I didn't survive](https://bessstillman.substack.com/p/the-year-i-didnt-survive)
 - [ElevenReader by ElevenLabs](https://elevenreader.io)
 - [A gracious end to Webb-site](https://webb-site.com/articles/shutdown.asp)
+## Afternoon/Evening Digest - 12-02-2025
+
+- [Leaking the email of any YouTube user for $10,000](https://brutecat.com/articles/leaking-youtube-emails)
+- [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/)
+- [League of Legends data scraping the hard and tedious way for fun](https://maknee.github.io/blog/2025/League-Data-Scraping/)
