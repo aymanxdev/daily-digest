@@ -4840,3 +4840,8 @@
 - [Boring tech is mature, not old](https://rubenerd.com/boring-tech-is-mature-not-old/)
 - [Building a personal, private AI computer on a budget](https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/)
 - [FLAC 1.5 Delivers Multi-Threaded Encoding](https://www.phoronix.com/news/FLAC-1.5-Released)
+## Morning Digest - 12-02-2025
+
+- [The year I didn't survive](https://bessstillman.substack.com/p/the-year-i-didnt-survive)
+- [ElevenReader by ElevenLabs](https://elevenreader.io)
+- [A gracious end to Webb-site](https://webb-site.com/articles/shutdown.asp)
