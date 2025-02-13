@@ -4855,3 +4855,8 @@
 - [Why young parents should focus on building trust with their kids](https://desunit.com/blog/marshmallow-test-and-parenting/)
 - [Leaking the email of any YouTube user for $10k](https://brutecat.com/articles/leaking-youtube-emails)
 - [Tiny JITs for a Faster FFI](https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/)
+## Afternoon/Evening Digest - 13-02-2025
+
+- [An Infinitely Large Napkin [pdf] (2019)](https://venhance.github.io/napkin/Napkin.pdf)
+- [Self hosted FLOSS fitness/workout tracker](https://github.com/wger-project/wger)
+- [SQL pipe syntax available in public preview in BigQuery](https://cloud.google.com/bigquery/docs/pipe-syntax-guide)
