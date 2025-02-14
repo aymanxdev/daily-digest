@@ -4860,3 +4860,8 @@
 - [An Infinitely Large Napkin [pdf] (2019)](https://venhance.github.io/napkin/Napkin.pdf)
 - [Self hosted FLOSS fitness/workout tracker](https://github.com/wger-project/wger)
 - [SQL pipe syntax available in public preview in BigQuery](https://cloud.google.com/bigquery/docs/pipe-syntax-guide)
+## Morning Digest - 14-02-2025
+
+- [The New York Stock Exchange to Launch NYSE Texas](https://ir.theice.com/press/news-details/2025/The-New-York-Stock-Exchange-to-Launch-NYSE-Texas/default.aspx)
+- [Extensible WASM Applications with Go](https://go.dev/blog/wasmexport)
+- [Does X cause Y? An in-depth evidence review](https://www.cold-takes.com/does-x-cause-y-an-in-depth-evidence-review/)
