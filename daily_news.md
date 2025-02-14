@@ -4865,3 +4865,8 @@
 - [The New York Stock Exchange to Launch NYSE Texas](https://ir.theice.com/press/news-details/2025/The-New-York-Stock-Exchange-to-Launch-NYSE-Texas/default.aspx)
 - [Extensible WASM Applications with Go](https://go.dev/blog/wasmexport)
 - [Does X cause Y? An in-depth evidence review](https://www.cold-takes.com/does-x-cause-y-an-in-depth-evidence-review/)
+## Afternoon/Evening Digest - 14-02-2025
+
+- [The History of S.U.S..E](https://www.abortretry.fail/p/the-history-of-suse)
+- [Show HN: Transform Your Codebase into a Single Markdown Doc for Feeding into AI](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html)
+- [Zed now predicts your next edit with Zeta, our new open model](https://zed.dev/blog/edit-prediction)
