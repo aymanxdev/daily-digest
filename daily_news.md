@@ -4870,3 +4870,8 @@
 - [The History of S.U.S..E](https://www.abortretry.fail/p/the-history-of-suse)
 - [Show HN: Transform Your Codebase into a Single Markdown Doc for Feeding into AI](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html)
 - [Zed now predicts your next edit with Zeta, our new open model](https://zed.dev/blog/edit-prediction)
+## Morning Digest - 15-02-2025
+
+- [The 20 year old PSP can now connect to WPA2 WiFi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
+- [A decade later, a decade lost (2024)](https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/)
+- [If you believe in "Artificial Intelligence", take five minutes to ask it](https://svpow.com/2025/02/14/if-you-believe-in-artificial-intelligence-take-five-minutes-to-ask-it-about-stuff-you-know-well/)
