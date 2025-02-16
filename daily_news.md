@@ -4880,3 +4880,8 @@
 - [Jane Street's Figgie card game](https://www.figgie.com/)
 - [What situations in classical physics are non-deterministic?](https://physics.stackexchange.com/questions/403574/what-situations-in-classical-physics-are-non-deterministic)
 - [The 20 year old PSP can now connect to WPA2 WiFi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
+## Morning Digest - 16-02-2025
+
+- [My Life in Weeks](https://weeks.ginatrapani.org/)
+- [The Sims Game Design Documents (1997)](https://donhopkins.com/home/TheSimsDesignDocuments/)
+- [Gixy: Nginx Configuration Static Analyzer](https://github.com/dvershinin/gixy)
