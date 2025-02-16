@@ -4885,3 +4885,8 @@
 - [My Life in Weeks](https://weeks.ginatrapani.org/)
 - [The Sims Game Design Documents (1997)](https://donhopkins.com/home/TheSimsDesignDocuments/)
 - [Gixy: Nginx Configuration Static Analyzer](https://github.com/dvershinin/gixy)
+## Afternoon/Evening Digest - 16-02-2025
+
+- [“A calculator app? Anyone could make that”](https://chadnauseam.com/coding/random/calculator-app)
+- [50 Years of Travel Tips](https://kk.org/thetechnium/50-years-of-travel-tips/)
+- [Reasons to Not Parse Localized Strings](https://blog.sffc.xyz/post/190943794505/why-you-should-not-parse-localized-strings)
