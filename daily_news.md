@@ -4890,3 +4890,8 @@
 - [“A calculator app? Anyone could make that”](https://chadnauseam.com/coding/random/calculator-app)
 - [50 Years of Travel Tips](https://kk.org/thetechnium/50-years-of-travel-tips/)
 - [Reasons to Not Parse Localized Strings](https://blog.sffc.xyz/post/190943794505/why-you-should-not-parse-localized-strings)
+## Morning Digest - 17-02-2025
+
+- [All Kindles can now be jailbroken](https://kindlemodding.org/jailbreaking/WinterBreak/)
+- [Word embeddings – Part 3: The secret ingredients of Word2Vec](https://www.ruder.io/secret-word2vec/)
+- [Homemade polarimetric synthetic aperture radar drone](https://hforsten.com/homemade-polarimetric-synthetic-aperture-radar-drone.html)
