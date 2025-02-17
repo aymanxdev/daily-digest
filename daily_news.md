@@ -4895,3 +4895,8 @@
 - [All Kindles can now be jailbroken](https://kindlemodding.org/jailbreaking/WinterBreak/)
 - [Word embeddings – Part 3: The secret ingredients of Word2Vec](https://www.ruder.io/secret-word2vec/)
 - [Homemade polarimetric synthetic aperture radar drone](https://hforsten.com/homemade-polarimetric-synthetic-aperture-radar-drone.html)
+## Afternoon/Evening Digest - 17-02-2025
+
+- [Fluoxetine promotes metabolic defenses to protect from sepsis-induced lethality](https://www.science.org/doi/10.1126/sciadv.adu4034)
+- [Umami is a simple, fast, privacy-focused alternative to Google Analytics](https://github.com/umami-software/umami)
+- [0+0 > 0: C++ thread-local storage performance](https://yosefk.com/blog/cxx-thread-local-storage-performance.html)
