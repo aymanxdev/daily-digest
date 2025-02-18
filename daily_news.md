@@ -4900,3 +4900,8 @@
 - [Fluoxetine promotes metabolic defenses to protect from sepsis-induced lethality](https://www.science.org/doi/10.1126/sciadv.adu4034)
 - [Umami is a simple, fast, privacy-focused alternative to Google Analytics](https://github.com/umami-software/umami)
 - [0+0 > 0: C++ thread-local storage performance](https://yosefk.com/blog/cxx-thread-local-storage-performance.html)
+## Morning Digest - 18-02-2025
+
+- [Show HN: Live-updating version of the 'What a week, huh?' meme](https://tintin.dlazaro.ca/)
+- [The Joy of Nand2Tetris](https://tristanrhodes.com/blog/The-Joy-of-Nand2Tetris)
+- [My washing machine refreshed my thinking on software estimation](https://www.cosive.com/blog/my-washing-machine-refreshed-my-thinking-on-software-effort-estimation)
