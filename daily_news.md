@@ -4905,3 +4905,8 @@
 - [Show HN: Live-updating version of the 'What a week, huh?' meme](https://tintin.dlazaro.ca/)
 - [The Joy of Nand2Tetris](https://tristanrhodes.com/blog/The-Joy-of-Nand2Tetris)
 - [My washing machine refreshed my thinking on software estimation](https://www.cosive.com/blog/my-washing-machine-refreshed-my-thinking-on-software-effort-estimation)
+## Afternoon/Evening Digest - 18-02-2025
+
+- [Show HN: Live-updating version of the 'What a week, huh?' meme](https://tintin.dlazaro.ca/)
+- [Show HN: Scripton – Python IDE with Built-In Realtime Visualizations](https://scripton.dev)
+- [Grok3 Launch [video]](https://x.com/xai/status/1891699715298730482)
