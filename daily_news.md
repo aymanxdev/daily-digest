@@ -4915,3 +4915,8 @@
 - [Valve releases Team Fortress 2 code](https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9)
 - [How X-Plane Works](https://www.x-plane.com/desktop/how-x-plane-works/)
 - [A year of uv: pros, cons, and should you migrate](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should)
+## Afternoon/Evening Digest - 19-02-2025
+
+- [Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode](https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode)
+- [Gravitational Effects of Small Primordial Black Hole Passing Through Human Body](https://arxiv.org/abs/2502.09734)
+- [Seeing Through the Spartan Mirage](https://worldhistory.substack.com/p/the-spartan-mirage)
