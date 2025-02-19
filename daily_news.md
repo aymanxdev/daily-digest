@@ -4910,3 +4910,8 @@
 - [Show HN: Live-updating version of the 'What a week, huh?' meme](https://tintin.dlazaro.ca/)
 - [Show HN: Scripton – Python IDE with Built-In Realtime Visualizations](https://scripton.dev)
 - [Grok3 Launch [video]](https://x.com/xai/status/1891699715298730482)
+## Morning Digest - 19-02-2025
+
+- [Valve releases Team Fortress 2 code](https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9)
+- [How X-Plane Works](https://www.x-plane.com/desktop/how-x-plane-works/)
+- [A year of uv: pros, cons, and should you migrate](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should)
