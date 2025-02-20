@@ -4925,3 +4925,8 @@
 - [Magma: A foundation model for multimodal AI agents](https://microsoft.github.io/Magma/)
 - [1972 Unix V2 "Beta" Resurrected](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html)
 - [FAQ on Microsoft's topological qubit thing](https://scottaaronson.blog/?p=8669)
+## Afternoon/Evening Digest - 20-02-2025
+
+- [After 20 Years, Math Couple Solves Major Group Theory Problem](https://www.quantamagazine.org/after-20-years-math-couple-solves-major-group-theory-problem-20250219/)
+- [It's time to become an ML engineer](https://blog.gregbrockman.com/its-time-to-become-an-ml-engineer)
+- [RT64: N64 graphics renderer in emulators and native ports](https://github.com/rt64/rt64)
