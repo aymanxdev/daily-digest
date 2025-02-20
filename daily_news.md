@@ -4920,3 +4920,8 @@
 - [Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode](https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode)
 - [Gravitational Effects of Small Primordial Black Hole Passing Through Human Body](https://arxiv.org/abs/2502.09734)
 - [Seeing Through the Spartan Mirage](https://worldhistory.substack.com/p/the-spartan-mirage)
+## Morning Digest - 20-02-2025
+
+- [Magma: A foundation model for multimodal AI agents](https://microsoft.github.io/Magma/)
+- [1972 Unix V2 "Beta" Resurrected](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html)
+- [FAQ on Microsoft's topological qubit thing](https://scottaaronson.blog/?p=8669)
