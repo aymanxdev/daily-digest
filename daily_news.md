@@ -4930,3 +4930,8 @@
 - [After 20 Years, Math Couple Solves Major Group Theory Problem](https://www.quantamagazine.org/after-20-years-math-couple-solves-major-group-theory-problem-20250219/)
 - [It's time to become an ML engineer](https://blog.gregbrockman.com/its-time-to-become-an-ml-engineer)
 - [RT64: N64 graphics renderer in emulators and native ports](https://github.com/rt64/rt64)
+## Morning Digest - 21-02-2025
+
+- [DeepSeek Open Infra: Open-Sourcing 5 AI Repos in 5 Days](https://github.com/deepseek-ai/open-infra-index)
+- [Train Your Own O1 Preview Model Within $450](https://sky.cs.berkeley.edu/project/sky-t1/)
+- [Show HN: Immersive Gaussian Splat experience of Sutro Tower, San Francisco](https://vincentwoo.com/3d/sutro_tower/)
