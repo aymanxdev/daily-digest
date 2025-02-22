@@ -4945,3 +4945,8 @@
 - [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
 - [A vending machine, on the internet](https://threekindwords.com/blog/vending-machine-on-the-internet/)
 - [Augurs demo](https://demo.augu.rs/)
+## Afternoon/Evening Digest - 22-02-2025
+
+- [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+- [Binned staff, slashed stock options. What's next? Ah yes, bigger C-suite bonuses](https://www.theregister.com/2025/02/22/meta_pumps_executive_bonuses/)
+- [These years in Common Lisp: 2023-2024 in review](https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2023-2024-in-review/)
