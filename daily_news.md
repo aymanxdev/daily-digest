@@ -4940,3 +4940,8 @@
 - [Every .gov Domain](https://flatgithub.com/cisagov/dotgov-data/blob/main/?filename=current-full.csv&sha=7dc7d24fba91f571692112d92b6a8fbe7aecbba2)
 - [Train Your Own O1 Preview Model Within $450](https://sky.cs.berkeley.edu/project/sky-t1/)
 - [Show HN: Immersive Gaussian Splat experience of Sutro Tower, San Francisco](https://vincentwoo.com/3d/sutro_tower/)
+## Morning Digest - 22-02-2025
+
+- [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
+- [A vending machine, on the internet](https://threekindwords.com/blog/vending-machine-on-the-internet/)
+- [Augurs demo](https://demo.augu.rs/)
