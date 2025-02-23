@@ -4950,3 +4950,8 @@
 - [Apple pulls data protection tool after UK government security row](https://www.bbc.com/news/articles/cgj54eq4vejo)
 - [Binned staff, slashed stock options. What's next? Ah yes, bigger C-suite bonuses](https://www.theregister.com/2025/02/22/meta_pumps_executive_bonuses/)
 - [These years in Common Lisp: 2023-2024 in review](https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2023-2024-in-review/)
+## Morning Digest - 23-02-2025
+
+- [OpenBSD Innovations](https://www.openbsd.org/innovations.html)
+- [Ask for no, don't ask for yes (2022)](https://www.mooreds.com/wordpress/archives/3518)
+- [FFmpeg School of Assembly Language](https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md)
