@@ -4955,3 +4955,8 @@
 - [OpenBSD Innovations](https://www.openbsd.org/innovations.html)
 - [Ask for no, don't ask for yes (2022)](https://www.mooreds.com/wordpress/archives/3518)
 - [FFmpeg School of Assembly Language](https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md)
+## Afternoon/Evening Digest - 23-02-2025
+
+- [But good sir, what is electricity?](https://lcamtuf.substack.com/p/but-good-sir-what-is-electricity)
+- [Half-Life](https://www.filfre.net/2024/12/half-life/)
+- [Rust, C++, and Python trends in jobs on Hacker News (February 2025)](https://martin.wojtczyk.de/2025/02/20/rust-c-and-python-trends-in-jobs-on-hacker-news-february-2025/)
