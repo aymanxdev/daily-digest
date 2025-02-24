@@ -4960,3 +4960,8 @@
 - [But good sir, what is electricity?](https://lcamtuf.substack.com/p/but-good-sir-what-is-electricity)
 - [Half-Life](https://www.filfre.net/2024/12/half-life/)
 - [Rust, C++, and Python trends in jobs on Hacker News (February 2025)](https://martin.wojtczyk.de/2025/02/20/rust-c-and-python-trends-in-jobs-on-hacker-news-february-2025/)
+## Morning Digest - 24-02-2025
+
+- [DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs](https://github.com/deepseek-ai/FlashMLA)
+- [Making any integer with four 2s](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
+- [Tokio and Prctl = Nasty Bug](https://kobzol.github.io/rust/2025/02/23/tokio-plus-prctl-equals-nasty-bug.html)
