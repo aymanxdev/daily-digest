@@ -4965,3 +4965,8 @@
 - [DeepSeek Open Source FlashMLA – MLA Decoding Kernel for Hopper GPUs](https://github.com/deepseek-ai/FlashMLA)
 - [Making any integer with four 2s](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
 - [Tokio and Prctl = Nasty Bug](https://kobzol.github.io/rust/2025/02/23/tokio-plus-prctl-equals-nasty-bug.html)
+## Afternoon/Evening Digest - 24-02-2025
+
+- [AI-designed chips are so weird that 'humans cannot understand them'](https://www.livescience.com/technology/computing/humans-cannot-really-understand-them-weird-ai-designed-chip-is-unlike-any-other-made-by-humans-and-performs-much-better)
+- [I built an app to stop me doomscrolling by touching grass](https://touchgrass.now/)
+- [Show HN: I scrape Steam data every month and it's yours to download for free](https://www.gginsights.io)
