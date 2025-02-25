@@ -4970,3 +4970,8 @@
 - [AI-designed chips are so weird that 'humans cannot understand them'](https://www.livescience.com/technology/computing/humans-cannot-really-understand-them-weird-ai-designed-chip-is-unlike-any-other-made-by-humans-and-performs-much-better)
 - [I built an app to stop me doomscrolling by touching grass](https://touchgrass.now/)
 - [Show HN: I scrape Steam data every month and it's yours to download for free](https://www.gginsights.io)
+## Morning Digest - 25-02-2025
+
+- [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet)
+- [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
+- [DigiCert: Threat of legal action to stifle Bugzilla discourse](https://bugzilla.mozilla.org/show_bug.cgi?id=1950144)
