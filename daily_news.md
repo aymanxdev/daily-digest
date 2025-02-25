@@ -4975,3 +4975,8 @@
 - [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet)
 - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
 - [DigiCert: Threat of legal action to stifle Bugzilla discourse](https://bugzilla.mozilla.org/show_bug.cgi?id=1950144)
+## Afternoon/Evening Digest - 25-02-2025
+
+- [ChatGPT Saved My Life (no, seriously, I'm writing this from the ER)](https://hardmodefirst.xyz/chatgpt-saved-my-life-no,-seriously,-im-writing-this-from-the-er)
+- [Embedding Python in Elixir, It's Fine](https://dashbit.co/blog/running-python-in-elixir-its-fine)
+- [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet)
