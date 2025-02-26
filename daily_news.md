@@ -4980,3 +4980,8 @@
 - [ChatGPT Saved My Life (no, seriously, I'm writing this from the ER)](https://hardmodefirst.xyz/chatgpt-saved-my-life-no,-seriously,-im-writing-this-from-the-er)
 - [Embedding Python in Elixir, It's Fine](https://dashbit.co/blog/running-python-in-elixir-its-fine)
 - [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet)
+## Morning Digest - 26-02-2025
+
+- [Telescope – an open-source web-based log viewer for logs stored in ClickHouse](https://github.com/iamtelescope/telescope)
+- [DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling](https://github.com/deepseek-ai/DeepGEMM)
+- [Iterated Log Coding](https://adamscherlis.github.io/blog/iterlog-coding/)
