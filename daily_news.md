@@ -4995,3 +4995,8 @@
 - [macOS Tips and Tricks (2022)](https://saurabhs.org/macos-tips)
 - [WASM Wayland Web (WWW)](https://joeyh.name/blog/entry/WASM_Wayland_Web_WWW/)
 - [GPT-4.5](https://openai.com/index/introducing-gpt-4-5/)
+## Afternoon/Evening Digest - 28-02-2025
+
+- [Netboot Windows 11 with iSCSI and iPXE](https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/)
+- [WASM Wayland Web (WWW)](https://joeyh.name/blog/entry/WASM_Wayland_Web_WWW/)
+- [Gleam, Coming from Erlang](https://olano.dev/blog/gleam-coming-from-erlang/)
