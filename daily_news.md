@@ -5000,3 +5000,8 @@
 - [Netboot Windows 11 with iSCSI and iPXE](https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/)
 - [WASM Wayland Web (WWW)](https://joeyh.name/blog/entry/WASM_Wayland_Web_WWW/)
 - [Gleam, Coming from Erlang](https://olano.dev/blog/gleam-coming-from-erlang/)
+## Morning Digest - 01-03-2025
+
+- [How to gain code execution on hundreds of millions of people and popular apps](https://kibty.town/blog/todesktop/)
+- [Self-Hosting a Firefox Sync Server](https://blog.diego.dev/posts/firefox-sync-server/)
+- [Zen 5's AVX-512 Frequency Behavior](https://chipsandcheese.com/p/zen-5s-avx-512-frequency-behavior)
