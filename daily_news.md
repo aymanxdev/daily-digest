@@ -5005,3 +5005,8 @@
 - [How to gain code execution on hundreds of millions of people and popular apps](https://kibty.town/blog/todesktop/)
 - [Self-Hosting a Firefox Sync Server](https://blog.diego.dev/posts/firefox-sync-server/)
 - [Zen 5's AVX-512 Frequency Behavior](https://chipsandcheese.com/p/zen-5s-avx-512-frequency-behavior)
+## Afternoon/Evening Digest - 01-03-2025
+
+- [GrapheneOS blocked exploitation of 3 Android zero-days used by Cellebrite](https://grapheneos.social/@GrapheneOS/114081753914226921)
+- [What is vibe coding? How creators are building software with no coding knowledge](https://alitu.com/creator/workflow/what-is-vibe-coding/)
+- [Intel delays $28B Ohio chip fabs to 2030](https://www.reuters.com/technology/intel-delays-28-billion-ohio-chip-factory-2030-local-media-reports-2025-02-28/)
