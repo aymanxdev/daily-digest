@@ -5015,3 +5015,8 @@
 - [Crossing the uncanny valley of conversational voice](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
 - [A cross-platform multi-target dotfiles manager written in Rust](https://github.com/Shemnei/punktf)
 - [Show HN: I built a memory-safe web server in Rust](https://www.ferronweb.org/)
+## Afternoon/Evening Digest - 02-03-2025
+
+- [The early days of Linux (2023)](https://lwn.net/Articles/928581/)
+- [The most unhinged video wall, made out of Chromebooks](https://varun.ch/posts/videowall/)
+- [‘Slime’ keeps the brain safe ― and could guard against ageing](https://www.nature.com/articles/d41586-025-00554-w)
