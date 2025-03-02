@@ -5010,3 +5010,8 @@
 - [GrapheneOS blocked exploitation of 3 Android zero-days used by Cellebrite](https://grapheneos.social/@GrapheneOS/114081753914226921)
 - [What is vibe coding? How creators are building software with no coding knowledge](https://alitu.com/creator/workflow/what-is-vibe-coding/)
 - [Intel delays $28B Ohio chip fabs to 2030](https://www.reuters.com/technology/intel-delays-28-billion-ohio-chip-factory-2030-local-media-reports-2025-02-28/)
+## Morning Digest - 02-03-2025
+
+- [Crossing the uncanny valley of conversational voice](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
+- [A cross-platform multi-target dotfiles manager written in Rust](https://github.com/Shemnei/punktf)
+- [Show HN: I built a memory-safe web server in Rust](https://www.ferronweb.org/)
