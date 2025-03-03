@@ -5020,3 +5020,8 @@
 - [The early days of Linux (2023)](https://lwn.net/Articles/928581/)
 - [The most unhinged video wall, made out of Chromebooks](https://varun.ch/posts/videowall/)
 - [‘Slime’ keeps the brain safe ― and could guard against ageing](https://www.nature.com/articles/d41586-025-00554-w)
+## Morning Digest - 03-03-2025
+
+- [The top 10% owns 87% of the stocks](https://awealthofcommonsense.com/2025/02/the-top-10/)
+- [Firefly ‘Blue Ghost’ lunar lander touches down on the moon](https://www.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html)
+- [Made a scroll bar buddy that walks down the page when you scroll](https://focusfurnace.com/scroll_buddy.html)
