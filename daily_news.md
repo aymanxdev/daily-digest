@@ -5025,3 +5025,8 @@
 - [The top 10% owns 87% of the stocks](https://awealthofcommonsense.com/2025/02/the-top-10/)
 - [Firefly ‘Blue Ghost’ lunar lander touches down on the moon](https://www.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html)
 - [Made a scroll bar buddy that walks down the page when you scroll](https://focusfurnace.com/scroll_buddy.html)
+## Afternoon/Evening Digest - 03-03-2025
+
+- [The Internals of PostgreSQL](http://www.interdb.jp/pg/index.html)
+- [Firefly ‘Blue Ghost’ lunar lander touches down on the moon](https://www.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html)
+- [FlakeUI](https://github.com/tearflake/flake-ui)
