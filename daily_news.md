@@ -5035,3 +5035,8 @@
 - [Let’s code a TCP/IP stack, 1: Ethernet and ARP (2016)](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
 - [Repairable Flatpack Toaster](https://www.kaseyhou.com/#/repairable-flatpack-toaster/)
 - [Why writing small docs is a game changer](https://bufferbuffer.com/why-writing-small-docs-is-a-game-changer/)
+## Afternoon/Evening Digest - 04-03-2025
+
+- [Repairable Flatpack Toaster](https://www.kaseyhou.com/#/repairable-flatpack-toaster/)
+- [Microsoft's new Dragon Copilot is an AI assistant for healthcare](https://www.theverge.com/news/622528/microsoft-dragon-copilot-ai-healthcare-assistant)
+- [Windows NT for GameCube/Wii](https://github.com/Wack0/entii-for-workcubes)
