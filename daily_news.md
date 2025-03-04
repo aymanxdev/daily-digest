@@ -5030,3 +5030,8 @@
 - [The Internals of PostgreSQL](http://www.interdb.jp/pg/index.html)
 - [Firefly ‘Blue Ghost’ lunar lander touches down on the moon](https://www.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html)
 - [FlakeUI](https://github.com/tearflake/flake-ui)
+## Morning Digest - 04-03-2025
+
+- [Let’s code a TCP/IP stack, 1: Ethernet and ARP (2016)](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
+- [Repairable Flatpack Toaster](https://www.kaseyhou.com/#/repairable-flatpack-toaster/)
+- [Why writing small docs is a game changer](https://bufferbuffer.com/why-writing-small-docs-is-a-game-changer/)
