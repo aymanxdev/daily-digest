@@ -5040,3 +5040,8 @@
 - [Repairable Flatpack Toaster](https://www.kaseyhou.com/#/repairable-flatpack-toaster/)
 - [Microsoft's new Dragon Copilot is an AI assistant for healthcare](https://www.theverge.com/news/622528/microsoft-dragon-copilot-ai-healthcare-assistant)
 - [Windows NT for GameCube/Wii](https://github.com/Wack0/entii-for-workcubes)
+## Morning Digest - 05-03-2025
+
+- [Writing an LLM from scratch, part 8 – trainable self-attention](https://www.gilesthomas.com/2025/03/llm-from-scratch-8-trainable-self-attention)
+- [Why fastDOOM is fast](https://fabiensanglard.net/fastdoom/index.html)
+- [NetBSD on a JavaStation](https://fatsquirrel.org/oldfartsalmanac/netbsd-on-a-javastation/)
