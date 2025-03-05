@@ -5045,3 +5045,8 @@
 - [Writing an LLM from scratch, part 8 – trainable self-attention](https://www.gilesthomas.com/2025/03/llm-from-scratch-8-trainable-self-attention)
 - [Why fastDOOM is fast](https://fabiensanglard.net/fastdoom/index.html)
 - [NetBSD on a JavaStation](https://fatsquirrel.org/oldfartsalmanac/netbsd-on-a-javastation/)
+## Afternoon/Evening Digest - 05-03-2025
+
+- [Apple M3 Ultra](https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/)
+- [Richard Sutton and Andrew Barto Win 2024 Turing Award](https://awards.acm.org/about/2024-turing)
+- [MacBook Air M4](https://www.apple.com/macbook-air/)
