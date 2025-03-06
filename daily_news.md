@@ -5055,3 +5055,8 @@
 - [DeepSeek-R1-671B-Q4_K_M with 1 or 2 Arc A770 on Xeon](https://github.com/intel/ipex-llm/blob/main/docs/mddocs/Quickstart/llamacpp_portable_zip_gpu_quickstart.md)
 - [Tailscale is pretty useful](https://blog.6nok.org/tailscale-is-pretty-useful/)
 - [Cognitive Behaviors That Enable Self-Improving Reasoners](https://arxiv.org/abs/2503.01307)
+## Afternoon/Evening Digest - 06-03-2025
+
+- [Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust](https://github.com/metacraft-labs/codetracer)
+- [Age and cognitive skills: Use it or lose it](https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R)
+- [Beavers Are Coming Home](https://www.wildlifetrusts.org/news/beavers-are-coming-home)
