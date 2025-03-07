@@ -5060,3 +5060,8 @@
 - [Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust](https://github.com/metacraft-labs/codetracer)
 - [Age and cognitive skills: Use it or lose it](https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R)
 - [Beavers Are Coming Home](https://www.wildlifetrusts.org/news/beavers-are-coming-home)
+## Morning Digest - 07-03-2025
+
+- [Ladder: Self-Improving LLMs Through Recursive Problem Decomposition](https://arxiv.org/abs/2503.00735)
+- [Mistral OCR](https://mistral.ai/fr/news/mistral-ocr)
+- [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn)
