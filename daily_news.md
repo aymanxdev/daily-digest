@@ -5065,3 +5065,8 @@
 - [Ladder: Self-Improving LLMs Through Recursive Problem Decomposition](https://arxiv.org/abs/2503.00735)
 - [Mistral OCR](https://mistral.ai/fr/news/mistral-ocr)
 - [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn)
+## Afternoon/Evening Digest - 07-03-2025
+
+- [Ladder: Self-improving LLMs through recursive problem decomposition](https://arxiv.org/abs/2503.00735)
+- [Mistral OCR](https://mistral.ai/fr/news/mistral-ocr)
+- [Matters Computational (2010) [pdf]](https://www.jjj.de/fxt/fxtbook.pdf)
