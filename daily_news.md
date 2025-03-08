@@ -5070,3 +5070,8 @@
 - [Ladder: Self-improving LLMs through recursive problem decomposition](https://arxiv.org/abs/2503.00735)
 - [Mistral OCR](https://mistral.ai/fr/news/mistral-ocr)
 - [Matters Computational (2010) [pdf]](https://www.jjj.de/fxt/fxtbook.pdf)
+## Morning Digest - 08-03-2025
+
+- [Feds Link $150M Cyberheist to 2022 LastPass Hacks](https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/)
+- [Postgres Just Cracked the Top Fastest Databases for Analytics](https://www.mooncake.dev/blog/clickbench-v0.1)
+- [An epic treatise on error models for systems programming languages](https://typesanitizer.com/blog/errors.html)
