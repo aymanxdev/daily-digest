@@ -5075,3 +5075,8 @@
 - [Feds Link $150M Cyberheist to 2022 LastPass Hacks](https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/)
 - [Postgres Just Cracked the Top Fastest Databases for Analytics](https://www.mooncake.dev/blog/clickbench-v0.1)
 - [An epic treatise on error models for systems programming languages](https://typesanitizer.com/blog/errors.html)
+## Afternoon/Evening Digest - 08-03-2025
+
+- [Discworld Rules](https://contraptions.venkateshrao.com/p/discworld-rules)
+- [Smaller but Better: Unifying Layout Generation with Smaller LLMs](https://arxiv.org/abs/2502.14005)
+- [AI tools are spotting errors in research papers: inside a growing movement](https://www.nature.com/articles/d41586-025-00648-5)
