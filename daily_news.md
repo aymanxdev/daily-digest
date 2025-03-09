@@ -5080,3 +5080,8 @@
 - [Discworld Rules](https://contraptions.venkateshrao.com/p/discworld-rules)
 - [Smaller but Better: Unifying Layout Generation with Smaller LLMs](https://arxiv.org/abs/2502.14005)
 - [AI tools are spotting errors in research papers: inside a growing movement](https://www.nature.com/articles/d41586-025-00648-5)
+## Morning Digest - 09-03-2025
+
+- [My 16-month theanine self-experiment](https://dynomight.net/theanine/)
+- [Goravel: A Go framework inspired by Laravel](https://www.goravel.dev)
+- [Posthog/.cursorrules](https://github.com/PostHog/posthog/blob/master/.cursorrules)
