@@ -5085,3 +5085,8 @@
 - [My 16-month theanine self-experiment](https://dynomight.net/theanine/)
 - [Goravel: A Go framework inspired by Laravel](https://www.goravel.dev)
 - [Posthog/.cursorrules](https://github.com/PostHog/posthog/blob/master/.cursorrules)
+## Afternoon/Evening Digest - 09-03-2025
+
+- [Improving on std:count_if()'s auto-vectorization](https://nicula.xyz/2025/03/08/improving-stdcountif-vectorization.html)
+- [My 16-month theanine self-experiment](https://dynomight.net/theanine/)
+- [US Ends Support For Ukrainian F-16s](https://ukrainetoday.org/us-ends-support-for-ukrainian-f-16s-but-french-mirages-will-be-salvation-forbes/)
