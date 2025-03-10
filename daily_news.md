@@ -5090,3 +5090,8 @@
 - [Improving on std:count_if()'s auto-vectorization](https://nicula.xyz/2025/03/08/improving-stdcountif-vectorization.html)
 - [My 16-month theanine self-experiment](https://dynomight.net/theanine/)
 - [US Ends Support For Ukrainian F-16s](https://ukrainetoday.org/us-ends-support-for-ukrainian-f-16s-but-french-mirages-will-be-salvation-forbes/)
+## Morning Digest - 10-03-2025
+
+- [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/)
+- [Chasing RFI Waves – Part Seven](https://raoulpop.com/2012/04/15/chasing-rfi-waves-part-seven/)
+- [Apple Exclaves](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194)
