@@ -5105,3 +5105,8 @@
 - [ESP32 Undocumented Bluetooth Commands: Clearing the Air](https://developer.espressif.com/blog/2025/03/esp32-bluetooth-clearing-the-air/)
 - [A Supersolid Made Using Photons](https://www.photonicsonline.com/doc/a-super-solid-made-using-pho-tons-0001)
 - [Show HN: Seven39, a social media app that is only open for 3 hours every evening](https://www.seven39.com)
+## Afternoon/Evening Digest - 11-03-2025
+
+- [Show HN: Factorio Learning Environment – Agents Build Factories](https://jackhopkins.github.io/factorio-learning-environment/)
+- [Mapping the University of Chicago's 135-Year Expansion into Hyde Park and Beyond](https://chicagomaroon.github.io/data-visualizations/2025/uchicago-property/)
+- [A 10x Faster TypeScript](https://devblogs.microsoft.com/typescript/typescript-native-port/)
