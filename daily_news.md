@@ -5115,3 +5115,8 @@
 - [Gemma3 – The current strongest model that fits on a single GPU](https://ollama.com/library/gemma3)
 - [I use Cursor daily - here's how I avoid the garbage parts](https://www.nickcraux.com/blog/cursor-tips)
 - [Gemma 3 Technical Report [pdf]](https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf)
+## Afternoon/Evening Digest - 12-03-2025
+
+- [The DuckDB Local UI](https://duckdb.org/2025/03/12/duckdb-ui.html)
+- [Peer-to-peer file transfers in the browser](https://github.com/kern/filepizza)
+- [The Future Is Niri](https://ersei.net/en/blog/niri)
