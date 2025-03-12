@@ -5110,3 +5110,8 @@
 - [Show HN: Factorio Learning Environment – Agents Build Factories](https://jackhopkins.github.io/factorio-learning-environment/)
 - [Mapping the University of Chicago's 135-Year Expansion into Hyde Park and Beyond](https://chicagomaroon.github.io/data-visualizations/2025/uchicago-property/)
 - [A 10x Faster TypeScript](https://devblogs.microsoft.com/typescript/typescript-native-port/)
+## Morning Digest - 12-03-2025
+
+- [Gemma3 – The current strongest model that fits on a single GPU](https://ollama.com/library/gemma3)
+- [I use Cursor daily - here's how I avoid the garbage parts](https://www.nickcraux.com/blog/cursor-tips)
+- [Gemma 3 Technical Report [pdf]](https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf)
