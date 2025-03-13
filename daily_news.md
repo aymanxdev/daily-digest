@@ -5125,3 +5125,8 @@
 - [Cursor told me I should learn coding instead of asking it to generate it](https://forum.cursor.com/t/cursor-told-me-i-should-learn-coding-instead-of-asking-it-to-generate-it-limit-of-800-locs/61132)
 - [Mark Klein, AT&T whistleblower who revealed NSA mass spying, has died](https://www.eff.org/deeplinks/2025/03/memoriam-mark-klein-att-whistleblower-about-nsa-mass-spying)
 - [My teen years: The transputer operating system](https://nanochess.org/transputer_operating_system.html)
+## Afternoon/Evening Digest - 13-03-2025
+
+- [Steam Networks](https://worksinprogress.co/issue/steam-networks/)
+- [Amateur Telescope Making Main Page](https://stellafane.org/tm/atm/)
+- [The Long Flight to Teach an Endangered Ibis Species to Migrate](https://www.newyorker.com/magazine/2025/02/17/the-long-flight-to-teach-an-endangered-ibis-species-to-migrate)
