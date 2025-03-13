@@ -5120,3 +5120,8 @@
 - [The DuckDB Local UI](https://duckdb.org/2025/03/12/duckdb-ui.html)
 - [Peer-to-peer file transfers in the browser](https://github.com/kern/filepizza)
 - [The Future Is Niri](https://ersei.net/en/blog/niri)
+## Morning Digest - 13-03-2025
+
+- [Cursor told me I should learn coding instead of asking it to generate it](https://forum.cursor.com/t/cursor-told-me-i-should-learn-coding-instead-of-asking-it-to-generate-it-limit-of-800-locs/61132)
+- [Mark Klein, AT&T whistleblower who revealed NSA mass spying, has died](https://www.eff.org/deeplinks/2025/03/memoriam-mark-klein-att-whistleblower-about-nsa-mass-spying)
+- [My teen years: The transputer operating system](https://nanochess.org/transputer_operating_system.html)
