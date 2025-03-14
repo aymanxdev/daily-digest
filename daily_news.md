@@ -5130,3 +5130,8 @@
 - [Steam Networks](https://worksinprogress.co/issue/steam-networks/)
 - [Amateur Telescope Making Main Page](https://stellafane.org/tm/atm/)
 - [The Long Flight to Teach an Endangered Ibis Species to Migrate](https://www.newyorker.com/magazine/2025/02/17/the-long-flight-to-teach-an-endangered-ibis-species-to-migrate)
+## Morning Digest - 14-03-2025
+
+- [I-cant-believe-its-not-webusb: Hacking around lack of WebUSB support in Firefox](https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb)
+- [TinyKVM: Fast sandbox that runs on top of Varnish](https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox)
+- [The Lost Art of Logarithms](https://www.lostartoflogarithms.com/)
