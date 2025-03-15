@@ -5145,3 +5145,8 @@
 - [RubyLLM: A delightful Ruby way to work with AI](https://github.com/crmne/ruby_llm)
 - [Transformers Without Normalization](https://jiachenzhu.github.io/DyT/)
 - [Tesla is done in Germany: 94% say they won't buy a Tesla car](https://electrek.co/2025/03/14/tesla-is-done-in-germany-94-say-they-wont-buy-a-tesla-car/)
+## Afternoon/Evening Digest - 15-03-2025
+
+- [Sunset Geometry (2016)](https://www.shapeoperator.com/2016/12/12/sunset-geometry/)
+- [Arbitrary-Scale Super-Resolution with Neural Heat Fields](https://therasr.github.io/)
+- [So Long and Thanks for All the Words: A Toast to Douglas Adams](https://multiverseemployeehandbook.com/blog/adams-birthday-toast/)
