@@ -5150,3 +5150,8 @@
 - [Sunset Geometry (2016)](https://www.shapeoperator.com/2016/12/12/sunset-geometry/)
 - [Arbitrary-Scale Super-Resolution with Neural Heat Fields](https://therasr.github.io/)
 - [So Long and Thanks for All the Words: A Toast to Douglas Adams](https://multiverseemployeehandbook.com/blog/adams-birthday-toast/)
+## Morning Digest - 16-03-2025
+
+- [Generate impressive-looking terminal output, look busy when stakeholders walk by](https://github.com/giacomo-b/rust-stakeholder)
+- [Show HN: Nash, I made a standalone note with single HTML file](https://keepworking.github.io/nash/)
+- [Apple's long-lost hidden recovery partition from 1994 has been found](https://www.downtowndougbrown.com/2025/03/apples-long-lost-hidden-recovery-partition-from-1994-has-been-found/)
