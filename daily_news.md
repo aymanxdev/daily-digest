@@ -5155,3 +5155,8 @@
 - [Generate impressive-looking terminal output, look busy when stakeholders walk by](https://github.com/giacomo-b/rust-stakeholder)
 - [Show HN: Nash, I made a standalone note with single HTML file](https://keepworking.github.io/nash/)
 - [Apple's long-lost hidden recovery partition from 1994 has been found](https://www.downtowndougbrown.com/2025/03/apples-long-lost-hidden-recovery-partition-from-1994-has-been-found/)
+## Afternoon/Evening Digest - 16-03-2025
+
+- [Docs – Open source alternative to Notion or Outline](https://github.com/suitenumerique/docs)
+- [DiceDB](https://dicedb.io/)
+- [Learn You Some Erlang for Great Good (2013)](https://learnyousomeerlang.com/content)
