@@ -5160,3 +5160,8 @@
 - [Docs – Open source alternative to Notion or Outline](https://github.com/suitenumerique/docs)
 - [DiceDB](https://dicedb.io/)
 - [Learn You Some Erlang for Great Good (2013)](https://learnyousomeerlang.com/content)
+## Morning Digest - 17-03-2025
+
+- [The Alexa feature "Do Not Send Voice Recordings" you enabled no longer available](https://discuss.systems/@dev/114161826926246661)
+- [Sunsetting Whois](https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en)
+- [The exceptional Jordan algebra (2020)](https://cp4space.hatsya.com/2020/10/28/the-exceptional-jordan-algebra/)
