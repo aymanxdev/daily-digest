@@ -5175,3 +5175,8 @@
 - [Moving away from US cloud services](https://martijnhols.nl/blog/moving-away-from-us-cloud-services)
 - [Extracting DNA from the air – DNA evidence of human occupancy in indoor premises](https://www.nature.com/articles/s41598-023-46151-7)
 - [GIMP 3.0](https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/)
+## Afternoon/Evening Digest - 18-03-2025
+
+- [Google announces agreement to acquire Wiz](https://blog.google/inside-google/company-announcements/google-agreement-acquire-wiz/)
+- [Wired is dropping paywalls for FOIA-based reporting. Others should follow](https://freedom.press/issues/wired-is-dropping-paywalls-for-foia-based-reporting-others-should-follow/)
+- [The Model Is the Product](https://vintagedata.org/blog/posts/model-is-the-product)
