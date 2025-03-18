@@ -5170,3 +5170,8 @@
 - [HTTP/3 is everywhere but nowhere](https://httptoolkit.com/blog/http3-quic-open-source-support-nowhere/)
 - [Launching RDAP; sunsetting WHOIS](https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en)
 - [Ogres Are Cool](https://www.lrb.co.uk/the-paper/v47/n05/colin-burrow/ogres-are-cool)
+## Morning Digest - 18-03-2025
+
+- [Moving away from US cloud services](https://martijnhols.nl/blog/moving-away-from-us-cloud-services)
+- [Extracting DNA from the air – DNA evidence of human occupancy in indoor premises](https://www.nature.com/articles/s41598-023-46151-7)
+- [GIMP 3.0](https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/)
