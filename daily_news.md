@@ -5185,3 +5185,8 @@
 - [Crew-9 Returns to Earth](https://www.spacex.com/launches/mission/?missionId=crew-9-return)
 - [Two new PebbleOS watches](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches/)
 - [Make Ubuntu packages 90% faster by rebuilding them](https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097)
+## Afternoon/Evening Digest - 19-03-2025
+
+- [The Lost Art of Research as Leisure](https://kasurian.com/p/research-as-leisure)
+- [fd: A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd)
+- [The Origin of the Pork Taboo](https://archaeology.org/issues/march-april-2025/letters-from/on-the-origin-of-the-pork-taboo/)
