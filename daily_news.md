@@ -5195,3 +5195,8 @@
 - [Minding the gaps: A new way to draw separators in CSS](https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/)
 - [How I accepted myself into Canada's largest AI hackathon](https://fastcall.dev/posts/genai-genesis-firebase/)
 - [Idiomatic Rust](https://a-i-nstein.neocities.org/)
+## Afternoon/Evening Digest - 20-03-2025
+
+- [FOSS infrastructure is under attack by AI companies](https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/)
+- [Powers of 2 with all even digits](https://oeis.org/A068994)
+- [The Last Drops of Mexico City](https://mexicocitywater.longlead.com)
