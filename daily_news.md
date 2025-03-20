@@ -5190,3 +5190,8 @@
 - [The Lost Art of Research as Leisure](https://kasurian.com/p/research-as-leisure)
 - [fd: A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd)
 - [The Origin of the Pork Taboo](https://archaeology.org/issues/march-april-2025/letters-from/on-the-origin-of-the-pork-taboo/)
+## Morning Digest - 20-03-2025
+
+- [Minding the gaps: A new way to draw separators in CSS](https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/)
+- [How I accepted myself into Canada's largest AI hackathon](https://fastcall.dev/posts/genai-genesis-firebase/)
+- [Idiomatic Rust](https://a-i-nstein.neocities.org/)
