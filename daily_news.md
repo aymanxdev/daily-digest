@@ -5200,3 +5200,8 @@
 - [FOSS infrastructure is under attack by AI companies](https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/)
 - [Powers of 2 with all even digits](https://oeis.org/A068994)
 - [The Last Drops of Mexico City](https://mexicocitywater.longlead.com)
+## Morning Digest - 21-03-2025
+
+- [Claude can now search the web](https://www.anthropic.com/news/web-search)
+- [The indieweb doesn't need to “take off”](https://susam.net/indieweb-does-not-need-to-take-off.html)
+- [Not dropping RISC-V support after all, maybe](https://chimera-linux.org/news/2025/03/new-riscv-server.html)
