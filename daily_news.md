@@ -5205,3 +5205,8 @@
 - [Claude can now search the web](https://www.anthropic.com/news/web-search)
 - [The indieweb doesn't need to “take off”](https://susam.net/indieweb-does-not-need-to-take-off.html)
 - [Not dropping RISC-V support after all, maybe](https://chimera-linux.org/news/2025/03/new-riscv-server.html)
+## Afternoon/Evening Digest - 21-03-2025
+
+- [Wheel Reinventor’s Principles (2024)](https://tobloef.com/blog/wheel-reinventors-principles/)
+- [Career Development: What It Means to Be a Manager, Director, or VP (2015)](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/)
+- [Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch](https://victorpoughon.github.io/torchlensmaker/)
