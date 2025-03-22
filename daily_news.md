@@ -5215,3 +5215,8 @@
 - [Monster Cables picked the wrong guy to threaten (2008)](https://www.oncontracts.com/monster-cables-picked-the-wrong-guy-to-threaten/)
 - [Crabtime: Zig's Comptime in Rust](https://crates.io/crates/crabtime)
 - [Scallop – A Language for Neurosymbolic Programming](https://www.scallop-lang.org/)
+## Afternoon/Evening Digest - 22-03-2025
+
+- [Show HN: FastOpenAPI – automated docs for many Python frameworks](https://github.com/mr-fatalyst/fastopenapi)
+- [Crabtime: Zig’s Comptime in Rust](https://crates.io/crates/crabtime)
+- [Monster Cables picked the wrong guy to threaten (2008)](https://www.oncontracts.com/monster-cables-picked-the-wrong-guy-to-threaten/)
