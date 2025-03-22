@@ -5210,3 +5210,8 @@
 - [Wheel Reinventor’s Principles (2024)](https://tobloef.com/blog/wheel-reinventors-principles/)
 - [Career Development: What It Means to Be a Manager, Director, or VP (2015)](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/)
 - [Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch](https://victorpoughon.github.io/torchlensmaker/)
+## Morning Digest - 22-03-2025
+
+- [Monster Cables picked the wrong guy to threaten (2008)](https://www.oncontracts.com/monster-cables-picked-the-wrong-guy-to-threaten/)
+- [Crabtime: Zig's Comptime in Rust](https://crates.io/crates/crabtime)
+- [Scallop – A Language for Neurosymbolic Programming](https://www.scallop-lang.org/)
