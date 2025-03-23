@@ -5220,3 +5220,8 @@
 - [Show HN: FastOpenAPI – automated docs for many Python frameworks](https://github.com/mr-fatalyst/fastopenapi)
 - [Crabtime: Zig’s Comptime in Rust](https://crates.io/crates/crabtime)
 - [Monster Cables picked the wrong guy to threaten (2008)](https://www.oncontracts.com/monster-cables-picked-the-wrong-guy-to-threaten/)
+## Morning Digest - 23-03-2025
+
+- [Improving Recommendation Systems & Search in the Age of LLMs](https://eugeneyan.com/writing/recsys-llm/)
+- [ChatGPT can't kill anything worth preserving](https://biblioracle.substack.com/p/chatgpt-cant-kill-anything-worth)
+- [NixOS and reproducible builds could have detected the xz backdoor](https://luj.fr/blog/how-nixos-could-have-detected-xz.html)
