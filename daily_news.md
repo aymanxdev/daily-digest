@@ -5225,3 +5225,8 @@
 - [Improving Recommendation Systems & Search in the Age of LLMs](https://eugeneyan.com/writing/recsys-llm/)
 - [ChatGPT can't kill anything worth preserving](https://biblioracle.substack.com/p/chatgpt-cant-kill-anything-worth)
 - [NixOS and reproducible builds could have detected the xz backdoor](https://luj.fr/blog/how-nixos-could-have-detected-xz.html)
+## Morning Digest - 24-03-2025
+
+- [Did you spot a fish? Press the Fish Doorbell](https://visdeurbel.nl/en/)
+- [Project Aardvark: reimagining AI weather prediction](https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction)
+- [RDNA 4's “Out-of-Order” Memory Accesses](https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses)
