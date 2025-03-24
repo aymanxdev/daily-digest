@@ -5230,3 +5230,8 @@
 - [Did you spot a fish? Press the Fish Doorbell](https://visdeurbel.nl/en/)
 - [Project Aardvark: reimagining AI weather prediction](https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction)
 - [RDNA 4's “Out-of-Order” Memory Accesses](https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses)
+## Afternoon/Evening Digest - 24-03-2025
+
+- [The Great Hobby Lobby Artifact Heist](https://meghanboilard.substack.com/p/the-great-hobby-lobby-artifact-heist)
+- [Triforce – a beamformer for Apple Silicon laptops](https://crates.io/crates/triforce-lv2)
+- [Rickover's Lessons](https://www.chinatalk.media/p/rickovers-lessons-how-to-build-a)
