@@ -5235,3 +5235,8 @@
 - [The Great Hobby Lobby Artifact Heist](https://meghanboilard.substack.com/p/the-great-hobby-lobby-artifact-heist)
 - [Triforce – a beamformer for Apple Silicon laptops](https://crates.io/crates/triforce-lv2)
 - [Rickover's Lessons](https://www.chinatalk.media/p/rickovers-lessons-how-to-build-a)
+## Morning Digest - 25-03-2025
+
+- [Writing your own C++ standard library from scratch](https://nibblestew.blogspot.com/2025/03/writing-your-own-c-standard-library.html)
+- [German parliament votes as a Git contribution graph](https://abstimmung.eu/git/2024)
+- [Status as a Service (2019)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
