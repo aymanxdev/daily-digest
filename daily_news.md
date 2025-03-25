@@ -5240,3 +5240,8 @@
 - [Writing your own C++ standard library from scratch](https://nibblestew.blogspot.com/2025/03/writing-your-own-c-standard-library.html)
 - [German parliament votes as a Git contribution graph](https://abstimmung.eu/git/2024)
 - [Status as a Service (2019)](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
+## Afternoon/Evening Digest - 25-03-2025
+
+- [VGGT: Visual Geometry Grounded Transformer](https://github.com/facebookresearch/vggt)
+- [Polypane, The browser for ambitious web developers](https://polypane.app/)
+- [Hann: A Fast Approximate Nearest Neighbor Search Library for Go](https://github.com/habedi/hann)
