@@ -5245,3 +5245,8 @@
 - [VGGT: Visual Geometry Grounded Transformer](https://github.com/facebookresearch/vggt)
 - [Polypane, The browser for ambitious web developers](https://polypane.app/)
 - [Hann: A Fast Approximate Nearest Neighbor Search Library for Go](https://github.com/habedi/hann)
+## Morning Digest - 26-03-2025
+
+- [Coordinating the Superbowl's visual fidelity with Elixir](https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/)
+- [Stoop Coffee: A simple idea transformed my neighborhood](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed)
+- [Evolving Scala](https://www.scala-lang.org/blog/2025/03/24/evolving-scala.html)
