@@ -5250,3 +5250,8 @@
 - [Coordinating the Superbowl's visual fidelity with Elixir](https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/)
 - [Stoop Coffee: A simple idea transformed my neighborhood](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed)
 - [Evolving Scala](https://www.scala-lang.org/blog/2025/03/24/evolving-scala.html)
+## Afternoon/Evening Digest - 26-03-2025
+
+- [Coordinating the Superbowl's visual fidelity with Elixir](https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/)
+- [Stoop Coffee: A simple idea transformed my neighborhood](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed)
+- [Heap-overflowing Llama.cpp to RCE](https://retr0.blog/blog/llama-rpc-rce)
