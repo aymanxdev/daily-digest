@@ -5260,3 +5260,8 @@
 - [Blender releases their Oscar winning version tool](https://www.blender.org/download/releases/4-4/)
 - [OpenAI adds MCP support to Agents SDK](https://openai.github.io/openai-agents-python/mcp/)
 - [Debian bookworm live images now reproducible](https://lwn.net/Articles/1015402/)
+## Afternoon/Evening Digest - 27-03-2025
+
+- [Piranesi's Perspective Trick (2019)](https://medium.com/@brunopostle/piranesis-perspective-trick-6bcd7a754da9)
+- [Blasting Past WebP - An analysis of the NSO BLASTPASS iMessage exploit](https://googleprojectzero.blogspot.com/2025/03/blasting-past-webp.html)
+- [A filmmaker and a crooked lawyer shattered Denmark's self-image](https://www.theguardian.com/world/2025/mar/27/black-swan-denmark-documentary-mads-brugger-amira-smajic)
