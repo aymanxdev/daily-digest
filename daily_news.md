@@ -5255,3 +5255,8 @@
 - [Coordinating the Superbowl's visual fidelity with Elixir](https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/)
 - [Stoop Coffee: A simple idea transformed my neighborhood](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed)
 - [Heap-overflowing Llama.cpp to RCE](https://retr0.blog/blog/llama-rpc-rce)
+## Morning Digest - 27-03-2025
+
+- [Blender releases their Oscar winning version tool](https://www.blender.org/download/releases/4-4/)
+- [OpenAI adds MCP support to Agents SDK](https://openai.github.io/openai-agents-python/mcp/)
+- [Debian bookworm live images now reproducible](https://lwn.net/Articles/1015402/)
