@@ -5265,3 +5265,8 @@
 - [Piranesi's Perspective Trick (2019)](https://medium.com/@brunopostle/piranesis-perspective-trick-6bcd7a754da9)
 - [Blasting Past WebP - An analysis of the NSO BLASTPASS iMessage exploit](https://googleprojectzero.blogspot.com/2025/03/blasting-past-webp.html)
 - [A filmmaker and a crooked lawyer shattered Denmark's self-image](https://www.theguardian.com/world/2025/mar/27/black-swan-denmark-documentary-mads-brugger-amira-smajic)
+## Morning Digest - 28-03-2025
+
+- [Apple needs a Snow Sequoia](https://reviews.ofb.biz/safari/article/1300.html)
+- [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html)
+- [A decompilation and port of Sonic Advance 2-a GameBoy Advance game written in C](https://github.com/SAT-R/sa2)
