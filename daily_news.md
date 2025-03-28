@@ -5270,3 +5270,8 @@
 - [Apple needs a Snow Sequoia](https://reviews.ofb.biz/safari/article/1300.html)
 - [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html)
 - [A decompilation and port of Sonic Advance 2-a GameBoy Advance game written in C](https://github.com/SAT-R/sa2)
+## Afternoon/Evening Digest - 28-03-2025
+
+- [Getting hit by lightning is good for some tropical trees](https://www.caryinstitute.org/news-insights/press-release/getting-hit-lightning-good-some-tropical-trees)
+- [Preschoolers can reason better than we think, study suggests](https://phys.org/news/2025-03-preschoolers.html)
+- [Cross-Platform P2P Wi-Fi: How the EU Killed AWDL](https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl)
