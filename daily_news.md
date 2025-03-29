@@ -5280,3 +5280,8 @@
 - [OpenWrt Two Approval](https://openwrt.org/voting/2025-02-12-openwrt-two)
 - [Mathematical Compact Models of Advanced Transistors [pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-24.pdf)
 - [Plain – a web framework for building products with Python](https://plainframework.com/)
+## Afternoon/Evening Digest - 29-03-2025
+
+- [Show HN: Physical Pomodoro Timer with ESP32 and e-paper screen](https://github.com/Rukenshia/pomodoro)
+- [Chimpanzees act as 'engineers', choosing materials to make tools](https://www.sciencedaily.com/releases/2025/03/250324142002.htm)
+- [Plain – a web framework for building products with Python](https://plainframework.com/)
