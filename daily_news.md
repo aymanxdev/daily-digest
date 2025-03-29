@@ -5275,3 +5275,8 @@
 - [Getting hit by lightning is good for some tropical trees](https://www.caryinstitute.org/news-insights/press-release/getting-hit-lightning-good-some-tropical-trees)
 - [Preschoolers can reason better than we think, study suggests](https://phys.org/news/2025-03-preschoolers.html)
 - [Cross-Platform P2P Wi-Fi: How the EU Killed AWDL](https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl)
+## Morning Digest - 29-03-2025
+
+- [OpenWrt Two Approval](https://openwrt.org/voting/2025-02-12-openwrt-two)
+- [Mathematical Compact Models of Advanced Transistors [pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-24.pdf)
+- [Plain – a web framework for building products with Python](https://plainframework.com/)
