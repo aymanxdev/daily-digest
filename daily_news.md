@@ -5290,3 +5290,8 @@
 - [Everyone knows all the apps on your phone](https://peabee.substack.com/p/everyone-knows-what-apps-you-use)
 - [Bringing Record and Replay debugging everywhere on Linux](https://github.com/sidkshatriya/me/blob/master/008-rr-everywhere.md)
 - [Just Write a Test for It](https://kobzol.github.io/rust/2025/03/25/just-write-a-test-for-it.html)
+## Afternoon/Evening Digest - 30-03-2025
+
+- [Hacker Laws](https://hacker-laws.com/)
+- [USGS: M 7.1 Earthquake – 90 km SE of Pangai, Tonga](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pntq/executive)
+- [Rust Any part 3: we have upcasts](https://lucumr.pocoo.org/2025/3/27/any-upcast/)
