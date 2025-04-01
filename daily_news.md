@@ -5305,3 +5305,8 @@
 - [The demoscene as a UNESCO heritage in Sweden](https://www.goto80.com/the-demoscene-as-a-unesco-heritage-in-sweden)
 - [Gemini 2.5 Pro vs. Claude 3.7 Sonnet: Coding Comparison](https://composio.dev/blog/gemini-2-5-pro-vs-claude-3-7-sonnet-coding-comparison/)
 - [AI Agents: Less Capability, More Reliability, Please](https://www.sergey.fyi/articles/reliability-vs-capability)
+## Morning Digest - 01-04-2025
+
+- [Show HN: Nue – Apps lighter than a React button](https://nuejs.org/blog/large-scale-apps/)
+- [Show HN: Duolingo-style exercises but with real-world content like the news](https://app.fluentsubs.com/exercises/daily)
+- [The case against conversational interfaces](https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/)
