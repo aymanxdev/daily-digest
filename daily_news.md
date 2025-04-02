@@ -5315,3 +5315,8 @@
 - [Electron Band Structure in Germanium, My Ass](https://pages.cs.wisc.edu/~kovar/hall.html)
 - [Bletchley code breaker Betty Webb dies aged 101](https://www.bbc.com/news/articles/c78jd30ywv8o)
 - [Why F#?](https://batsov.com/articles/2025/03/30/why-fsharp/)
+## Morning Digest - 02-04-2025
+
+- [Stop syncing everything](https://sqlsync.dev/posts/stop-syncing-everything/)
+- [A 6-Hour Time-Stretched Version of Brian Eno's Music for Airports](https://www.openculture.com/2025/03/a-6-hour-time-stretched-version-of-brian-enos-music-for-airports.html)
+- [DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit](https://github.com/dfd-tud/deda)
