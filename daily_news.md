@@ -5320,3 +5320,8 @@
 - [Stop syncing everything](https://sqlsync.dev/posts/stop-syncing-everything/)
 - [A 6-Hour Time-Stretched Version of Brian Eno's Music for Airports](https://www.openculture.com/2025/03/a-6-hour-time-stretched-version-of-brian-enos-music-for-airports.html)
 - [DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit](https://github.com/dfd-tud/deda)
+## Afternoon/Evening Digest - 02-04-2025
+
+- [Measuring Acceleration Structures](https://zeux.io/2025/03/31/measuring-acceleration-structures/)
+- [Stop syncing everything](https://sqlsync.dev/posts/stop-syncing-everything/)
+- [Coffea stenophylla: A forgotten bean that could save coffee from extinction](https://www.smithsonianmag.com/science-nature/how-forgotten-bean-could-save-coffee-from-extinction-180986230/)
