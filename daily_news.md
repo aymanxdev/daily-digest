@@ -5325,3 +5325,8 @@
 - [Measuring Acceleration Structures](https://zeux.io/2025/03/31/measuring-acceleration-structures/)
 - [Stop syncing everything](https://sqlsync.dev/posts/stop-syncing-everything/)
 - [Coffea stenophylla: A forgotten bean that could save coffee from extinction](https://www.smithsonianmag.com/science-nature/how-forgotten-bean-could-save-coffee-from-extinction-180986230/)
+## Afternoon/Evening Digest - 03-04-2025
+
+- [Overengineered Anchor Links](https://thirty-five.com/overengineered-anchoring)
+- [Show HN: OpenNutrition – A free, public nutrition database](https://www.opennutrition.app/search)
+- [I maintain a 17 year old ThinkPad](https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/)
