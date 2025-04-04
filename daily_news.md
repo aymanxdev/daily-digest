@@ -5330,3 +5330,8 @@
 - [Overengineered Anchor Links](https://thirty-five.com/overengineered-anchoring)
 - [Show HN: OpenNutrition – A free, public nutrition database](https://www.opennutrition.app/search)
 - [I maintain a 17 year old ThinkPad](https://pilledtexts.com/why-i-use-a-17-year-old-thinkpad/)
+## Morning Digest - 04-04-2025
+
+- [An image of an archeologist adventurer who wears a hat and uses a bullwhip](https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer)
+- [New antibiotic that kills drug-resistant bacteria found in technician's garden](https://www.nature.com/articles/d41586-025-00945-z)
+- [Build an 8-bit computer from scratch](https://eater.net/8bit/)
