@@ -5345,3 +5345,8 @@
 - [Nebula Sans](https://nebulasans.com/)
 - [Learn electricity and electronics fundamentals without taking a formal course](https://simonmonk.org/tyee7)
 - [Show HN: OCR pipeline for ML training (tables, diagrams, math, multilingual)](https://github.com/ses4255/Versatile-OCR-Program)
+## Afternoon/Evening Digest - 05-04-2025
+
+- [A Vision for WebAssembly Support in Swift](https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060)
+- [Compilers: Incrementally and Extensibly](https://okmij.org/ftp/tagless-final/Compiler/index.html)
+- [Emulating an iPhone in QEMU](https://eshard.com/posts/emulating-ios-14-with-qemu)
