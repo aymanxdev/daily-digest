@@ -5340,3 +5340,8 @@
 - [An image of an archeologist adventurer who wears a hat and uses a bullwhip](https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer)
 - [New antibiotic that kills drug-resistant bacteria found in technician's garden](https://www.nature.com/articles/d41586-025-00945-z)
 - [Study finds solo music listening boosts social well-being](https://phys.org/news/2025-03-solo-music-boosts-social.html)
+## Morning Digest - 05-04-2025
+
+- [Nebula Sans](https://nebulasans.com/)
+- [Learn electricity and electronics fundamentals without taking a formal course](https://simonmonk.org/tyee7)
+- [Show HN: OCR pipeline for ML training (tables, diagrams, math, multilingual)](https://github.com/ses4255/Versatile-OCR-Program)
