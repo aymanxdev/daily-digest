@@ -5350,3 +5350,8 @@
 - [A Vision for WebAssembly Support in Swift](https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060)
 - [Compilers: Incrementally and Extensibly](https://okmij.org/ftp/tagless-final/Compiler/index.html)
 - [Emulating an iPhone in QEMU](https://eshard.com/posts/emulating-ios-14-with-qemu)
+## Morning Digest - 06-04-2025
+
+- [Apple’s Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
+- [The order of files in /etc/ssh/sshd_config.d/ matters](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHConfigOrderMatters)
+- [The ADHD body double: A unique tool for getting things done](https://add.org/the-body-double/)
