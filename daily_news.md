@@ -5365,3 +5365,8 @@
 - [Rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
 - [AI masters Minecraft: DeepMind program finds diamonds without being taught](https://www.nature.com/articles/d41586-025-01019-w)
 - [Glamorous Toolkit](https://gtoolkit.com//)
+## Afternoon/Evening Digest - 07-04-2025
+
+- [Decoding the 90s: Cryptography in Early Software Development (2023)](https://www.botanica.software/post/decoding-the-90s)
+- [Your Startup Doesn't Need to Be a Unicorn](https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a)
+- [Rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
