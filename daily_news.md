@@ -5360,3 +5360,8 @@
 - [Standard Ebooks: liberated ebooks, carefully produced for the true book lover](https://standardebooks.org)
 - [The "S" in MCP Stands for Security](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
 - [Self-Driving Teslas Are Fatally Rear-Ending Motorcyclists More Than Any Other](https://fuelarc.com/news-and-features/self-driving-teslas-are-fatally-striking-motorcyclists-more-than-any-other-brand-new-analysis/)
+## Morning Digest - 07-04-2025
+
+- [Rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
+- [AI masters Minecraft: DeepMind program finds diamonds without being taught](https://www.nature.com/articles/d41586-025-01019-w)
+- [Glamorous Toolkit](https://gtoolkit.com//)
