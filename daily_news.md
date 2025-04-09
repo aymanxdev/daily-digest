@@ -5385,3 +5385,8 @@
 - [The best programmers I know](https://endler.dev/2025/best-programmers/)
 - [Apache ECharts](https://echarts.apache.org/en/index.html)
 - [PostgreSQL Full-Text Search: Fast When Done Right (Debunking the Slow Myth)](https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth)
+## Afternoon/Evening Digest - 09-04-2025
+
+- [The Agent2Agent Protocol (A2A)](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+- [Quality-of-Life in Tetris Games](https://jcarlosroldan.com/post/355)
+- [Ironwood: The first Google TPU for the age of inference](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/)
