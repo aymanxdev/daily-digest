@@ -5390,3 +5390,8 @@
 - [The Agent2Agent Protocol (A2A)](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
 - [Quality-of-Life in Tetris Games](https://jcarlosroldan.com/post/355)
 - [Ironwood: The first Google TPU for the age of inference](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/)
+## Morning Digest - 10-04-2025
+
+- [Hunt for Red October 1990 (2016)](http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html)
+- [LLM Benchmark for 'Longform Creative Writing'](https://eqbench.com/creative_writing_longform.html)
+- [Learning to Program with Haiku](https://www.haiku-os.org/development/learning_to_program_with_haiku)
