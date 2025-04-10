@@ -5395,3 +5395,8 @@
 - [Hunt for Red October 1990 (2016)](http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html)
 - [LLM Benchmark for 'Longform Creative Writing'](https://eqbench.com/creative_writing_longform.html)
 - [Learning to Program with Haiku](https://www.haiku-os.org/development/learning_to_program_with_haiku)
+## Afternoon/Evening Digest - 10-04-2025
+
+- [.localhost Domains](https://inclouds.space/localhost-domains)
+- [Hacker News Hug of Deaf](https://susam.net/hn-bell.html)
+- [Hunt for Red October 1990 (2016)](http://www.modelshipsinthecinema.com/2016/12/hunt-for-red-october-1990.html)
