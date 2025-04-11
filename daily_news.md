@@ -5405,3 +5405,8 @@
 - [Live Map of the London Underground](https://www.londonunderground.live/)
 - [Playing in the Creek](https://www.lesswrong.com/posts/rLucLvwKoLdHSBTAn/playing-in-the-creek)
 - [Default styles for h1 elements are changing](https://developer.mozilla.org/en-US/blog/h1-element-styles/)
+## Afternoon/Evening Digest - 11-04-2025
+
+- [But what if I want a faster horse?](https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse)
+- [Fedora change aims for 99% package reproducibility](https://lwn.net/Articles/1014979/)
+- [Live Map of the London Underground](https://www.londonunderground.live/)
