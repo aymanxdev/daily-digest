@@ -5410,3 +5410,8 @@
 - [But what if I want a faster horse?](https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse)
 - [Fedora change aims for 99% package reproducibility](https://lwn.net/Articles/1014979/)
 - [Live Map of the London Underground](https://www.londonunderground.live/)
+## Morning Digest - 12-04-2025
+
+- [$70M in 60 Seconds: How Insider Info Helped Someone 28x Their Money](https://data-and-politics.ghost.io/70-million-in-60-seconds-how-insider-information-helped-someone-28x-their-money/)
+- [Google Is Winning on Every AI Front](https://www.thealgorithmicbridge.com/p/google-is-winning-on-every-ai-front)
+- [Rust to C compiler – 95.9% test pass rate, odd platforms](https://fractalfir.github.io/generated_html/cg_clr_odd_platforms.html)
