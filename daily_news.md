@@ -5425,3 +5425,8 @@
 - [Experimental release of GrapheneOS for Pixel 9a](https://grapheneos.social/@GrapheneOS/114327666433966529)
 - [Too many adults are absolutely clueless](https://www.economist.com/culture/2025/04/10/too-many-adults-are-absolutely-clueless)
 - [BPS is a GPS alternative that nobody's heard of](https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard)
+## Afternoon/Evening Digest - 13-04-2025
+
+- [The Dark Side of the Moomins](https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson)
+- [Whenever – typed and DST-safe datetimes for Python](https://github.com/ariebovenberg/whenever)
+- [Wasting Inferences with Aider](https://worksonmymachine.substack.com/p/wasting-inferences-with-aider)
