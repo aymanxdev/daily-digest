@@ -5420,3 +5420,8 @@
 - [Open source and self hostable/private file converter](https://vert.sh)
 - [Charts.css](https://chartscss.org/)
 - [Google will let companies run Gemini models in their own data centers](https://www.cnbc.com/2025/04/09/google-will-let-companies-run-gemini-models-in-their-own-data-centers.html)
+## Morning Digest - 13-04-2025
+
+- [Experimental release of GrapheneOS for Pixel 9a](https://grapheneos.social/@GrapheneOS/114327666433966529)
+- [Too many adults are absolutely clueless](https://www.economist.com/culture/2025/04/10/too-many-adults-are-absolutely-clueless)
+- [BPS is a GPS alternative that nobody's heard of](https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard)
