@@ -5435,3 +5435,8 @@
 - [Albert Einstein's theory of relativity in words of four letters or less](https://www.muppetlabs.com/~breadbox/txt/al.html)
 - [Show HN: Resurrecting Infocom's Unix Z-Machine with Cosmopolitan](https://christopherdrum.github.io/posts/2025/04/porting-infocom-with-cosmo)
 - [Everything wrong with MCP](https://blog.sshh.io/p/everything-wrong-with-mcp)
+## Afternoon/Evening Digest - 14-04-2025
+
+- [A hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs)
+- [Kezurou-Kai #39](https://www.bigsandwoodworking.com/kezurou-kai-39/)
+- [Hacktical C: practical hacker's guide to the C programming language](https://github.com/codr7/hacktical-c)
