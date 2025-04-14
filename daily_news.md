@@ -5430,3 +5430,8 @@
 - [The Dark Side of the Moomins](https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson)
 - [Whenever – typed and DST-safe datetimes for Python](https://github.com/ariebovenberg/whenever)
 - [Wasting Inferences with Aider](https://worksonmymachine.substack.com/p/wasting-inferences-with-aider)
+## Morning Digest - 14-04-2025
+
+- [Albert Einstein's theory of relativity in words of four letters or less](https://www.muppetlabs.com/~breadbox/txt/al.html)
+- [Show HN: Resurrecting Infocom's Unix Z-Machine with Cosmopolitan](https://christopherdrum.github.io/posts/2025/04/porting-infocom-with-cosmo)
+- [Everything wrong with MCP](https://blog.sshh.io/p/everything-wrong-with-mcp)
