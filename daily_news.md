@@ -5440,3 +5440,8 @@
 - [A hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs)
 - [Kezurou-Kai #39](https://www.bigsandwoodworking.com/kezurou-kai-39/)
 - [Hacktical C: practical hacker's guide to the C programming language](https://github.com/codr7/hacktical-c)
+## Morning Digest - 15-04-2025
+
+- [Hacking a Smart Home Device (2024)](https://jmswrnr.com/blog/hacking-a-smart-home-device)
+- [Show HN: MCP-Shield – Detect security issues in MCP servers](https://github.com/riseandignite/mcp-shield)
+- [Behind the 6-digit code: Building HOTP and TOTP from scratch](https://blog.dogac.dev/how-do-one-time-passwords-work/)
