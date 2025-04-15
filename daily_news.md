@@ -5445,3 +5445,8 @@
 - [Hacking a Smart Home Device (2024)](https://jmswrnr.com/blog/hacking-a-smart-home-device)
 - [Show HN: MCP-Shield – Detect security issues in MCP servers](https://github.com/riseandignite/mcp-shield)
 - [Behind the 6-digit code: Building HOTP and TOTP from scratch](https://blog.dogac.dev/how-do-one-time-passwords-work/)
+## Afternoon/Evening Digest - 15-04-2025
+
+- [Philosophy Major Snatched by ICE During Citizenship Interview](https://dailynous.com/2025/04/15/philosophy-major-snatched-by-ice-during-citizenship-interview/)
+- [Hacking the Postgres Wire Protocol](https://pgdog.dev/blog/hacking-postgres-wire-protocol)
+- [Teuken-7B-Base and Teuken-7B-Instruct: Towards European LLMs](https://arxiv.org/abs/2410.03730)
