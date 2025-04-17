@@ -5465,3 +5465,8 @@
 - [Zoom outage caused by accidental 'shutting down' of the zoom.us domain](https://status.zoom.us/incidents/pw9r9vnq5rvk)
 - [Passing planes and other whoosh sounds](https://www.windytan.com/2025/04/passing-planes-and-other-whoosh-sounds.html)
 - [Astronomers have found signs of alien life on a planet beyond our Solar System](https://www.skyatnightmagazine.com/news/k2-18b-dimethyl-sulfide)
+## Afternoon/Evening Digest - 17-04-2025
+
+- [An Intro to DeepSeek's Distributed File System](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
+- [TikTok Is Harming Children at an Industrial Scale](https://www.afterbabel.com/p/industrial-scale-harm-tiktok)
+- [Unauthenticated Remote Code Execution in Erlang/OTP SSH](https://nvd.nist.gov/vuln/detail/CVE-2025-32433)
