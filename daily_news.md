@@ -5470,3 +5470,8 @@
 - [An Intro to DeepSeek's Distributed File System](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
 - [TikTok Is Harming Children at an Industrial Scale](https://www.afterbabel.com/p/industrial-scale-harm-tiktok)
 - [Unauthenticated Remote Code Execution in Erlang/OTP SSH](https://nvd.nist.gov/vuln/detail/CVE-2025-32433)
+## Morning Digest - 18-04-2025
+
+- [Kagi Assistant is now available to all users](https://blog.kagi.com/assistant-for-all)
+- [I gave up on self-hosted Sentry](https://www.bugsink.com/blog/why-i-gave-up-on-self-hosted-sentry/)
+- [Gemini 2.5 Flash](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/)
