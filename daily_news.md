@@ -5475,3 +5475,8 @@
 - [Kagi Assistant is now available to all users](https://blog.kagi.com/assistant-for-all)
 - [I gave up on self-hosted Sentry](https://www.bugsink.com/blog/why-i-gave-up-on-self-hosted-sentry/)
 - [Gemini 2.5 Flash](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/)
+## Afternoon/Evening Digest - 18-04-2025
+
+- [A New ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
+- [Defold: cross-platform game engine](https://defold.com)
+- [Show HN: Less Slow C++](https://github.com/ashvardanian/less_slow.cpp)
