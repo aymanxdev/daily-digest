@@ -5485,3 +5485,8 @@
 - [Show HN: New world record – verified Goldbach Conjecture up to 4*10^18+7*10^13](https://medium.com/@jay_gridbach/grid-computing-shatters-world-record-for-goldbach-conjecture-verification-1ef3dc58a38d)
 - [A Map of British Dialects](https://starkeycomics.com/2023/11/07/map-of-british-english-dialects/)
 - [Cozy video games can quell stress and anxiety](https://www.reuters.com/business/retail-consumer/cozy-video-games-can-quell-stress-anxiety-2025-01-27/)
+## Afternoon/Evening Digest - 19-04-2025
+
+- [Packing Input Frame Context in Next-Frame Prediction Models for Video Generation](https://lllyasviel.github.io/frame_pack_gitpage/)
+- [Open Source DMR Modem Implementation in SDR with GNU Radio and Codec2](https://qradiolink.org/open-source-DMR-transceiver-implementation.html)
+- [A Map of British Dialects (2023)](https://starkeycomics.com/2023/11/07/map-of-british-english-dialects/)
