@@ -5495,3 +5495,8 @@
 - [Which year: guess which year each photo was taken](https://whichyr.com/)
 - [100 Years to Solve an Integral (2020)](https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html)
 - [Raspberry Pi Lidar Scanner](https://github.com/PiLiDAR/PiLiDAR)
+## Afternoon/Evening Digest - 20-04-2025
+
+- [Gemma 3 QAT Models: Bringing AI to Consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/)
+- [Why on Earth is OpenAI buying Windsurf?](https://theahura.substack.com/p/tech-things-openai-buys-windsurf)
+- [Which year: guess which year each photo was taken](https://whichyr.com/)
