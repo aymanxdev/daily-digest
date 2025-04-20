@@ -5490,3 +5490,8 @@
 - [Packing Input Frame Context in Next-Frame Prediction Models for Video Generation](https://lllyasviel.github.io/frame_pack_gitpage/)
 - [Open Source DMR Modem Implementation in SDR with GNU Radio and Codec2](https://qradiolink.org/open-source-DMR-transceiver-implementation.html)
 - [A Map of British Dialects (2023)](https://starkeycomics.com/2023/11/07/map-of-british-english-dialects/)
+## Morning Digest - 20-04-2025
+
+- [Which year: guess which year each photo was taken](https://whichyr.com/)
+- [100 Years to Solve an Integral (2020)](https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html)
+- [Raspberry Pi Lidar Scanner](https://github.com/PiLiDAR/PiLiDAR)
