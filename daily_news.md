@@ -5500,3 +5500,8 @@
 - [Gemma 3 QAT Models: Bringing AI to Consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/)
 - [Why on Earth is OpenAI buying Windsurf?](https://theahura.substack.com/p/tech-things-openai-buys-windsurf)
 - [Which year: guess which year each photo was taken](https://whichyr.com/)
+## Morning Digest - 21-04-2025
+
+- [Python's new t-strings](https://davepeck.org/2025/04/11/pythons-new-t-strings/)
+- [Pope Francis has died on Easter Monday aged 88](https://www.vaticannews.va/en/pope/news/2025-04/pope-francis-dies-on-easter-monday-aged-88.html)
+- [The Effect of Deactivating Facebook and Instagram on Users' Emotional State](https://www.nber.org/papers/w33697)
