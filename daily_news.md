@@ -5505,3 +5505,8 @@
 - [Python's new t-strings](https://davepeck.org/2025/04/11/pythons-new-t-strings/)
 - [Pope Francis has died on Easter Monday aged 88](https://www.vaticannews.va/en/pope/news/2025-04/pope-francis-dies-on-easter-monday-aged-88.html)
 - [The Effect of Deactivating Facebook and Instagram on Users' Emotional State](https://www.nber.org/papers/w33697)
+## Morning Digest - 22-04-2025
+
+- [Synology Lost the Plot with Hard Drive Locking Move](https://www.servethehome.com/synology-lost-the-plot-with-hard-drive-locking-move/)
+- [Attacking My Landlord's Boiler](https://blog.videah.net/attacking-my-landlords-boiler/)
+- [Evertop: E-ink IBM XT clone with 100+ hours of battery life](https://github.com/ericjenott/Evertop)
