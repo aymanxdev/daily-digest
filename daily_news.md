@@ -5515,3 +5515,8 @@
 - [Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)](https://www.hey.earth/posts/duckdb-doom)
 - [Using physics simulations to find targeting strategies in tenpin bowling](https://pubs.aip.org/aip/adv/article/15/4/045222/3344017/Using-physics-simulations-to-find-targeting)
 - [Join the W3C Exploration Interest Group: where standards start](https://www.w3.org/blog/2025/join-the-w3c-exploration-interest-group-where-standards-start/)
+## Morning Digest - 23-04-2025
+
+- [Open Source Projects Receive Funding to Reclaim the Public Internet](https://nlnet.nl/news/2025/20250422-announcement-grants-CommonsFund.html)
+- [Advanced Python Features](https://blog.edward-li.com/tech/advanced-python-features/)
+- [The Gruen Transfer is consuming the internet](https://sebs.website/blog/the%20gruen-transfer-is-consuming-the-internet)
