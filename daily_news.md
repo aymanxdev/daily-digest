@@ -5520,3 +5520,8 @@
 - [Open Source Projects Receive Funding to Reclaim the Public Internet](https://nlnet.nl/news/2025/20250422-announcement-grants-CommonsFund.html)
 - [Advanced Python Features](https://blog.edward-li.com/tech/advanced-python-features/)
 - [The Gruen Transfer is consuming the internet](https://sebs.website/blog/the%20gruen-transfer-is-consuming-the-internet)
+## Afternoon/Evening Digest - 23-04-2025
+
+- [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/)
+- [Empty Calories of AI: A Cure for Loneliness Worse Than the Disease?](https://peakhorse.substack.com/p/empty-calories-of-ai-a-cure-for-loneliness)
+- [MinC Is Not Cygwin](https://minc.commandlinerevolution.nl/english/home.html)
