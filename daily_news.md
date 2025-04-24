@@ -5525,3 +5525,8 @@
 - [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/)
 - [Empty Calories of AI: A Cure for Loneliness Worse Than the Disease?](https://peakhorse.substack.com/p/empty-calories-of-ai-a-cure-for-loneliness)
 - [MinC Is Not Cygwin](https://minc.commandlinerevolution.nl/english/home.html)
+## Morning Digest - 24-04-2025
+
+- [Shortest-possible walking tour to 81,998 bars in South Korea](https://www.math.uwaterloo.ca/tsp/korea/index.html)
+- [Show HN: My from-scratch OS kernel that runs DOOM](https://github.com/UnmappedStack/TacOS)
+- [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/)
