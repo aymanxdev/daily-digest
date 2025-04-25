@@ -5540,3 +5540,8 @@
 - [Some __nonstring__ Turbulence](https://lwn.net/SubscriberLink/1018486/1dcd29863655cb25/)
 - [Notation as a Tool of Thought (1979)](https://www.jsoftware.com/papers/tot.htm)
 - [DeepMind releases Lyria 2 music generation model](https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/)
+## Afternoon/Evening Digest - 25-04-2025
+
+- [Writing "/etc/hosts" breaks the Substack editor](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack)
+- [Eurorack Knob Idea](https://mitxela.com/projects/euroknob)
+- [A Love Letter to People Who Believe in People](https://www.swiss-miss.com/2025/04/a-love-letter-to-people-who-believe-in-people.html)
