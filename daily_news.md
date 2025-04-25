@@ -5535,3 +5535,8 @@
 - [I wrote to the address in the GPLv2 license notice (2022)](https://code.mendhak.com/gpl-v2-address-letter/)
 - [Instant SQL for results as you type in DuckDB UI](https://motherduck.com/blog/introducing-instant-sql/)
 - [On loyalty to Your Employer](https://www.talentstuff.com/blog/on-loyalty-to-your-employer)
+## Morning Digest - 25-04-2025
+
+- [Some __nonstring__ Turbulence](https://lwn.net/SubscriberLink/1018486/1dcd29863655cb25/)
+- [Notation as a Tool of Thought (1979)](https://www.jsoftware.com/papers/tot.htm)
+- [DeepMind releases Lyria 2 music generation model](https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/)
