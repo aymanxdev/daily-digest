@@ -5545,3 +5545,8 @@
 - [Writing "/etc/hosts" breaks the Substack editor](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack)
 - [Eurorack Knob Idea](https://mitxela.com/projects/euroknob)
 - [A Love Letter to People Who Believe in People](https://www.swiss-miss.com/2025/04/a-love-letter-to-people-who-believe-in-people.html)
+## Morning Digest - 26-04-2025
+
+- [Cloth](https://www.cloudofoz.com/verlet-test/)
+- [Berkeley Humanoid Lite – Open-source robot](https://lite.berkeley-humanoid.org/)
+- [I wrote a book called "Crap Towns". It seemed funny at the time](https://samj.substack.com/p/that-joke-isnt-funny-any-more)
