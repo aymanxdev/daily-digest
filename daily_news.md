@@ -5550,3 +5550,8 @@
 - [Cloth](https://www.cloudofoz.com/verlet-test/)
 - [Berkeley Humanoid Lite – Open-source robot](https://lite.berkeley-humanoid.org/)
 - [I wrote a book called "Crap Towns". It seemed funny at the time](https://samj.substack.com/p/that-joke-isnt-funny-any-more)
+## Afternoon/Evening Digest - 26-04-2025
+
+- [Watching o3 guess a photo's location is surreal, dystopian and entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/)
+- [Show HN: My self-written hobby OS is finally running on my vintage IBM ThinkPad](https://github.com/joexbayer/RetrOS-32)
+- [An end to all this prostate trouble?](https://yarchive.net/blog/prostate/)
