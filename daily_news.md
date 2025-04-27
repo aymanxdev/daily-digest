@@ -5560,3 +5560,8 @@
 - [CSS Zen Garden](https://csszengarden.com/)
 - [Show HN: Remote-Controlled IKEA Deathstar Lamp](https://gitlab.com/sephalon/deathstar_lamp)
 - [Open-source interactive C tutorial in the browser](https://www.learn-c.org/)
+## Afternoon/Evening Digest - 27-04-2025
+
+- [Shardines: SQLite3 Database-per-Tenant with ActiveRecord](https://blog.julik.nl/2025/04/a-can-of-shardines)
+- [Mesmerizing Interlocking Geometric Patterns Produced with Japanese Woodworking](https://www.smithsonianmag.com/smithsonian-institution/see-the-mesmerizing-interlocking-geometric-patterns-produced-with-this-ancient-japanese-woodworking-technique-180986494/)
+- [Show HN: Remote-Controlled IKEA Deathstar Lamp](https://gitlab.com/sephalon/deathstar_lamp)
