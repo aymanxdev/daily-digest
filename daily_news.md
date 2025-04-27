@@ -5555,3 +5555,8 @@
 - [Watching o3 guess a photo's location is surreal, dystopian and entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/)
 - [Show HN: My self-written hobby OS is finally running on my vintage IBM ThinkPad](https://github.com/joexbayer/RetrOS-32)
 - [An end to all this prostate trouble?](https://yarchive.net/blog/prostate/)
+## Morning Digest - 27-04-2025
+
+- [CSS Zen Garden](https://csszengarden.com/)
+- [Show HN: Remote-Controlled IKEA Deathstar Lamp](https://gitlab.com/sephalon/deathstar_lamp)
+- [Open-source interactive C tutorial in the browser](https://www.learn-c.org/)
