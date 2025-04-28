@@ -5570,3 +5570,8 @@
 - [Internet in a Box](https://internet-in-a-box.org/)
 - [Show HN: I made a web-based, free alternative to Screen Studio](https://www.screenrecorder.me)
 - [AI helps unravel a cause of Alzheimer’s and identify a therapeutic candidate](https://today.ucsd.edu/story/ai-helps-unravel-a-cause-of-alzheimers-disease-and-identify-a-therapeutic-candidate)
+## Afternoon/Evening Digest - 28-04-2025
+
+- [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
+- [Uncovering the mechanics of The Games: Winter Challenge](https://mrwint.github.io/winter/writeup/writeup.html)
+- [Reports of widespread power cuts in Spain and Portugal](https://www.bbc.com/news/live/c9wpq8xrvd9t)
