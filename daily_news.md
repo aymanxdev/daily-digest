@@ -5565,3 +5565,8 @@
 - [Shardines: SQLite3 Database-per-Tenant with ActiveRecord](https://blog.julik.nl/2025/04/a-can-of-shardines)
 - [Mesmerizing Interlocking Geometric Patterns Produced with Japanese Woodworking](https://www.smithsonianmag.com/smithsonian-institution/see-the-mesmerizing-interlocking-geometric-patterns-produced-with-this-ancient-japanese-woodworking-technique-180986494/)
 - [Show HN: Remote-Controlled IKEA Deathstar Lamp](https://gitlab.com/sephalon/deathstar_lamp)
+## Morning Digest - 28-04-2025
+
+- [Internet in a Box](https://internet-in-a-box.org/)
+- [Show HN: I made a web-based, free alternative to Screen Studio](https://www.screenrecorder.me)
+- [AI helps unravel a cause of Alzheimer’s and identify a therapeutic candidate](https://today.ucsd.edu/story/ai-helps-unravel-a-cause-of-alzheimers-disease-and-identify-a-therapeutic-candidate)
