@@ -5580,3 +5580,8 @@
 - [LibreLingo – FOSS Alternative to Duolingo](https://librelingo.app)
 - [Qwen3: Think deeper, act faster](https://qwenlm.github.io/blog/qwen3/)
 - [Why did Windows 7 log on slower for months if you had a solid color background?](https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121)
+## Afternoon/Evening Digest - 29-04-2025
+
+- [LibreLingo – FOSS Alternative to Duolingo](https://librelingo.app)
+- [Why performance optimization is hard work](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/)
+- [Show HN: Flowcode – Turing-complete visual programming platform](https://app.getflowcode.io/playground/example1)
