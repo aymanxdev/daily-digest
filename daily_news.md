@@ -5575,3 +5575,8 @@
 - [Show HN: I built a hardware processor that runs Python](https://www.runpyxl.com/gpio)
 - [Uncovering the mechanics of The Games: Winter Challenge](https://mrwint.github.io/winter/writeup/writeup.html)
 - [Reports of widespread power cuts in Spain and Portugal](https://www.bbc.com/news/live/c9wpq8xrvd9t)
+## Morning Digest - 29-04-2025
+
+- [LibreLingo – FOSS Alternative to Duolingo](https://librelingo.app)
+- [Qwen3: Think deeper, act faster](https://qwenlm.github.io/blog/qwen3/)
+- [Why did Windows 7 log on slower for months if you had a solid color background?](https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121)
