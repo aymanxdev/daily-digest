@@ -5590,3 +5590,8 @@
 - [Jepsen: Amazon RDS for PostgreSQL 17.4](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4)
 - [What It Takes to Defend a Cybersecurity Company from Today's Adversaries](https://www.sentinelone.com/labs/top-tier-target-what-it-takes-to-defend-a-cybersecurity-company-from-todays-adversaries/)
 - [You Wouldn't Download a Hacker News](https://www.jasonthorsness.com/25)
+## Afternoon/Evening Digest - 30-04-2025
+
+- [Xiaomi MiMo Reasoning Model](https://github.com/XiaomiMiMo/MiMo)
+- [No as a Service](https://github.com/hotheadhacker/no-as-a-service)
+- [Port of Los Angeles says shipping volume will plummet 35% next week](https://www.cnbc.com/2025/04/29/port-of-los-angeles-sees-shipping-volume-down-35percent-next-week-as-tariffs-bite.html)
