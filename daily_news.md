@@ -5585,3 +5585,8 @@
 - [LibreLingo – FOSS Alternative to Duolingo](https://librelingo.app)
 - [Why performance optimization is hard work](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/)
 - [Show HN: Flowcode – Turing-complete visual programming platform](https://app.getflowcode.io/playground/example1)
+## Morning Digest - 30-04-2025
+
+- [Jepsen: Amazon RDS for PostgreSQL 17.4](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4)
+- [What It Takes to Defend a Cybersecurity Company from Today's Adversaries](https://www.sentinelone.com/labs/top-tier-target-what-it-takes-to-defend-a-cybersecurity-company-from-todays-adversaries/)
+- [You Wouldn't Download a Hacker News](https://www.jasonthorsness.com/25)
