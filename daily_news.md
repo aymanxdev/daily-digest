@@ -5595,3 +5595,8 @@
 - [Xiaomi MiMo Reasoning Model](https://github.com/XiaomiMiMo/MiMo)
 - [No as a Service](https://github.com/hotheadhacker/no-as-a-service)
 - [Port of Los Angeles says shipping volume will plummet 35% next week](https://www.cnbc.com/2025/04/29/port-of-los-angeles-sees-shipping-volume-down-35percent-next-week-as-tariffs-bite.html)
+## Morning Digest - 01-05-2025
+
+- [108B Pixel Scan of Johannes Vermeer's Girl with a Pearl Earring](https://www.hirox-europe.com/gigapixel/girl-with-a-pearl-earring/)
+- [Mercury: Commercial-scale diffusion language model](https://www.inceptionlabs.ai/introducing-mercury)
+- [Apple violated antitrust ruling, judge finds](https://www.wsj.com/tech/apple-violated-antitrust-ruling-federal-judge-finds-66b85957)
