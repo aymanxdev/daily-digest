@@ -5610,3 +5610,8 @@
 - [Redis is open source again](https://antirez.com/news/151)
 - [RustAssistant: Using LLMs to Fix Compilation Errors in Rust Code](https://www.microsoft.com/en-us/research/publication/rustassistant-using-llms-to-fix-compilation-errors-in-rust-code/)
 - [Claude Integrations](https://www.anthropic.com/news/integrations)
+## Afternoon/Evening Digest - 02-05-2025
+
+- [Apple App Store guidelines remove ban on encouraging external payments in US](https://developer.apple.com/app-store/review/guidelines/)
+- [How to live an intellectually rich life](https://utsavmamoria.substack.com/p/how-to-live-an-intellectually-rich)
+- [The Cannae Problem](https://www.joanwestenberg.com/the-cannae-problem/)
