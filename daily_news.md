@@ -5620,3 +5620,8 @@
 - [Accountability Sinks](https://250bpm.substack.com/p/accountability-sinks)
 - [Connomore64: Cycle exact emulation of the C64 using parallel microcontrollers](https://github.com/c1570/Connomore64)
 - [Old Soviet Venus descent craft nearing Earth reentry](https://www.leonarddavid.com/old-soviet-venus-descent-craft-nearing-earth-reentry/)
+## Afternoon/Evening Digest - 03-05-2025
+
+- [Seeking an Answer: Why can't HTML alone do includes?](https://frontendmasters.com/blog/seeking-an-answer-why-cant-html-alone-do-includes/)
+- [Accountability Sinks](https://250bpm.substack.com/p/accountability-sinks)
+- [N8n – Flexible AI workflow automation for technical teams](https://n8n.io/)
