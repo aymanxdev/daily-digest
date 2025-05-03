@@ -5615,3 +5615,8 @@
 - [Apple App Store guidelines remove ban on encouraging external payments in US](https://developer.apple.com/app-store/review/guidelines/)
 - [How to live an intellectually rich life](https://utsavmamoria.substack.com/p/how-to-live-an-intellectually-rich)
 - [The Cannae Problem](https://www.joanwestenberg.com/the-cannae-problem/)
+## Morning Digest - 03-05-2025
+
+- [Accountability Sinks](https://250bpm.substack.com/p/accountability-sinks)
+- [Connomore64: Cycle exact emulation of the C64 using parallel microcontrollers](https://github.com/c1570/Connomore64)
+- [Old Soviet Venus descent craft nearing Earth reentry](https://www.leonarddavid.com/old-soviet-venus-descent-craft-nearing-earth-reentry/)
