@@ -5630,3 +5630,8 @@
 - [What went wrong with wireless USB](http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html)
 - [Gorgeous-GRUB: collection of decent community-made GRUB themes](https://github.com/Jacksaur/Gorgeous-GRUB)
 - [Show HN: Free, in-browser PDF editor](https://breezepdf.com)
+## Afternoon/Evening Digest - 04-05-2025
+
+- [The Alabama Landline That Keeps Ringing](https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing)
+- [TScale – distributed training on consumer GPUs](https://github.com/Foreseerr/TScale)
+- [The Texan Who Built an Empire of Ecstasy](https://www.texasmonthly.com/news-politics/ecstasy-starck-club-drugs-eighties-dallas/)
