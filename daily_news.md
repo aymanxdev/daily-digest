@@ -5625,3 +5625,8 @@
 - [Seeking an Answer: Why can't HTML alone do includes?](https://frontendmasters.com/blog/seeking-an-answer-why-cant-html-alone-do-includes/)
 - [Accountability Sinks](https://250bpm.substack.com/p/accountability-sinks)
 - [N8n – Flexible AI workflow automation for technical teams](https://n8n.io/)
+## Morning Digest - 04-05-2025
+
+- [What went wrong with wireless USB](http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html)
+- [Gorgeous-GRUB: collection of decent community-made GRUB themes](https://github.com/Jacksaur/Gorgeous-GRUB)
+- [Show HN: Free, in-browser PDF editor](https://breezepdf.com)
