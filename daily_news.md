@@ -5640,3 +5640,8 @@
 - [AI Meets WinDBG](https://svnscha.de/posts/ai-meets-windbg/)
 - [I'd rather read the prompt](https://claytonwramsey.com/blog/prompt/)
 - [Modern Latex](https://github.com/mrkline/modern-latex)
+## Afternoon/Evening Digest - 05-05-2025
+
+- [AWS Built a Security Tool. It Introduced a Security Risk](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk)
+- [The vocal effects of Daft Punk](https://bjango.com/articles/daftpunkvocaleffects/)
+- [Show HN: Bracket – selfhosted tournament system](https://github.com/evroon/bracket)
