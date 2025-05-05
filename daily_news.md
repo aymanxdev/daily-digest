@@ -5635,3 +5635,8 @@
 - [The Alabama Landline That Keeps Ringing](https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing)
 - [TScale – distributed training on consumer GPUs](https://github.com/Foreseerr/TScale)
 - [The Texan Who Built an Empire of Ecstasy](https://www.texasmonthly.com/news-politics/ecstasy-starck-club-drugs-eighties-dallas/)
+## Morning Digest - 05-05-2025
+
+- [AI Meets WinDBG](https://svnscha.de/posts/ai-meets-windbg/)
+- [I'd rather read the prompt](https://claytonwramsey.com/blog/prompt/)
+- [Modern Latex](https://github.com/mrkline/modern-latex)
