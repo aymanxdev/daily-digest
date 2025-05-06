@@ -5645,3 +5645,8 @@
 - [AWS Built a Security Tool. It Introduced a Security Risk](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk)
 - [The vocal effects of Daft Punk](https://bjango.com/articles/daftpunkvocaleffects/)
 - [Show HN: Bracket – selfhosted tournament system](https://github.com/evroon/bracket)
+## Morning Digest - 06-05-2025
+
+- [The curse of knowing how, or; fixing everything](https://notashelf.dev/posts/curse-of-knowing)
+- [Sneakers (1992) – 4K Restoration](https://www.blu-ray.com/movies/Sneakers-Blu-ray/381411/)
+- [The Turkish İ Problem and Why You Should Care (2012)](https://haacked.com/archive/2012/07/05/turkish-i-problem-and-why-you-should-care.aspx/)
