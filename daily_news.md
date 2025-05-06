@@ -5650,3 +5650,8 @@
 - [The curse of knowing how, or; fixing everything](https://notashelf.dev/posts/curse-of-knowing)
 - [Sneakers (1992) – 4K Restoration](https://www.blu-ray.com/movies/Sneakers-Blu-ray/381411/)
 - [The Turkish İ Problem and Why You Should Care (2012)](https://haacked.com/archive/2012/07/05/turkish-i-problem-and-why-you-should-care.aspx/)
+## Afternoon/Evening Digest - 06-05-2025
+
+- [Nnd – a TUI debugger alternative to GDB, LLDB](https://github.com/al13n321/nnd)
+- [The curse of knowing how, or; fixing everything](https://notashelf.dev/posts/curse-of-knowing)
+- [Design and evaluation of a parrot-to-parrot video-calling system (2023)](https://www.smithsonianmag.com/smart-news/scientists-taught-pet-parrots-to-video-call-each-other-and-the-birds-loved-it-180982041/)
