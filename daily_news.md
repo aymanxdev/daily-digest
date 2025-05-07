@@ -5660,3 +5660,8 @@
 - [Show HN: Clippy – 90s UI for local LLMs](https://felixrieseberg.github.io/clippy/)
 - [WebMonkeys: parallel GPU programming in JavaScript](https://github.com/VictorTaelin/WebMonkeys)
 - [Claude's system prompt is over 24k tokens with tools](https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt)
+## Afternoon/Evening Digest - 07-05-2025
+
+- [Unity’s Open-Source Double Standard: the ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
+- [CLion Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/)
+- [So Much Blood](https://dynomight.net/blood/)
