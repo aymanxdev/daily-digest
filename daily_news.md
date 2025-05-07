@@ -5655,3 +5655,8 @@
 - [Nnd – a TUI debugger alternative to GDB, LLDB](https://github.com/al13n321/nnd)
 - [The curse of knowing how, or; fixing everything](https://notashelf.dev/posts/curse-of-knowing)
 - [Design and evaluation of a parrot-to-parrot video-calling system (2023)](https://www.smithsonianmag.com/smart-news/scientists-taught-pet-parrots-to-video-call-each-other-and-the-birds-loved-it-180982041/)
+## Morning Digest - 07-05-2025
+
+- [Show HN: Clippy – 90s UI for local LLMs](https://felixrieseberg.github.io/clippy/)
+- [WebMonkeys: parallel GPU programming in JavaScript](https://github.com/VictorTaelin/WebMonkeys)
+- [Claude's system prompt is over 24k tokens with tools](https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt)
