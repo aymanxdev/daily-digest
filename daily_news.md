@@ -5665,3 +5665,8 @@
 - [Unity’s Open-Source Double Standard: the ban of VLC](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html)
 - [CLion Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/)
 - [So Much Blood](https://dynomight.net/blood/)
+## Morning Digest - 08-05-2025
+
+- [Mycoria is an open and secure overlay network that connects all participants](https://mycoria.org/)
+- [How linear regression works intuitively and how it leads to gradient descent](https://briefer.cloud/blog/posts/least-squares/)
+- [Ty: A fast Python type checker and language server](https://github.com/astral-sh/ty)
