@@ -5670,3 +5670,8 @@
 - [Mycoria is an open and secure overlay network that connects all participants](https://mycoria.org/)
 - [How linear regression works intuitively and how it leads to gradient descent](https://briefer.cloud/blog/posts/least-squares/)
 - [Ty: A fast Python type checker and language server](https://github.com/astral-sh/ty)
+## Afternoon/Evening Digest - 08-05-2025
+
+- [Google to Back Three New Advanced Nuclear Projects](https://www.esgtoday.com/google-to-back-three-new-advanced-nuclear-projects/)
+- [20 years to give away virtually all my wealth](https://www.gatesnotes.com/home/home-page-topic/reader/n20-years-to-give-away-virtually-all-my-wealth)
+- [Using NASA’s SMAP satellite to detect L-band interference](https://radioandnukes.substack.com/p/how-dare-you-transmit-at-14-ghz)
