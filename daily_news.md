@@ -5680,3 +5680,8 @@
 - [LegoGPT: Generating Physically Stable and Buildable Lego](https://avalovelace1.github.io/LegoGPT/)
 - [Void: Open-source Cursor alternative](https://github.com/voideditor/void)
 - [6502 Illegal Opcodes in the Siemens PC 100 Assembly Manual (1980)](https://www.pagetable.com/?p=1798)
+## Afternoon/Evening Digest - 09-05-2025
+
+- [Sofie: open-source web based system for automating live TV news production](https://nrkno.github.io/sofie-core/)
+- [Show HN: Aberdeen – An elegant approach to reactive UIs](https://aberdeenjs.org/)
+- [21 GB/s CSV Parsing Using SIMD on AMD 9950X](https://nietras.com/2025/05/09/sep-0-10-0/)
