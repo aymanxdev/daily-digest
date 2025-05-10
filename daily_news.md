@@ -5685,3 +5685,8 @@
 - [Sofie: open-source web based system for automating live TV news production](https://nrkno.github.io/sofie-core/)
 - [Show HN: Aberdeen – An elegant approach to reactive UIs](https://aberdeenjs.org/)
 - [21 GB/s CSV Parsing Using SIMD on AMD 9950X](https://nietras.com/2025/05/09/sep-0-10-0/)
+## Morning Digest - 10-05-2025
+
+- [NOT a 3 year old chimney sweep (2022)](https://fakehistoryhunter.net/2022/07/26/not-a-3-year-old-chimney-sweep/)
+- [Vision Now Available in Llama.cpp](https://github.com/ggml-org/llama.cpp/blob/master/docs/multimodal.md)
+- [Slow Software for a Burning World](https://bonfirenetworks.org/posts/slow_software_for_a_burning_world/)
