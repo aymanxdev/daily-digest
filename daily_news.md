@@ -5690,3 +5690,8 @@
 - [NOT a 3 year old chimney sweep (2022)](https://fakehistoryhunter.net/2022/07/26/not-a-3-year-old-chimney-sweep/)
 - [Vision Now Available in Llama.cpp](https://github.com/ggml-org/llama.cpp/blob/master/docs/multimodal.md)
 - [Slow Software for a Burning World](https://bonfirenetworks.org/posts/slow_software_for_a_burning_world/)
+## Afternoon/Evening Digest - 10-05-2025
+
+- [US vs. Google Amicus Curiae Brief of Y Combinator in Support of Plaintiffs [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf)
+- [LTXVideo 13B AI video generation](https://ltxv.video/)
+- [Radxa Orion O6 brings Arm to the midrange PC (with caveats)](https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc)
