@@ -5695,3 +5695,8 @@
 - [US vs. Google Amicus Curiae Brief of Y Combinator in Support of Plaintiffs [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf)
 - [LTXVideo 13B AI video generation](https://ltxv.video/)
 - [Radxa Orion O6 brings Arm to the midrange PC (with caveats)](https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc)
+## Morning Digest - 11-05-2025
+
+- [One-Click RCE in Asus's Preinstalled Driver Software](https://mrbruh.com/asusdriverhub/)
+- [What is it like to be a thermostat? (1996)](https://www.organism.earth/library/document/what-is-it-like-to-be-a-thermostat)
+- [Fandom Sells Giant Bomb to Independent Creators](https://about.fandom.com/news/fandom-sells-giant-bomb-to-independent-creators)
