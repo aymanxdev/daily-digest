@@ -5705,3 +5705,8 @@
 - [Title of work deciphered in sealed Herculaneum scroll via digital unwrapping](https://www.finebooksmagazine.com/fine-books-news/title-work-deciphered-sealed-herculaneum-scroll-digital-unwrapping)
 - [The Epochalypse Project](https://epochalypse-project.org/)
 - [The most valuable commodity in the world is friction](https://kyla.substack.com/p/the-most-valuable-commodity-in-the)
+## Morning Digest - 12-05-2025
+
+- [I ruined my vacation by reverse engineering WSC](https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/)
+- [Plain Vanilla Web](https://plainvanillaweb.com/index.html)
+- [Continuous Thought Machines](https://pub.sakana.ai/ctm/)
