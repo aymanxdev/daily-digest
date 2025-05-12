@@ -5710,3 +5710,8 @@
 - [I ruined my vacation by reverse engineering WSC](https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation/)
 - [Plain Vanilla Web](https://plainvanillaweb.com/index.html)
 - [Continuous Thought Machines](https://pub.sakana.ai/ctm/)
+## Afternoon/Evening Digest - 12-05-2025
+
+- [A community-led fork of Organic Maps](https://www.comaps.app/news/2025-05-12/3/)
+- [University of Texas-led team solves a big problem for fusion energy](https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/)
+- [Ruby 3.5 Feature: Namespace on read](https://bugs.ruby-lang.org/issues/21311)
