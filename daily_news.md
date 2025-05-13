@@ -5715,3 +5715,8 @@
 - [A community-led fork of Organic Maps](https://www.comaps.app/news/2025-05-12/3/)
 - [University of Texas-led team solves a big problem for fusion energy](https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/)
 - [Ruby 3.5 Feature: Namespace on read](https://bugs.ruby-lang.org/issues/21311)
+## Morning Digest - 13-05-2025
+
+- [Iceland approved 4-day workweek in 2019; six years later, predictions came true](https://farmingdale-observer.com/2025/05/10/iceland-approved-the-4-day-workweek-in-2019-nearly-6-years-later-all-the-predictions-made-have-come-true/)
+- [Firefox Moves to GitHub](https://github.com/mozilla-firefox/firefox)
+- [Fastvlm: Efficient vision encoding for vision language models](https://github.com/apple/ml-fastvlm)
