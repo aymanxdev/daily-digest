@@ -5720,3 +5720,8 @@
 - [Iceland approved 4-day workweek in 2019; six years later, predictions came true](https://farmingdale-observer.com/2025/05/10/iceland-approved-the-4-day-workweek-in-2019-nearly-6-years-later-all-the-predictions-made-have-come-true/)
 - [Firefox Moves to GitHub](https://github.com/mozilla-firefox/firefox)
 - [Fastvlm: Efficient vision encoding for vision language models](https://github.com/apple/ml-fastvlm)
+## Morning Digest - 14-05-2025
+
+- [How to Build a Smartwatch: Picking a Chip](https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/)
+- [RPG in a Box](https://rpginabox.com/)
+- [Writing that changed how I think about programming languages](https://bernsteinbear.com/blog/pl-writing/)
