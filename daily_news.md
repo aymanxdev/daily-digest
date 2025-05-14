@@ -5725,3 +5725,8 @@
 - [How to Build a Smartwatch: Picking a Chip](https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/)
 - [RPG in a Box](https://rpginabox.com/)
 - [Writing that changed how I think about programming languages](https://bernsteinbear.com/blog/pl-writing/)
+## Afternoon/Evening Digest - 14-05-2025
+
+- [What Is HDR, Anyway?](https://www.lux.camera/what-is-hdr/)
+- [How the economics of multitenancy work](https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud)
+- [Databricks and Neon](https://www.databricks.com/blog/databricks-neon)
