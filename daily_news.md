@@ -5735,3 +5735,8 @@
 - [Human](https://quarter--mile.com/Human)
 - [Internet Artifacts](https://neal.fun/internet-artifacts/)
 - [LLMs get lost in multi-turn conversation](https://arxiv.org/abs/2505.06120)
+## Afternoon/Evening Digest - 15-05-2025
+
+- [A Tiny Boltzmann Machine](https://eoinmurray.info/boltzmann-machine)
+- [Show HN: Min.js style compression of tech docs for LLM context](https://github.com/marv1nnnnn/llm-min.txt)
+- [Malicious compliance by booking an available meeting room](https://www.clientserver.dev/p/malicious-compliance-by-booking-an)
