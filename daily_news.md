@@ -5730,3 +5730,8 @@
 - [What Is HDR, Anyway?](https://www.lux.camera/what-is-hdr/)
 - [How the economics of multitenancy work](https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud)
 - [Databricks and Neon](https://www.databricks.com/blog/databricks-neon)
+## Morning Digest - 15-05-2025
+
+- [Human](https://quarter--mile.com/Human)
+- [Internet Artifacts](https://neal.fun/internet-artifacts/)
+- [LLMs get lost in multi-turn conversation](https://arxiv.org/abs/2505.06120)
