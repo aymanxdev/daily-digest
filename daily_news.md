@@ -5740,3 +5740,8 @@
 - [A Tiny Boltzmann Machine](https://eoinmurray.info/boltzmann-machine)
 - [Show HN: Min.js style compression of tech docs for LLM context](https://github.com/marv1nnnnn/llm-min.txt)
 - [Malicious compliance by booking an available meeting room](https://www.clientserver.dev/p/malicious-compliance-by-booking-an)
+## Morning Digest - 16-05-2025
+
+- [Baby is healed with first personalized gene-editing treatment](https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html)
+- [Ollama's new engine for multimodal models](https://ollama.com/blog/multimodal-models)
+- [A leap year check in three instructions](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
