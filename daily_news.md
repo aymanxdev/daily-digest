@@ -5745,3 +5745,8 @@
 - [Baby is healed with first personalized gene-editing treatment](https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html)
 - [Ollama's new engine for multimodal models](https://ollama.com/blog/multimodal-models)
 - [A leap year check in three instructions](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
+## Afternoon/Evening Digest - 16-05-2025
+
+- [Show HN: Visual flow-based programming for Erlang, inspired by Node-RED](https://github.com/gorenje/erlang-red)
+- [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap)
+- [Sci-Net](https://sci-hub.se/sci-net)
