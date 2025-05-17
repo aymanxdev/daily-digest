@@ -5750,3 +5750,8 @@
 - [Show HN: Visual flow-based programming for Erlang, inspired by Node-RED](https://github.com/gorenje/erlang-red)
 - [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap)
 - [Sci-Net](https://sci-hub.se/sci-net)
+## Morning Digest - 17-05-2025
+
+- [JavaScript's New Superpower: Explicit Resource Management](https://v8.dev/features/explicit-resource-management)
+- [Wow@Home – Network of Amateur Radio Telescopes](https://phl.upr.edu/wow/outreach)
+- [Getting AI to write good SQL](https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql)
