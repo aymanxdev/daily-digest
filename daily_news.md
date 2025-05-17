@@ -5755,3 +5755,8 @@
 - [JavaScript's New Superpower: Explicit Resource Management](https://v8.dev/features/explicit-resource-management)
 - [Wow@Home – Network of Amateur Radio Telescopes](https://phl.upr.edu/wow/outreach)
 - [Getting AI to write good SQL](https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql)
+## Afternoon/Evening Digest - 17-05-2025
+
+- [Palette lighting tricks on the Nintendo 64](https://30fps.net/pages/palette-lighting-tricks-n64/)
+- [Pyrefly: A new type checker and IDE experience for Python](https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/)
+- [Push Ifs Up and Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
