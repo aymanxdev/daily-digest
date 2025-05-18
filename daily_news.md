@@ -5760,3 +5760,8 @@
 - [Palette lighting tricks on the Nintendo 64](https://30fps.net/pages/palette-lighting-tricks-n64/)
 - [Pyrefly: A new type checker and IDE experience for Python](https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/)
 - [Push Ifs Up and Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
+## Morning Digest - 18-05-2025
+
+- [AniSora: Open-source anime video generation model](https://komiko.app/video/AniSora)
+- [Coding without a laptop: Two weeks with AR glasses and Linux on Android](https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/)
+- [Project Verona: Fearless Concurrency for Python](https://microsoft.github.io/verona/pyrona.html)
