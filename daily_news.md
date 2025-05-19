@@ -5770,3 +5770,8 @@
 - [Spaced repetition systems have gotten way better](https://domenic.me/fsrs/)
 - [Working with Git Patches in Apple Mail (2023)](https://btxx.org/posts/mail/)
 - [Show HN: A web browser agent in your Chrome side panel](https://github.com/parsaghaffari/browserbee)
+## Morning Digest - 19-05-2025
+
+- [Show HN: Goboscript, text-based programming language, compiles to Scratch](https://github.com/aspizu/goboscript)
+- [InventWood is about to mass-produce wood that's stronger than steel](https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/)
+- [Show HN: Sshsync – CLI tool to run shell commands across multiple remote servers](https://github.com/Blackmamoth/sshsync)
