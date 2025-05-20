@@ -5780,3 +5780,8 @@
 - [ClawPDF – Open-Source Virtual/Network PDF Printer with OCR and Image Support](https://github.com/clawsoftware/clawPDF)
 - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/p/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy)
 - [Side projects I've built since 2009](https://naeemnur.com/side-projects/)
+## Morning Digest - 20-05-2025
+
+- [Finland announces migration of its rail network to international gauge](https://www.trenvista.net/en/news/rnhs/finland-migration-standard-gauge/)
+- [Making Video Games (Without an Engine) in 2025](https://noelberry.ca/posts/making_games_in_2025/)
+- [I got fooled by AI-for-science hype–here's what it taught me](https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres)
