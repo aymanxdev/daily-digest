@@ -5785,3 +5785,8 @@
 - [Finland announces migration of its rail network to international gauge](https://www.trenvista.net/en/news/rnhs/finland-migration-standard-gauge/)
 - [Making Video Games (Without an Engine) in 2025](https://noelberry.ca/posts/making_games_in_2025/)
 - [I got fooled by AI-for-science hype–here's what it taught me](https://www.understandingai.org/p/i-got-fooled-by-ai-for-science-hypeheres)
+## Afternoon/Evening Digest - 20-05-2025
+
+- [Deep Learning Is Applied Topology](https://theahura.substack.com/p/deep-learning-is-applied-topology)
+- [The Lisp in the Cellar: Dependent Types That Live Upstairs [pdf]](https://zenodo.org/records/15424968/files/deputy-els.pdf)
+- [The emoji problem (2022)](https://artofproblemsolving.com/community/c2532359h2760821_the_emoji_problem__part_i?srsltid=AfmBOor9TbMq_A7hGHSJGfoWaa2HNzducSYZu35d_LFlCSNLXpvt-pdS)
