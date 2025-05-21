@@ -5795,3 +5795,8 @@
 - [Overview of the Ada Computer Language Competition (1979)](https://iment.com/maida/computer/redref/)
 - [Veo 3 and Imagen 4, and a new tool for filmmaking called Flow](https://blog.google/technology/ai/generative-media-models-io-2025/)
 - [Building my own solar power system](https://medium.com/@joe_5312/pg-e-sucks-or-how-i-learned-to-stop-worrying-and-love-building-my-own-solar-system-acf0c9f03f3b)
+## Afternoon/Evening Digest - 21-05-2025
+
+- [Discord Unveiled: A Comprehensive Dataset of Public Communication (2015-2024)](https://arxiv.org/abs/2502.00627)
+- [Animated Factorization](http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/)
+- [Building my own solar power system](https://medium.com/@joe_5312/pg-e-sucks-or-how-i-learned-to-stop-worrying-and-love-building-my-own-solar-system-acf0c9f03f3b)
