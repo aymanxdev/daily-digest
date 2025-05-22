@@ -5805,3 +5805,8 @@
 - [Gemini Diffusion](https://simonwillison.net/2025/May/21/gemini-diffusion/)
 - [JEP 519: Compact Object Headers](https://openjdk.org/jeps/519)
 - [Why does Debian change software?](https://blog.liw.fi/posts/2025/why-debian-changes/)
+## Afternoon/Evening Digest - 22-05-2025
+
+- [Making the rav1d Video Decoder 1% Faster](https://ohadravid.github.io/posts/2025-05-rav1d-faster/)
+- [Showh HN: SQLite JavaScript - extend your database with JavaScript](https://github.com/sqliteai/sqlite-js)
+- [Fast Allocations in Ruby 3.5](https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/)
