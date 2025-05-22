@@ -5800,3 +5800,8 @@
 - [Discord Unveiled: A Comprehensive Dataset of Public Communication (2015-2024)](https://arxiv.org/abs/2502.00627)
 - [Animated Factorization](http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/)
 - [Building my own solar power system](https://medium.com/@joe_5312/pg-e-sucks-or-how-i-learned-to-stop-worrying-and-love-building-my-own-solar-system-acf0c9f03f3b)
+## Morning Digest - 22-05-2025
+
+- [Gemini Diffusion](https://simonwillison.net/2025/May/21/gemini-diffusion/)
+- [JEP 519: Compact Object Headers](https://openjdk.org/jeps/519)
+- [Why does Debian change software?](https://blog.liw.fi/posts/2025/why-debian-changes/)
