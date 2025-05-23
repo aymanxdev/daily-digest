@@ -5815,3 +5815,8 @@
 - [John Carmack talk at Upper Bound 2025 – slides and notes](https://twitter.com/ID_AA_Carmack/status/1925710474366034326)
 - [KumoRFM: A Foundation Model for In-Context Learning on Relational Data](https://kumo.ai/company/news/kumo-relational-foundation-model/)
 - [Tallest Wooden Wind Turbine](https://modvion.com/)
+## Afternoon/Evening Digest - 23-05-2025
+
+- [Caesar's Last Breath](https://charliesabino.com/caesars-last-breath/)
+- [Remembering Alasdair MacIntyre](https://www.wordonfire.org/articles/remembering-alasdair-macintyre-1929-2025/)
+- [Show HN: Samchika – A Java Library for Fast, Multithreaded File Processing](https://github.com/MayankPratap/Samchika)
