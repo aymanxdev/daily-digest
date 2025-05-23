@@ -5810,3 +5810,8 @@
 - [Making the rav1d Video Decoder 1% Faster](https://ohadravid.github.io/posts/2025-05-rav1d-faster/)
 - [Showh HN: SQLite JavaScript - extend your database with JavaScript](https://github.com/sqliteai/sqlite-js)
 - [Fast Allocations in Ruby 3.5](https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/)
+## Morning Digest - 23-05-2025
+
+- [John Carmack talk at Upper Bound 2025 – slides and notes](https://twitter.com/ID_AA_Carmack/status/1925710474366034326)
+- [KumoRFM: A Foundation Model for In-Context Learning on Relational Data](https://kumo.ai/company/news/kumo-relational-foundation-model/)
+- [Tallest Wooden Wind Turbine](https://modvion.com/)
