@@ -5825,3 +5825,8 @@
 - [Show HN: Rotary Phone Dial Linux Kernel Driver](https://gitlab.com/sephalon/rotary_dial_kmod)
 - [Show HN: SuperUtilsPlus – A Modern Alternative to Lodash](https://github.com/dhaxor/super-utils-plus)
 - [The Xenon Death Flash: How a Camera Nearly Killed the Raspberry Pi 2](https://magnus919.com/2025/05/the-xenon-death-flash-how-a-camera-nearly-killed-the-raspberry-pi-2/)
+## Morning Digest - 25-05-2025
+
+- [Claude 4 System Card](https://simonwillison.net/2025/May/25/claude-4-system-card/)
+- [You probably don't need a dependency injection framework](http://rednafi.com/go/di_frameworks_bleh/)
+- [Reinvent the Wheel](https://endler.dev/2025/reinvent-the-wheel/)
