@@ -5830,3 +5830,8 @@
 - [Claude 4 System Card](https://simonwillison.net/2025/May/25/claude-4-system-card/)
 - [You probably don't need a dependency injection framework](http://rednafi.com/go/di_frameworks_bleh/)
 - [Reinvent the Wheel](https://endler.dev/2025/reinvent-the-wheel/)
+## Afternoon/Evening Digest - 25-05-2025
+
+- [Design Pressure: The Invisible Hand That Shapes Your Code](https://hynek.me/talks/design-pressure/)
+- [Claude 4 System Card](https://simonwillison.net/2025/May/25/claude-4-system-card/)
+- [Show HN: SVG Animation Software](https://expressive.app/expressive-animator/)
