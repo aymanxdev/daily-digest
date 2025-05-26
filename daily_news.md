@@ -5835,3 +5835,8 @@
 - [Design Pressure: The Invisible Hand That Shapes Your Code](https://hynek.me/talks/design-pressure/)
 - [Claude 4 System Card](https://simonwillison.net/2025/May/25/claude-4-system-card/)
 - [Show HN: SVG Animation Software](https://expressive.app/expressive-animator/)
+## Afternoon/Evening Digest - 26-05-2025
+
+- [Engineers discover new class of materials that passively harvest water from air](https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/)
+- [Particle Life simulation in browser using WebGPU](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html)
+- [$64B of data center projects blocked or delayed amid local opposition](https://www.datacenterwatch.org/report)
