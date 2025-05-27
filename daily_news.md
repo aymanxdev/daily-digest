@@ -5840,3 +5840,8 @@
 - [Engineers discover new class of materials that passively harvest water from air](https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/)
 - [Particle Life simulation in browser using WebGPU](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html)
 - [$64B of data center projects blocked or delayed amid local opposition](https://www.datacenterwatch.org/report)
+## Morning Digest - 27-05-2025
+
+- [He has powered his house for 8 years using laptop batteries](https://3dvf.com/en/he-has-powered-his-house-for-8-years-using-laptop-batteries/)
+- [CSS Minecraft](https://benjaminaster.com/css-minecraft/)
+- [GitHub MCP exploited: Accessing private repositories via MCP](https://invariantlabs.ai/blog/mcp-github-vulnerability)
