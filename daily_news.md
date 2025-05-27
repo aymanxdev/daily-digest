@@ -5845,3 +5845,8 @@
 - [He has powered his house for 8 years using laptop batteries](https://3dvf.com/en/he-has-powered-his-house-for-8-years-using-laptop-batteries/)
 - [CSS Minecraft](https://benjaminaster.com/css-minecraft/)
 - [GitHub MCP exploited: Accessing private repositories via MCP](https://invariantlabs.ai/blog/mcp-github-vulnerability)
+## Afternoon/Evening Digest - 27-05-2025
+
+- [Why Cline Doesn't Index Your Codebase (and Why That's a Good Thing)](https://cline.bot/blog/why-cline-doesnt-index-your-codebase-and-why-thats-a-good-thing)
+- [LumoSQL](https://lumosql.org/src/lumosql/doc/trunk/README.md)
+- [How a hawk learned to use traffic signals to hunt more successfully](https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting)
