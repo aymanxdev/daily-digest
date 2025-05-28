@@ -5850,3 +5850,8 @@
 - [Why Cline Doesn't Index Your Codebase (and Why That's a Good Thing)](https://cline.bot/blog/why-cline-doesnt-index-your-codebase-and-why-thats-a-good-thing)
 - [LumoSQL](https://lumosql.org/src/lumosql/doc/trunk/README.md)
 - [How a hawk learned to use traffic signals to hunt more successfully](https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting)
+## Afternoon/Evening Digest - 28-05-2025
+
+- [The Blowtorch Theory: A New Model for Structure Formation in the Universe](https://theeggandtherock.com/p/the-blowtorch-theory-a-new-model)
+- [Show HN: Loodio 2 – A Simple Rechargable Bathroom Privacy Device](https://loodio.com/)
+- [The Who Cares Era](https://dansinker.com/posts/2025-05-23-who-cares/)
