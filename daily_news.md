@@ -5860,3 +5860,8 @@
 - [Gurus of 90s Web Design: Zeldman, Siegel, Nielsen](https://cybercultural.com/p/web-design-1997/)
 - [Show HN: Typed-FFmpeg 3.0–Typed Interface to FFmpeg and Visual Filter Editor](https://github.com/livingbio/typed-ffmpeg)
 - [High-quality OLED displays now enabling integrated thin and multichannel audio](https://www.sciencedaily.com/releases/2025/05/250521125055.htm)
+## Afternoon/Evening Digest - 29-05-2025
+
+- [Learning C3](https://alloc.dev/2025/05/29/learning_c3)
+- [Medieval Fogge: In Defence of the Middle Ages](https://www.historytoday.com/archive/making-history/medieval-fogge-defence-middle-ages)
+- [The Polymarket users betting that Jesus will return this year](https://ericneyman.wordpress.com/2025/03/24/will-jesus-christ-return-in-an-election-year/)
