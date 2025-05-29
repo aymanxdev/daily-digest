@@ -5855,3 +5855,8 @@
 - [The Blowtorch Theory: A New Model for Structure Formation in the Universe](https://theeggandtherock.com/p/the-blowtorch-theory-a-new-model)
 - [Show HN: Loodio 2 – A Simple Rechargable Bathroom Privacy Device](https://loodio.com/)
 - [The Who Cares Era](https://dansinker.com/posts/2025-05-23-who-cares/)
+## Morning Digest - 29-05-2025
+
+- [Gurus of 90s Web Design: Zeldman, Siegel, Nielsen](https://cybercultural.com/p/web-design-1997/)
+- [Show HN: Typed-FFmpeg 3.0–Typed Interface to FFmpeg and Visual Filter Editor](https://github.com/livingbio/typed-ffmpeg)
+- [High-quality OLED displays now enabling integrated thin and multichannel audio](https://www.sciencedaily.com/releases/2025/05/250521125055.htm)
