@@ -5865,3 +5865,8 @@
 - [Learning C3](https://alloc.dev/2025/05/29/learning_c3)
 - [Medieval Fogge: In Defence of the Middle Ages](https://www.historytoday.com/archive/making-history/medieval-fogge-defence-middle-ages)
 - [The Polymarket users betting that Jesus will return this year](https://ericneyman.wordpress.com/2025/03/24/will-jesus-christ-return-in-an-election-year/)
+## Afternoon/Evening Digest - 07-06-2025
+
+- [BorgBackup 2 has no server-side append-only anymore](https://github.com/borgbackup/borg/pull/8798)
+- [Bill Atkinson has died](https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip)
+- [Washington Post's Privacy Tip: Stop Using Chrome, Delete Meta Apps (and Yandex)](https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex)
