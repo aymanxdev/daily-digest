@@ -5875,3 +5875,8 @@
 - [<Blink> and <Marquee> (2020)](https://danq.me/2020/11/11/blink-and-marquee/)
 - [Joining Apple Computer (2018)](https://www.folklore.org/Joining_Apple_Computer.html)
 - [YouTuber claims to have received an offer to buy the Commodore brand](https://www.amiga-news.de/en/news/AN-2025-06-00029-EN.html)
+## Afternoon/Evening Digest - 08-06-2025
+
+- [Binfmtc – binfmt_misc C scripting interface](https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en)
+- [Gaussian Integration Is Cool](https://rohangautam.github.io/blog/chebyshev_gauss/)
+- [The last six months in LLMs, illustrated by pelicans on bicycles](https://simonwillison.net/2025/Jun/6/six-months-in-llms/)
