@@ -5870,3 +5870,8 @@
 - [BorgBackup 2 has no server-side append-only anymore](https://github.com/borgbackup/borg/pull/8798)
 - [Bill Atkinson has died](https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip)
 - [Washington Post's Privacy Tip: Stop Using Chrome, Delete Meta Apps (and Yandex)](https://tech.slashdot.org/story/25/06/07/035249/washington-posts-privacy-tip-stop-using-chrome-delete-metas-apps-and-yandex)
+## Morning Digest - 08-06-2025
+
+- [<Blink> and <Marquee> (2020)](https://danq.me/2020/11/11/blink-and-marquee/)
+- [Joining Apple Computer (2018)](https://www.folklore.org/Joining_Apple_Computer.html)
+- [YouTuber claims to have received an offer to buy the Commodore brand](https://www.amiga-news.de/en/news/AN-2025-06-00029-EN.html)
