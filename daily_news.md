@@ -5880,3 +5880,8 @@
 - [Binfmtc – binfmt_misc C scripting interface](https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en)
 - [Gaussian Integration Is Cool](https://rohangautam.github.io/blog/chebyshev_gauss/)
 - [The last six months in LLMs, illustrated by pelicans on bicycles](https://simonwillison.net/2025/Jun/6/six-months-in-llms/)
+## Morning Digest - 09-06-2025
+
+- [Self-hosted x86 back end is now default in debug mode](https://ziglang.org/devlog/2025/#2025-06-08)
+- [Why Android can't use CDC Ethernet (2023)](https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/)
+- [Tracking Copilot vs. Codex vs. Cursor vs. Devin PR Performance](https://aavetis.github.io/ai-pr-watcher/)
