@@ -5885,3 +5885,8 @@
 - [Self-hosted x86 back end is now default in debug mode](https://ziglang.org/devlog/2025/#2025-06-08)
 - [Why Android can't use CDC Ethernet (2023)](https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/)
 - [Tracking Copilot vs. Codex vs. Cursor vs. Devin PR Performance](https://aavetis.github.io/ai-pr-watcher/)
+## Afternoon/Evening Digest - 09-06-2025
+
+- [The New Godel Prize Winner Tastes Great and Is Less Filling](https://blog.computationalcomplexity.org/2025/06/the-new-godel-prize-winner-tastes-great.html)
+- [Why Quadratic Funding Is Not Optimal](https://jonathanwarden.com/quadratic-funding-is-not-optimal/)
+- [Hokusai Moyo Gafu: an album of dyeing patterns](https://ndlsearch.ndl.go.jp/en/imagebank/theme/hokusaimoyo)
