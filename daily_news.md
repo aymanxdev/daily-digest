@@ -5890,3 +5890,8 @@
 - [The New Godel Prize Winner Tastes Great and Is Less Filling](https://blog.computationalcomplexity.org/2025/06/the-new-godel-prize-winner-tastes-great.html)
 - [Why Quadratic Funding Is Not Optimal](https://jonathanwarden.com/quadratic-funding-is-not-optimal/)
 - [Hokusai Moyo Gafu: an album of dyeing patterns](https://ndlsearch.ndl.go.jp/en/imagebank/theme/hokusaimoyo)
+## Afternoon/Evening Digest - 10-06-2025
+
+- [Magistral — the first reasoning model by Mistral AI](https://mistral.ai/news/magistral)
+- [Faster, easier 2D vector rendering [video]](https://www.youtube.com/watch?v=_sv8K190Zps)
+- [Spoofing OpenPGP.js signature verification](https://codeanlabs.com/blog/research/cve-2025-47934-spoofing-openpgp-js-signatures/)
