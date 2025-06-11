@@ -5895,3 +5895,8 @@
 - [Magistral — the first reasoning model by Mistral AI](https://mistral.ai/news/magistral)
 - [Faster, easier 2D vector rendering [video]](https://www.youtube.com/watch?v=_sv8K190Zps)
 - [Spoofing OpenPGP.js signature verification](https://codeanlabs.com/blog/research/cve-2025-47934-spoofing-openpgp-js-signatures/)
+## Afternoon/Evening Digest - 11-06-2025
+
+- [S5cmd: Parallel S3 and local filesystem execution tool](https://github.com/peak/s5cmd)
+- [Show HN: Ikuyo a Travel Planning Web Application](https://ikuyo.kenrick95.org/)
+- [Show HN: RomM – An open-source, self-hosted ROM manager and player](https://github.com/rommapp/romm)
