@@ -5905,3 +5905,8 @@
 - [How much EU is in DNS4EU?](https://techlog.jenslink.net/posts/dns4eu/)
 - [Build a minimal decorator with Ruby in 30 minutes](https://remimercier.com/minimal-decorator-ruby/)
 - [Expanding Racks [video]](https://www.youtube.com/watch?v=iWknov3Xpts)
+## Afternoon/Evening Digest - 12-06-2025
+
+- [A receipt printer cured my procrastination](https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination)
+- [Maximizing Battery Storage Profits via High-Frequency Intraday Trading](https://arxiv.org/abs/2504.06932)
+- [CP/M 2.2, CP/M 3.0, CP/M-86, Concurrent CP/M-86 listings by Digital Research](http://www.bitsavers.org/pdf/digitalResearch/CPM_Listings/)
