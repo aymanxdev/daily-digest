@@ -5900,3 +5900,8 @@
 - [S5cmd: Parallel S3 and local filesystem execution tool](https://github.com/peak/s5cmd)
 - [Show HN: Ikuyo a Travel Planning Web Application](https://ikuyo.kenrick95.org/)
 - [Show HN: RomM – An open-source, self-hosted ROM manager and player](https://github.com/rommapp/romm)
+## Morning Digest - 12-06-2025
+
+- [How much EU is in DNS4EU?](https://techlog.jenslink.net/posts/dns4eu/)
+- [Build a minimal decorator with Ruby in 30 minutes](https://remimercier.com/minimal-decorator-ruby/)
+- [Expanding Racks [video]](https://www.youtube.com/watch?v=iWknov3Xpts)
