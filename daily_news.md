@@ -5910,3 +5910,8 @@
 - [A receipt printer cured my procrastination](https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination)
 - [Maximizing Battery Storage Profits via High-Frequency Intraday Trading](https://arxiv.org/abs/2504.06932)
 - [CP/M 2.2, CP/M 3.0, CP/M-86, Concurrent CP/M-86 listings by Digital Research](http://www.bitsavers.org/pdf/digitalResearch/CPM_Listings/)
+## Morning Digest - 13-06-2025
+
+- [Jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)
+- [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
+- [Rendering Crispy Text on the GPU](https://osor.io/text)
