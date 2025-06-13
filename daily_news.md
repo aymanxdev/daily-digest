@@ -5915,3 +5915,8 @@
 - [Jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)
 - [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
 - [Rendering Crispy Text on the GPU](https://osor.io/text)
+## Afternoon/Evening Digest - 13-06-2025
+
+- [Meta Invests $14.3B in Scale AI to Kick-Start Superintelligence Lab](https://www.nytimes.com/2025/06/12/technology/meta-scale-ai.html)
+- [OxCaml - a set of extensions to the OCaml programming language.](https://oxcaml.org/)
+- [If the moon were only 1 pixel: A tediously accurate solar system model (2014)](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
