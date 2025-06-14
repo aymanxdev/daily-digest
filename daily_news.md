@@ -5925,3 +5925,8 @@
 - [Peano arithmetic is enough, because Peano arithmetic  encodes computation](https://math.stackexchange.com/a/5075056/6708)
 - [SIMD-friendly algorithms for substring searching](http://0x80.pl/notesen/2016-11-28-simd-strfind.html)
 - [Danish department determined to dump Microsoft](https://www.theregister.com/2025/06/13/danish_department_dump_microsoft/)
+## Afternoon/Evening Digest - 14-06-2025
+
+- [Unsupervised Elicitation of Language Models](https://arxiv.org/abs/2506.10139)
+- [I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch](https://github.com/yousef-rafat/miniDiffusion)
+- [Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix](https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d)
