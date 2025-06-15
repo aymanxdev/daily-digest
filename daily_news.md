@@ -5935,3 +5935,8 @@
 - [The Art of Lisp and Writing](https://www.dreamsongs.com/ArtOfLisp.html)
 - [Q-learning is not yet scalable](https://seohong.me/blog/q-learning-is-not-yet-scalable/)
 - [Infinite Grid of Resistors](https://www.mathpages.com/home/kmath668/kmath668.htm)
+## Afternoon/Evening Digest - 15-06-2025
+
+- [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
+- [Canyon.mid](https://canyonmid.com/)
+- [How to modify Starlink Mini to run without the built-in WiFi router](https://olegkutkov.me/2025/06/15/how-to-modify-starlink-mini-to-run-without-the-built-in-wifi-router/)
