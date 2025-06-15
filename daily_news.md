@@ -5930,3 +5930,8 @@
 - [Unsupervised Elicitation of Language Models](https://arxiv.org/abs/2506.10139)
 - [I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch](https://github.com/yousef-rafat/miniDiffusion)
 - [Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix](https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d)
+## Morning Digest - 15-06-2025
+
+- [The Art of Lisp and Writing](https://www.dreamsongs.com/ArtOfLisp.html)
+- [Q-learning is not yet scalable](https://seohong.me/blog/q-learning-is-not-yet-scalable/)
+- [Infinite Grid of Resistors](https://www.mathpages.com/home/kmath668/kmath668.htm)
