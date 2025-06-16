@@ -5945,3 +5945,8 @@
 - [Start your own Internet Resiliency Club](https://bowshock.nl/irc/)
 - [Jokes and Humour in the Public Android API](https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/)
 - [NesDev.org – A community of homebrew game devs for NES and other retro consoles](https://www.nesdev.org/)
+## Afternoon/Evening Digest - 16-06-2025
+
+- [Working on databases from prison](https://turso.tech/blog/working-on-databases-from-prison)
+- [Show HN: Zeekstd – Rust Implementation of the ZSTD Seekable Format](https://github.com/rorosen/zeekstd)
+- [Show HN: dk – A script runner and cross-compiler, written in OCaml](https://diskuv.com/dk/help/latest/)
