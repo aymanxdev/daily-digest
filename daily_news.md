@@ -5940,3 +5940,8 @@
 - [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
 - [Canyon.mid](https://canyonmid.com/)
 - [How to modify Starlink Mini to run without the built-in WiFi router](https://olegkutkov.me/2025/06/15/how-to-modify-starlink-mini-to-run-without-the-built-in-wifi-router/)
+## Morning Digest - 16-06-2025
+
+- [Start your own Internet Resiliency Club](https://bowshock.nl/irc/)
+- [Jokes and Humour in the Public Android API](https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/)
+- [NesDev.org – A community of homebrew game devs for NES and other retro consoles](https://www.nesdev.org/)
