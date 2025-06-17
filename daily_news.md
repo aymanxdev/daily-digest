@@ -5950,3 +5950,8 @@
 - [Working on databases from prison](https://turso.tech/blog/working-on-databases-from-prison)
 - [Show HN: Zeekstd – Rust Implementation of the ZSTD Seekable Format](https://github.com/rorosen/zeekstd)
 - [Show HN: dk – A script runner and cross-compiler, written in OCaml](https://diskuv.com/dk/help/latest/)
+## Morning Digest - 17-06-2025
+
+- [Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing Task](https://www.brainonllm.com/)
+- [What happens when clergy take psilocybin](https://nautil.us/clergy-blown-away-by-psilocybin-1217112/)
+- [How Frogger 2’s source code was recovered from a destroyed tape [video]](https://www.youtube.com/watch?v=lvEO4IaEJlw)
