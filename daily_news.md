@@ -5955,3 +5955,8 @@
 - [Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing Task](https://www.brainonllm.com/)
 - [What happens when clergy take psilocybin](https://nautil.us/clergy-blown-away-by-psilocybin-1217112/)
 - [How Frogger 2’s source code was recovered from a destroyed tape [video]](https://www.youtube.com/watch?v=lvEO4IaEJlw)
+## Afternoon/Evening Digest - 17-06-2025
+
+- [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
+- [AMD's Pre-Zen Interconnect: Testing Trinity's Northbridge](https://chipsandcheese.com/p/amds-pre-zen-interconnect-testing)
+- [What happens when clergy take psilocybin](https://nautil.us/clergy-blown-away-by-psilocybin-1217112/)
