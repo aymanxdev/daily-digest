@@ -5965,3 +5965,8 @@
 - [MiniMax-M1 open-weight, large-scale hybrid-attention reasoning model](https://github.com/MiniMax-AI/MiniMax-M1)
 - [Make little apps for you and your friends](https://pontus.granstrom.me/scrappy/)
 - [The Grug Brained Developer (2022)](https://grugbrain.dev/)
+## Afternoon/Evening Digest - 18-06-2025
+
+- [Workout.cool – Open-source fitness coaching platform](https://github.com/Snouzy/workout-cool)
+- [Homomorphically Encrypting CRDTs](https://jakelazaroff.com/words/homomorphically-encrypted-crdts/)
+- [Terpstra Keyboard](http://terpstrakeyboard.com/web-app/keys.htm)
