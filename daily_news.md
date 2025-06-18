@@ -5960,3 +5960,8 @@
 - [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
 - [AMD's Pre-Zen Interconnect: Testing Trinity's Northbridge](https://chipsandcheese.com/p/amds-pre-zen-interconnect-testing)
 - [What happens when clergy take psilocybin](https://nautil.us/clergy-blown-away-by-psilocybin-1217112/)
+## Morning Digest - 18-06-2025
+
+- [MiniMax-M1 open-weight, large-scale hybrid-attention reasoning model](https://github.com/MiniMax-AI/MiniMax-M1)
+- [Make little apps for you and your friends](https://pontus.granstrom.me/scrappy/)
+- [The Grug Brained Developer (2022)](https://grugbrain.dev/)
