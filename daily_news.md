@@ -5975,3 +5975,8 @@
 - [Andrej Karpathy: Software in the era of AI [video]](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
 - [The Zed Debugger Is Here](https://zed.dev/blog/debugger)
 - [Liberux Nexx: An interview with Liberux about their made-in-EU OSHW Linux Phone](https://linmob.net/liberux-nexx-an-interview-with-liberux/)
+## Afternoon/Evening Digest - 19-06-2025
+
+- [Curved-Crease Origami Sculptures](https://erikdemaine.org/curved/)
+- [Andrej Karpathy: Software in the era of AI [video]](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
+- [Posit floating point numbers: thin triangles and other tricks (2019)](http://marc-b-reynolds.github.io/math/2019/02/06/Posit1.html)
