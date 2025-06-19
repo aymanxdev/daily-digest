@@ -5970,3 +5970,8 @@
 - [Workout.cool – Open-source fitness coaching platform](https://github.com/Snouzy/workout-cool)
 - [Homomorphically Encrypting CRDTs](https://jakelazaroff.com/words/homomorphically-encrypted-crdts/)
 - [Terpstra Keyboard](http://terpstrakeyboard.com/web-app/keys.htm)
+## Morning Digest - 19-06-2025
+
+- [Andrej Karpathy: Software in the era of AI [video]](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
+- [The Zed Debugger Is Here](https://zed.dev/blog/debugger)
+- [Liberux Nexx: An interview with Liberux about their made-in-EU OSHW Linux Phone](https://linmob.net/liberux-nexx-an-interview-with-liberux/)
