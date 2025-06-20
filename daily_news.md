@@ -5985,3 +5985,8 @@
 - [Break Up Big Tech: Civil Society Declaration – People vs. Big Tech](https://peoplevsbig.tech/break-up-big-tech-civil-society-declaration/)
 - [Hurl: Run and test HTTP requests with plain text](https://github.com/Orange-OpenSource/hurl)
 - [Infinite Mac OS X](https://blog.persistent.info/2025/03/infinite-mac-os-x.html)
+## Afternoon/Evening Digest - 20-06-2025
+
+- [Wanted: New Instruments to Fund BBNs](https://www.freaktakes.com/p/wanted-new-instruments-to-fund-bbns)
+- [Oklo, the Earth's Two-billion-year-old only Known Natural Nuclear Reactor](https://www.iaea.org/newscenter/news/meet-oklo-the-earths-two-billion-year-old-only-known-natural-nuclear-reactor)
+- [Hurl: Run and test HTTP requests with plain text](https://github.com/Orange-OpenSource/hurl)
