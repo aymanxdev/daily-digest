@@ -5980,3 +5980,8 @@
 - [Curved-Crease Origami Sculptures](https://erikdemaine.org/curved/)
 - [Andrej Karpathy: Software in the era of AI [video]](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
 - [Posit floating point numbers: thin triangles and other tricks (2019)](http://marc-b-reynolds.github.io/math/2019/02/06/Posit1.html)
+## Morning Digest - 20-06-2025
+
+- [Break Up Big Tech: Civil Society Declaration – People vs. Big Tech](https://peoplevsbig.tech/break-up-big-tech-civil-society-declaration/)
+- [Hurl: Run and test HTTP requests with plain text](https://github.com/Orange-OpenSource/hurl)
+- [Infinite Mac OS X](https://blog.persistent.info/2025/03/infinite-mac-os-x.html)
