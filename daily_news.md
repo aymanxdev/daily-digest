@@ -5995,3 +5995,8 @@
 - [Samsung Embeds IronSource Spyware App on Phones Across WANA](https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region/)
 - [Sega mistakenly reveals sales numbers of popular games](https://www.gematsu.com/2025/06/sega-mistakenly-reveals-sales-numbers-for-like-a-dragon-infinite-wealth-persona-3-reload-shin-megami-tensei-v-and-more)
 - [AbsenceBench: Language models can't tell what's missing](https://arxiv.org/abs/2506.11440)
+## Afternoon/Evening Digest - 21-06-2025
+
+- [Cosmoe: BeOS Class Library on Top of Wayland](https://cosmoe.org/index.html)
+- [Scaling our observability platform by embracing wide events and replacing OTel](https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel)
+- [Behind the scenes: Redpanda Cloud's response to the GCP outage](https://www.redpanda.com/blog/gcp-outage-june-redpanda-cloud)
