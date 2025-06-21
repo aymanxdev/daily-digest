@@ -5990,3 +5990,8 @@
 - [Wanted: New Instruments to Fund BBNs](https://www.freaktakes.com/p/wanted-new-instruments-to-fund-bbns)
 - [Oklo, the Earth's Two-billion-year-old only Known Natural Nuclear Reactor](https://www.iaea.org/newscenter/news/meet-oklo-the-earths-two-billion-year-old-only-known-natural-nuclear-reactor)
 - [Hurl: Run and test HTTP requests with plain text](https://github.com/Orange-OpenSource/hurl)
+## Morning Digest - 21-06-2025
+
+- [Samsung Embeds IronSource Spyware App on Phones Across WANA](https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region/)
+- [Sega mistakenly reveals sales numbers of popular games](https://www.gematsu.com/2025/06/sega-mistakenly-reveals-sales-numbers-for-like-a-dragon-infinite-wealth-persona-3-reload-shin-megami-tensei-v-and-more)
+- [AbsenceBench: Language models can't tell what's missing](https://arxiv.org/abs/2506.11440)
