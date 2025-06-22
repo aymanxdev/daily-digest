@@ -6005,3 +6005,8 @@
 - [TPU (Tensor Processing Unit) Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
 - [Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth](https://github.com/lfnoise/sapf)
 - [A web extension to redirects YouTube, X, etc. to privacy-friendly front ends](https://libredirect.github.io)
+## Afternoon/Evening Digest - 22-06-2025
+
+- [Mechanical Watch: Exploded View](https://fellerts.no/projects/epoch.html)
+- [LibRedirect – Redirects popular sites to alternative privacy-friendly frontends](https://libredirect.github.io)
+- [Git Notes: Git's coolest, most unloved­ feature (2022)](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
