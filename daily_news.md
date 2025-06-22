@@ -6000,3 +6000,8 @@
 - [Cosmoe: BeOS Class Library on Top of Wayland](https://cosmoe.org/index.html)
 - [Scaling our observability platform by embracing wide events and replacing OTel](https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel)
 - [Behind the scenes: Redpanda Cloud's response to the GCP outage](https://www.redpanda.com/blog/gcp-outage-june-redpanda-cloud)
+## Morning Digest - 22-06-2025
+
+- [TPU (Tensor Processing Unit) Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html)
+- [Sound As Pure Form: Music Language Inspired by Supercollider, APL, and Forth](https://github.com/lfnoise/sapf)
+- [A web extension to redirects YouTube, X, etc. to privacy-friendly front ends](https://libredirect.github.io)
