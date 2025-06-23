@@ -6010,3 +6010,8 @@
 - [Mechanical Watch: Exploded View](https://fellerts.no/projects/epoch.html)
 - [LibRedirect – Redirects popular sites to alternative privacy-friendly frontends](https://libredirect.github.io)
 - [Git Notes: Git's coolest, most unloved­ feature (2022)](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
+## Morning Digest - 23-06-2025
+
+- [Mechanical Watch: Exploded View](https://fellerts.no/projects/epoch.html)
+- [New Linux udisks flaw lets attackers get root on major Linux distros](https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/)
+- [Python can run Mojo now](https://koaning.io/posts/giving-mojo-a-spin/)
