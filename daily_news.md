@@ -6015,3 +6015,8 @@
 - [Mechanical Watch: Exploded View](https://fellerts.no/projects/epoch.html)
 - [New Linux udisks flaw lets attackers get root on major Linux distros](https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/)
 - [Python can run Mojo now](https://koaning.io/posts/giving-mojo-a-spin/)
+## Afternoon/Evening Digest - 23-06-2025
+
+- [Backyard Coffee and Jazz in Kyoto, Japan](https://thedeletedscenes.substack.com/p/backyard-coffee-and-jazz-in-kyoto)
+- [New Linux udisks flaw lets attackers get root on major Linux distros](https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/)
+- [Rocknix is an immutable Linux distribution for handheld gaming devices](https://rocknix.org/)
