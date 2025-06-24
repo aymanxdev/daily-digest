@@ -6020,3 +6020,8 @@
 - [Backyard Coffee and Jazz in Kyoto, Japan](https://thedeletedscenes.substack.com/p/backyard-coffee-and-jazz-in-kyoto)
 - [New Linux udisks flaw lets attackers get root on major Linux distros](https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/)
 - [Rocknix is an immutable Linux distribution for handheld gaming devices](https://rocknix.org/)
+## Morning Digest - 24-06-2025
+
+- [Solving LinkedIn Queens Using Haskell](https://imiron.io/post/linkedin-queens/)
+- [Vera C. Rubin Observatory first images](https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest)
+- [Can your terminal do emojis? How big?](https://dgl.cx/2025/06/can-your-terminal-do-emojis)
