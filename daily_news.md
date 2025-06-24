@@ -6025,3 +6025,8 @@
 - [Solving LinkedIn Queens Using Haskell](https://imiron.io/post/linkedin-queens/)
 - [Vera C. Rubin Observatory first images](https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest)
 - [Can your terminal do emojis? How big?](https://dgl.cx/2025/06/can-your-terminal-do-emojis)
+## Afternoon/Evening Digest - 24-06-2025
+
+- [Finding a 27-year-old easter egg in the Power Mac G3 ROM](https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/)
+- [Starship: The minimal, fast, and customizable prompt for any shell](https://starship.rs/)
+- [Basic Facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
