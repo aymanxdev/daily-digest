@@ -6030,3 +6030,8 @@
 - [Finding a 27-year-old easter egg in the Power Mac G3 ROM](https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/)
 - [Starship: The minimal, fast, and customizable prompt for any shell](https://starship.rs/)
 - [Basic Facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
+## Morning Digest - 25-06-2025
+
+- [A new PNG spec](https://www.programmax.net/articles/png-is-back/)
+- [Reading NFC Passport Chips in Linux](https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/)
+- [Microsoft Edit](https://github.com/microsoft/edit)
