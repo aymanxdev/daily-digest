@@ -6035,3 +6035,8 @@
 - [A new PNG spec](https://www.programmax.net/articles/png-is-back/)
 - [Reading NFC Passport Chips in Linux](https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/)
 - [Microsoft Edit](https://github.com/microsoft/edit)
+## Afternoon/Evening Digest - 25-06-2025
+
+- [A new PNG spec](https://www.programmax.net/articles/png-is-back/)
+- [Gemini CLI](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
+- [Is Lovable getting monetization wrong?](https://getlago.substack.com/p/lovable-makes-60m-in-6-monthsbut)
