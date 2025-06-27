@@ -6045,3 +6045,8 @@
 - [A new pyramid-like shape always lands the same side up](https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/)
 - [Gemini CLI](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 - [Puerto Rico's Solar Microgrids Beat Blackout](https://spectrum.ieee.org/puerto-rico-solar-microgrids)
+## Morning Digest - 27-06-2025
+
+- [XSLT – Native, zero-config build system for the Web](https://github.com/pacocoursey/xslt)
+- [I Switched from Flutter and Rust to Rust and Egui](https://jdiaz97.github.io/greenblog/posts/flutter_to_egui/)
+- [Parameterized types in C using the new tag compatibility rule](https://nullprogram.com/blog/2025/06/26/)
