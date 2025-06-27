@@ -6050,3 +6050,8 @@
 - [XSLT – Native, zero-config build system for the Web](https://github.com/pacocoursey/xslt)
 - [I Switched from Flutter and Rust to Rust and Egui](https://jdiaz97.github.io/greenblog/posts/flutter_to_egui/)
 - [Parameterized types in C using the new tag compatibility rule](https://nullprogram.com/blog/2025/06/26/)
+## Afternoon/Evening Digest - 27-06-2025
+
+- [Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights](https://jameshard.ing/pilot)
+- [Qwen VLo: From "Understanding" the World to "Depicting" It](https://qwenlm.github.io/blog/qwen-vlo/)
+- [10 Years of Pomological Watercolors](https://parkerhiggins.net/2025/04/10-years-of-pomological-watercolors/)
