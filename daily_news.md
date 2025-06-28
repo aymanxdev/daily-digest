@@ -6060,3 +6060,8 @@
 - [Show HN: I'm an airline pilot – I built interactive graphs/globes of my flights](https://jameshard.ing/pilot)
 - [DeepSeek R2 launch stalled as CEO balks at progress](https://www.reuters.com/world/china/deepseek-r2-launch-stalled-ceo-balks-progress-information-reports-2025-06-26/)
 - [AlphaGenome: AI for Better Understanding the Genome](https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/)
+## Afternoon/Evening Digest - 28-06-2025
+
+- [MCP: An (Accidentally) Universal Plugin System](https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin)
+- [We ran a Unix-like OS Xv6 on our home-built CPU with a home-built C compiler](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/)
+- [Unheard works by Erik Satie to premiere 100 years after his death](https://www.theguardian.com/music/2025/jun/26/unheard-works-by-erik-satie-to-premiere-100-years-after-his-death)
