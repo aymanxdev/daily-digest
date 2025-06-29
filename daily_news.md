@@ -6065,3 +6065,8 @@
 - [MCP: An (Accidentally) Universal Plugin System](https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin)
 - [We ran a Unix-like OS Xv6 on our home-built CPU with a home-built C compiler](https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-home-built-c-compiler/)
 - [Unheard works by Erik Satie to premiere 100 years after his death](https://www.theguardian.com/music/2025/jun/26/unheard-works-by-erik-satie-to-premiere-100-years-after-his-death)
+## Morning Digest - 29-06-2025
+
+- [Using the Internet without IPv4 connectivity](https://jamesmcm.github.io/blog/no-ipv4/)
+- [The Unsustainability of Moore's Law](https://bzolang.blog/p/the-unsustainability-of-moores-law)
+- [JavaScript Trademark Update](https://deno.com/blog/deno-v-oracle4)
