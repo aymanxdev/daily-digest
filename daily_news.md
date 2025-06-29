@@ -6070,3 +6070,8 @@
 - [Using the Internet without IPv4 connectivity](https://jamesmcm.github.io/blog/no-ipv4/)
 - [The Unsustainability of Moore's Law](https://bzolang.blog/p/the-unsustainability-of-moores-law)
 - [JavaScript Trademark Update](https://deno.com/blog/deno-v-oracle4)
+## Afternoon/Evening Digest - 29-06-2025
+
+- [I made my VM think it has a CPU fan](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html)
+- [Show HN: Octelium – FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok](https://github.com/octelium/octelium)
+- [Using the Internet without IPv4 connectivity](https://jamesmcm.github.io/blog/no-ipv4/)
