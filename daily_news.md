@@ -6075,3 +6075,8 @@
 - [I made my VM think it has a CPU fan](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html)
 - [Show HN: Octelium – FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok](https://github.com/octelium/octelium)
 - [Using the Internet without IPv4 connectivity](https://jamesmcm.github.io/blog/no-ipv4/)
+## Morning Digest - 30-06-2025
+
+- [Bought myself an Ampere Altra system](https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/)
+- [Gridfinity: The modular, open-source grid storage system](https://gridfinity.xyz/)
+- [LetsEncrypt – Expiration Notification Service Has Ended](https://letsencrypt.org/2025/06/26/expiration-notification-service-has-ended/)
