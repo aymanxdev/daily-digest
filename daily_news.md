@@ -6080,3 +6080,8 @@
 - [Bought myself an Ampere Altra system](https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/)
 - [Gridfinity: The modular, open-source grid storage system](https://gridfinity.xyz/)
 - [LetsEncrypt – Expiration Notification Service Has Ended](https://letsencrypt.org/2025/06/26/expiration-notification-service-has-ended/)
+## Afternoon/Evening Digest - 30-06-2025
+
+- [Show HN: TokenDagger – A tokenizer faster than OpenAI's Tiktoken](https://github.com/M4THYOU/TokenDagger)
+- [Show HN: New Ensō – first public beta](https://untested.sonnet.io/notes/new-enso-first-public-beta/)
+- [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/)
