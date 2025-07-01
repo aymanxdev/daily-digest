@@ -6085,3 +6085,8 @@
 - [Show HN: TokenDagger – A tokenizer faster than OpenAI's Tiktoken](https://github.com/M4THYOU/TokenDagger)
 - [Show HN: New Ensō – first public beta](https://untested.sonnet.io/notes/new-enso-first-public-beta/)
 - [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/)
+## Morning Digest - 01-07-2025
+
+- [Restoring a ZX Spectrum+ Toastrack](https://celso.io/posts/2025/06/28/toastrack/)
+- [YouTube No Translation](https://addons.mozilla.org/en-GB/firefox/addon/youtube-no-translation/)
+- [Genetic code enables zebrafish to mend damaged organs](https://www.caltech.edu/about/news/genetic-code-enables-zebrafish-to-mend-damaged-organs)
