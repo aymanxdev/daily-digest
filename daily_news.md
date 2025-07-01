@@ -6090,3 +6090,8 @@
 - [Restoring a ZX Spectrum+ Toastrack](https://celso.io/posts/2025/06/28/toastrack/)
 - [YouTube No Translation](https://addons.mozilla.org/en-GB/firefox/addon/youtube-no-translation/)
 - [Genetic code enables zebrafish to mend damaged organs](https://www.caltech.edu/about/news/genetic-code-enables-zebrafish-to-mend-damaged-organs)
+## Afternoon/Evening Digest - 01-07-2025
+
+- [Feasibility study of a mission to Sedna - Nuclear propulsion and solar sailing](https://arxiv.org/abs/2506.17732)
+- [Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages](https://simedw.com/2025/06/23/introducing-spegel/)
+- [I built something that changed my friend group's social fabric](https://blog.danpetrolito.xyz/i-built-something-that-changed-my-friend-gro-social-fabric/)
