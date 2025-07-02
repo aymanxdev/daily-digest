@@ -6100,3 +6100,8 @@
 - [Huawei releases an open weight model trained on Huawei Ascend GPUs](https://arxiv.org/abs/2505.21411)
 - [The Fed says this is a cube of $1M. They're off by half a million](https://calvin.sh/blog/fed-lie/)
 - [Figma files for proposed IPO](https://www.figma.com/blog/s1-public/)
+## Afternoon/Evening Digest - 02-07-2025
+
+- [Hack IKKO "AI powered" earbuds to run DOOM, stole OpenAI API key, customer data](https://blog.mgdproductions.com/ikko-activebuds/)
+- [Don’t use “click here” as link text (2001)](https://www.w3.org/QA/Tips/noClickHere)
+- [How large are large language models?](https://gist.github.com/rain-1/cf0419958250d15893d8873682492c3e)
