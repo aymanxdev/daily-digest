@@ -6095,3 +6095,8 @@
 - [Feasibility study of a mission to Sedna - Nuclear propulsion and solar sailing](https://arxiv.org/abs/2506.17732)
 - [Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages](https://simedw.com/2025/06/23/introducing-spegel/)
 - [I built something that changed my friend group's social fabric](https://blog.danpetrolito.xyz/i-built-something-that-changed-my-friend-gro-social-fabric/)
+## Morning Digest - 02-07-2025
+
+- [Huawei releases an open weight model trained on Huawei Ascend GPUs](https://arxiv.org/abs/2505.21411)
+- [The Fed says this is a cube of $1M. They're off by half a million](https://calvin.sh/blog/fed-lie/)
+- [Figma files for proposed IPO](https://www.figma.com/blog/s1-public/)
