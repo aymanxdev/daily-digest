@@ -6105,3 +6105,8 @@
 - [Hack IKKO "AI powered" earbuds to run DOOM, stole OpenAI API key, customer data](https://blog.mgdproductions.com/ikko-activebuds/)
 - [Don’t use “click here” as link text (2001)](https://www.w3.org/QA/Tips/noClickHere)
 - [How large are large language models?](https://gist.github.com/rain-1/cf0419958250d15893d8873682492c3e)
+## Morning Digest - 03-07-2025
+
+- [I scanned all of GitHub's "oops commits" for leaked secrets](https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets)
+- [Fei-Fei Li: Spatial intelligence is the next frontier in AI [video]](https://www.youtube.com/watch?v=_PioN-CpOP0)
+- [Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System](https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180)
