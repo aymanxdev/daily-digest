@@ -6110,3 +6110,8 @@
 - [I scanned all of GitHub's "oops commits" for leaked secrets](https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets)
 - [Fei-Fei Li: Spatial intelligence is the next frontier in AI [video]](https://www.youtube.com/watch?v=_PioN-CpOP0)
 - [Astronomers discover 3I/ATLAS – Third interstellar object to visit Solar System](https://www.abc.net.au/news/science/2025-07-03/3i-atlas-a11pl3z-interstellar-object-in-our-solar-system/105489180)
+## Afternoon/Evening Digest - 03-07-2025
+
+- [Locality of Behaviour (2020)](https://htmx.org/essays/locality-of-behaviour/)
+- [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/)
+- [Alice's Adventures in a Differentiable Wonderland](https://arxiv.org/abs/2404.17625)
