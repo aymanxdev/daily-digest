@@ -6115,3 +6115,8 @@
 - [Locality of Behaviour (2020)](https://htmx.org/essays/locality-of-behaviour/)
 - [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/)
 - [Alice's Adventures in a Differentiable Wonderland](https://arxiv.org/abs/2404.17625)
+## Morning Digest - 04-07-2025
+
+- [WASM Agents: AI agents running in the browser](https://blog.mozilla.ai/wasm-agents-ai-agents-running-in-your-browser/)
+- [Major reversal in ocean circulation detected in the Southern Ocean](https://www.icm.csic.es/en/news/major-reversal-ocean-circulation-detected-southern-ocean-key-climate-implications)
+- [The Rise of Whatever](https://eev.ee/blog/2025/07/03/the-rise-of-whatever/)
