@@ -6125,3 +6125,8 @@
 - [Why I left my tech job to work on chronic pain](https://sailhealth.substack.com/p/why-i-left-my-tech-job-to-work-on)
 - [Writing a Game Boy Emulator in OCaml](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
 - [Show HN: I AI-coded a tower defense game and documented the whole process](https://github.com/maciej-trebacz/tower-of-time-game)
+## Morning Digest - 05-07-2025
+
+- [OBBB signed: Reinstates immediate expensing for U.S.-based R&D](https://www.kbkg.com/feature/house-passes-tax-bill-sending-to-president-for-signature)
+- [Baba Is Eval](https://fi-le.net/baba/)
+- [The messy reality of SIMD (vector) functions](https://johnnysswlab.com/the-messy-reality-of-simd-vector-functions/)
