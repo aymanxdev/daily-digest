@@ -6130,3 +6130,8 @@
 - [OBBB signed: Reinstates immediate expensing for U.S.-based R&D](https://www.kbkg.com/feature/house-passes-tax-bill-sending-to-president-for-signature)
 - [Baba Is Eval](https://fi-le.net/baba/)
 - [The messy reality of SIMD (vector) functions](https://johnnysswlab.com/the-messy-reality-of-simd-vector-functions/)
+## Afternoon/Evening Digest - 05-07-2025
+
+- [Europe's first geostationary sounder satellite is launched](https://www.eumetsat.int/europes-first-geostationary-sounder-satellite-launched)
+- [X-Clacks-Overhead](https://xclacksoverhead.org/home/about)
+- [Being too ambitious is a clever form of self-sabotage](https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form)
