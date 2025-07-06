@@ -6140,3 +6140,8 @@
 - [Hidden interface controls are affecting usability](https://interactions.acm.org/archive/view/july-august-2025/stop-hiding-my-controls-hidden-interface-controls-are-affecting-usability)
 - [Triffin Dilemma: How the US Genius Act Could Trigger a 'Digital Nixon Shock](https://www.haebom.dev/archive?tl=en&post=943zqpmqrk14g2wnvy87)
 - [Local-first software (2019)](https://www.inkandswitch.com/essay/local-first/)
+## Afternoon/Evening Digest - 06-07-2025
+
+- [Get the location of the ISS using DNS](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
+- [Stop killing games and the industry response](https://blog.kronis.dev/blog/stop-killing-games)
+- [Overthinking GIS (2024)](https://scottsexton.co/post/overthinking_gis/)
