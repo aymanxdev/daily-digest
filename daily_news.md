@@ -6135,3 +6135,8 @@
 - [Europe's first geostationary sounder satellite is launched](https://www.eumetsat.int/europes-first-geostationary-sounder-satellite-launched)
 - [X-Clacks-Overhead](https://xclacksoverhead.org/home/about)
 - [Being too ambitious is a clever form of self-sabotage](https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form)
+## Morning Digest - 06-07-2025
+
+- [Hidden interface controls are affecting usability](https://interactions.acm.org/archive/view/july-august-2025/stop-hiding-my-controls-hidden-interface-controls-are-affecting-usability)
+- [Triffin Dilemma: How the US Genius Act Could Trigger a 'Digital Nixon Shock](https://www.haebom.dev/archive?tl=en&post=943zqpmqrk14g2wnvy87)
+- [Local-first software (2019)](https://www.inkandswitch.com/essay/local-first/)
