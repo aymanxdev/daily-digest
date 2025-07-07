@@ -6145,3 +6145,8 @@
 - [Get the location of the ISS using DNS](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
 - [Stop killing games and the industry response](https://blog.kronis.dev/blog/stop-killing-games)
 - [Overthinking GIS (2024)](https://scottsexton.co/post/overthinking_gis/)
+## Morning Digest - 07-07-2025
+
+- [Bitchat – A decentralized messaging app that works over Bluetooth mesh networks](https://github.com/jackjackbits/bitchat)
+- [I extracted the safety filters from Apple Intelligence models](https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted)
+- [Intel's Lion Cove P-Core and Gaming Workloads](https://chipsandcheese.com/p/intels-lion-cove-p-core-and-gaming)
