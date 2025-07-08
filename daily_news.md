@@ -6160,3 +6160,8 @@
 - [# [derive(Clone)] Is Broken](https://rgbcu.be/blog/derive-broken/)
 - [New sphere-packing record stems from an unexpected source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/)
 - [Epanet-JS](https://macwright.com/2025/07/03/epanet-placemark)
+## Afternoon/Evening Digest - 08-07-2025
+
+- [Can an email go 500 miles in 2025?](https://flak.tedunangst.com/post/can-an-email-go-500-miles-in-2025)
+- [Reflections on 2 years of CPython's JIT Compiler](https://fidget-spinner.github.io/posts/jit-reflections.html)
+- [Blind to Disruption – The CEOs Who Missed the Future](https://steveblank.com/2025/07/08/blind-to-disruption-the-ceos-who-missed-the-future/)
