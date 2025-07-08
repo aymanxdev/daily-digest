@@ -6155,3 +6155,8 @@
 - [Mercury: Ultra-Fast Language Models Based on Diffusion](https://arxiv.org/abs/2506.17298)
 - [I used o3 to profile myself from my saved Pocket links](https://noperator.dev/posts/o3-pocket-profile/)
 - [When Figma starts designing us](https://designsystems.international/ideas/when-figma-starts-designing-us/)
+## Morning Digest - 08-07-2025
+
+- [# [derive(Clone)] Is Broken](https://rgbcu.be/blog/derive-broken/)
+- [New sphere-packing record stems from an unexpected source](https://www.quantamagazine.org/new-sphere-packing-record-stems-from-an-unexpected-source-20250707/)
+- [Epanet-JS](https://macwright.com/2025/07/03/epanet-placemark)
