@@ -6165,3 +6165,8 @@
 - [Can an email go 500 miles in 2025?](https://flak.tedunangst.com/post/can-an-email-go-500-miles-in-2025)
 - [Reflections on 2 years of CPython's JIT Compiler](https://fidget-spinner.github.io/posts/jit-reflections.html)
 - [Blind to Disruption – The CEOs Who Missed the Future](https://steveblank.com/2025/07/08/blind-to-disruption-the-ceos-who-missed-the-future/)
+## Morning Digest - 09-07-2025
+
+- [Helm local code execution via a malicious chart – CVE-2025-53547](https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm)
+- [Is the doc bot docs, or not?](https://www.robinsloan.com/lab/what-are-we-even-doing-here/)
+- [AI, Power and Sociolinguistics [pdf]](https://www.researchgate.net/profile/Ico-Maly-2/publication/385703534_AI_power_and_sociolinguistics/links/6813618cdf0e3f544f502f05/AI-power-and-sociolinguistics.pdf)
