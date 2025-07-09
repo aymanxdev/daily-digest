@@ -6170,3 +6170,8 @@
 - [Helm local code execution via a malicious chart – CVE-2025-53547](https://github.com/helm/helm/security/advisories/GHSA-557j-xg8c-q2mm)
 - [Is the doc bot docs, or not?](https://www.robinsloan.com/lab/what-are-we-even-doing-here/)
 - [AI, Power and Sociolinguistics [pdf]](https://www.researchgate.net/profile/Ico-Maly-2/publication/385703534_AI_power_and_sociolinguistics/links/6813618cdf0e3f544f502f05/AI-power-and-sociolinguistics.pdf)
+## Afternoon/Evening Digest - 09-07-2025
+
+- [Tree Borrows](https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html)
+- [Why LLMs Can't Write Q/Kdb+: Writing Code Right-to-Left](https://medium.com/@gabiteodoru/why-llms-cant-write-q-kdb-writing-code-right-to-left-ea6df68af443)
+- [Hugging Face just launched a $299 robot that could disrupt the robotics industry](https://venturebeat.com/ai/hugging-face-just-launched-a-299-robot-that-could-disrupt-the-entire-robotics-industry/)
