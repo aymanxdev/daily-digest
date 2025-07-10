@@ -6180,3 +6180,8 @@
 - ["Ripples They Cause in the World"](https://www.shadowcat.co.uk/2025/07/09/ripples-they-cause-in-the-world/)
 - [MCP-B: A Protocol for AI Browser Automation](https://mcp-b.ai/)
 - [Tree Borrows](https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html)
+## Afternoon/Evening Digest - 10-07-2025
+
+- [Is Gemini 2.5 good at bounding boxes?](https://simedw.com/2025/07/10/gemini-bounding-boxes/)
+- [How to prove false statements: Practical attacks on Fiat-Shamir](https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/)
+- [Optimizing a Math Expression Parser in Rust](https://rpallas.xyz/math-parser/)
