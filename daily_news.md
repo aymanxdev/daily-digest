@@ -6175,3 +6175,8 @@
 - [Tree Borrows](https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html)
 - [Why LLMs Can't Write Q/Kdb+: Writing Code Right-to-Left](https://medium.com/@gabiteodoru/why-llms-cant-write-q-kdb-writing-code-right-to-left-ea6df68af443)
 - [Hugging Face just launched a $299 robot that could disrupt the robotics industry](https://venturebeat.com/ai/hugging-face-just-launched-a-299-robot-that-could-disrupt-the-entire-robotics-industry/)
+## Morning Digest - 10-07-2025
+
+- ["Ripples They Cause in the World"](https://www.shadowcat.co.uk/2025/07/09/ripples-they-cause-in-the-world/)
+- [MCP-B: A Protocol for AI Browser Automation](https://mcp-b.ai/)
+- [Tree Borrows](https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html)
