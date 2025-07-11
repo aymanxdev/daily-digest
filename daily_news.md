@@ -6190,3 +6190,8 @@
 - [Apple vs the Law](https://formularsumo.co.uk/blog/2025/apple-vs-the-law/)
 - [OpenFront: Realtime Risk-like multiplayer game in the browser](https://openfront.io/)
 - [Why Is Fertility So Low in High Income Countries? (NBER)](https://www.nber.org/papers/w33989)
+## Afternoon/Evening Digest - 11-07-2025
+
+- [Bill Atkinson's Psychedelic User Interface](https://patternproject.substack.com/p/from-the-mac-to-the-mystical-bill)
+- [At Least 13 People Died by Suicide Amid U.K. Post Office Scandal, Report Says](https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html)
+- [AI Agent Benchmarks Are Broken](https://ddkang.substack.com/p/ai-agent-benchmarks-are-broken)
