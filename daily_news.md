@@ -6185,3 +6185,8 @@
 - [Is Gemini 2.5 good at bounding boxes?](https://simedw.com/2025/07/10/gemini-bounding-boxes/)
 - [How to prove false statements: Practical attacks on Fiat-Shamir](https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/)
 - [Optimizing a Math Expression Parser in Rust](https://rpallas.xyz/math-parser/)
+## Morning Digest - 11-07-2025
+
+- [Apple vs the Law](https://formularsumo.co.uk/blog/2025/apple-vs-the-law/)
+- [OpenFront: Realtime Risk-like multiplayer game in the browser](https://openfront.io/)
+- [Why Is Fertility So Low in High Income Countries? (NBER)](https://www.nber.org/papers/w33989)
