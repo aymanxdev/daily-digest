@@ -6210,3 +6210,8 @@
 - [Reading Neuromancer for the first time in 2025](https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson)
 - [Bypassing Google's big anti-adblock update](https://0x44.xyz/blog/web-request-blocking/)
 - [Switching to Claude Code and VSCode Inside Docker](https://timsh.org/claude-inside-docker/)
+## Afternoon/Evening Digest - 13-07-2025
+
+- [Reading Neuromancer for the first time in 2025](https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson)
+- [Bypassing Google's big anti-adblock update](https://0x44.xyz/blog/web-request-blocking/)
+- [The upcoming GPT-3 moment for RL](https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/)
