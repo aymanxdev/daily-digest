@@ -6205,3 +6205,8 @@
 - [MacPaint Art from the Mid-80s Still Looks Great Today](https://blog.decryption.net.au/posts/macpaint.html)
 - [OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google](https://www.theverge.com/openai/705999/google-windsurf-ceo-openai)
 - [Malware found in official gravityforms plugin indicating supply chain breach](https://patchstack.com/articles/critical-malware-found-in-gravityforms-official-plugin-site/)
+## Morning Digest - 13-07-2025
+
+- [Reading Neuromancer for the first time in 2025](https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson)
+- [Bypassing Google's big anti-adblock update](https://0x44.xyz/blog/web-request-blocking/)
+- [Switching to Claude Code and VSCode Inside Docker](https://timsh.org/claude-inside-docker/)
