@@ -6220,3 +6220,8 @@
 - [Show HN: Refine – A Local Alternative to Grammarly](https://refine.sh)
 - [Let's Learn x86-64 Assembly (2020)](https://gpfault.net/posts/asm-tut-0.txt.html)
 - [Show HN: Ten years of running every day, visualized](https://nodaysoff.run)
+## Afternoon/Evening Digest - 14-07-2025
+
+- [Impacts of adding PV solar system to internal combustion engine vehicles](https://www.jstor.org/stable/26169128)
+- [Show HN: Refine – A Local Alternative to Grammarly](https://refine.sh)
+- [Show HN: Ten years of running every day, visualized](https://nodaysoff.run)
