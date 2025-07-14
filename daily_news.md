@@ -6215,3 +6215,8 @@
 - [Reading Neuromancer for the first time in 2025](https://mbh4h.substack.com/p/neuromancer-2025-review-william-gibson)
 - [Bypassing Google's big anti-adblock update](https://0x44.xyz/blog/web-request-blocking/)
 - [The upcoming GPT-3 moment for RL](https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/)
+## Morning Digest - 14-07-2025
+
+- [Show HN: Refine – A Local Alternative to Grammarly](https://refine.sh)
+- [Let's Learn x86-64 Assembly (2020)](https://gpfault.net/posts/asm-tut-0.txt.html)
+- [Show HN: Ten years of running every day, visualized](https://nodaysoff.run)
