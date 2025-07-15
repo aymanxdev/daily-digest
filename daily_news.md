@@ -6225,3 +6225,8 @@
 - [Impacts of adding PV solar system to internal combustion engine vehicles](https://www.jstor.org/stable/26169128)
 - [Show HN: Refine – A Local Alternative to Grammarly](https://refine.sh)
 - [Show HN: Ten years of running every day, visualized](https://nodaysoff.run)
+## Morning Digest - 15-07-2025
+
+- [LLM Inevitabilism](https://tomrenner.com/posts/llm-inevitabilism/)
+- [Apple's MLX adding CUDA support](https://github.com/ml-explore/mlx/pull/1983)
+- [LIGO detects most massive black hole merger to date](https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date)
