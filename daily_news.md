@@ -6230,3 +6230,8 @@
 - [LLM Inevitabilism](https://tomrenner.com/posts/llm-inevitabilism/)
 - [Apple's MLX adding CUDA support](https://github.com/ml-explore/mlx/pull/1983)
 - [LIGO detects most massive black hole merger to date](https://www.caltech.edu/about/news/ligo-detects-most-massive-black-hole-merger-to-date)
+## Morning Digest - 16-07-2025
+
+- [Shipping WebGPU on Windows in Firefox 141](https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/)
+- [I'm Switching to Python and Actually Liking It](https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html)
+- [Cloudflare 1.1.1.1 Incident on July 14, 2025](https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/)
