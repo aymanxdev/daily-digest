@@ -6235,3 +6235,8 @@
 - [Shipping WebGPU on Windows in Firefox 141](https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/)
 - [I'm Switching to Python and Actually Liking It](https://www.cesarsotovalero.net/blog/i-am-switching-to-python-and-actually-liking-it.html)
 - [Cloudflare 1.1.1.1 Incident on July 14, 2025](https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/)
+## Afternoon/Evening Digest - 16-07-2025
+
+- [Thunderbird: Fluent Windows 11 Design](https://github.com/Deathbyteacup/fluentbird)
+- [Linux Reaches 5% Desktop Market Share in USA](https://ostechnix.com/linux-reaches-5-desktop-market-share-in-usa/)
+- [cppyy: Automatic Python-C++ Bindings](https://cppyy.readthedocs.io/en/latest/)
