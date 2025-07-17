@@ -6245,3 +6245,8 @@
 - [Wttr: Console-oriented weather forecast service](https://github.com/chubin/wttr.in)
 - [“Reading Rainbow” was created to combat summer reading slumps](https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/)
 - [Ex-Waymo engineers launch Bedrock Robotics to automate construction](https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/)
+## Afternoon/Evening Digest - 17-07-2025
+
+- [Hand: open-source Robot Hand](https://github.com/pollen-robotics/AmazingHand)
+- [Writing a competitive BZip2 encoder in Ada from scratch in a few days (2024)](https://gautiersblog.blogspot.com/2024/11/writing-bzip2-encoder-in-ada-from.html)
+- [Archaeologists Discover Tomb of First King of Caracol](https://uh.edu/news-events/stories/2025/july/07102025-caracol-chase-discovery-maya-ruler.php)
