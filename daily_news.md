@@ -6240,3 +6240,8 @@
 - [Thunderbird: Fluent Windows 11 Design](https://github.com/Deathbyteacup/fluentbird)
 - [Linux Reaches 5% Desktop Market Share in USA](https://ostechnix.com/linux-reaches-5-desktop-market-share-in-usa/)
 - [cppyy: Automatic Python-C++ Bindings](https://cppyy.readthedocs.io/en/latest/)
+## Morning Digest - 17-07-2025
+
+- [Wttr: Console-oriented weather forecast service](https://github.com/chubin/wttr.in)
+- [“Reading Rainbow” was created to combat summer reading slumps](https://www.smithsonianmag.com/smithsonian-institution/to-combat-summer-reading-slumps-this-timeless-childrens-television-show-tried-to-bridge-the-literacy-gap-with-the-magic-of-stories-180986984/)
+- [Ex-Waymo engineers launch Bedrock Robotics to automate construction](https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/)
