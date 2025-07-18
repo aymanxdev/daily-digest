@@ -6250,3 +6250,8 @@
 - [Hand: open-source Robot Hand](https://github.com/pollen-robotics/AmazingHand)
 - [Writing a competitive BZip2 encoder in Ada from scratch in a few days (2024)](https://gautiersblog.blogspot.com/2024/11/writing-bzip2-encoder-in-ada-from.html)
 - [Archaeologists Discover Tomb of First King of Caracol](https://uh.edu/news-events/stories/2025/july/07102025-caracol-chase-discovery-maya-ruler.php)
+## Morning Digest - 18-07-2025
+
+- [Fully homomorphic encryption and the dawn of a private internet](https://bozmen.io/fhe)
+- [When Root Meets Immutable: OpenBSD Chflags vs. Log Tampering](https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/)
+- [NIH is cheaper than the wrong dependency](https://lewiscampbell.tech/blog/250718.html)
