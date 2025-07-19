@@ -6255,3 +6255,8 @@
 - [Fully homomorphic encryption and the dawn of a private internet](https://bozmen.io/fhe)
 - [When Root Meets Immutable: OpenBSD Chflags vs. Log Tampering](https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/)
 - [NIH is cheaper than the wrong dependency](https://lewiscampbell.tech/blog/250718.html)
+## Morning Digest - 19-07-2025
+
+- [Why your website should be under 14kB in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
+- [My Self-Hosting Setup](https://codecaptured.com/blog/my-ultimate-self-hosting-setup/)
+- [Pimping My Casio: Part Deux](https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html)
