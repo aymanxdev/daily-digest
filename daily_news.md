@@ -6260,3 +6260,8 @@
 - [Why your website should be under 14kB in size](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/)
 - [My Self-Hosting Setup](https://codecaptured.com/blog/my-ultimate-self-hosting-setup/)
 - [Pimping My Casio: Part Deux](https://blog.jgc.org/2025/07/pimping-my-casio-part-deux.html)
+## Afternoon/Evening Digest - 19-07-2025
+
+- [Not Even Bronze: Evaluating LLMs on 2025 International Math Olympiad](https://matharena.ai/imo/)
+- [Linux and Secure Boot certificate expiration](https://lwn.net/SubscriberLink/1029767/43b62a7a7408c2a9/)
+- [Fstrings.wtf](https://fstrings.wtf/)
