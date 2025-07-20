@@ -6270,3 +6270,8 @@
 - [Async I/O on Linux in databases](https://blog.canoozie.net/async-i-o-on-linux-and-durability/)
 - [Bot: "I noticed a violation of our guidelines for pull request comments"](https://github.com/antiwork/flexile/pull/427)
 - [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
+## Afternoon/Evening Digest - 20-07-2025
+
+- [XMLUI](https://blog.jonudell.net/2025/07/18/introducing-xmlui/)
+- [Coding with LLMs in the summer of 2025 – an update](https://antirez.com/news/154)
+- [A Tour of Microsoft's Mac Lab (2006)](https://davidweiss.blogspot.com/2006/04/tour-of-microsofts-mac-lab.html)
