@@ -6265,3 +6265,8 @@
 - [Not Even Bronze: Evaluating LLMs on 2025 International Math Olympiad](https://matharena.ai/imo/)
 - [Linux and Secure Boot certificate expiration](https://lwn.net/SubscriberLink/1029767/43b62a7a7408c2a9/)
 - [Fstrings.wtf](https://fstrings.wtf/)
+## Morning Digest - 20-07-2025
+
+- [Async I/O on Linux in databases](https://blog.canoozie.net/async-i-o-on-linux-and-durability/)
+- [Bot: "I noticed a violation of our guidelines for pull request comments"](https://github.com/antiwork/flexile/pull/427)
+- [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison)
