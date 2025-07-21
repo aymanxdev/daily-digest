@@ -6275,3 +6275,8 @@
 - [XMLUI](https://blog.jonudell.net/2025/07/18/introducing-xmlui/)
 - [Coding with LLMs in the summer of 2025 – an update](https://antirez.com/news/154)
 - [A Tour of Microsoft's Mac Lab (2006)](https://davidweiss.blogspot.com/2006/04/tour-of-microsofts-mac-lab.html)
+## Morning Digest - 21-07-2025
+
+- [“Dynamic Programming” is not referring to “computer programming”](https://www.vidarholen.net/contents/blog/?p=1172)
+- [The Daily Life of a Medieval King](https://www.medievalists.net/2025/07/medieval-king-daily-life/)
+- [How to handle people dismissing io_uring as insecure?](https://github.com/axboe/liburing/discussions/1047)
