@@ -6280,3 +6280,8 @@
 - [“Dynamic Programming” is not referring to “computer programming”](https://www.vidarholen.net/contents/blog/?p=1172)
 - [The Daily Life of a Medieval King](https://www.medievalists.net/2025/07/medieval-king-daily-life/)
 - [How to handle people dismissing io_uring as insecure?](https://github.com/axboe/liburing/discussions/1047)
+## Afternoon/Evening Digest - 21-07-2025
+
+- [Occasionally USPS sends me pictures of other people's mail](https://the418.substack.com/p/a-bug-in-the-mail)
+- [Using MacBook's trackpad as digital weighing scale](https://github.com/KrishKrosh/TrackWeight)
+- [UK backing down on Apple encryption backdoor after pressure from US](https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/)
