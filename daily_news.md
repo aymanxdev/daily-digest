@@ -6285,3 +6285,8 @@
 - [Occasionally USPS sends me pictures of other people's mail](https://the418.substack.com/p/a-bug-in-the-mail)
 - [Using MacBook's trackpad as digital weighing scale](https://github.com/KrishKrosh/TrackWeight)
 - [UK backing down on Apple encryption backdoor after pressure from US](https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/)
+## Morning Digest - 22-07-2025
+
+- [Complete silence is always hallucinated as "ترجمة نانسي قنقر" in Arabic](https://github.com/openai/whisper/discussions/2608)
+- [Global hack on Microsoft Sharepoint hits U.S., state agencies, researchers say](https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/)
+- [Uv: Running a script with dependencies](https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies)
