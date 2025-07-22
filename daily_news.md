@@ -6290,3 +6290,8 @@
 - [Complete silence is always hallucinated as "ترجمة نانسي قنقر" in Arabic](https://github.com/openai/whisper/discussions/2608)
 - [Global hack on Microsoft Sharepoint hits U.S., state agencies, researchers say](https://www.washingtonpost.com/technology/2025/07/20/microsoft-sharepoint-hack/)
 - [Uv: Running a script with dependencies](https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies)
+## Afternoon/Evening Digest - 22-07-2025
+
+- [The United States Withdraws from UNESCO](https://www.state.gov/releases/office-of-the-spokesperson/2025/07/the-united-states-withdraws-from-the-united-nations-educational-scientific-and-cultural-organization-unesco)
+- [The vibe coder's career path is doomed](https://blog.florianherrengt.com/vibe-coder-career-path.html)
+- [Show HN: The Magic of Code – book about the wonders and weirdness of computation](https://themagicofcode.com/sample/)
