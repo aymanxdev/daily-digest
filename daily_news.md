@@ -6300,3 +6300,8 @@
 - [Extending Emacs with Fennel (2024)](https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/)
 - [Qwen3-Coder: Agentic coding in the world](https://qwenlm.github.io/blog/qwen3-coder/)
 - [Rescuing two PDP-11s from a former British Telecom underground shelter (2023)](https://forum.vcfed.org/index.php?threads/rescuing-two-pdp-11-systems-in-uk-from-a-former-big-british-telecom-underground-shelter-in-central-london.1244723/page-2)
+## Afternoon/Evening Digest - 23-07-2025
+
+- [Reverse engineering GitHub Actions cache to make it fast](https://www.blacksmith.sh/blog/cache)
+- [Using Radicle CI](https://radicle.xyz/2025/07/23/using-radicle-ci-for-development)
+- [Cerebras launches Qwen3-235B, achieving 1.5k tokens per second](https://www.cerebras.ai/press-release/cerebras-launches-qwen3-235b-world-s-fastest-frontier-ai-model-with-full-131k-context-support)
