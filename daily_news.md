@@ -6295,3 +6295,8 @@
 - [The United States Withdraws from UNESCO](https://www.state.gov/releases/office-of-the-spokesperson/2025/07/the-united-states-withdraws-from-the-united-nations-educational-scientific-and-cultural-organization-unesco)
 - [The vibe coder's career path is doomed](https://blog.florianherrengt.com/vibe-coder-career-path.html)
 - [Show HN: The Magic of Code – book about the wonders and weirdness of computation](https://themagicofcode.com/sample/)
+## Morning Digest - 23-07-2025
+
+- [Extending Emacs with Fennel (2024)](https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/)
+- [Qwen3-Coder: Agentic coding in the world](https://qwenlm.github.io/blog/qwen3-coder/)
+- [Rescuing two PDP-11s from a former British Telecom underground shelter (2023)](https://forum.vcfed.org/index.php?threads/rescuing-two-pdp-11-systems-in-uk-from-a-former-big-british-telecom-underground-shelter-in-central-london.1244723/page-2)
