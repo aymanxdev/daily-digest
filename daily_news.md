@@ -6310,3 +6310,8 @@
 - [CARA – High precision robot dog using rope](https://www.aaedmusa.com/projects/cara)
 - [BGP.Tools: Browse the Internet Ecosystem](https://bgp.tools/)
 - [AI overviews cause massive drop in search clicks](https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/)
+## Afternoon/Evening Digest - 24-07-2025
+
+- [PSA: SQLite WAL checksums fail silently and may lose data](https://avi.im/blag/2025/sqlite-wal-checksum/)
+- [Vet is a safety net for the risky curl | bash pattern](https://github.com/vet-run/vet)
+- [WiX Toolset: Introduce the Open Source Maintenance Fee](https://github.com/wixtoolset/issues/issues/8974)
