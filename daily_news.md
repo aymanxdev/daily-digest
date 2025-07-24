@@ -6305,3 +6305,8 @@
 - [Reverse engineering GitHub Actions cache to make it fast](https://www.blacksmith.sh/blog/cache)
 - [Using Radicle CI](https://radicle.xyz/2025/07/23/using-radicle-ci-for-development)
 - [Cerebras launches Qwen3-235B, achieving 1.5k tokens per second](https://www.cerebras.ai/press-release/cerebras-launches-qwen3-235b-world-s-fastest-frontier-ai-model-with-full-131k-context-support)
+## Morning Digest - 24-07-2025
+
+- [CARA – High precision robot dog using rope](https://www.aaedmusa.com/projects/cara)
+- [BGP.Tools: Browse the Internet Ecosystem](https://bgp.tools/)
+- [AI overviews cause massive drop in search clicks](https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/)
