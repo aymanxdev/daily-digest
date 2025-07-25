@@ -6315,3 +6315,8 @@
 - [PSA: SQLite WAL checksums fail silently and may lose data](https://avi.im/blag/2025/sqlite-wal-checksum/)
 - [Vet is a safety net for the risky curl | bash pattern](https://github.com/vet-run/vet)
 - [WiX Toolset: Introduce the Open Source Maintenance Fee](https://github.com/wixtoolset/issues/issues/8974)
+## Morning Digest - 25-07-2025
+
+- [Google spoofed via DKIM replay attack: A technical breakdown](https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/)
+- [Terence Tao: Quantitative AI progress needs accurate and transparent evaluation](https://mathstodon.xyz/@tao/114910028356641733)
+- [Graphene OS: a security-enhanced Android build](https://lwn.net/SubscriberLink/1030004/898017c7953c0946/)
