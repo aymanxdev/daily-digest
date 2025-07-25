@@ -6320,3 +6320,8 @@
 - [Google spoofed via DKIM replay attack: A technical breakdown](https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/)
 - [Terence Tao: Quantitative AI progress needs accurate and transparent evaluation](https://mathstodon.xyz/@tao/114910028356641733)
 - [Graphene OS: a security-enhanced Android build](https://lwn.net/SubscriberLink/1030004/898017c7953c0946/)
+## Afternoon/Evening Digest - 25-07-2025
+
+- [It's DE9, Not DB9](https://news.sparkfun.com/14298)
+- [Who has the fastest F1 website (2021)](https://jakearchibald.com/2021/f1-perf-part-3/)
+- [Programming Vehicles in Games](https://wassimulator.com/blog/programming/programming_vehicles_in_games.html)
