@@ -6325,3 +6325,8 @@
 - [It's DE9, Not DB9](https://news.sparkfun.com/14298)
 - [Who has the fastest F1 website (2021)](https://jakearchibald.com/2021/f1-perf-part-3/)
 - [Programming Vehicles in Games](https://wassimulator.com/blog/programming/programming_vehicles_in_games.html)
+## Morning Digest - 26-07-2025
+
+- [Do not download the app, use the website](https://idiallo.com/blog/dont-download-apps)
+- [Open Sauce is a confoundingly brilliant Bay Area event](https://www.jeffgeerling.com/blog/2025/open-sauce-confoundingly-brilliant-bay-area-event)
+- [Turn any diagram image into an editable Draw.io file. No more redrawing](https://imagetodrawio.com/)
