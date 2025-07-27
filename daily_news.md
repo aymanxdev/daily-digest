@@ -6335,3 +6335,8 @@
 - [Rust running on every GPU](https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/)
 - [Font-size-adjust Is Useful](https://matklad.github.io/2025/07/16/font-size-adjust.html)
 - [Bringing a decade old bicycle navigator back to life with open source software](https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html)
+## Morning Digest - 27-07-2025
+
+- [Linux on Snapdragon X Elite: Linaro and Tuxedo Pave the Way for ARM64 Laptops](https://www.linaro.org/blog/linux-on-snapdragon-x-elite/)
+- [When We Get Komooted](https://bikepacking.com/plog/when-we-get-komooted/)
+- [Chemical process produces critical battery metals with no waste](https://spectrum.ieee.org/nmc-battery-aspiring-materials)
