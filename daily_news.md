@@ -6350,3 +6350,8 @@
 - [How to Make Websites That Will Require Lots of Your Time and Energy](https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/)
 - [The ultimate meeting culture](https://abitmighty.com/posts/the-ultimate-meeting-culture)
 - [Enough AI copilots, we need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds)
+## Afternoon/Evening Digest - 28-07-2025
+
+- [Tao on "blue team" vs. "red team" LLMs](https://mathstodon.xyz/@tao/114915604830689046)
+- [The Geological Sublime](https://harpers.org/archive/2025/07/the-geological-sublime-lewis-hyde-deep-time/)
+- [LLM Embeddings Explained: A Visual and Intuitive Guide](https://huggingface.co/spaces/hesamation/primer-llm-embedding)
