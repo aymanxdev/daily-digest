@@ -6360,3 +6360,8 @@
 - [Pony: An actor-model, capabilities-secure, high-performance programming language](https://www.ponylang.io/discover/)
 - [Sign in with Google in Chrome](https://underpassapp.com/news/2025/7/5.html)
 - [I designed my own fast game streaming video codec – PyroWave](https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/)
+## Afternoon/Evening Digest - 29-07-2025
+
+- [My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)](https://simonwillison.net/2025/Jul/29/space-invaders/)
+- [Learning Is Slower Than You Think](https://nisheethvishnoi.substack.com/p/learning-is-slower-than-you-think)
+- [Linux Performance Analysis in 60 seconds (2015)](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
