@@ -6355,3 +6355,8 @@
 - [Tao on "blue team" vs. "red team" LLMs](https://mathstodon.xyz/@tao/114915604830689046)
 - [The Geological Sublime](https://harpers.org/archive/2025/07/the-geological-sublime-lewis-hyde-deep-time/)
 - [LLM Embeddings Explained: A Visual and Intuitive Guide](https://huggingface.co/spaces/hesamation/primer-llm-embedding)
+## Morning Digest - 29-07-2025
+
+- [Pony: An actor-model, capabilities-secure, high-performance programming language](https://www.ponylang.io/discover/)
+- [Sign in with Google in Chrome](https://underpassapp.com/news/2025/7/5.html)
+- [I designed my own fast game streaming video codec – PyroWave](https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/)
