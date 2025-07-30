@@ -6365,3 +6365,8 @@
 - [My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)](https://simonwillison.net/2025/Jul/29/space-invaders/)
 - [Learning Is Slower Than You Think](https://nisheethvishnoi.substack.com/p/learning-is-slower-than-you-think)
 - [Linux Performance Analysis in 60 seconds (2015)](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
+## Morning Digest - 30-07-2025
+
+- [M8.7 earthquake in Western Pacific, tsunami warning issued](https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive)
+- [Study mode](https://openai.com/index/chatgpt-study-mode/)
+- [RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession](https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/)
