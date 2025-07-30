@@ -6370,3 +6370,8 @@
 - [M8.7 earthquake in Western Pacific, tsunami warning issued](https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive)
 - [Study mode](https://openai.com/index/chatgpt-study-mode/)
 - [RIP Shunsaku Tamiya, the man who made plastic model kits a global obsession](https://JapaneseNostalgicCar.com/rip-shunsaku-tamiya-plastic-model-kits/)
+## Afternoon/Evening Digest - 30-07-2025
+
+- [Our $100M Series B](https://oxide.computer/blog/our-100m-series-b)
+- [Try the Mosquito Bucket of Death](https://www.energyvanguard.com/blog/try-the-mosquito-bucket-of-death/)
+- [Sleep all comes down to the mitochondria](https://www.science.org/content/blog-post/it-all-comes-down-mitochondria)
