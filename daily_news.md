@@ -6375,3 +6375,8 @@
 - [Our $100M Series B](https://oxide.computer/blog/our-100m-series-b)
 - [Try the Mosquito Bucket of Death](https://www.energyvanguard.com/blog/try-the-mosquito-bucket-of-death/)
 - [Sleep all comes down to the mitochondria](https://www.science.org/content/blog-post/it-all-comes-down-mitochondria)
+## Morning Digest - 31-07-2025
+
+- [Attention is your scarcest resource](https://www.benkuhn.net/attention/)
+- [Fast](https://www.catherinejue.com/fast)
+- [Ollama's new app](https://ollama.com/blog/new-app)
