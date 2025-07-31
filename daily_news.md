@@ -6380,3 +6380,8 @@
 - [Attention is your scarcest resource](https://www.benkuhn.net/attention/)
 - [Fast](https://www.catherinejue.com/fast)
 - [Ollama's new app](https://ollama.com/blog/new-app)
+## Afternoon/Evening Digest - 31-07-2025
+
+- [How was the Universal Pictures 1936 opening logo created?](https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created)
+- [Introduction to Computer Music](https://cmtext.com/)
+- [Many countries that said no to ChatControl in 2024 are now undecided](https://digitalcourage.social/@echo_pbreyer/114946559233051667)
