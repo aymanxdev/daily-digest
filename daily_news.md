@@ -6385,3 +6385,8 @@
 - [How was the Universal Pictures 1936 opening logo created?](https://movies.stackexchange.com/questions/128020/how-was-the-universal-pictures-1936-opening-logo-created)
 - [Introduction to Computer Music](https://cmtext.com/)
 - [Many countries that said no to ChatControl in 2024 are now undecided](https://digitalcourage.social/@echo_pbreyer/114946559233051667)
+## Morning Digest - 01-08-2025
+
+- [Every satellite orbiting earth and who owns them (2023)](https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them)
+- [Slow](https://michaelnotebook.com/slow/index.html)
+- [Releasing weights for FLUX.1 Krea](https://www.krea.ai/blog/flux-krea-open-source-release)
