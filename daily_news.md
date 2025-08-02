@@ -6400,3 +6400,8 @@
 - [Terence Tao weighs in on the suspension of UCLA grants](https://mathstodon.xyz/@tao/114956840959338146)
 - [Ladybird Browser July Update](https://ladybird.org/newsletter/2025-07-31/)
 - [Cerebras Code](https://www.cerebras.ai/blog/introducing-cerebras-code)
+## Afternoon/Evening Digest - 02-08-2025
+
+- [Compressing Icelandic name declension patterns into a 3.27 kB trie](https://alexharri.com/blog/icelandic-name-declension-trie)
+- [The Art of Multiprocessor Programming 2nd Edition Book Club](https://eatonphil.com/2025-art-of-multiprocessor-programming.html)
+- [We may not like what we become if A.I. solves loneliness](https://www.newyorker.com/magazine/2025/07/21/ai-is-about-to-solve-loneliness-thats-a-problem)
