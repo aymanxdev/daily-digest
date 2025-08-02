@@ -6395,3 +6395,8 @@
 - [Show HN: Draw A Fish and watch it swim with the others](https://drawafish.com)
 - [Gemini 2.5 Deep Think](https://blog.google/products/gemini/gemini-2-5-deep-think/)
 - [OpenAI raises $8.3B at $300B valuation](https://www.nytimes.com/2025/08/01/business/dealbook/openai-ai-mega-funding-deal.html)
+## Morning Digest - 02-08-2025
+
+- [Terence Tao weighs in on the suspension of UCLA grants](https://mathstodon.xyz/@tao/114956840959338146)
+- [Ladybird Browser July Update](https://ladybird.org/newsletter/2025-07-31/)
+- [Cerebras Code](https://www.cerebras.ai/blog/introducing-cerebras-code)
