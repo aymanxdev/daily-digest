@@ -6410,3 +6410,8 @@
 - [Twenty Eighth International Obfuscated C Code Contest](https://www.ioccc.org/2024/index.html)
 - [Helsinki records zero traffic deaths for full year](https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html)
 - [Build Your Own Minisforum N5 Inspired Mini NAS: A Comprehensive Guide](https://jackharvest.com/index.php/2025/07/27/build-your-own-minisforum-n5-inspired-mini-nas-a-comprehensive-guide/)
+## Afternoon/Evening Digest - 03-08-2025
+
+- [If you're remote, ramble](https://stephango.com/ramblings)
+- [The Fulbright Program: Chock Full of Bright Ideas](https://bastian.rieck.me/blog/2025/fulbright/)
+- [Twenty Eighth International Obfuscated C Code Contest](https://www.ioccc.org/2024/index.html)
