@@ -6415,3 +6415,8 @@
 - [If you're remote, ramble](https://stephango.com/ramblings)
 - [The Fulbright Program: Chock Full of Bright Ideas](https://bastian.rieck.me/blog/2025/fulbright/)
 - [Twenty Eighth International Obfuscated C Code Contest](https://www.ioccc.org/2024/index.html)
+## Morning Digest - 04-08-2025
+
+- [New quantum state of matter found at interface of exotic materials](https://phys.org/news/2025-07-quantum-state-interface-exotic-materials.html)
+- [Modern Node.js Patterns](https://kashw1n.com/blog/nodejs-2025/)
+- [So you want to parse a PDF?](https://eliot-jones.com/2025/8/pdf-parsing-xref)
