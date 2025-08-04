@@ -6420,3 +6420,8 @@
 - [New quantum state of matter found at interface of exotic materials](https://phys.org/news/2025-07-quantum-state-interface-exotic-materials.html)
 - [Modern Node.js Patterns](https://kashw1n.com/blog/nodejs-2025/)
 - [So you want to parse a PDF?](https://eliot-jones.com/2025/8/pdf-parsing-xref)
+## Afternoon/Evening Digest - 04-08-2025
+
+- [Objects should shut the fuck up](https://dustri.org/b/objects-should-shut-the-fuck-up.html)
+- [Century-Old Stone “Tsunami Stones” Dot Japan's Coastline (2015)](https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/)
+- [Perplexity is using stealth, undeclared crawlers to evade no-crawl directives](https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/)
