@@ -6425,3 +6425,8 @@
 - [Objects should shut the fuck up](https://dustri.org/b/objects-should-shut-the-fuck-up.html)
 - [Century-Old Stone “Tsunami Stones” Dot Japan's Coastline (2015)](https://www.smithsonianmag.com/smart-news/century-old-warnings-against-tsunamis-dot-japans-coastline-180956448/)
 - [Perplexity is using stealth, undeclared crawlers to evade no-crawl directives](https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/)
+## Morning Digest - 05-08-2025
+
+- [Monitor your security cameras with locally processed AI](https://frigate.video/)
+- [PHP 8.5 adds pipe operator](https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/)
+- [Show HN: I spent 6 years building a ridiculous wooden pixel display](https://benholmen.com/blog/kilopixel/)
