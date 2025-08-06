@@ -6440,3 +6440,8 @@
 - [Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model](https://github.com/KittenML/KittenTTS)
 - [Open models by OpenAI](https://openai.com/open-models/)
 - [I gave the AI arms and legs then it rejected me](https://grell.dev/blog/ai_rejection)
+## Afternoon/Evening Digest - 06-08-2025
+
+- [Claude Code IDE Integration for Emacs](https://github.com/manzaltu/claude-code-ide.el)
+- [Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model](https://github.com/KittenML/KittenTTS)
+- [Dotfiles feel too intimate and personal to share](https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/)
