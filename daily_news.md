@@ -6435,3 +6435,8 @@
 - [Genie 3: A new frontier for world models](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)
 - [uBlock Origin Lite now available for Safari](https://apps.apple.com/app/ublock-origin-lite/id6745342698)
 - [AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
+## Morning Digest - 06-08-2025
+
+- [Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model](https://github.com/KittenML/KittenTTS)
+- [Open models by OpenAI](https://openai.com/open-models/)
+- [I gave the AI arms and legs then it rejected me](https://grell.dev/blog/ai_rejection)
