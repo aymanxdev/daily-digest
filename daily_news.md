@@ -6450,3 +6450,8 @@
 - [40 Years of the Amiga, from Commodore – By Paul Lefebvre](https://www.goto10retro.com/p/40-years-of-the-amiga-from-commodore)
 - [Running GPT-OSS-120B at 500 tokens per second on Nvidia GPUs](https://www.baseten.co/blog/sota-performance-for-gpt-oss-120b-on-nvidia-gpus/)
 - [We replaced passwords with something worse](https://blog.danielh.cc/blog/passwords)
+## Afternoon/Evening Digest - 07-08-2025
+
+- [Infinite Pixels](https://meyerweb.com/eric/thoughts/2025/08/07/infinite-pixels/)
+- [Windows XP Professional](https://win32.run/)
+- [Baltimore Assessments Accidentally Subsidize Blight–and How We Can Fix It](https://progressandpoverty.substack.com/p/how-baltimore-assessments-accidentally)
