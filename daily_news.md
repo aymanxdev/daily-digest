@@ -6455,3 +6455,8 @@
 - [Infinite Pixels](https://meyerweb.com/eric/thoughts/2025/08/07/infinite-pixels/)
 - [Windows XP Professional](https://win32.run/)
 - [Baltimore Assessments Accidentally Subsidize Blight–and How We Can Fix It](https://progressandpoverty.substack.com/p/how-baltimore-assessments-accidentally)
+## Morning Digest - 08-08-2025
+
+- [GPT-5](https://openai.com/gpt-5/)
+- [Linear sent me down a local-first rabbit hole](https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/)
+- [Flipper Zero dark web firmware bypasses rolling code security](https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/)
