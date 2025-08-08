@@ -6460,3 +6460,8 @@
 - [GPT-5](https://openai.com/gpt-5/)
 - [Linear sent me down a local-first rabbit hole](https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole/)
 - [Flipper Zero dark web firmware bypasses rolling code security](https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/)
+## Afternoon/Evening Digest - 08-08-2025
+
+- [Ultrathin business card runs a fluid simulation](https://github.com/Nicholas-L-Johnson/flip-card)
+- [HorizonDB, a geocoding engine in Rust that replaces Elasticsearch](https://radar.com/blog/high-performance-geocoding-in-rust)
+- [Food, housing, & health care costs are a source of major stress for many people](https://apnorc.org/projects/food-housing-and-health-care-costs-are-a-source-of-major-stress-for-many-people/)
