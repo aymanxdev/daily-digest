@@ -6470,3 +6470,8 @@
 - [I want everything local – Building my offline AI workspace](https://instavm.io/blog/building-my-offline-ai-workspace)
 - [Tribblix – The Retro Illumos Distribution](http://www.tribblix.org/)
 - [What the windsurf sale means for the AI coding ecosystem](https://ethanding.substack.com/p/windsurf-gets-margin-called)
+## Afternoon/Evening Digest - 09-08-2025
+
+- [Mexico to US Livestock Trade halted due to Screwworm spread](https://www.usda.gov/about-usda/news/press-releases/2025/07/09/secretary-rollins-takes-decisive-action-and-shuts-down-us-southern-border-ports-livestock-trade-due)
+- [Show HN: The current sky at your approximate location, as a CSS gradient](https://sky.dlazaro.ca)
+- [OpenFreeMap survived 100k requests per second](https://blog.hyperknot.com/p/openfreemap-survived-100000-requests)
