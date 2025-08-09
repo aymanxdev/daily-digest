@@ -6465,3 +6465,8 @@
 - [Ultrathin business card runs a fluid simulation](https://github.com/Nicholas-L-Johnson/flip-card)
 - [HorizonDB, a geocoding engine in Rust that replaces Elasticsearch](https://radar.com/blog/high-performance-geocoding-in-rust)
 - [Food, housing, & health care costs are a source of major stress for many people](https://apnorc.org/projects/food-housing-and-health-care-costs-are-a-source-of-major-stress-for-many-people/)
+## Morning Digest - 09-08-2025
+
+- [I want everything local – Building my offline AI workspace](https://instavm.io/blog/building-my-offline-ai-workspace)
+- [Tribblix – The Retro Illumos Distribution](http://www.tribblix.org/)
+- [What the windsurf sale means for the AI coding ecosystem](https://ethanding.substack.com/p/windsurf-gets-margin-called)
