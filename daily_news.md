@@ -6475,3 +6475,8 @@
 - [Mexico to US Livestock Trade halted due to Screwworm spread](https://www.usda.gov/about-usda/news/press-releases/2025/07/09/secretary-rollins-takes-decisive-action-and-shuts-down-us-southern-border-ports-livestock-trade-due)
 - [Show HN: The current sky at your approximate location, as a CSS gradient](https://sky.dlazaro.ca)
 - [OpenFreeMap survived 100k requests per second](https://blog.hyperknot.com/p/openfreemap-survived-100000-requests)
+## Morning Digest - 10-08-2025
+
+- [Abogen – Generate audiobooks from EPUBs, PDFs and text](https://github.com/denizsafak/abogen)
+- [How I code with AI on a budget/free](https://wuu73.org/blog/aiguide1.html)
+- [Curious about the training data of OpenAI's new GPT-OSS models? I was too](https://twitter.com/jxmnop/status/1953899426075816164)
