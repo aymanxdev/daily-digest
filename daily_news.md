@@ -6480,3 +6480,8 @@
 - [Abogen – Generate audiobooks from EPUBs, PDFs and text](https://github.com/denizsafak/abogen)
 - [How I code with AI on a budget/free](https://wuu73.org/blog/aiguide1.html)
 - [Curious about the training data of OpenAI's new GPT-OSS models? I was too](https://twitter.com/jxmnop/status/1953899426075816164)
+## Afternoon/Evening Digest - 10-08-2025
+
+- [Try and](https://ygdp.yale.edu/phenomena/try-and)
+- [Show HN: Engineering.fyi – Search across tech engineering blogs in one place](https://engineering.fyi/)
+- [Inside OS/2 (1987)](https://gitpi.us/article-archive/inside-os2/)
