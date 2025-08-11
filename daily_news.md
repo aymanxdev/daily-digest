@@ -6485,3 +6485,8 @@
 - [Try and](https://ygdp.yale.edu/phenomena/try-and)
 - [Show HN: Engineering.fyi – Search across tech engineering blogs in one place](https://engineering.fyi/)
 - [Inside OS/2 (1987)](https://gitpi.us/article-archive/inside-os2/)
+## Morning Digest - 11-08-2025
+
+- [Google paid a $250K reward for a bug](https://issues.chromium.org/issues/412578726)
+- [Basic Social Skills Guide](https://www.improveyoursocialskills.com/basic-social-skills-guide)
+- [Vanishing from Hyundai’s data network](http://techno-fandom.org/~hobbit/cars/ev/offnet.html)
