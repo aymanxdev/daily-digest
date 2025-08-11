@@ -6490,3 +6490,8 @@
 - [Google paid a $250K reward for a bug](https://issues.chromium.org/issues/412578726)
 - [Basic Social Skills Guide](https://www.improveyoursocialskills.com/basic-social-skills-guide)
 - [Vanishing from Hyundai’s data network](http://techno-fandom.org/~hobbit/cars/ev/offnet.html)
+## Afternoon/Evening Digest - 11-08-2025
+
+- [Wikimedia Foundation Challenges UK Online Safety Act Regulations](https://wikimediafoundation.org/news/2025/08/11/wikimedia-foundation-challenges-uk-online-safety-act-regulations/)
+- [Claude Code is all you need](https://dwyer.co.za/static/claude-code-is-all-you-need.html)
+- [OpenSSH Post-Quantum Cryptography](https://www.openssh.com/pq.html)
