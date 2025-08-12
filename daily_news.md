@@ -6500,3 +6500,8 @@
 - [StarDict sends X11 clipboard to remote servers](https://lwn.net/SubscriberLink/1032732/3334850da49689e1/)
 - [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models [pdf]](https://www.arxiv.org/pdf/2508.06471)
 - [Wikipedia loses challenge against Online Safety Act](https://www.bbc.com/news/articles/cjr11qqvvwlo)
+## Afternoon/Evening Digest - 12-08-2025
+
+- [GitHub is (again) having issues](https://www.githubstatus.com/incidents/9rfydl2xdqqj)
+- [Australian court finds Apple, Google guilty of being anticompetitive](https://www.ghacks.net/2025/08/12/australian-court-finds-apple-google-guilty-of-being-anticompetitive/)
+- [StarDict sends X11 clipboard to remote servers](https://lwn.net/SubscriberLink/1032732/3334850da49689e1/)
