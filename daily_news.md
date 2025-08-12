@@ -6495,3 +6495,8 @@
 - [Wikimedia Foundation Challenges UK Online Safety Act Regulations](https://wikimediafoundation.org/news/2025/08/11/wikimedia-foundation-challenges-uk-online-safety-act-regulations/)
 - [Claude Code is all you need](https://dwyer.co.za/static/claude-code-is-all-you-need.html)
 - [OpenSSH Post-Quantum Cryptography](https://www.openssh.com/pq.html)
+## Morning Digest - 12-08-2025
+
+- [StarDict sends X11 clipboard to remote servers](https://lwn.net/SubscriberLink/1032732/3334850da49689e1/)
+- [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models [pdf]](https://www.arxiv.org/pdf/2508.06471)
+- [Wikipedia loses challenge against Online Safety Act](https://www.bbc.com/news/articles/cjr11qqvvwlo)
