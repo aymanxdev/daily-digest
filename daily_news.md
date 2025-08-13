@@ -6505,3 +6505,8 @@
 - [GitHub is (again) having issues](https://www.githubstatus.com/incidents/9rfydl2xdqqj)
 - [Australian court finds Apple, Google guilty of being anticompetitive](https://www.ghacks.net/2025/08/12/australian-court-finds-apple-google-guilty-of-being-anticompetitive/)
 - [StarDict sends X11 clipboard to remote servers](https://lwn.net/SubscriberLink/1032732/3334850da49689e1/)
+## Morning Digest - 13-08-2025
+
+- [Claude Sonnet 4 now supports 1M tokens of context](https://www.anthropic.com/news/1m-context)
+- [Search all text in New York City](https://www.alltext.nyc/)
+- [Online Safety Act – shutdowns and site blocks](https://www.blocked.org.uk/osa-blocks)
