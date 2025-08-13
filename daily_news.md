@@ -6510,3 +6510,8 @@
 - [Claude Sonnet 4 now supports 1M tokens of context](https://www.anthropic.com/news/1m-context)
 - [Search all text in New York City](https://www.alltext.nyc/)
 - [Online Safety Act – shutdowns and site blocks](https://www.blocked.org.uk/osa-blocks)
+## Afternoon/Evening Digest - 13-08-2025
+
+- [FFmpeg 8.0 adds Whisper support](https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b)
+- [So what's the difference between plotted and printed artwork?](https://lostpixels.io/writings/the-difference-between-plotted-and-printed-artwork)
+- [The Mary Queen of Scots Channel Anamorphosis: A 3D Simulation](https://www.charlespetzold.com/blog/2025/05/Mary-Queen-of-Scots-Channel-Anamorphosis-A-3D-Simulation.html)
