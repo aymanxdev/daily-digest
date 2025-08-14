@@ -6520,3 +6520,8 @@
 - [Nginx introduces native support for ACME protocol](https://blog.nginx.org/blog/native-support-for-acme-protocol)
 - [PYX: The next step in Python packaging](https://astral.sh/blog/introducing-pyx)
 - [Zenobia Pay – A mission to build an alternative to high-fee card networks](https://zenobiapay.com/blog/open-source-payments)
+## Afternoon/Evening Digest - 14-08-2025
+
+- [New protein therapy shows promise as antidote for carbon monoxide poisoning](https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html)
+- [NSF and Nvidia award Ai2 $152M to support building an open AI ecosystem](https://allenai.org/blog/nsf-nvidia)
+- [What's the strongest AI model you can train on a laptop in five minutes?](https://www.seangoedecke.com/model-on-a-mbp/)
