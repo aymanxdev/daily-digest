@@ -6530,3 +6530,8 @@
 - [Simulating and Visualising the Central Limit Theorem](https://blog.foletta.net/post/2025-07-14-clt/)
 - [Blurry rendering of games on Mac](https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/)
 - [Gemma 3 270M: Compact model for hyper-efficient AI](https://developers.googleblog.com/en/introducing-gemma-3-270m/)
+## Afternoon/Evening Digest - 15-08-2025
+
+- [Open hardware desktop 3D printing is dead](https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/)
+- [Vaultwarden commit introduces SSO using OpenID Connect](https://github.com/dani-garcia/vaultwarden/pull/3899)
+- [The Timmy Trap](https://jenson.org/timmy/)
