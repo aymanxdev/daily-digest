@@ -6540,3 +6540,8 @@
 - [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
 - [PuTTY has a new website](https://putty.software/)
 - [The future of large files in Git is Git](https://tylercipriani.com/blog/2025/08/15/git-lfs/)
+## Afternoon/Evening Digest - 16-08-2025
+
+- [Good system design](https://www.seangoedecke.com/good-system-design/)
+- [PuTTY has a new website](https://putty.software/)
+- [Toothpaste made from hair provides natural root to repair teeth](https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth)
