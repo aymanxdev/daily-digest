@@ -6535,3 +6535,8 @@
 - [Open hardware desktop 3D printing is dead](https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/)
 - [Vaultwarden commit introduces SSO using OpenID Connect](https://github.com/dani-garcia/vaultwarden/pull/3899)
 - [The Timmy Trap](https://jenson.org/timmy/)
+## Morning Digest - 16-08-2025
+
+- [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
+- [PuTTY has a new website](https://putty.software/)
+- [The future of large files in Git is Git](https://tylercipriani.com/blog/2025/08/15/git-lfs/)
