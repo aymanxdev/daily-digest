@@ -6550,3 +6550,8 @@
 - [Lessons learned from building a sync-engine and reactivity system with SQLite](https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity)
 - [SuperSight: A graphical enhancement mod for Brøderbund's "Stunts"](https://marnetto.net/2025/02/20/broderbund-stunts-1)
 - [Node.js can now execute TypeScript files](https://nodejs.org/en/blog/release/v22.18.0)
+## Afternoon/Evening Digest - 17-08-2025
+
+- [LL3M: Large Language 3D Modelers](https://threedle.github.io/ll3m/)
+- [Why LinkedIn Rewards Mediocrity](https://www.elliotcsmith.com/linkedin-toxic-mediocrity/)
+- [Faster Index I/O with NVMe SSDs](https://www.marginalia.nu/log/a_123_index_io/)
