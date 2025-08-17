@@ -6545,3 +6545,8 @@
 - [Good system design](https://www.seangoedecke.com/good-system-design/)
 - [PuTTY has a new website](https://putty.software/)
 - [Toothpaste made from hair provides natural root to repair teeth](https://www.kcl.ac.uk/news/toothpaste-made-from-hair-provides-natural-root-to-repair-teeth)
+## Morning Digest - 17-08-2025
+
+- [Lessons learned from building a sync-engine and reactivity system with SQLite](https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity)
+- [SuperSight: A graphical enhancement mod for Brøderbund's "Stunts"](https://marnetto.net/2025/02/20/broderbund-stunts-1)
+- [Node.js can now execute TypeScript files](https://nodejs.org/en/blog/release/v22.18.0)
