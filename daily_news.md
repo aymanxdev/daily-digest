@@ -6555,3 +6555,8 @@
 - [LL3M: Large Language 3D Modelers](https://threedle.github.io/ll3m/)
 - [Why LinkedIn Rewards Mediocrity](https://www.elliotcsmith.com/linkedin-toxic-mediocrity/)
 - [Faster Index I/O with NVMe SSDs](https://www.marginalia.nu/log/a_123_index_io/)
+## Morning Digest - 18-08-2025
+
+- [Web apps in a single, portable, self-updating, vanilla HTML file](https://hyperclay.com/)
+- [A gigantic jet caught on camera: A spritacular moment for NASA astronaut](https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/)
+- [Unification (2018)](https://eli.thegreenplace.net/2018/unification/)
