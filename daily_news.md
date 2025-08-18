@@ -6560,3 +6560,8 @@
 - [Web apps in a single, portable, self-updating, vanilla HTML file](https://hyperclay.com/)
 - [A gigantic jet caught on camera: A spritacular moment for NASA astronaut](https://science.nasa.gov/science-research/heliophysics/a-gigantic-jet-caught-on-camera-a-spritacular-moment-for-nasa-astronaut-nicole-ayers/)
 - [Unification (2018)](https://eli.thegreenplace.net/2018/unification/)
+## Afternoon/Evening Digest - 18-08-2025
+
+- [FFmpeg Assembly Language Lessons](https://github.com/FFmpeg/asm-lessons)
+- [Show HN: I built an app to block Shorts and Reels](https://scrollguard.app/)
+- [Web apps in a single, portable, self-updating, vanilla HTML file](https://hyperclay.com/)
