@@ -6565,3 +6565,8 @@
 - [FFmpeg Assembly Language Lessons](https://github.com/FFmpeg/asm-lessons)
 - [Show HN: I built an app to block Shorts and Reels](https://scrollguard.app/)
 - [Web apps in a single, portable, self-updating, vanilla HTML file](https://hyperclay.com/)
+## Morning Digest - 19-08-2025
+
+- [Prime Number Grid](https://susam.net/primegrid.html)
+- [Lazy-brush – smooth drawing with mouse or finger](https://lazybrush.dulnan.net)
+- [OpenMower – An open source lawn mower](https://github.com/ClemensElflein/OpenMower)
