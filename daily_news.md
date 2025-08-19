@@ -6570,3 +6570,8 @@
 - [Prime Number Grid](https://susam.net/primegrid.html)
 - [Lazy-brush – smooth drawing with mouse or finger](https://lazybrush.dulnan.net)
 - [OpenMower – An open source lawn mower](https://github.com/ClemensElflein/OpenMower)
+## Afternoon/Evening Digest - 19-08-2025
+
+- [Without the Futex, It's Futile](https://h4x0r.org/futex/)
+- [Custom telescope mount using harmonic drives and ESP32](https://www.svendewaerhert.com/blog/telescope-mount/)
+- [Critical Cache Poisoning Vulnerability in Dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html)
