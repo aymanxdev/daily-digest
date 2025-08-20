@@ -6575,3 +6575,8 @@
 - [Without the Futex, It's Futile](https://h4x0r.org/futex/)
 - [Custom telescope mount using harmonic drives and ESP32](https://www.svendewaerhert.com/blog/telescope-mount/)
 - [Critical Cache Poisoning Vulnerability in Dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html)
+## Afternoon/Evening Digest - 20-08-2025
+
+- [Show HN: I was curious about spherical helix, ended up making this visualization](https://visualrambling.space/moving-objects-in-3d/)
+- [Improvements to OCaml code editing: the basics of a refactor engine](https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/)
+- [Tidewave Web: in-browser coding agent for Rails and Phoenix](https://tidewave.ai/blog/tidewave-web-phoenix-rails)
