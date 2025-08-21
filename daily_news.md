@@ -6580,3 +6580,8 @@
 - [Show HN: I was curious about spherical helix, ended up making this visualization](https://visualrambling.space/moving-objects-in-3d/)
 - [Improvements to OCaml code editing: the basics of a refactor engine](https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/)
 - [Tidewave Web: in-browser coding agent for Rails and Phoenix](https://tidewave.ai/blog/tidewave-web-phoenix-rails)
+## Morning Digest - 21-08-2025
+
+- [D4d4](https://www.nmichaels.org/musings/d4d4/d4d4/)
+- [Show HN: I replaced vector databases with Git for AI memory (PoC)](https://github.com/Growth-Kinetics/DiffMem)
+- [Code review can be better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/)
