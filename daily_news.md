@@ -6585,3 +6585,8 @@
 - [D4d4](https://www.nmichaels.org/musings/d4d4/d4d4/)
 - [Show HN: I replaced vector databases with Git for AI memory (PoC)](https://github.com/Growth-Kinetics/DiffMem)
 - [Code review can be better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/)
+## Afternoon/Evening Digest - 21-08-2025
+
+- [AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'](https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/)
+- [How Well Does the Money Laundering Control System Work?](https://www.journals.uchicago.edu/doi/10.1086/735665)
+- [Weaponizing image scaling against production AI systems](https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/)
