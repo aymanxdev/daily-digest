@@ -6595,3 +6595,8 @@
 - [Io_uring, kTLS and Rust for zero syscall HTTPS server](https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html)
 - [DeepSeek-v3.1](https://api-docs.deepseek.com/news/news250821)
 - [Control shopping cart wheels with your phone (2021)](https://www.begaydocrime.com/)
+## Afternoon/Evening Digest - 22-08-2025
+
+- [Thunderbird Pro August 2025 Update](https://blog.thunderbird.net/2025/08/tbpro-august-2025-update/)
+- [Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing](https://arxiv.org/abs/2508.12631)
+- [Io_uring, kTLS and Rust for zero syscall HTTPS server](https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html)
