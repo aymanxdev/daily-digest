@@ -6590,3 +6590,8 @@
 - [AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'](https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/)
 - [How Well Does the Money Laundering Control System Work?](https://www.journals.uchicago.edu/doi/10.1086/735665)
 - [Weaponizing image scaling against production AI systems](https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/)
+## Morning Digest - 22-08-2025
+
+- [Io_uring, kTLS and Rust for zero syscall HTTPS server](https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html)
+- [DeepSeek-v3.1](https://api-docs.deepseek.com/news/news250821)
+- [Control shopping cart wheels with your phone (2021)](https://www.begaydocrime.com/)
