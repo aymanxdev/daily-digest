@@ -6605,3 +6605,8 @@
 - [I'm too dumb for Zig's new IO interface](https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/)
 - [World Wide Lightning Location Network](https://wwlln.net/)
 - [Manim: Animation engine for explanatory math videos](https://github.com/3b1b/manim)
+## Afternoon/Evening Digest - 23-08-2025
+
+- [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
+- [Manim: Animation engine for explanatory math videos](https://github.com/3b1b/manim)
+- [Rethinking the Linux cloud stack for confidential VMs](https://lwn.net/Articles/1030818/)
