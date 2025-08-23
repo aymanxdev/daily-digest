@@ -6600,3 +6600,8 @@
 - [Thunderbird Pro August 2025 Update](https://blog.thunderbird.net/2025/08/tbpro-august-2025-update/)
 - [Making LLMs Cheaper and Better via Performance-Efficiency Optimized Routing](https://arxiv.org/abs/2508.12631)
 - [Io_uring, kTLS and Rust for zero syscall HTTPS server](https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html)
+## Morning Digest - 23-08-2025
+
+- [I'm too dumb for Zig's new IO interface](https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/)
+- [World Wide Lightning Location Network](https://wwlln.net/)
+- [Manim: Animation engine for explanatory math videos](https://github.com/3b1b/manim)
