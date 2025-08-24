@@ -6610,3 +6610,8 @@
 - [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
 - [Manim: Animation engine for explanatory math videos](https://github.com/3b1b/manim)
 - [Rethinking the Linux cloud stack for confidential VMs](https://lwn.net/Articles/1030818/)
+## Morning Digest - 24-08-2025
+
+- [Turning Claude Code into My Best Design Partner](https://betweentheprompts.com/design-partner/)
+- [Valve Software handbook for new employees [pdf]](https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
+- [Seed: Interactive software environment based on Common Lisp](https://github.com/phantomics/seed)
