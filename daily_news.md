@@ -6615,3 +6615,8 @@
 - [Turning Claude Code into My Best Design Partner](https://betweentheprompts.com/design-partner/)
 - [Valve Software handbook for new employees [pdf]](https://cdn.akamai.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
 - [Seed: Interactive software environment based on Common Lisp](https://github.com/phantomics/seed)
+## Afternoon/Evening Digest - 24-08-2025
+
+- [Dynamically patch a Python function's source code at runtime](https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/)
+- [Show HN: Clearcam – Add AI Object Detection to Your IP CCTV Cameras in a Minute](https://github.com/roryclear/clearcam)
+- [A German ISP changed their DNS to block my website](https://lina.sh/blog/telefonica-sabotages-me)
