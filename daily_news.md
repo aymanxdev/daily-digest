@@ -6625,3 +6625,8 @@
 - [What are OKLCH colors?](https://jakub.kr/components/oklch-colors)
 - [Git-Annex](https://git-annex.branchable.com/)
 - [SmallJS: Smalltalk-80 that compiles to JavaScript](https://small-js.org/Home/Home.html)
+## Afternoon/Evening Digest - 25-08-2025
+
+- [Show HN: Base, an SQLite database editor for macOS](https://menial.co.uk/base/)
+- [What are OKLCH colors?](https://jakub.kr/components/oklch-colors)
+- [A Small Change to Improve Browsers for Keyboard Navigation](https://b.43z.one/2025-07-22/)
