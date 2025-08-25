@@ -6620,3 +6620,8 @@
 - [Dynamically patch a Python function's source code at runtime](https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/)
 - [Show HN: Clearcam – Add AI Object Detection to Your IP CCTV Cameras in a Minute](https://github.com/roryclear/clearcam)
 - [A German ISP changed their DNS to block my website](https://lina.sh/blog/telefonica-sabotages-me)
+## Morning Digest - 25-08-2025
+
+- [What are OKLCH colors?](https://jakub.kr/components/oklch-colors)
+- [Git-Annex](https://git-annex.branchable.com/)
+- [SmallJS: Smalltalk-80 that compiles to JavaScript](https://small-js.org/Home/Home.html)
