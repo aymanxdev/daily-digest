@@ -6630,3 +6630,8 @@
 - [Show HN: Base, an SQLite database editor for macOS](https://menial.co.uk/base/)
 - [What are OKLCH colors?](https://jakub.kr/components/oklch-colors)
 - [A Small Change to Improve Browsers for Keyboard Navigation](https://b.43z.one/2025-07-22/)
+## Morning Digest - 26-08-2025
+
+- [Google will allow only apps from verified developers to be installed on Android](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
+- [Do I not like Ruby anymore? (2024)](https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/)
+- [Will Smith's concert crowds are real, but AI is blurring the lines](https://waxy.org/2025/08/will-smiths-concert-crowds-were-real-but-ai-is-blurring-the-lines/)
