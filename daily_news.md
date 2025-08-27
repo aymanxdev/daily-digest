@@ -6645,3 +6645,8 @@
 - [The Therac-25 Incident](https://thedailywtf.com/articles/the-therac-25-incident)
 - [Claude for Chrome](https://www.anthropic.com/news/claude-for-chrome)
 - [Gemini 2.5 Flash Image](https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/)
+## Afternoon/Evening Digest - 27-08-2025
+
+- [Nx compromised: malware uses Claude code CLI to explore the filesystem](https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/)
+- [Monodraw](https://monodraw.helftone.com/)
+- [Object-oriented design patterns in C and kernel development](https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev)
