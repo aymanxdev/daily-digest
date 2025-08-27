@@ -6640,3 +6640,8 @@
 - [Gemini 2.5 Flash Image](https://deepmind.google/models/gemini/image/)
 - [One Universal Antiviral to Rule Them All?](https://www.cuimc.columbia.edu/news/one-universal-antiviral-rule-them-all)
 - [Google will allow only apps from verified developers to be installed on Android](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
+## Morning Digest - 27-08-2025
+
+- [The Therac-25 Incident](https://thedailywtf.com/articles/the-therac-25-incident)
+- [Claude for Chrome](https://www.anthropic.com/news/claude-for-chrome)
+- [Gemini 2.5 Flash Image](https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/)
