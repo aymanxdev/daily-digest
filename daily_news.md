@@ -6655,3 +6655,8 @@
 - [The Deletion of Docker.io/Bitnami](https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon)
 - [Altered states of consciousness induced by breathwork accompanied by music](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411)
 - [Yamanot.es: A music box of train station melodies from the JR Yamanote Line](https://yamanot.es/)
+## Afternoon/Evening Digest - 28-08-2025
+
+- [How to Install TrueNAS on a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/how-install-truenas-on-raspberry-pi)
+- [Are OpenAI and Anthropic Losing Money on Inference?](https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/)
+- [The sisters "paradox" – counter-intuitive probability](https://blog.engora.com/2025/08/the-sisters-paradox-counter-intuitive.html)
