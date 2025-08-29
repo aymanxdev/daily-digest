@@ -6660,3 +6660,8 @@
 - [How to Install TrueNAS on a Raspberry Pi](https://www.jeffgeerling.com/blog/2025/how-install-truenas-on-raspberry-pi)
 - [Are OpenAI and Anthropic Losing Money on Inference?](https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/)
 - [The sisters "paradox" – counter-intuitive probability](https://blog.engora.com/2025/08/the-sisters-paradox-counter-intuitive.html)
+## Afternoon/Evening Digest - 29-08-2025
+
+- [The Curious Case of Flunking My Anthropic Interview (Again)](https://taylor.town/flunking-anthropic)
+- [Private Equity Snaps Up Disability Services, Challenging Regulators](https://www.governing.com/management-and-administration/private-equity-snaps-up-disability-services-challenging-regulators)
+- [Grok Code Fast 1](https://x.ai/news/grok-code-fast-1)
