@@ -6670,3 +6670,8 @@
 - [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
 - [From Multi-Head to Latent Attention: The Evolution of Attention Mechanisms](https://vinithavn.medium.com/from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms-64e3c0505f24)
 - [SynthID – A tool to watermark and identify content generated through AI](https://deepmind.google/science/synthid/)
+## Afternoon/Evening Digest - 30-08-2025
+
+- [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load)
+- [Condor's Cuzco RISC-V Core at Hot Chips 2025](https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot)
+- [AI models need a virtual machine](https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/)
