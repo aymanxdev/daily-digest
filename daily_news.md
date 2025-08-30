@@ -6665,3 +6665,8 @@
 - [The Curious Case of Flunking My Anthropic Interview (Again)](https://taylor.town/flunking-anthropic)
 - [Private Equity Snaps Up Disability Services, Challenging Regulators](https://www.governing.com/management-and-administration/private-equity-snaps-up-disability-services-challenging-regulators)
 - [Grok Code Fast 1](https://x.ai/news/grok-code-fast-1)
+## Morning Digest - 30-08-2025
+
+- [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
+- [From Multi-Head to Latent Attention: The Evolution of Attention Mechanisms](https://vinithavn.medium.com/from-multi-head-to-latent-attention-the-evolution-of-attention-mechanisms-64e3c0505f24)
+- [SynthID – A tool to watermark and identify content generated through AI](https://deepmind.google/science/synthid/)
