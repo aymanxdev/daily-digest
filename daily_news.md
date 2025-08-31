@@ -6675,3 +6675,8 @@
 - [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load)
 - [Condor's Cuzco RISC-V Core at Hot Chips 2025](https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot)
 - [AI models need a virtual machine](https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/)
+## Morning Digest - 31-08-2025
+
+- [Git Diagramming "The Weave"](https://daverupert.com/2025/08/git-diagramming-the-weave/)
+- [Cognitive load is what matters](https://github.com/zakirullin/cognitive-load)
+- [My phone is an ereader now](https://www.davepagurek.com/blog/minimal-phone/)
