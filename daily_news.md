@@ -6680,3 +6680,8 @@
 - [Git Diagramming "The Weave"](https://daverupert.com/2025/08/git-diagramming-the-weave/)
 - [Cognitive load is what matters](https://github.com/zakirullin/cognitive-load)
 - [My phone is an ereader now](https://www.davepagurek.com/blog/minimal-phone/)
+## Afternoon/Evening Digest - 31-08-2025
+
+- ["This telegram must be closely paraphrased before being communicated" Why?](https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone)
+- [Why haven't quantum computers factored 21 yet?](https://algassert.com/post/2500)
+- [Google: 'Your $1000 phone needs our permission to install apps now' [video]](https://www.youtube.com/watch?v=QBEKlIV_70E)
