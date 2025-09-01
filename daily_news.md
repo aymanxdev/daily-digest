@@ -6685,3 +6685,8 @@
 - ["This telegram must be closely paraphrased before being communicated" Why?](https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone)
 - [Why haven't quantum computers factored 21 yet?](https://algassert.com/post/2500)
 - [Google: 'Your $1000 phone needs our permission to install apps now' [video]](https://www.youtube.com/watch?v=QBEKlIV_70E)
+## Morning Digest - 01-09-2025
+
+- [We should have the ability to run any code we want on hardware we own](https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html)
+- [Why countries trade with each other while fighting](https://news.mit.edu/2025/why-countries-trade-each-other-while-fighting-mariya-grinberg-book-0828)
+- [Eternal Struggle](https://yoavg.github.io/eternal/)
