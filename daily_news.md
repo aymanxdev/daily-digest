@@ -6700,3 +6700,8 @@
 - [Next.js Is Infuriating](https://blog.meca.sh/3lxoty3shjc2z)
 - [FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn)
 - [Collecting All Causal Knowledge](https://causenet.org/)
+## Afternoon/Evening Digest - 02-09-2025
+
+- [Show HN: Moribito – A TUI for LDAP Viewing/Queries](https://github.com/ericschmar/moribito)
+- [Run Erlang/Elixir on Microcontrollers and Embedded Linux](https://www.grisp.org/software)
+- [Memory is slow, Disk is fast – Part 1](https://www.bitflux.ai/blog/memory-is-slow-part1/)
