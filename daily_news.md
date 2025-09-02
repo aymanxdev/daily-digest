@@ -6695,3 +6695,8 @@
 - [Cloudflare Radar: AI Insights](https://radar.cloudflare.com/ai-insights)
 - [We should have the ability to run any code we want on hardware we own](https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html)
 - [CocoaPods Is Deprecated](https://blog.cocoapods.org/CocoaPods-Specs-Repo/)
+## Morning Digest - 02-09-2025
+
+- [Next.js Is Infuriating](https://blog.meca.sh/3lxoty3shjc2z)
+- [FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn)
+- [Collecting All Causal Knowledge](https://causenet.org/)
