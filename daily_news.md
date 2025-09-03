@@ -6710,3 +6710,8 @@
 - [Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel](https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html)
 - [Google can keep its Chrome browser but will be barred from exclusive contracts](https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html)
 - [Lit: a library for building fast, lightweight web components](https://lit.dev)
+## Afternoon/Evening Digest - 03-09-2025
+
+- [Voyager is an interactive video generation model with realtime 3D reconstruction](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager)
+- [Microsoft VibeVoice: A Frontier Open-Source Text-to-Speech Model](https://microsoft.github.io/VibeVoice/)
+- [For all that's holy, can you just leverage the Web, please?](https://blog.tomayac.com/2025/09/03/for-all-thats-holy-can-you-just-leverage-the-web-please/)
