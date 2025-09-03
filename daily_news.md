@@ -6705,3 +6705,8 @@
 - [Show HN: Moribito – A TUI for LDAP Viewing/Queries](https://github.com/ericschmar/moribito)
 - [Run Erlang/Elixir on Microcontrollers and Embedded Linux](https://www.grisp.org/software)
 - [Memory is slow, Disk is fast – Part 1](https://www.bitflux.ai/blog/memory-is-slow-part1/)
+## Morning Digest - 03-09-2025
+
+- [Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel](https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html)
+- [Google can keep its Chrome browser but will be barred from exclusive contracts](https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html)
+- [Lit: a library for building fast, lightweight web components](https://lit.dev)
