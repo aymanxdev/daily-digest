@@ -6720,3 +6720,8 @@
 - [30 minutes with a stranger](https://pudding.cool/2025/06/hello-stranger/)
 - [Google was down in eastern EU and Turkey](https://www.novinite.com/articles/234225/Google+Down+in+Eastern+Europe+%28UPDATED%29)
 - [Melvyn Bragg steps down from presenting In Our Time](https://www.bbc.co.uk/mediacentre/2025/melvyn-bragg-decides-to-step-down-from-presenting-in-our-time/)
+## Afternoon/Evening Digest - 04-09-2025
+
+- [Almost anything you give sustained attention to will begin to loop on itself](https://www.henrikkarlsson.xyz/p/attention)
+- [Le Chat. Custom MCP Connectors. Memories](https://mistral.ai/news/le-chat-mcp-connectors-memories)
+- [30 minutes with a stranger](https://pudding.cool/2025/06/hello-stranger/)
