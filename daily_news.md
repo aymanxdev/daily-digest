@@ -6725,3 +6725,8 @@
 - [Almost anything you give sustained attention to will begin to loop on itself](https://www.henrikkarlsson.xyz/p/attention)
 - [Le Chat. Custom MCP Connectors. Memories](https://mistral.ai/news/le-chat-mcp-connectors-memories)
 - [30 minutes with a stranger](https://pudding.cool/2025/06/hello-stranger/)
+## Morning Digest - 05-09-2025
+
+- [I bought the cheapest EV, a used Nissan Leaf](https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf)
+- [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
+- [What Is the Fourier Transform?](https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/)
