@@ -6730,3 +6730,8 @@
 - [I bought the cheapest EV, a used Nissan Leaf](https://www.jeffgeerling.com/blog/2025/i-bought-cheapest-ev-used-nissan-leaf)
 - [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
 - [What Is the Fourier Transform?](https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/)
+## Afternoon/Evening Digest - 05-09-2025
+
+- [I Ditched Docker for Podman (and You Should Too)](https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too)
+- [You're absolutely Right!](https://absolutelyright.lol/)
+- [Development Speed Has Never Been a Bottleneck](https://pawelbrodzinski.substack.com/p/development-speed-is-not-a-bottleneck)
