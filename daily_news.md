@@ -6735,3 +6735,8 @@
 - [I Ditched Docker for Podman (and You Should Too)](https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too)
 - [You're absolutely Right!](https://absolutelyright.lol/)
 - [Development Speed Has Never Been a Bottleneck](https://pawelbrodzinski.substack.com/p/development-speed-is-not-a-bottleneck)
+## Morning Digest - 06-09-2025
+
+- [Anthropic agrees to pay $1.5B to settle lawsuit with book authors](https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share)
+- [Rug pulls, forks, and open-source feudalism](https://lwn.net/SubscriberLink/1036465/e80ebbc4cee39bfb/)
+- [Speeding up Unreal Editor launch by not spawning unused tooltips](https://larstofus.com/2025/09/02/speeding-up-the-unreal-editor-launch-by-not-spawning-38000-tooltips/)
