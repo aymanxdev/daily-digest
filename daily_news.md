@@ -6750,3 +6750,8 @@
 - [Show HN: I recreated Windows XP as my portfolio](https://mitchivin.com/)
 - [RFC 3339 vs. ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
 - [A Navajo weaving of an integrated circuit: the 555 timer](https://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html)
+## Afternoon/Evening Digest - 07-09-2025
+
+- [Serverless Horrors](https://serverlesshorrors.com/)
+- [Show HN: I recreated Windows XP as my portfolio](https://mitchivin.com/)
+- [Show HN: Semantic grep for Claude Code (RUST) (local embeddings)](https://github.com/BeaconBay/ck)
