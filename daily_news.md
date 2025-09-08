@@ -6755,3 +6755,8 @@
 - [Serverless Horrors](https://serverlesshorrors.com/)
 - [Show HN: I recreated Windows XP as my portfolio](https://mitchivin.com/)
 - [Show HN: Semantic grep for Claude Code (RUST) (local embeddings)](https://github.com/BeaconBay/ck)
+## Morning Digest - 08-09-2025
+
+- [Using Claude Code to modernize a 25-year-old kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver)
+- [The MacBook has a sensor that knows the exact angle of the screen hinge](https://twitter.com/samhenrigold/status/1964428927159382261)
+- [Show HN: C++ library for reading MacBook lid angle sensor data](https://github.com/ufoym/mac-angle)
