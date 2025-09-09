@@ -6770,3 +6770,8 @@
 - [Mistral AI raises 1.7B€, enters strategic partnership with ASML](https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai)
 - [Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/)
 - [How can England possibly be running out of water?](https://www.theguardian.com/news/ng-interactive/2025/aug/17/how-can-england-possibly-be-running-out-of-water)
+## Afternoon/Evening Digest - 09-09-2025
+
+- [New Mexico is first state in US to offer universal child care](https://www.governor.state.nm.us/2025/09/08/new-mexico-is-first-state-in-nation-to-offer-universal-child-care/)
+- [Claude can now create and edit files](https://www.anthropic.com/news/create-files)
+- [Mistral AI raises 1.7B€, enters strategic partnership with ASML](https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai)
