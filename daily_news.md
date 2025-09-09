@@ -6765,3 +6765,8 @@
 - [14 Killed in protests in Nepal over social media ban](https://www.tribuneindia.com/news/world/massive-protests-in-nepal-over-social-media-ban/)
 - [Experimenting with Local LLMs on macOS](https://blog.6nok.org/experimenting-with-local-llms-on-macos/)
 - [RSS Beat Microsoft](https://buttondown.com/blog/rss-vs-ice)
+## Morning Digest - 09-09-2025
+
+- [Mistral AI raises 1.7B€, enters strategic partnership with ASML](https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai)
+- [Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/)
+- [How can England possibly be running out of water?](https://www.theguardian.com/news/ng-interactive/2025/aug/17/how-can-england-possibly-be-running-out-of-water)
