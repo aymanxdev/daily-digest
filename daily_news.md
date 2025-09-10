@@ -6780,3 +6780,8 @@
 - [I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm)
 - [iPhone Air](https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/)
 - [E-paper display reaches the realm of LCD screens](https://spectrum.ieee.org/e-paper-display-modos)
+## Afternoon/Evening Digest - 10-09-2025
+
+- [OrioleDB Patent: now freely available to the Postgres community](https://supabase.com/blog/orioledb-patent-free)
+- [I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm)
+- [Kerberoasting](https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/)
