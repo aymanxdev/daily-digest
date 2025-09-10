@@ -6775,3 +6775,8 @@
 - [New Mexico is first state in US to offer universal child care](https://www.governor.state.nm.us/2025/09/08/new-mexico-is-first-state-in-nation-to-offer-universal-child-care/)
 - [Claude can now create and edit files](https://www.anthropic.com/news/create-files)
 - [Mistral AI raises 1.7B€, enters strategic partnership with ASML](https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai)
+## Morning Digest - 10-09-2025
+
+- [I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm)
+- [iPhone Air](https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/)
+- [E-paper display reaches the realm of LCD screens](https://spectrum.ieee.org/e-paper-display-modos)
