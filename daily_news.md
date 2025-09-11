@@ -6790,3 +6790,8 @@
 - [KDE launches its own distribution](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/)
 - [DOOMscrolling: The Game](https://ironicsans.ghost.io/doomscrolling-the-game/)
 - [Show HN: Term.everything – Run any GUI app in the terminal](https://github.com/mmulet/term.everything)
+## Afternoon/Evening Digest - 11-09-2025
+
+- [GrapheneOS and Forensic Extraction of Data (2024)](https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data)
+- [Gregg Kellogg has passed away](https://lists.w3.org/Archives/Public/public-json-ld-wg/2025Sep/0012.html)
+- [Behind the Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
