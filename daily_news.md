@@ -6785,3 +6785,8 @@
 - [OrioleDB Patent: now freely available to the Postgres community](https://supabase.com/blog/orioledb-patent-free)
 - [I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory](https://joshfonseca.com/blogs/animal-crossing-llm)
 - [Kerberoasting](https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/)
+## Morning Digest - 11-09-2025
+
+- [KDE launches its own distribution](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/)
+- [DOOMscrolling: The Game](https://ironicsans.ghost.io/doomscrolling-the-game/)
+- [Show HN: Term.everything – Run any GUI app in the terminal](https://github.com/mmulet/term.everything)
