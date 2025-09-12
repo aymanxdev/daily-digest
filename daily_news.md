@@ -6795,3 +6795,8 @@
 - [GrapheneOS and Forensic Extraction of Data (2024)](https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data)
 - [Gregg Kellogg has passed away](https://lists.w3.org/Archives/Public/public-json-ld-wg/2025Sep/0012.html)
 - [Behind the Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
+## Morning Digest - 12-09-2025
+
+- [Qwen3-Next](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list)
+- [Float Exposed](https://float.exposed/)
+- [Debian 13, Postgres, and the US time zones](https://rachelbythebay.com/w/2025/09/11/debtz/)
