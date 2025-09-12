@@ -6800,3 +6800,8 @@
 - [Qwen3-Next](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list)
 - [Float Exposed](https://float.exposed/)
 - [Debian 13, Postgres, and the US time zones](https://rachelbythebay.com/w/2025/09/11/debtz/)
+## Afternoon/Evening Digest - 12-09-2025
+
+- [The Treasury Is Expanding the Patriot Act to Attack Bitcoin Self Custody](https://www.tftc.io/treasury-iexpanding-patriot-act/)
+- [3D Modeling with Paper](https://www.arvinpoddar.com/blog/3d-modeling-with-paper)
+- [Qwen3-Next](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list)
