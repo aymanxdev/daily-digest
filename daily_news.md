@@ -6810,3 +6810,8 @@
 - [SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V](https://skiftos.org)
 - [UTF-8 is a brilliant design](https://iamvishnu.com/posts/utf8-is-brilliant-design)
 - [Social media promised connection, but it has delivered exhaustion](https://www.noemamag.com/the-last-days-of-social-media/)
+## Afternoon/Evening Digest - 13-09-2025
+
+- [A store that generates products from anything you type in search](https://anycrap.shop/)
+- [My First Impressions of Gleam](https://mtlynch.io/notes/gleam-first-impressions/)
+- [Show HN: CLAVIER-36 (programming environment for generative music)](https://clavier36.com/p/LtZDdcRP3haTWHErgvdM)
