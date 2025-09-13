@@ -6805,3 +6805,8 @@
 - [The Treasury Is Expanding the Patriot Act to Attack Bitcoin Self Custody](https://www.tftc.io/treasury-iexpanding-patriot-act/)
 - [3D Modeling with Paper](https://www.arvinpoddar.com/blog/3d-modeling-with-paper)
 - [Qwen3-Next](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list)
+## Morning Digest - 13-09-2025
+
+- [SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V](https://skiftos.org)
+- [UTF-8 is a brilliant design](https://iamvishnu.com/posts/utf8-is-brilliant-design)
+- [Social media promised connection, but it has delivered exhaustion](https://www.noemamag.com/the-last-days-of-social-media/)
