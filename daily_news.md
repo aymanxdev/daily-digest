@@ -6820,3 +6820,8 @@
 - [Models of European Metro Stations](http://stations.albertguillaumes.cat/)
 - [Refurb Weekend: Silicon Graphics Indigo² Impact 10000](http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html)
 - [Geedge and MESA leak: Analyzing the great firewall’s largest document leak](https://gfw.report/blog/geedge_and_mesa_leak/en/)
+## Afternoon/Evening Digest - 14-09-2025
+
+- [EPA Seeks to Eliminate Critical PFAS Drinking Water Protections](https://earthjustice.org/press/2025/epa-seeks-to-roll-back-pfas-drinking-water-rules-keeping-millions-exposed-to-toxic-forever-chemicals-in-tap-water)
+- [Models of European Metro Stations](http://stations.albertguillaumes.cat/)
+- [Fukushima Insects Tested for Cognition](https://news.cnrs.fr/articles/fukushima-insects-tested-for-cognition)
