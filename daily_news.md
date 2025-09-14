@@ -6815,3 +6815,8 @@
 - [A store that generates products from anything you type in search](https://anycrap.shop/)
 - [My First Impressions of Gleam](https://mtlynch.io/notes/gleam-first-impressions/)
 - [Show HN: CLAVIER-36 (programming environment for generative music)](https://clavier36.com/p/LtZDdcRP3haTWHErgvdM)
+## Morning Digest - 14-09-2025
+
+- [Models of European Metro Stations](http://stations.albertguillaumes.cat/)
+- [Refurb Weekend: Silicon Graphics Indigo² Impact 10000](http://oldvcr.blogspot.com/2025/09/refurb-weekend-silicon-graphics-indigo.html)
+- [Geedge and MESA leak: Analyzing the great firewall’s largest document leak](https://gfw.report/blog/geedge_and_mesa_leak/en/)
