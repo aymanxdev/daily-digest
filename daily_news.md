@@ -6825,3 +6825,8 @@
 - [EPA Seeks to Eliminate Critical PFAS Drinking Water Protections](https://earthjustice.org/press/2025/epa-seeks-to-roll-back-pfas-drinking-water-rules-keeping-millions-exposed-to-toxic-forever-chemicals-in-tap-water)
 - [Models of European Metro Stations](http://stations.albertguillaumes.cat/)
 - [Fukushima Insects Tested for Cognition](https://news.cnrs.fr/articles/fukushima-insects-tested-for-cognition)
+## Morning Digest - 15-09-2025
+
+- [Language Models Pack Billions of Concepts into 12k Dimensions](https://nickyoder.com/johnson-lindenstrauss/)
+- [Folks, we have the best π](https://lcamtuf.substack.com/p/folks-we-have-the-best)
+- [Betty Crocker broke recipes by shrinking boxes](https://www.cubbyathome.com/boxed-cake-mix-sizes-have-shrunk-80045058)
