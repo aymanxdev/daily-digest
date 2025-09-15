@@ -6830,3 +6830,8 @@
 - [Language Models Pack Billions of Concepts into 12k Dimensions](https://nickyoder.com/johnson-lindenstrauss/)
 - [Folks, we have the best π](https://lcamtuf.substack.com/p/folks-we-have-the-best)
 - [Betty Crocker broke recipes by shrinking boxes](https://www.cubbyathome.com/boxed-cake-mix-sizes-have-shrunk-80045058)
+## Afternoon/Evening Digest - 15-09-2025
+
+- [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
+- [CubeSats are fascinating learning tools for space](https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space)
+- [PayPal Ushers in a New Era of Peer-to-Peer Payments with Ethereum and Bitcoin](https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere)
