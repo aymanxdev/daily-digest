@@ -6835,3 +6835,8 @@
 - [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
 - [CubeSats are fascinating learning tools for space](https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space)
 - [PayPal Ushers in a New Era of Peer-to-Peer Payments with Ethereum and Bitcoin](https://newsroom.paypal-corp.com/2025-09-15-PayPal-Ushers-in-a-New-Era-of-Peer-to-Peer-Payments,-Reimagining-How-Money-Moves-to-Anyone,-Anywhere)
+## Morning Digest - 16-09-2025
+
+- [Reichstag Fire Decree: Decree of the President for Protection of People & State](https://encyclopedia.ushmm.org/content/en/article/reichstag-fire-decree)
+- [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
+- [IBM Technology Atlas](https://www.ibm.com/roadmaps/)
