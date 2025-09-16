@@ -6840,3 +6840,8 @@
 - [Reichstag Fire Decree: Decree of the President for Protection of People & State](https://encyclopedia.ushmm.org/content/en/article/reichstag-fire-decree)
 - [Hosting a website on a disposable vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/)
 - [IBM Technology Atlas](https://www.ibm.com/roadmaps/)
+## Afternoon/Evening Digest - 16-09-2025
+
+- [Fifty Things you can do with a Software Defined Radio](https://blinry.org/50-things-with-sdr/)
+- [CIA Freedom of Information Act Electronic Reading Room](https://www.cia.gov/readingroom)
+- [Self Propagating NPM Malware Compromises over 40 Packages](https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised)
