@@ -6845,3 +6845,8 @@
 - [Fifty Things you can do with a Software Defined Radio](https://blinry.org/50-things-with-sdr/)
 - [CIA Freedom of Information Act Electronic Reading Room](https://www.cia.gov/readingroom)
 - [Self Propagating NPM Malware Compromises over 40 Packages](https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised)
+## Morning Digest - 17-09-2025
+
+- [GNU Midnight Commander](https://midnight-commander.org/)
+- [Notion API importer, with Databases to Bases conversion bounty](https://github.com/obsidianmd/obsidian-importer/issues/421)
+- [Shai-Hulud malware attack: Tinycolor and over 40 NPM packages compromised](https://socket.dev/blog/ongoing-supply-chain-attack-targets-crowdstrike-npm-packages)
