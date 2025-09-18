@@ -6860,3 +6860,8 @@
 - [Slack has raised our charges by $195k per year](https://skyfall.dev/posts/slack)
 - [This Website Has No Class](https://aaadaaam.com/notes/no-class/)
 - [Meta Ray-Ban Display](https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/)
+## Afternoon/Evening Digest - 18-09-2025
+
+- [KDE is now my favorite desktop](https://kokada.dev/blog/kde-is-now-my-favorite-desktop/)
+- [Geizhals Preisvergleich Donates USD 10k to the Perl and Raku Foundation](https://www.perl.com/article/geizhals-donates-to-tprf/)
+- [Flipper Zero Geiger Counter](https://kasiin.top/blog/2025-08-04-flipper_zero_geiger_counter_module/)
