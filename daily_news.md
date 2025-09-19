@@ -6865,3 +6865,8 @@
 - [KDE is now my favorite desktop](https://kokada.dev/blog/kde-is-now-my-favorite-desktop/)
 - [Geizhals Preisvergleich Donates USD 10k to the Perl and Raku Foundation](https://www.perl.com/article/geizhals-donates-to-tprf/)
 - [Flipper Zero Geiger Counter](https://kasiin.top/blog/2025-08-04-flipper_zero_geiger_counter_module/)
+## Morning Digest - 19-09-2025
+
+- [iTerm2 Web Browser](https://iterm2.com/documentation-web.html)
+- [Want to piss off your IT department? Are the links not malicious looking enough?](https://phishyurl.com/)
+- [Rules for creating good-looking user interfaces, from a developer](https://weberdominik.com/blog/rules-user-interfaces/)
