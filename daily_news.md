@@ -6870,3 +6870,8 @@
 - [iTerm2 Web Browser](https://iterm2.com/documentation-web.html)
 - [Want to piss off your IT department? Are the links not malicious looking enough?](https://phishyurl.com/)
 - [Rules for creating good-looking user interfaces, from a developer](https://weberdominik.com/blog/rules-user-interfaces/)
+## Afternoon/Evening Digest - 19-09-2025
+
+- [I regret building this $3000 Pi AI cluster](https://www.jeffgeerling.com/blog/2025/i-regret-building-3000-pi-ai-cluster)
+- [Ruby Central's Attack on RubyGems [pdf]](https://pup-e.com/goodbye-rubygems.pdf)
+- [Want to piss off your IT department? Are the links not malicious looking enough?](https://phishyurl.com/)
