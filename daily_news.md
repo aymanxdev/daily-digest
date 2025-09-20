@@ -6875,3 +6875,8 @@
 - [I regret building this $3000 Pi AI cluster](https://www.jeffgeerling.com/blog/2025/i-regret-building-3000-pi-ai-cluster)
 - [Ruby Central's Attack on RubyGems [pdf]](https://pup-e.com/goodbye-rubygems.pdf)
 - [Want to piss off your IT department? Are the links not malicious looking enough?](https://phishyurl.com/)
+## Morning Digest - 20-09-2025
+
+- [PYREX vs. Pyrex: What's the Difference?](https://www.corning.com/worldwide/en/products/life-sciences/resources/stories/in-the-field/pyrex-vs-pyrex-whats-the-difference.html)
+- [Less is safer: How Obsidian reduces the risk of supply chain attacks](https://obsidian.md/blog/less-is-safer/)
+- [Show HN: FocusStream – Focused, distraction-free YouTube for learners](https://focusstream.media)
