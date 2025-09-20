@@ -6880,3 +6880,8 @@
 - [PYREX vs. Pyrex: What's the Difference?](https://www.corning.com/worldwide/en/products/life-sciences/resources/stories/in-the-field/pyrex-vs-pyrex-whats-the-difference.html)
 - [Less is safer: How Obsidian reduces the risk of supply chain attacks](https://obsidian.md/blog/less-is-safer/)
 - [Show HN: FocusStream – Focused, distraction-free YouTube for learners](https://focusstream.media)
+## Afternoon/Evening Digest - 20-09-2025
+
+- [Is Zig's New Writer Unsafe?](https://www.openmymind.net/Is-Zigs-New-Io-Unsafe/)
+- [Images over DNS](https://dgl.cx/2025/09/images-over-dns)
+- [Living microbial cement supercapacitors with reactivatable energy storage](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00409-6)
