@@ -6885,3 +6885,8 @@
 - [Is Zig's New Writer Unsafe?](https://www.openmymind.net/Is-Zigs-New-Io-Unsafe/)
 - [Images over DNS](https://dgl.cx/2025/09/images-over-dns)
 - [Living microbial cement supercapacitors with reactivatable energy storage](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00409-6)
+## Morning Digest - 21-09-2025
+
+- [Vibe Coding Cleanup as a Service](https://donado.co/en/articles/2025-09-16-vibe-coding-cleanup-as-a-service/)
+- [Spectral Labs releases SGS-1: the first generative model for structured CAD](https://www.spectrallabs.ai/research/SGS-1)
+- [iFixit iPhone Air teardown](https://www.ifixit.com/News/113171/iphone-air-teardown)
