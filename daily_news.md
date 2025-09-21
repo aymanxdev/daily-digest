@@ -6890,3 +6890,8 @@
 - [Vibe Coding Cleanup as a Service](https://donado.co/en/articles/2025-09-16-vibe-coding-cleanup-as-a-service/)
 - [Spectral Labs releases SGS-1: the first generative model for structured CAD](https://www.spectrallabs.ai/research/SGS-1)
 - [iFixit iPhone Air teardown](https://www.ifixit.com/News/113171/iphone-air-teardown)
+## Afternoon/Evening Digest - 21-09-2025
+
+- [They Thought They Were Free (1955)](https://press.uchicago.edu/Misc/Chicago/511928.html)
+- [Meta exposé author faces bankruptcy after ban on criticising company](https://www.theguardian.com/technology/2025/sep/21/meta-expose-author-sarah-wynn-williams-faces-bankruptcy-after-ban-on-criticising-company)
+- [Disk Utility still can't check and repair APFS volumes and containers](https://eclecticlight.co/2021/11/19/disk-utility-still-cant-check-and-repair-apfs-volumes-and-containers/)
