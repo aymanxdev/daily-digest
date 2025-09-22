@@ -6895,3 +6895,8 @@
 - [They Thought They Were Free (1955)](https://press.uchicago.edu/Misc/Chicago/511928.html)
 - [Meta exposé author faces bankruptcy after ban on criticising company](https://www.theguardian.com/technology/2025/sep/21/meta-expose-author-sarah-wynn-williams-faces-bankruptcy-after-ban-on-criticising-company)
 - [Disk Utility still can't check and repair APFS volumes and containers](https://eclecticlight.co/2021/11/19/disk-utility-still-cant-check-and-repair-apfs-volumes-and-containers/)
+## Morning Digest - 22-09-2025
+
+- [Download responsibly](https://blog.geofabrik.de/index.php/2025/09/10/download-responsibly/)
+- [Privacy and Security Risks in the eSIM Ecosystem [pdf]](https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf)
+- [How I, a beginner developer, read the tutorial you, a developer, wrote for me](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner)
