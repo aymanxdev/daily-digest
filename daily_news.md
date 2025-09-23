@@ -6910,3 +6910,8 @@
 - [Nine Things I Learned in Ninety Years](http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf)
 - [Altoids by the Fistful](https://www.scottsmitelli.com/articles/altoids-by-the-fistful/)
 - [Zoxide: A Better CD Command](https://github.com/ajeetdsouza/zoxide)
+## Afternoon/Evening Digest - 23-09-2025
+
+- [MrBeast Failed to Disclose Ads and Improperly Collected Children's Data](https://bbbprograms.org/media/newsroom/decisions/mrbeast-feastables)
+- [Go has added Valgrind support](https://go-review.googlesource.com/c/go/+/674077)
+- [Getting More Strategic](https://cate.blog/2025/09/23/getting-more-strategic/)
