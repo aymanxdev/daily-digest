@@ -6905,3 +6905,8 @@
 - [Dear GitHub: no YAML anchors, please](https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors)
 - [Easy Forth](https://skilldrick.github.io/easyforth/)
 - [CompileBench: Can AI Compile 22-year-old Code?](https://quesma.com/blog/introducing-compilebench/)
+## Morning Digest - 23-09-2025
+
+- [Nine Things I Learned in Ninety Years](http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf)
+- [Altoids by the Fistful](https://www.scottsmitelli.com/articles/altoids-by-the-fistful/)
+- [Zoxide: A Better CD Command](https://github.com/ajeetdsouza/zoxide)
