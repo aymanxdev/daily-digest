@@ -6915,3 +6915,8 @@
 - [MrBeast Failed to Disclose Ads and Improperly Collected Children's Data](https://bbbprograms.org/media/newsroom/decisions/mrbeast-feastables)
 - [Go has added Valgrind support](https://go-review.googlesource.com/c/go/+/674077)
 - [Getting More Strategic](https://cate.blog/2025/09/23/getting-more-strategic/)
+## Morning Digest - 24-09-2025
+
+- [Baldur's Gate 3 Steam Deck – Native Version](https://larian.com/support/faqs/steam-deck-native-version_121)
+- [Find SF parking cops](https://walzr.com/sf-parking/)
+- [Libghostty is coming](https://mitchellh.com/writing/libghostty-is-coming)
