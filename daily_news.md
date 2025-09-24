@@ -6920,3 +6920,8 @@
 - [Baldur's Gate 3 Steam Deck – Native Version](https://larian.com/support/faqs/steam-deck-native-version_121)
 - [Find SF parking cops](https://walzr.com/sf-parking/)
 - [Libghostty is coming](https://mitchellh.com/writing/libghostty-is-coming)
+## Afternoon/Evening Digest - 24-09-2025
+
+- [Yt-dlp: Upcoming new requirements for YouTube downloads](https://github.com/yt-dlp/yt-dlp/issues/14404)
+- [Just Let Me Select Text](https://aartaka.me/select-text.html)
+- [That Secret Service SIM farm story is bogus](https://cybersect.substack.com/p/that-secret-service-sim-farm-story)
