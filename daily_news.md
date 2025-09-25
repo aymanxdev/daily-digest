@@ -6930,3 +6930,8 @@
 - [Knotty: A domain-specific language for knitting patterns](https://t0mpr1c3.github.io/knotty/index.html)
 - [Helium Browser](https://helium.computer/)
 - [Show HN: Dayflow – A git log for your day](https://github.com/JerryZLiu/Dayflow)
+## Afternoon/Evening Digest - 25-09-2025
+
+- [Brutalita Sans: An Experimental Font and Font Editor](https://brutalita.com/)
+- [Cloudflare Email Service: private beta](https://blog.cloudflare.com/email-service/)
+- [Data Viz Color Palette Generator (For Charts and Dashboards)](https://www.learnui.design/tools/data-color-picker.html)
