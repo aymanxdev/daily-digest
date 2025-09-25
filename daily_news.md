@@ -6925,3 +6925,8 @@
 - [Yt-dlp: Upcoming new requirements for YouTube downloads](https://github.com/yt-dlp/yt-dlp/issues/14404)
 - [Just Let Me Select Text](https://aartaka.me/select-text.html)
 - [That Secret Service SIM farm story is bogus](https://cybersect.substack.com/p/that-secret-service-sim-farm-story)
+## Morning Digest - 25-09-2025
+
+- [Knotty: A domain-specific language for knitting patterns](https://t0mpr1c3.github.io/knotty/index.html)
+- [Helium Browser](https://helium.computer/)
+- [Show HN: Dayflow – A git log for your day](https://github.com/JerryZLiu/Dayflow)
