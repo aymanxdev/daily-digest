@@ -6940,3 +6940,8 @@
 - [Flock Reinstalls Cameras Without City Approval After Unlawful Govt Access](https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/)
 - [My Deus Ex lipsyncing fix mod](https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/)
 - [No reachable chess position with more than 218 moves](https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs)
+## Afternoon/Evening Digest - 26-09-2025
+
+- [How to make sense of any mess](https://www.howtomakesenseofanymess.com)
+- [Traefik's 10-Year Journey from Zero to Standard](https://traefik.io/blog/celebrating-10-years-of-traefik)
+- [Pop OS 24.04 LTS Beta](https://system76.com/pop/pop-beta/)
