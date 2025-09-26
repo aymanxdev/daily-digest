@@ -6935,3 +6935,8 @@
 - [Brutalita Sans: An Experimental Font and Font Editor](https://brutalita.com/)
 - [Cloudflare Email Service: private beta](https://blog.cloudflare.com/email-service/)
 - [Data Viz Color Palette Generator (For Charts and Dashboards)](https://www.learnui.design/tools/data-color-picker.html)
+## Morning Digest - 26-09-2025
+
+- [Flock Reinstalls Cameras Without City Approval After Unlawful Govt Access](https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/)
+- [My Deus Ex lipsyncing fix mod](https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/)
+- [No reachable chess position with more than 218 moves](https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs)
