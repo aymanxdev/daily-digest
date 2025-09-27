@@ -6945,3 +6945,8 @@
 - [How to make sense of any mess](https://www.howtomakesenseofanymess.com)
 - [Traefik's 10-Year Journey from Zero to Standard](https://traefik.io/blog/celebrating-10-years-of-traefik)
 - [Pop OS 24.04 LTS Beta](https://system76.com/pop/pop-beta/)
+## Morning Digest - 27-09-2025
+
+- [Typst: A Possible LaTeX Replacement](https://lwn.net/Articles/1037577/)
+- [SimpleFold: Folding proteins is simpler than you think](https://github.com/apple/ml-simplefold)
+- [Litex: The First Formal Language Learnable in 1-2 Hours](https://github.com/litexlang/golitex)
