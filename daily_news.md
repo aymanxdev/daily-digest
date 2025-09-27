@@ -6950,3 +6950,8 @@
 - [Typst: A Possible LaTeX Replacement](https://lwn.net/Articles/1037577/)
 - [SimpleFold: Folding proteins is simpler than you think](https://github.com/apple/ml-simplefold)
 - [Litex: The First Formal Language Learnable in 1-2 Hours](https://github.com/litexlang/golitex)
+## Afternoon/Evening Digest - 27-09-2025
+
+- [Typst: A Possible LaTeX Replacement](https://lwn.net/Articles/1037577/)
+- [SSH3: Faster and rich secure shell using HTTP/3](https://github.com/francoismichel/ssh3)
+- [Show HN: An open source Launchpad for macOS 26](https://github.com/RoversX/LaunchNext)
