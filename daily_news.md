@@ -6960,3 +6960,8 @@
 - [A WebGL game where you deliver messages on a tiny planet](https://messenger.abeto.co/)
 - [Man still alive six months after pig kidney transplant](https://www.nature.com/articles/d41586-025-02851-w)
 - [IBM Intellistation 185 AIX workstation (2016)](http://www.ibmfiles.com/pages/intellipower185.htm)
+## Afternoon/Evening Digest - 28-09-2025
+
+- [Failing to Understand the Exponential, Again](https://www.julian.ac/blog/2025/09/27/failing-to-understand-the-exponential-again/)
+- [Privacy Badger is a free browser extension made by EFF to stop spying](https://privacybadger.org/)
+- [A WebGL game where you deliver messages on a tiny planet](https://messenger.abeto.co/)
