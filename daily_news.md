@@ -6955,3 +6955,8 @@
 - [Typst: A Possible LaTeX Replacement](https://lwn.net/Articles/1037577/)
 - [SSH3: Faster and rich secure shell using HTTP/3](https://github.com/francoismichel/ssh3)
 - [Show HN: An open source Launchpad for macOS 26](https://github.com/RoversX/LaunchNext)
+## Morning Digest - 28-09-2025
+
+- [A WebGL game where you deliver messages on a tiny planet](https://messenger.abeto.co/)
+- [Man still alive six months after pig kidney transplant](https://www.nature.com/articles/d41586-025-02851-w)
+- [IBM Intellistation 185 AIX workstation (2016)](http://www.ibmfiles.com/pages/intellipower185.htm)
