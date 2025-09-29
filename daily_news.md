@@ -6965,3 +6965,8 @@
 - [Failing to Understand the Exponential, Again](https://www.julian.ac/blog/2025/09/27/failing-to-understand-the-exponential-again/)
 - [Privacy Badger is a free browser extension made by EFF to stop spying](https://privacybadger.org/)
 - [A WebGL game where you deliver messages on a tiny planet](https://messenger.abeto.co/)
+## Morning Digest - 29-09-2025
+
+- [Queueing to publish in AI and CS](https://damaru2.github.io/general/queueing_to_publish_in_AI_or_CS/)
+- [Zero ASIC releases Wildebeest, the highest performance FPGA synthesis tool](https://www.zeroasic.com/blog/wildebeest-launch)
+- [Play snake in the URL address bar](https://demian.ferrei.ro/snake/)
