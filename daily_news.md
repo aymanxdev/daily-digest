@@ -6975,3 +6975,8 @@
 - [Meta-analysis of 2.2M people: Loneliness increases mortality risk by 32%](https://lightcapai.medium.com/the-loneliness-epidemic-threatens-physical-health-like-smoking-e063220dde8b)
 - [What if I don't want videos of my hobby time available to the world?](https://neilzone.co.uk/2025/09/what-if-i-dont-want-videos-of-my-hobby-time-available-to-the-entire-world/)
 - [Map of Near and Middle East Oil 1965](https://www.davidrumsey.com/blog/2025/9/28/map-of-near-and-middle-east-oil-1965)
+## Morning Digest - 30-09-2025
+
+- [Geolocation and Starlink](https://www.potaroo.net/ispcol/2025-09/starlinkgeo.html)
+- [Claude Sonnet 4.5](https://www.anthropic.com/news/claude-sonnet-4-5)
+- [Claude Code 2.0](https://www.npmjs.com/package/@anthropic-ai/claude-code)
