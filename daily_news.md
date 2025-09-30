@@ -6980,3 +6980,8 @@
 - [Geolocation and Starlink](https://www.potaroo.net/ispcol/2025-09/starlinkgeo.html)
 - [Claude Sonnet 4.5](https://www.anthropic.com/news/claude-sonnet-4-5)
 - [Claude Code 2.0](https://www.npmjs.com/package/@anthropic-ai/claude-code)
+## Afternoon/Evening Digest - 30-09-2025
+
+- [Comprehension debt: A ticking time bomb of LLM-generated code](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/)
+- [An Opinionated Critique of Duolingo](https://isomorphism.xyz/blog/2025/duolingo/)
+- [Google CTF 2025 – webz : Exploiting zlib's Huffman Code Table](https://velog.io/@0range1337/CTF-Google-CTF-2025-webz-Exploiting-zlibs-Huffman-Code-Table-English)
