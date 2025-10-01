@@ -6990,3 +6990,8 @@
 - [Type Theory and Functional Programming (1999) [pdf]](https://www.cs.cornell.edu/courses/cs6110/2015sp/textbook/Simon%20Thompson%20textbook.pdf)
 - [Category Theory Illustrated – Natural Transformations](https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/)
 - [CDC File Transfer](https://github.com/google/cdc-file-transfer)
+## Afternoon/Evening Digest - 01-10-2025
+
+- [Show HN: ChartDB Agent – Cursor for DB schema design](https://app.chartdb.io/ai)
+- [TigerBeetle is a most interesting database](https://www.amplifypartners.com/blog-posts/why-tigerbeetle-is-the-most-interesting-database-in-the-world)
+- [Hackers strike Harrods in latest UK cyberattack](https://observer.co.uk/news/national/article/hackers-strike-harrods-in-latest-uk-cyberattack)
