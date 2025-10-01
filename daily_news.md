@@ -6985,3 +6985,8 @@
 - [Comprehension debt: A ticking time bomb of LLM-generated code](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/)
 - [An Opinionated Critique of Duolingo](https://isomorphism.xyz/blog/2025/duolingo/)
 - [Google CTF 2025 – webz : Exploiting zlib's Huffman Code Table](https://velog.io/@0range1337/CTF-Google-CTF-2025-webz-Exploiting-zlibs-Huffman-Code-Table-English)
+## Morning Digest - 01-10-2025
+
+- [Type Theory and Functional Programming (1999) [pdf]](https://www.cs.cornell.edu/courses/cs6110/2015sp/textbook/Simon%20Thompson%20textbook.pdf)
+- [Category Theory Illustrated – Natural Transformations](https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/)
+- [CDC File Transfer](https://github.com/google/cdc-file-transfer)
