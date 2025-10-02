@@ -6995,3 +6995,8 @@
 - [Show HN: ChartDB Agent – Cursor for DB schema design](https://app.chartdb.io/ai)
 - [TigerBeetle is a most interesting database](https://www.amplifypartners.com/blog-posts/why-tigerbeetle-is-the-most-interesting-database-in-the-world)
 - [Hackers strike Harrods in latest UK cyberattack](https://observer.co.uk/news/national/article/hackers-strike-harrods-in-latest-uk-cyberattack)
+## Morning Digest - 02-10-2025
+
+- [A 3K-year-old copper smelting site could be key to understanding origins of iron](https://phys.org/news/2025-09-year-copper-smelting-site-key.html)
+- [F3: Open-source data file format for the future [pdf]](https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf)
+- [Cormac McCarthy's personal library](https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/)
