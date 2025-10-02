@@ -7000,3 +7000,8 @@
 - [A 3K-year-old copper smelting site could be key to understanding origins of iron](https://phys.org/news/2025-09-year-copper-smelting-site-key.html)
 - [F3: Open-source data file format for the future [pdf]](https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf)
 - [Cormac McCarthy's personal library](https://www.smithsonianmag.com/arts-culture/two-years-cormac-mccarthys-death-rare-access-to-personal-library-reveals-man-behind-myth-180987150/)
+## Afternoon/Evening Digest - 02-10-2025
+
+- [The most common surgery](https://www.asimov.press/p/cataracts)
+- [We bought the whole GPU, so we're damn well going to use the whole GPU](https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main)
+- [NL Judge: Meta must respect user's choice of recommendation system](https://www.bitsoffreedom.nl/2025/10/02/judge-in-the-bits-of-freedom-vs-meta-lawsuit-meta-must-respect-users-choice/)
