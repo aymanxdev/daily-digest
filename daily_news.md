@@ -7005,3 +7005,8 @@
 - [The most common surgery](https://www.asimov.press/p/cataracts)
 - [We bought the whole GPU, so we're damn well going to use the whole GPU](https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main)
 - [NL Judge: Meta must respect user's choice of recommendation system](https://www.bitsoffreedom.nl/2025/10/02/judge-in-the-bits-of-freedom-vs-meta-lawsuit-meta-must-respect-users-choice/)
+## Morning Digest - 03-10-2025
+
+- [Fp8 runs ~100 tflops faster when the kernel name has "cutlass" in it](https://github.com/triton-lang/triton/pull/7298)
+- [In Praise of RSS and Controlled Feeds of Information](https://blog.burkert.me/posts/in_praise_of_syndication/)
+- [Talent Is Alignment](https://xlii.space/thoughts/talent-is-alignment/)
