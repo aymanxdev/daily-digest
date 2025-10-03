@@ -7010,3 +7010,8 @@
 - [Fp8 runs ~100 tflops faster when the kernel name has "cutlass" in it](https://github.com/triton-lang/triton/pull/7298)
 - [In Praise of RSS and Controlled Feeds of Information](https://blog.burkert.me/posts/in_praise_of_syndication/)
 - [Talent Is Alignment](https://xlii.space/thoughts/talent-is-alignment/)
+## Afternoon/Evening Digest - 03-10-2025
+
+- [Niri – A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri)
+- [Litestream v0.5.0](https://fly.io/blog/litestream-v050-is-here/)
+- [Webbol: A minimal static web server written in COBOL](https://github.com/jmsdnns/webbol)
