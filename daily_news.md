@@ -7015,3 +7015,8 @@
 - [Niri – A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri)
 - [Litestream v0.5.0](https://fly.io/blog/litestream-v050-is-here/)
 - [Webbol: A minimal static web server written in COBOL](https://github.com/jmsdnns/webbol)
+## Morning Digest - 04-10-2025
+
+- [Alibaba cloud FPGA: the $200 Kintex UltraScale+](https://essenceia.github.io/projects/alibaba_cloud_fpga/)
+- [Cloudflare Introduces NET Dollar stable coin](https://www.cloudflare.com/en-au/press/press-releases/2025/cloudflare-introduces-net-dollar-to-support-a-new-business-model-for-the-ai-driven-internet/)
+- [Zig builds are getting faster](https://mitchellh.com/writing/zig-builds-getting-faster)
