@@ -7020,3 +7020,8 @@
 - [Alibaba cloud FPGA: the $200 Kintex UltraScale+](https://essenceia.github.io/projects/alibaba_cloud_fpga/)
 - [Cloudflare Introduces NET Dollar stable coin](https://www.cloudflare.com/en-au/press/press-releases/2025/cloudflare-introduces-net-dollar-to-support-a-new-business-model-for-the-ai-driven-internet/)
 - [Zig builds are getting faster](https://mitchellh.com/writing/zig-builds-getting-faster)
+## Afternoon/Evening Digest - 04-10-2025
+
+- [Circular Financing: Does Nvidia's $110B Bet Echo the Telecom Bubble?](https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/)
+- [Scientists are discovering a powerful new way to prevent cancer (Economist)](https://www.economist.com/science-and-technology/2025/09/02/scientists-are-discovering-a-powerful-new-way-to-prevent-cancer)
+- [Thunderscan: A clever device transforms a printer into a scanner](https://www.folklore.org/Thunderscan.html)
