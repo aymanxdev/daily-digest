@@ -7025,3 +7025,8 @@
 - [Circular Financing: Does Nvidia's $110B Bet Echo the Telecom Bubble?](https://tomtunguz.com/nvidia_nortel_vendor_financing_comparison/)
 - [Scientists are discovering a powerful new way to prevent cancer (Economist)](https://www.economist.com/science-and-technology/2025/09/02/scientists-are-discovering-a-powerful-new-way-to-prevent-cancer)
 - [Thunderscan: A clever device transforms a printer into a scanner](https://www.folklore.org/Thunderscan.html)
+## Morning Digest - 05-10-2025
+
+- [Social Cooling](https://www.socialcooling.com/)
+- [What .NET 10 GC Changes Mean for Developers](https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/)
+- [Anthropic Release Memory API](https://www.anthropic.com/news/context-management)
