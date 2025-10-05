@@ -7030,3 +7030,8 @@
 - [Social Cooling](https://www.socialcooling.com/)
 - [What .NET 10 GC Changes Mean for Developers](https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/)
 - [Anthropic Release Memory API](https://www.anthropic.com/news/context-management)
+## Afternoon/Evening Digest - 05-10-2025
+
+- [Retiring Test-Ipv6.com](https://retire.test-ipv6.com/)
+- [The deadline isn't when AI outsmarts us – it's when we stop using our own minds](https://www.theargumentmag.com/p/you-have-18-months)
+- [Personal data storage is an idea whose time has come](https://blog.muni.town/personal-data-storage-idea/)
