@@ -7035,3 +7035,8 @@
 - [Retiring Test-Ipv6.com](https://retire.test-ipv6.com/)
 - [The deadline isn't when AI outsmarts us – it's when we stop using our own minds](https://www.theargumentmag.com/p/you-have-18-months)
 - [Personal data storage is an idea whose time has come](https://blog.muni.town/personal-data-storage-idea/)
+## Morning Digest - 06-10-2025
+
+- [Structured Procrastination](https://structuredprocrastination.com)
+- [Battering RAM – Low-Cost Interposer Attacks on Confidential Computing](https://batteringram.eu/)
+- [Fire destroys S. Korean government's cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
