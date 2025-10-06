@@ -7040,3 +7040,8 @@
 - [Structured Procrastination](https://structuredprocrastination.com)
 - [Battering RAM – Low-Cost Interposer Attacks on Confidential Computing](https://batteringram.eu/)
 - [Fire destroys S. Korean government's cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
+## Afternoon/Evening Digest - 06-10-2025
+
+- [Show HN: Kent Dybvig's Scheme Machine in 400 Lines of C (Heap-Memory Model)](https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b)
+- [Modern messaging: Running your own XMPP server](https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server)
+- [Nobel Prize in Physiology or Medicine 2025](https://www.nobelprize.org/prizes/medicine/2025/press-release/)
