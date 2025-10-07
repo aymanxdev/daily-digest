@@ -7050,3 +7050,8 @@
 - [The least amount of CSS for a decent looking site (2023)](https://thecascade.dev/article/least-amount-of-css/)
 - [Learning a foreign language–before you're born](https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born)
 - [Why did Crunchyroll's subtitles just get worse?](https://animebythenumbers.substack.com/p/worse-crunchyroll-subtitles)
+## Afternoon/Evening Digest - 07-10-2025
+
+- [Qualcomm to Acquire Arduino](https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i)
+- [The evolution of Lua, continued [pdf]](https://www.lua.org/doc/cola.pdf)
+- [Erlang ARM32 JIT is born](https://www.grisp.org/blog/posts/2025-10-07-jit-arm32.3)
