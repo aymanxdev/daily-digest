@@ -7045,3 +7045,8 @@
 - [Show HN: Kent Dybvig's Scheme Machine in 400 Lines of C (Heap-Memory Model)](https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b)
 - [Modern messaging: Running your own XMPP server](https://www.codedge.de/posts/modern-messaging-running-your-own-xmpp-server)
 - [Nobel Prize in Physiology or Medicine 2025](https://www.nobelprize.org/prizes/medicine/2025/press-release/)
+## Morning Digest - 07-10-2025
+
+- [The least amount of CSS for a decent looking site (2023)](https://thecascade.dev/article/least-amount-of-css/)
+- [Learning a foreign language–before you're born](https://nouvelles.umontreal.ca/en/article/2025/10/03/learning-a-foreign-language-before-you-re-born)
+- [Why did Crunchyroll's subtitles just get worse?](https://animebythenumbers.substack.com/p/worse-crunchyroll-subtitles)
