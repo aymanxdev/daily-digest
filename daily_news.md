@@ -7055,3 +7055,8 @@
 - [Qualcomm to Acquire Arduino](https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i)
 - [The evolution of Lua, continued [pdf]](https://www.lua.org/doc/cola.pdf)
 - [Erlang ARM32 JIT is born](https://www.grisp.org/blog/posts/2025-10-07-jit-arm32.3)
+## Morning Digest - 08-10-2025
+
+- [Synology Reverses Policy Banning Third-Party HDDs After NAS Sales Plummet](https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/)
+- [Qualcomm to acquire Arduino](https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i)
+- [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
