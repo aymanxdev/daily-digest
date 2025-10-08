@@ -7060,3 +7060,8 @@
 - [Synology Reverses Policy Banning Third-Party HDDs After NAS Sales Plummet](https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/)
 - [Qualcomm to acquire Arduino](https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i)
 - [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
+## Afternoon/Evening Digest - 08-10-2025
+
+- [Synology reverses policy banning third-party HDDs after sales allegedly plummet](https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/)
+- [SEC approves Texas Stock Exchange, first new US integrated exchange in decades](https://www.cbsnews.com/texas/news/sec-approves-texas-stock-exchange-txse/)
+- [The Email They Shouldn't Have Read](https://it-notes.dragas.net/2025/10/08/the-email-they-shouldnt-have-read/)
