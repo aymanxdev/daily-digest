@@ -7070,3 +7070,8 @@
 - [First-in-the-nation law to ban ultra-processed foods from school lunches](https://www.gov.ca.gov/2025/10/08/governor-newsom-signs-first-in-the-nation-law-to-ban-ultra-processed-foods-from-school-lunches/)
 - [The Unknotting Number Is Not Additive](https://divisbyzero.com/2025/10/08/the-unknotting-number-is-not-additive/)
 - [The React Foundation: The New Home for React and React Native](https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/)
+## Afternoon/Evening Digest - 09-10-2025
+
+- [The great software quality collapse or, how we normalized catastrophe](https://techtrenches.substack.com/p/the-great-software-quality-collapse)
+- [Why Self-Host?](https://romanzipp.com/blog/why-a-homelab-why-self-host)
+- [Silver Trades to $50 an Ounce](https://investinglive.com/technical-analysis/silver-trades-to-50-an-ounce-for-the-1st-time-ever-20251009/)
