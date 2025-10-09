@@ -7065,3 +7065,8 @@
 - [Synology reverses policy banning third-party HDDs after sales allegedly plummet](https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/)
 - [SEC approves Texas Stock Exchange, first new US integrated exchange in decades](https://www.cbsnews.com/texas/news/sec-approves-texas-stock-exchange-txse/)
 - [The Email They Shouldn't Have Read](https://it-notes.dragas.net/2025/10/08/the-email-they-shouldnt-have-read/)
+## Morning Digest - 09-10-2025
+
+- [First-in-the-nation law to ban ultra-processed foods from school lunches](https://www.gov.ca.gov/2025/10/08/governor-newsom-signs-first-in-the-nation-law-to-ban-ultra-processed-foods-from-school-lunches/)
+- [The Unknotting Number Is Not Additive](https://divisbyzero.com/2025/10/08/the-unknotting-number-is-not-additive/)
+- [The React Foundation: The New Home for React and React Native](https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/)
