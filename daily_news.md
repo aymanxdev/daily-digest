@@ -7080,3 +7080,8 @@
 - [I Switched from Htmx to Datastar](https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/)
 - [My approach to building large technical projects (2023)](https://mitchellh.com/writing/building-large-technical-projects)
 - [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
+## Afternoon/Evening Digest - 10-10-2025
+
+- [Igalia, Servo, and the Sovereign Tech Fund](https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html)
+- [Show HN: I invented a new generative model and got accepted to ICLR](https://discrete-distribution-networks.github.io/)
+- [OpenGL is getting mesh shaders as well, via GL_EXT_mesh_shader](https://www.supergoodcode.com/mesh-shaders-in-the-current-year/)
