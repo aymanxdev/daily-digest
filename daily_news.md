@@ -7075,3 +7075,8 @@
 - [The great software quality collapse or, how we normalized catastrophe](https://techtrenches.substack.com/p/the-great-software-quality-collapse)
 - [Why Self-Host?](https://romanzipp.com/blog/why-a-homelab-why-self-host)
 - [Silver Trades to $50 an Ounce](https://investinglive.com/technical-analysis/silver-trades-to-50-an-ounce-for-the-1st-time-ever-20251009/)
+## Morning Digest - 10-10-2025
+
+- [I Switched from Htmx to Datastar](https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/)
+- [My approach to building large technical projects (2023)](https://mitchellh.com/writing/building-large-technical-projects)
+- [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
