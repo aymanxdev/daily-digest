@@ -7090,3 +7090,8 @@
 - [HTML's Best Kept Secret: The Output Tag](https://denodell.com/blog/html-best-kept-secret-output-tag)
 - [AMD and Sony's PS6 chipset aims to rethink the current graphics pipeline](https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/)
 - [I built physical album cards with NFC tags to teach my son music discovery](https://fulghum.io/album-cards)
+## Afternoon/Evening Digest - 11-10-2025
+
+- [The <output> Tag](https://denodell.com/blog/html-best-kept-secret-output-tag)
+- [Does anyone remember websites?](http://tttthis.com/rememberwebsites.php/)
+- [Hackers leak Qantas data on 5 million customers after ransom deadline passes](https://www.theguardian.com/business/2025/oct/11/hackers-leak-qantas-data-containing-5-million-customer-records-after-ransom-deadline-passes)
