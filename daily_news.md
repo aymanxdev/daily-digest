@@ -7085,3 +7085,8 @@
 - [Igalia, Servo, and the Sovereign Tech Fund](https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html)
 - [Show HN: I invented a new generative model and got accepted to ICLR](https://discrete-distribution-networks.github.io/)
 - [OpenGL is getting mesh shaders as well, via GL_EXT_mesh_shader](https://www.supergoodcode.com/mesh-shaders-in-the-current-year/)
+## Morning Digest - 11-10-2025
+
+- [HTML's Best Kept Secret: The Output Tag](https://denodell.com/blog/html-best-kept-secret-output-tag)
+- [AMD and Sony's PS6 chipset aims to rethink the current graphics pipeline](https://arstechnica.com/gaming/2025/10/amd-and-sony-tease-new-chip-architecture-ahead-of-playstation-6/)
+- [I built physical album cards with NFC tags to teach my son music discovery](https://fulghum.io/album-cards)
