@@ -7100,3 +7100,8 @@
 - [Meta Superintelligence's surprising first paper](https://paddedinputs.substack.com/p/meta-superintelligences-surprising)
 - [Pipelining in psql (PostgreSQL 18)](https://postgresql.verite.pro/blog/2025/10/01/psql-pipeline.html)
 - [Show HN: Rift – A tiling window manager for macOS](https://github.com/acsandmann/rift)
+## Afternoon/Evening Digest - 12-10-2025
+
+- [Macro Gaussian Splats](https://danybittel.ch/macro.html)
+- [Faster LLM inference](https://www.together.ai/blog/adaptive-learning-speculator-system-atlas)
+- [Loko Scheme: bare metal optimizing Scheme compiler](https://scheme.fail/)
