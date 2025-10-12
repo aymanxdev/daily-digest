@@ -7095,3 +7095,8 @@
 - [The <output> Tag](https://denodell.com/blog/html-best-kept-secret-output-tag)
 - [Does anyone remember websites?](http://tttthis.com/rememberwebsites.php/)
 - [Hackers leak Qantas data on 5 million customers after ransom deadline passes](https://www.theguardian.com/business/2025/oct/11/hackers-leak-qantas-data-containing-5-million-customer-records-after-ransom-deadline-passes)
+## Morning Digest - 12-10-2025
+
+- [Meta Superintelligence's surprising first paper](https://paddedinputs.substack.com/p/meta-superintelligences-surprising)
+- [Pipelining in psql (PostgreSQL 18)](https://postgresql.verite.pro/blog/2025/10/01/psql-pipeline.html)
+- [Show HN: Rift – A tiling window manager for macOS](https://github.com/acsandmann/rift)
