@@ -7105,3 +7105,8 @@
 - [Macro Gaussian Splats](https://danybittel.ch/macro.html)
 - [Faster LLM inference](https://www.together.ai/blog/adaptive-learning-speculator-system-atlas)
 - [Loko Scheme: bare metal optimizing Scheme compiler](https://scheme.fail/)
+## Afternoon/Evening Digest - 13-10-2025
+
+- [Show HN: SQLite Online – 11 years of solo development, 11K daily users](https://sqliteonline.com/)
+- [Spotlight on pdfly, the Swiss Army knife for PDF files](https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html)
+- [No Science, No Startups: The Innovation Engine We're Switching Off](https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/)
