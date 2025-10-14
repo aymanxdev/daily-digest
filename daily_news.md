@@ -7110,3 +7110,8 @@
 - [Show HN: SQLite Online – 11 years of solo development, 11K daily users](https://sqliteonline.com/)
 - [Spotlight on pdfly, the Swiss Army knife for PDF files](https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html)
 - [No Science, No Startups: The Innovation Engine We're Switching Off](https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/)
+## Morning Digest - 14-10-2025
+
+- [Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]](https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf)
+- [NanoChat – The best ChatGPT that $100 can buy](https://github.com/karpathy/nanochat)
+- [Why Study Programming Languages](https://people.csail.mit.edu/rachit/post/why-study-programming-languages/)
