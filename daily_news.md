@@ -7115,3 +7115,8 @@
 - [Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]](https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf)
 - [NanoChat – The best ChatGPT that $100 can buy](https://github.com/karpathy/nanochat)
 - [Why Study Programming Languages](https://people.csail.mit.edu/rachit/post/why-study-programming-languages/)
+## Afternoon/Evening Digest - 14-10-2025
+
+- [Pyrefly: Python type checker and language server in Rust](https://pyrefly.org/?featured_on=talkpython)
+- [Zoo of Array Languages](https://ktye.github.io/)
+- [ADS-B Exposed](https://adsb.exposed/)
