@@ -7120,3 +7120,8 @@
 - [Pyrefly: Python type checker and language server in Rust](https://pyrefly.org/?featured_on=talkpython)
 - [Zoo of Array Languages](https://ktye.github.io/)
 - [ADS-B Exposed](https://adsb.exposed/)
+## Morning Digest - 15-10-2025
+
+- [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
+- [Pixnapping Attack](https://www.pixnapping.com/)
+- [Show HN: Firm, a text-based work management system](https://github.com/42futures/firm)
