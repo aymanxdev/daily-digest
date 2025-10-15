@@ -7125,3 +7125,8 @@
 - [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
 - [Pixnapping Attack](https://www.pixnapping.com/)
 - [Show HN: Firm, a text-based work management system](https://github.com/42futures/firm)
+## Afternoon/Evening Digest - 15-10-2025
+
+- [Apple M5 chip](https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/)
+- [You are the scariest monster in the woods](https://jamie.ideasasylum.com/2025/10/15/you-are-the-scariest-monster-in-the-woods)
+- [iPad Pro with M5 chip](https://www.apple.com/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/)
