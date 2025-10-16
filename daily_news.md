@@ -7135,3 +7135,8 @@
 - [Steve Jobs and Cray-1 to be featured on 2026 American Innovations $1 coin](https://www.usmint.gov/news/press-releases/united-states-mint-releases-2026-american-innovation-one-dollar-coin-program-designs)
 - [Liquibase continues to advertise itself as "open source" despite license switch](https://github.com/liquibase/liquibase/issues/7374)
 - [New coding models and integrations](https://ollama.com/blog/coding-models)
+## Afternoon/Evening Digest - 16-10-2025
+
+- [Tor browser removing various Firefox AI features](https://blog.torproject.org/new-alpha-release-tor-browser-150a4/)
+- [Hyperflask – Full stack Flask and Htmx framework](https://hyperflask.dev/)
+- [A stateful browser agent using self-healing DOM maps](https://100x.bot/a/a-stateful-browser-agent-using-self-healing-dom-maps)
