@@ -7130,3 +7130,8 @@
 - [Apple M5 chip](https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/)
 - [You are the scariest monster in the woods](https://jamie.ideasasylum.com/2025/10/15/you-are-the-scariest-monster-in-the-woods)
 - [iPad Pro with M5 chip](https://www.apple.com/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/)
+## Morning Digest - 16-10-2025
+
+- [Steve Jobs and Cray-1 to be featured on 2026 American Innovations $1 coin](https://www.usmint.gov/news/press-releases/united-states-mint-releases-2026-american-innovation-one-dollar-coin-program-designs)
+- [Liquibase continues to advertise itself as "open source" despite license switch](https://github.com/liquibase/liquibase/issues/7374)
+- [New coding models and integrations](https://ollama.com/blog/coding-models)
