@@ -7145,3 +7145,8 @@
 - [How I bypassed Amazon's Kindle web DRM](https://blog.pixelmelt.dev/kindle-web-drm/)
 - [Meow.camera](https://meow.camera/)
 - [4Chan Lawyer publishes Ofcom correspondence. Irony is overwhelming](https://alecmuffett.com/article/117792)
+## Afternoon/Evening Digest - 17-10-2025
+
+- [3x performance for 1/4 of the price by migrating from AWS to Hetzner](https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/)
+- [Live Stream from the Namib Desert](https://bookofjoe2.blogspot.com/2025/10/live-stream-from-namib-desert.html)
+- [How I bypassed Amazon's Kindle web DRM](https://blog.pixelmelt.dev/kindle-web-drm/)
