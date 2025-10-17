@@ -7140,3 +7140,8 @@
 - [Tor browser removing various Firefox AI features](https://blog.torproject.org/new-alpha-release-tor-browser-150a4/)
 - [Hyperflask – Full stack Flask and Htmx framework](https://hyperflask.dev/)
 - [A stateful browser agent using self-healing DOM maps](https://100x.bot/a/a-stateful-browser-agent-using-self-healing-dom-maps)
+## Morning Digest - 17-10-2025
+
+- [How I bypassed Amazon's Kindle web DRM](https://blog.pixelmelt.dev/kindle-web-drm/)
+- [Meow.camera](https://meow.camera/)
+- [4Chan Lawyer publishes Ofcom correspondence. Irony is overwhelming](https://alecmuffett.com/article/117792)
