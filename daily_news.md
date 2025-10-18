@@ -7150,3 +7150,8 @@
 - [3x performance for 1/4 of the price by migrating from AWS to Hetzner](https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/)
 - [Live Stream from the Namib Desert](https://bookofjoe2.blogspot.com/2025/10/live-stream-from-namib-desert.html)
 - [How I bypassed Amazon's Kindle web DRM](https://blog.pixelmelt.dev/kindle-web-drm/)
+## Morning Digest - 18-10-2025
+
+- [StageConnect: Behringer protocol is open source](https://github.com/OpenMixerProject/StageConnect)
+- [Andrej Karpathy – It will take a decade to work through the issues with agents](https://www.dwarkesh.com/p/andrej-karpathy)
+- [New Work by Gary Larson](https://www.thefarside.com/new-stuff)
