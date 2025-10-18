@@ -7155,3 +7155,8 @@
 - [StageConnect: Behringer protocol is open source](https://github.com/OpenMixerProject/StageConnect)
 - [Andrej Karpathy – It will take a decade to work through the issues with agents](https://www.dwarkesh.com/p/andrej-karpathy)
 - [New Work by Gary Larson](https://www.thefarside.com/new-stuff)
+## Afternoon/Evening Digest - 18-10-2025
+
+- [The IDEs we had 30 years ago ... and we lost](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
+- [SQL Anti-Patterns You Should Avoid](https://datamethods.substack.com/p/sql-anti-patterns-you-should-avoid)
+- [1,180 root system drawings](https://images.wur.nl/digital/collection/coll13/search)
