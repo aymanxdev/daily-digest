@@ -7160,3 +7160,8 @@
 - [The IDEs we had 30 years ago ... and we lost](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
 - [SQL Anti-Patterns You Should Avoid](https://datamethods.substack.com/p/sql-anti-patterns-you-should-avoid)
 - [1,180 root system drawings](https://images.wur.nl/digital/collection/coll13/search)
+## Morning Digest - 19-10-2025
+
+- [EQ: A video about all forms of equalizers](https://www.youtube.com/watch?v=CLAt95PrwL4)
+- [Chen-Ning Yang, Nobel laureate, dies at 103](https://www.chinadaily.com.cn/a/202510/18/WS68f3170ea310f735438b5bf2.html)
+- [Titan submersible’s $62 SanDisk memory card found undamaged at wreckage site](https://www.tomshardware.com/pc-components/microsd-cards/tragic-oceangate-titan-submersibles-usd62-sandisk-memory-card-found-undamaged-at-wreckage-site-12-stills-and-nine-videos-have-been-recovered-but-none-from-the-fateful-implosion)
