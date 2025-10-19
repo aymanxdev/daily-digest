@@ -7165,3 +7165,8 @@
 - [EQ: A video about all forms of equalizers](https://www.youtube.com/watch?v=CLAt95PrwL4)
 - [Chen-Ning Yang, Nobel laureate, dies at 103](https://www.chinadaily.com.cn/a/202510/18/WS68f3170ea310f735438b5bf2.html)
 - [Titan submersible’s $62 SanDisk memory card found undamaged at wreckage site](https://www.tomshardware.com/pc-components/microsd-cards/tragic-oceangate-titan-submersibles-usd62-sandisk-memory-card-found-undamaged-at-wreckage-site-12-stills-and-nine-videos-have-been-recovered-but-none-from-the-fateful-implosion)
+## Afternoon/Evening Digest - 19-10-2025
+
+- [Replacement.ai](https://replacement.ai)
+- [Abandoned land drives dangerous heat in Houston, Texas A&M study finds](https://stories.tamu.edu/news/2025/10/07/abandoned-land-drives-dangerous-heat-in-houston-texas-am-study-finds/)
+- [Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB](https://demo.duckui.com)
