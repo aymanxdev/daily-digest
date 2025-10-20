@@ -7170,3 +7170,8 @@
 - [Replacement.ai](https://replacement.ai)
 - [Abandoned land drives dangerous heat in Houston, Texas A&M study finds](https://stories.tamu.edu/news/2025/10/07/abandoned-land-drives-dangerous-heat-in-houston-texas-am-study-finds/)
 - [Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB](https://demo.duckui.com)
+## Morning Digest - 20-10-2025
+
+- [DeepSeek OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
+- [Space Elevator](https://neal.fun/space-elevator/)
+- [Docker Systems Status: Full Service Disruption](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c)
