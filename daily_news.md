@@ -7175,3 +7175,8 @@
 - [DeepSeek OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
 - [Space Elevator](https://neal.fun/space-elevator/)
 - [Docker Systems Status: Full Service Disruption](https://www.dockerstatus.com/pages/incident/533c6539221ae15e3f000031/68f5e1c741c825463df7486c)
+## Afternoon/Evening Digest - 20-10-2025
+
+- [BERT Is Just a Single Text Diffusion Step](https://nathan.rs/posts/roberta-diffusion/)
+- [DeepSeek OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
+- [Space Elevator](https://neal.fun/space-elevator/)
