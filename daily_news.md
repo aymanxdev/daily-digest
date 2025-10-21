@@ -7180,3 +7180,8 @@
 - [BERT Is Just a Single Text Diffusion Step](https://nathan.rs/posts/roberta-diffusion/)
 - [DeepSeek OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
 - [Space Elevator](https://neal.fun/space-elevator/)
+## Morning Digest - 21-10-2025
+
+- [Language Support for Marginalia Search](https://www.marginalia.nu/log/a_126_multilingual/)
+- [AWS multiple services outage in us-east-1](https://health.aws.amazon.com/health/status?ts=20251020)
+- [Practical Scheme](https://practical-scheme.net/index.html#docs)
