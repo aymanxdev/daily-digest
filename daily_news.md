@@ -7185,3 +7185,8 @@
 - [Language Support for Marginalia Search](https://www.marginalia.nu/log/a_126_multilingual/)
 - [AWS multiple services outage in us-east-1](https://health.aws.amazon.com/health/status?ts=20251020)
 - [Practical Scheme](https://practical-scheme.net/index.html#docs)
+## Afternoon/Evening Digest - 21-10-2025
+
+- [Neural audio codecs: how to get audio into LLMs](https://kyutai.org/next/codec-explainer)
+- [StarGrid: A Brand-New Palm OS Strategy Game in 2025](https://quarters.captaintouch.com/blog/posts/2025-10-21-stargrid-has-arrived,-a-brand-new-palm-os-strategy-game-in-2025.html)
+- [Ilo – a Forth system running on UEFI](https://asciinema.org/a/Lbxa2w9R5IbaJqW3INqVrbX8E)
