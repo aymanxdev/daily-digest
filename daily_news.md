@@ -7190,3 +7190,8 @@
 - [Neural audio codecs: how to get audio into LLMs](https://kyutai.org/next/codec-explainer)
 - [StarGrid: A Brand-New Palm OS Strategy Game in 2025](https://quarters.captaintouch.com/blog/posts/2025-10-21-stargrid-has-arrived,-a-brand-new-palm-os-strategy-game-in-2025.html)
 - [Ilo – a Forth system running on UEFI](https://asciinema.org/a/Lbxa2w9R5IbaJqW3INqVrbX8E)
+## Morning Digest - 22-10-2025
+
+- [Greenland Ditches Starlink for French Satellite Service](https://www.dagens.com/technology/greenland-ditches-starlink-for-french-satellite-service)
+- [Evaluating the Infinity Cache in AMD Strix Halo](https://chipsandcheese.com/p/evaluating-the-infinity-cache-in)
+- [The Gypsy Life of Robert Louis Stevenson](https://hudsonreview.com/2025/10/the-gypsy-life-of-robert-louis-stevenson/)
