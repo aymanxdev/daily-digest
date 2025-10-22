@@ -7195,3 +7195,8 @@
 - [Greenland Ditches Starlink for French Satellite Service](https://www.dagens.com/technology/greenland-ditches-starlink-for-french-satellite-service)
 - [Evaluating the Infinity Cache in AMD Strix Halo](https://chipsandcheese.com/p/evaluating-the-infinity-cache-in)
 - [The Gypsy Life of Robert Louis Stevenson](https://hudsonreview.com/2025/10/the-gypsy-life-of-robert-louis-stevenson/)
+## Afternoon/Evening Digest - 22-10-2025
+
+- [Cryptographic Issues in Cloudflare's Circl FourQ Implementation (CVE-2025-8556)](https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation)
+- [Linux Capabilities Revisited](https://dfir.ch/posts/linux_capabilities/)
+- [MinIO stops distributing free Docker images](https://github.com/minio/minio/issues/21647#issuecomment-3418675115)
