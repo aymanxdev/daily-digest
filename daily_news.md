@@ -7205,3 +7205,8 @@
 - [VST3 audio plugin format is now MIT](https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988)
 - [Google flags Immich sites as dangerous](https://immich.app/blog/google-flags-immich-as-dangerous)
 - [Radios, how do they work? (2024)](https://lcamtuf.substack.com/p/radios-how-do-they-work)
+## Afternoon/Evening Digest - 23-10-2025
+
+- [US axes website for reporting human rights abuses by US-armed foreign forces](https://www.bbc.com/news/articles/cqx30vnwd4do)
+- [I spent a year of my life making an ASN.1 compiler in D](https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/)
+- [PyTorch Monarch](https://pytorch.org/blog/introducing-pytorch-monarch/)
