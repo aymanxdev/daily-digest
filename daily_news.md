@@ -7200,3 +7200,8 @@
 - [Cryptographic Issues in Cloudflare's Circl FourQ Implementation (CVE-2025-8556)](https://www.botanica.software/blog/cryptographic-issues-in-cloudflares-circl-fourq-implementation)
 - [Linux Capabilities Revisited](https://dfir.ch/posts/linux_capabilities/)
 - [MinIO stops distributing free Docker images](https://github.com/minio/minio/issues/21647#issuecomment-3418675115)
+## Morning Digest - 23-10-2025
+
+- [VST3 audio plugin format is now MIT](https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988)
+- [Google flags Immich sites as dangerous](https://immich.app/blog/google-flags-immich-as-dangerous)
+- [Radios, how do they work? (2024)](https://lcamtuf.substack.com/p/radios-how-do-they-work)
