@@ -7215,3 +7215,8 @@
 - [Roc Camera](https://roc.camera/)
 - [Alaska Airlines' statement on IT outage](https://news.alaskaair.com/on-the-record/alaska-statement-on-it-outage/)
 - [Counter-Strike's player economy is in a multi-billion dollar freefall](https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/)
+## Afternoon/Evening Digest - 24-10-2025
+
+- [A sharded DuckDB on 63 nodes runs 1T row aggregation challenge in 5 sec](https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge)
+- [Show HN: I built an 8-bit CPU simulator in Python from scratch](https://github.com/sql-hkr/tiny8)
+- [Typst 0.14](https://typst.app/blog/2025/typst-0.14/)
