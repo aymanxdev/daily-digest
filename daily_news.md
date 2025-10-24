@@ -7210,3 +7210,8 @@
 - [US axes website for reporting human rights abuses by US-armed foreign forces](https://www.bbc.com/news/articles/cqx30vnwd4do)
 - [I spent a year of my life making an ASN.1 compiler in D](https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/)
 - [PyTorch Monarch](https://pytorch.org/blog/introducing-pytorch-monarch/)
+## Morning Digest - 24-10-2025
+
+- [Roc Camera](https://roc.camera/)
+- [Alaska Airlines' statement on IT outage](https://news.alaskaair.com/on-the-record/alaska-statement-on-it-outage/)
+- [Counter-Strike's player economy is in a multi-billion dollar freefall](https://www.polygon.com/counter-strike-cs-player-economy-multi-billion-dollar-freefall/)
