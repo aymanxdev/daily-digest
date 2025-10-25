@@ -7225,3 +7225,8 @@
 - [The Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)
 - [Unlocking Free WiFi on British Airways](https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html)
 - [Meet the real screen addicts: the elderly](https://www.economist.com/international/2025/10/23/meet-the-real-screen-addicts-the-elderly)
+## Afternoon/Evening Digest - 25-10-2025
+
+- [Synadia and TigerBeetle Commit $512k USD to the Zig Software Foundation](https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge)
+- [Making a micro Linux distro (2023)](https://popovicu.com/posts/making-a-micro-linux-distro/)
+- [DNA reveals the real killers that brought down Napoleon's army](https://www.gavi.org/vaccineswork/dna-reveals-real-killers-brought-down-napoleons-army)
