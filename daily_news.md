@@ -7220,3 +7220,8 @@
 - [A sharded DuckDB on 63 nodes runs 1T row aggregation challenge in 5 sec](https://gizmodata.com/blog/gizmoedge-one-trillion-row-challenge)
 - [Show HN: I built an 8-bit CPU simulator in Python from scratch](https://github.com/sql-hkr/tiny8)
 - [Typst 0.14](https://typst.app/blog/2025/typst-0.14/)
+## Morning Digest - 25-10-2025
+
+- [The Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)
+- [Unlocking Free WiFi on British Airways](https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html)
+- [Meet the real screen addicts: the elderly](https://www.economist.com/international/2025/10/23/meet-the-real-screen-addicts-the-elderly)
