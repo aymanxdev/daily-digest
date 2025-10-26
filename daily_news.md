@@ -7230,3 +7230,8 @@
 - [Synadia and TigerBeetle Commit $512k USD to the Zig Software Foundation](https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge)
 - [Making a micro Linux distro (2023)](https://popovicu.com/posts/making-a-micro-linux-distro/)
 - [DNA reveals the real killers that brought down Napoleon's army](https://www.gavi.org/vaccineswork/dna-reveals-real-killers-brought-down-napoleons-army)
+## Morning Digest - 26-10-2025
+
+- [A worker fell into a nuclear reactor pool](https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE)
+- [Pico-Banana-400k](https://github.com/apple/pico-banana-400k)
+- [What If Tariffs?](https://www.swatch.com/en-en/what-if-tariffs-so34z106/SO34Z106.html)
