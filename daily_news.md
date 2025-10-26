@@ -7235,3 +7235,8 @@
 - [A worker fell into a nuclear reactor pool](https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE)
 - [Pico-Banana-400k](https://github.com/apple/pico-banana-400k)
 - [What If Tariffs?](https://www.swatch.com/en-en/what-if-tariffs-so34z106/SO34Z106.html)
+## Afternoon/Evening Digest - 26-10-2025
+
+- [Let's Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)
+- [10k Downloadable Movie Posters From The 40s, 50s, 60s, and 70s](https://hrc.contentdm.oclc.org/digital/collection/p15878coll84/search)
+- [The bug that taught me more about PyTorch than years of using it](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/)
