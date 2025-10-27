@@ -7245,3 +7245,8 @@
 - [Recall for Linux](https://github.com/rolflobker/recall-for-linux)
 - [If Your Adversary Is the Mossad (2014) [pdf]](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
 - [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
+## Afternoon/Evening Digest - 27-10-2025
+
+- [Rust cross-platform GPUI components](https://github.com/longbridge/gpui-component)
+- [Don't forget these tags to make HTML work like you expect](https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/)
+- [Recall for Linux](https://github.com/rolflobker/recall-for-linux)
