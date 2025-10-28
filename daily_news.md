@@ -7250,3 +7250,8 @@
 - [Rust cross-platform GPUI components](https://github.com/longbridge/gpui-component)
 - [Don't forget these tags to make HTML work like you expect](https://blog.jim-nielsen.com/2025/dont-forget-these-html-tags/)
 - [Recall for Linux](https://github.com/rolflobker/recall-for-linux)
+## Morning Digest - 28-10-2025
+
+- [Poker Tournament for LLMs](https://pokerbattle.ai/event)
+- [Microsoft Releases AI Call Center Stack with Voice, SMS, and Memory](https://github.com/microsoft/call-center-ai)
+- [Picture gallery: Amiga prototype "Lorraine" at the Amiga 40 event](https://www.amiga-news.de/en/news/AN-2025-10-00110-EN.html)
