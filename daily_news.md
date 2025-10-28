@@ -7255,3 +7255,8 @@
 - [Poker Tournament for LLMs](https://pokerbattle.ai/event)
 - [Microsoft Releases AI Call Center Stack with Voice, SMS, and Memory](https://github.com/microsoft/call-center-ai)
 - [Picture gallery: Amiga prototype "Lorraine" at the Amiga 40 event](https://www.amiga-news.de/en/news/AN-2025-10-00110-EN.html)
+## Afternoon/Evening Digest - 28-10-2025
+
+- [Sick: Indexed deduplicated binary storage for JSON-like data structures](https://github.com/7mind/sick)
+- [The next chapter of the Microsoft–OpenAI partnership](https://openai.com/index/next-chapter-of-microsoft-openai-partnership/)
+- [Show HN: ISS in Real Time – 25 Years Aboard the International Space Station](https://issinrealtime.org)
