@@ -7265,3 +7265,8 @@
 - [Keep Android Open](http://keepandroidopen.org/)
 - [Tips for stroke-surviving software engineers](https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/)
 - [What we talk about when we talk about sideloading](https://f-droid.org/2025/10/28/sideloading.html)
+## Afternoon/Evening Digest - 29-10-2025
+
+- [Keep Android Open](http://keepandroidopen.org/)
+- [Kafka is Fast – I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks)
+- [From VS Code to Helix](https://ergaster.org/posts/2025/10/29-vscode-to-helix/)
