@@ -7260,3 +7260,8 @@
 - [Sick: Indexed deduplicated binary storage for JSON-like data structures](https://github.com/7mind/sick)
 - [The next chapter of the Microsoft–OpenAI partnership](https://openai.com/index/next-chapter-of-microsoft-openai-partnership/)
 - [Show HN: ISS in Real Time – 25 Years Aboard the International Space Station](https://issinrealtime.org)
+## Morning Digest - 29-10-2025
+
+- [Keep Android Open](http://keepandroidopen.org/)
+- [Tips for stroke-surviving software engineers](https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/)
+- [What we talk about when we talk about sideloading](https://f-droid.org/2025/10/28/sideloading.html)
