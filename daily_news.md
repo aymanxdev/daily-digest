@@ -7270,3 +7270,8 @@
 - [Keep Android Open](http://keepandroidopen.org/)
 - [Kafka is Fast – I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks)
 - [From VS Code to Helix](https://ergaster.org/posts/2025/10/29-vscode-to-helix/)
+## Afternoon/Evening Digest - 30-10-2025
+
+- [Ventoy: Create Bootable USB Drive for ISO/WIM/IMG/VHD(x)/EFI Files](https://github.com/ventoy/Ventoy)
+- [987654321 / 123456789](https://www.johndcook.com/blog/2025/10/26/987654321/)
+- [Estimating the Perceived 'Claustrophobia' of New York City's Streets (2024)](http://mfranchi.net/posts/claustrophobic-streets/)
