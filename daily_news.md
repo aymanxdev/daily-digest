@@ -7280,3 +7280,8 @@
 - [AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/)
 - [Affinity Studio now free](https://www.affinity.studio/get-affinity)
 - [Kimi Linear: An Expressive, Efficient Attention Architecture](https://github.com/MoonshotAI/Kimi-Linear)
+## Afternoon/Evening Digest - 31-10-2025
+
+- [Warp Terminal changes pricing model](https://www.warp.dev/blog/warp-new-pricing-flexibility-byok)
+- [Attention lapses due to sleep deprivation due to flushing fluid from brain](https://news.mit.edu/2025/your-brain-without-sleep-1029)
+- [OpenAI Uses Complex and Circular Deals to Fuel Its Multibillion-Dollar Rise](https://www.nytimes.com/interactive/2025/10/31/technology/openai-fundraising-deals.html)
