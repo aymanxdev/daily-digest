@@ -7275,3 +7275,8 @@
 - [Ventoy: Create Bootable USB Drive for ISO/WIM/IMG/VHD(x)/EFI Files](https://github.com/ventoy/Ventoy)
 - [987654321 / 123456789](https://www.johndcook.com/blog/2025/10/26/987654321/)
 - [Estimating the Perceived 'Claustrophobia' of New York City's Streets (2024)](http://mfranchi.net/posts/claustrophobic-streets/)
+## Morning Digest - 31-10-2025
+
+- [AMD Could Enter ARM Market with Sound Wave APU Built on TSMC 3nm Process](https://www.guru3d.com/story/amd-enters-arm-market-with-sound-wave-apu-built-on-tsmc-3nm-process/)
+- [Affinity Studio now free](https://www.affinity.studio/get-affinity)
+- [Kimi Linear: An Expressive, Efficient Attention Architecture](https://github.com/MoonshotAI/Kimi-Linear)
