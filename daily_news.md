@@ -7285,3 +7285,8 @@
 - [Warp Terminal changes pricing model](https://www.warp.dev/blog/warp-new-pricing-flexibility-byok)
 - [Attention lapses due to sleep deprivation due to flushing fluid from brain](https://news.mit.edu/2025/your-brain-without-sleep-1029)
 - [OpenAI Uses Complex and Circular Deals to Fuel Its Multibillion-Dollar Rise](https://www.nytimes.com/interactive/2025/10/31/technology/openai-fundraising-deals.html)
+## Morning Digest - 01-11-2025
+
+- [Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)
+- [S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine](https://github.com/vindar/SARCASM)
+- [Futurelock: A subtle risk in async Rust](https://rfd.shared.oxide.computer/rfd/0609)
