@@ -7290,3 +7290,8 @@
 - [Show HN: Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)
 - [S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine](https://github.com/vindar/SARCASM)
 - [Futurelock: A subtle risk in async Rust](https://rfd.shared.oxide.computer/rfd/0609)
+## Afternoon/Evening Digest - 01-11-2025
+
+- [SQLite concurrency and why you should care about it](https://jellyfin.org/posts/SQLite-locking/)
+- [Abandonware of the web: do you know that there is an HTML tables API?](https://christianheilmann.com/2025/10/08/abandonware-of-the-web-do-you-know-that-there-is-an-html-tables-api/)
+- [CharlotteOS – An Experimental Modern Operating System](https://github.com/charlotte-os/Catten)
