@@ -7295,3 +7295,8 @@
 - [SQLite concurrency and why you should care about it](https://jellyfin.org/posts/SQLite-locking/)
 - [Abandonware of the web: do you know that there is an HTML tables API?](https://christianheilmann.com/2025/10/08/abandonware-of-the-web-do-you-know-that-there-is-an-html-tables-api/)
 - [CharlotteOS – An Experimental Modern Operating System](https://github.com/charlotte-os/Catten)
+## Morning Digest - 02-11-2025
+
+- [Backpropagation is a leaky abstraction](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
+- [Visopsys: OS maintained by a single developer since 1997](https://visopsys.org/)
+- [Notes by djb on using Fil-C (2025)](https://cr.yp.to/2025/fil-c.html)
