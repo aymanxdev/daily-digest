@@ -7300,3 +7300,8 @@
 - [Backpropagation is a leaky abstraction](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
 - [Visopsys: OS maintained by a single developer since 1997](https://visopsys.org/)
 - [Notes by djb on using Fil-C (2025)](https://cr.yp.to/2025/fil-c.html)
+## Afternoon/Evening Digest - 02-11-2025
+
+- [URLs are state containers](https://alfy.blog/2025/10/31/your-url-is-your-state.html)
+- [Mock – An API creation and testing utility: Examples](https://dhuan.github.io/mock/latest/examples.html)
+- [Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/)
