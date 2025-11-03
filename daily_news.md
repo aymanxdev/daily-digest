@@ -7305,3 +7305,8 @@
 - [URLs are state containers](https://alfy.blog/2025/10/31/your-url-is-your-state.html)
 - [Mock – An API creation and testing utility: Examples](https://dhuan.github.io/mock/latest/examples.html)
 - [Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/)
+## Morning Digest - 03-11-2025
+
+- [Facts about throwing good parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
+- [Oxy is Cloudflare's Rust-based next generation proxy framework (2023)](https://blog.cloudflare.com/introducing-oxy/)
+- [ECL Runs Maxima in a Browser](https://mailman3.common-lisp.net/hyperkitty/list/ecl-devel@common-lisp.net/thread/T64S5EMVV6WHDPKWZ3AQHEPO3EQE2K5M/)
