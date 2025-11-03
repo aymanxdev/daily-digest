@@ -7310,3 +7310,8 @@
 - [Facts about throwing good parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/)
 - [Oxy is Cloudflare's Rust-based next generation proxy framework (2023)](https://blog.cloudflare.com/introducing-oxy/)
 - [ECL Runs Maxima in a Browser](https://mailman3.common-lisp.net/hyperkitty/list/ecl-devel@common-lisp.net/thread/T64S5EMVV6WHDPKWZ3AQHEPO3EQE2K5M/)
+## Afternoon/Evening Digest - 03-11-2025
+
+- [Why Nextcloud feels slow to use](https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/)
+- [VimGraph](https://resources.wolframcloud.com/FunctionRepository/resources/VimGraph/)
+- [Türkiye will not sell rare earth elements to the USA](https://ceenergynews.com/climate/turkiye-rare-earth-elements-usa/)
