@@ -7315,3 +7315,8 @@
 - [Why Nextcloud feels slow to use](https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/)
 - [VimGraph](https://resources.wolframcloud.com/FunctionRepository/resources/VimGraph/)
 - [Türkiye will not sell rare earth elements to the USA](https://ceenergynews.com/climate/turkiye-rare-earth-elements-usa/)
+## Morning Digest - 04-11-2025
+
+- [You can't cURL a Border](https://drobinin.com/posts/you-cant-curl-a-border/)
+- [Lessons from 70 interviews on deploying AI Agents in production](https://mmc.vc/research/state-of-agentic-ai-founders-edition/)
+- [Things you can do with diodes](https://lcamtuf.substack.com/p/things-you-can-do-with-diodes)
