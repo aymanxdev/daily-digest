@@ -7320,3 +7320,8 @@
 - [You can't cURL a Border](https://drobinin.com/posts/you-cant-curl-a-border/)
 - [Lessons from 70 interviews on deploying AI Agents in production](https://mmc.vc/research/state-of-agentic-ai-founders-edition/)
 - [Things you can do with diodes](https://lcamtuf.substack.com/p/things-you-can-do-with-diodes)
+## Afternoon/Evening Digest - 04-11-2025
+
+- [What is a manifold?](https://www.quantamagazine.org/what-is-a-manifold-20251103/)
+- [Chaining FFmpeg with a Browser Agent](https://100x.bot/a/chaining-ffmpeg-with-browser-agent)
+- [Show HN: I built a local-first daily planner for iOS](https://apps.apple.com/ca/app/to-do-list-planner-zesfy/id6479947874)
