@@ -7325,3 +7325,8 @@
 - [What is a manifold?](https://www.quantamagazine.org/what-is-a-manifold-20251103/)
 - [Chaining FFmpeg with a Browser Agent](https://100x.bot/a/chaining-ffmpeg-with-browser-agent)
 - [Show HN: I built a local-first daily planner for iOS](https://apps.apple.com/ca/app/to-do-list-planner-zesfy/id6479947874)
+## Morning Digest - 05-11-2025
+
+- [Mr TIFF](https://inventingthefuture.ghost.io/mr-tiff/)
+- [Developers are choosing older AI models, and the data explains why](https://www.augmentcode.com/blog/developers-are-choosing-older-ai-models-and-16b-tokens-of-data-explain-why)
+- [Hypothesis: Property-Based Testing for Python](https://hypothesis.readthedocs.io/en/latest/)
