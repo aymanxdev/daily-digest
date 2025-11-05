@@ -7330,3 +7330,8 @@
 - [Mr TIFF](https://inventingthefuture.ghost.io/mr-tiff/)
 - [Developers are choosing older AI models, and the data explains why](https://www.augmentcode.com/blog/developers-are-choosing-older-ai-models-and-16b-tokens-of-data-explain-why)
 - [Hypothesis: Property-Based Testing for Python](https://hypothesis.readthedocs.io/en/latest/)
+## Afternoon/Evening Digest - 05-11-2025
+
+- [The Shadows Lurking in the Equations](https://gods.art/articles/equation_shadows.html)
+- [An eBPF Loophole: Using XDP for Egress Traffic](https://loopholelabs.io/blog/xdp-for-egress-traffic)
+- [Removing XSLT for a more secure browser](https://developer.chrome.com/docs/web-platform/deprecating-xslt)
