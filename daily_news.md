@@ -7340,3 +7340,8 @@
 - [Ratatui – App Showcase](https://ratatui.rs/showcase/apps/)
 - [How I am deeply integrating Emacs](https://joshblais.com/blog/how-i-am-deeply-integrating-emacs/)
 - [Solarpunk is happening in Africa](https://climatedrift.substack.com/p/why-solarpunk-is-already-happening)
+## Afternoon/Evening Digest - 06-11-2025
+
+- [Open Source Implementation of Apple's Private Compute Cloud](https://github.com/openpcc/openpcc)
+- [I analyzed the lineups at the most popular nightclubs](https://dev.karltryggvason.com/how-i-analyzed-the-lineups-at-the-worlds-most-popular-nightclubs/)
+- [Show HN: See chords as flags – Visual harmony of top composers on musescore](https://rawl.rocks/)
