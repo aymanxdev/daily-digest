@@ -7335,3 +7335,8 @@
 - [The Shadows Lurking in the Equations](https://gods.art/articles/equation_shadows.html)
 - [An eBPF Loophole: Using XDP for Egress Traffic](https://loopholelabs.io/blog/xdp-for-egress-traffic)
 - [Removing XSLT for a more secure browser](https://developer.chrome.com/docs/web-platform/deprecating-xslt)
+## Morning Digest - 06-11-2025
+
+- [Ratatui – App Showcase](https://ratatui.rs/showcase/apps/)
+- [How I am deeply integrating Emacs](https://joshblais.com/blog/how-i-am-deeply-integrating-emacs/)
+- [Solarpunk is happening in Africa](https://climatedrift.substack.com/p/why-solarpunk-is-already-happening)
