@@ -7345,3 +7345,8 @@
 - [Open Source Implementation of Apple's Private Compute Cloud](https://github.com/openpcc/openpcc)
 - [I analyzed the lineups at the most popular nightclubs](https://dev.karltryggvason.com/how-i-analyzed-the-lineups-at-the-worlds-most-popular-nightclubs/)
 - [Show HN: See chords as flags – Visual harmony of top composers on musescore](https://rawl.rocks/)
+## Morning Digest - 07-11-2025
+
+- [Leaving Meta and PyTorch](https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html)
+- [A Fond Farewell from Farmers' Almanac](https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac)
+- [Lessons from Growing a Piracy Streaming Site](https://prison.josh.mn/lessons)
