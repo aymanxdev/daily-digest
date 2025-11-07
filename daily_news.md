@@ -7350,3 +7350,8 @@
 - [Leaving Meta and PyTorch](https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html)
 - [A Fond Farewell from Farmers' Almanac](https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac)
 - [Lessons from Growing a Piracy Streaming Site](https://prison.josh.mn/lessons)
+## Afternoon/Evening Digest - 07-11-2025
+
+- [Leaving Meta and PyTorch](https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html)
+- [A Fond Farewell](https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac)
+- [From Memorization to Reasoning in the Spectrum of Loss Curvature](https://arxiv.org/abs/2510.24256)
