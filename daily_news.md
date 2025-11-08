@@ -7360,3 +7360,8 @@
 - [Why is Zig so cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)
 - [Snapchat open-sources Valdi a cross-platform UI framework](https://github.com/Snapchat/Valdi)
 - [Becoming a Compiler Engineer](https://rona.substack.com/p/becoming-a-compiler-engineer)
+## Afternoon/Evening Digest - 08-11-2025
+
+- [Why is Zig so cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)
+- [My friends and I accidentally faked the Ryzen 7 9700X3D leaks](https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/)
+- [Valdi – A cross-platform UI framework that delivers native performance](https://github.com/Snapchat/Valdi)
