@@ -7355,3 +7355,8 @@
 - [Leaving Meta and PyTorch](https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html)
 - [A Fond Farewell](https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac)
 - [From Memorization to Reasoning in the Spectrum of Loss Curvature](https://arxiv.org/abs/2510.24256)
+## Morning Digest - 08-11-2025
+
+- [Why is Zig so cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)
+- [Snapchat open-sources Valdi a cross-platform UI framework](https://github.com/Snapchat/Valdi)
+- [Becoming a Compiler Engineer](https://rona.substack.com/p/becoming-a-compiler-engineer)
