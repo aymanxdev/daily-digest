@@ -7370,3 +7370,8 @@
 - [I Am Mark Zuckerberg](https://iammarkzuckerberg.com/)
 - [Ironclad – formally verified, real-time capable, Unix-like OS kernel](https://ironclad-os.org/)
 - [Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican](https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/)
+## Afternoon/Evening Digest - 09-11-2025
+
+- [Visualize FastAPI endpoints with FastAPI-Voyager](https://www.newsyeah.fun/voyager/)
+- [Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology](https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/)
+- [Email verification protocol](https://github.com/WICG/email-verification-protocol)
