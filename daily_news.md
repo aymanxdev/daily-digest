@@ -7365,3 +7365,8 @@
 - [Why is Zig so cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)
 - [My friends and I accidentally faked the Ryzen 7 9700X3D leaks](https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/)
 - [Valdi – A cross-platform UI framework that delivers native performance](https://github.com/Snapchat/Valdi)
+## Morning Digest - 09-11-2025
+
+- [I Am Mark Zuckerberg](https://iammarkzuckerberg.com/)
+- [Ironclad – formally verified, real-time capable, Unix-like OS kernel](https://ironclad-os.org/)
+- [Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican](https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/)
