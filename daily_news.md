@@ -7380,3 +7380,8 @@
 - [XSLT RIP](https://xslt.rip/)
 - [Realtime BART Arrival Display](https://filbot.com/real-time-bart-display/)
 - [Beets: The music geek's media organizer](https://beets.io/)
+## Afternoon/Evening Digest - 10-11-2025
+
+- [Interesting SPI Routing with iCE40 FPGAs](https://danielmangum.com/posts/spi-routing-ice40-fpga/)
+- [Installing and using HP-UX 9](https://thejpster.org.uk/blog/blog-2025-11-08/)
+- [Beets: The music geek’s media organizer](https://beets.io/)
