@@ -7375,3 +7375,8 @@
 - [Visualize FastAPI endpoints with FastAPI-Voyager](https://www.newsyeah.fun/voyager/)
 - [Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology](https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/)
 - [Email verification protocol](https://github.com/WICG/email-verification-protocol)
+## Morning Digest - 10-11-2025
+
+- [XSLT RIP](https://xslt.rip/)
+- [Realtime BART Arrival Display](https://filbot.com/real-time-bart-display/)
+- [Beets: The music geek's media organizer](https://beets.io/)
