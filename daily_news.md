@@ -7385,3 +7385,8 @@
 - [Interesting SPI Routing with iCE40 FPGAs](https://danielmangum.com/posts/spi-routing-ice40-fpga/)
 - [Installing and using HP-UX 9](https://thejpster.org.uk/blog/blog-2025-11-08/)
 - [Beets: The music geek’s media organizer](https://beets.io/)
+## Morning Digest - 11-11-2025
+
+- [The 'Toy Story' You Remember](https://animationobsessive.substack.com/p/the-toy-story-you-remember)
+- [AI documentation you can talk to, for every repo](https://deepwiki.com/)
+- [Hiring a developer as a small indie studio in 2025](https://www.ballardgames.com/tales/hiring-dev-2025/)
