@@ -7390,3 +7390,8 @@
 - [The 'Toy Story' You Remember](https://animationobsessive.substack.com/p/the-toy-story-you-remember)
 - [AI documentation you can talk to, for every repo](https://deepwiki.com/)
 - [Hiring a developer as a small indie studio in 2025](https://www.ballardgames.com/tales/hiring-dev-2025/)
+## Afternoon/Evening Digest - 11-11-2025
+
+- [The 'Toy Story' You Remember](https://animationobsessive.substack.com/p/the-toy-story-you-remember)
+- [Show HN: Gametje – A casual online gaming platform](https://gametje.com)
+- [I Fell in Love with Erlang](https://boragonul.com/post/falling-in-love-with-erlang)
