@@ -7415,3 +7415,8 @@
 - [RegreSQL: Regression Testing for PostgreSQL Queries](https://boringsql.com/posts/regresql-testing-queries/)
 - [Show HN: Pegma, the free and open-source version of the classic Peg solitaire](https://pegma.vercel.app)
 - [Nano Banana can be prompt engineered for nuanced AI image generation](https://minimaxir.com/2025/11/nano-banana-prompts/)
+## Afternoon/Evening Digest - 14-11-2025
+
+- [I think nobody wants AI in Firefox, Mozilla](https://manualdousuario.net/en/mozilla-firefox-window-ai/)
+- [AGI fantasy is a blocker to actual engineering](https://www.tomwphillips.co.uk/2025/11/agi-fantasy-is-a-blocker-to-actual-engineering/)
+- [Winamp for OS/X](https://github.com/mgreenwood1001/winamp)
