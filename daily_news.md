@@ -7410,3 +7410,8 @@
 - [Google will allow users to sideload Android apps without verification](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
 - [Steam Machine](https://store.steampowered.com/sale/steammachine)
 - [Steam Frame](https://store.steampowered.com/sale/steamframe)
+## Morning Digest - 14-11-2025
+
+- [RegreSQL: Regression Testing for PostgreSQL Queries](https://boringsql.com/posts/regresql-testing-queries/)
+- [Show HN: Pegma, the free and open-source version of the classic Peg solitaire](https://pegma.vercel.app)
+- [Nano Banana can be prompt engineered for nuanced AI image generation](https://minimaxir.com/2025/11/nano-banana-prompts/)
