@@ -7425,3 +7425,8 @@
 - [Spec-Driven Development: The Waterfall Strikes Back](https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html)
 - [So, you want to design your own language? (2017)](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
 - [AI World Clocks](https://clocks.brianmoore.com/)
+## Afternoon/Evening Digest - 15-11-2025
+
+- [Our investigation into the suspicious pressure on Archive.today](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
+- [How to write type-safe generics in C](https://raphgl.github.io/blog/generics-in-c.html)
+- [The Internet Is Cool. Thank You, TCP](https://cefboud.com/posts/tcp-deep-dive-internals/)
