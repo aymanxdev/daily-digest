@@ -7435,3 +7435,8 @@
 - [AirPods libreated from Apple's ecosystem](https://github.com/kavishdevar/librepods)
 - [Our investigation into the suspicious pressure on Archive.today](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
 - [IDEmacs: A Visual Studio Code clone for Emacs](https://codeberg.org/IDEmacs/IDEmacs)
+## Afternoon/Evening Digest - 16-11-2025
+
+- [Brimstone: ES2025 JavaScript engine written in Rust](https://github.com/Hans-Halverson/brimstone)
+- [Running the "Reflections on Trusting Trust" Compiler](https://research.swtch.com/nih)
+- [AirPods libreated from Apple's ecosystem](https://github.com/kavishdevar/librepods)
