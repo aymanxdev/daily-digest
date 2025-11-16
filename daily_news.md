@@ -7430,3 +7430,8 @@
 - [Our investigation into the suspicious pressure on Archive.today](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
 - [How to write type-safe generics in C](https://raphgl.github.io/blog/generics-in-c.html)
 - [The Internet Is Cool. Thank You, TCP](https://cefboud.com/posts/tcp-deep-dive-internals/)
+## Morning Digest - 16-11-2025
+
+- [AirPods libreated from Apple's ecosystem](https://github.com/kavishdevar/librepods)
+- [Our investigation into the suspicious pressure on Archive.today](https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html)
+- [IDEmacs: A Visual Studio Code clone for Emacs](https://codeberg.org/IDEmacs/IDEmacs)
