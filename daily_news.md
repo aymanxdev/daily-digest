@@ -7440,3 +7440,8 @@
 - [Brimstone: ES2025 JavaScript engine written in Rust](https://github.com/Hans-Halverson/brimstone)
 - [Running the "Reflections on Trusting Trust" Compiler](https://research.swtch.com/nih)
 - [AirPods libreated from Apple's ecosystem](https://github.com/kavishdevar/librepods)
+## Morning Digest - 17-11-2025
+
+- [Building a Simple Search Engine That Works](https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works)
+- [Open-source Zig book](https://www.zigbook.net)
+- [A file format uncracked for 20 years](https://landaire.net/a-file-format-uncracked-for-20-years/)
