@@ -7445,3 +7445,8 @@
 - [Building a Simple Search Engine That Works](https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works)
 - [Open-source Zig book](https://www.zigbook.net)
 - [A file format uncracked for 20 years](https://landaire.net/a-file-format-uncracked-for-20-years/)
+## Afternoon/Evening Digest - 17-11-2025
+
+- [Show HN: I built a synth for my daughter](https://bitsnpieces.dev/posts/a-synth-for-my-daughter/)
+- [FreeMDU: Open-source Miele appliance diagnostic tools](https://github.com/medusalix/FreeMDU)
+- [Giving C a Superpower](https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/)
