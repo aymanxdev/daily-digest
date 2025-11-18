@@ -7455,3 +7455,8 @@
 - [Ditch your (mut)ex, you deserve better](https://chrispenner.ca/posts/mutexes)
 - [How many video games include a marriage proposal? At least one](https://32bits.substack.com/p/under-the-microscope-ncaa-basketball)
 - [Unofficial "Tier 4" Rust Target for older Windows versions](https://github.com/rust9x/rust)
+## Afternoon/Evening Digest - 18-11-2025
+
+- [Cloudflare Global Network experiencing issues](https://www.cloudflarestatus.com/?t=1)
+- [Nearly all UK drivers say headlights are too bright](https://www.bbc.com/news/articles/c1j8ewy1p86o)
+- [How Quake.exe got its TCP/IP stack](https://fabiensanglard.net/quake_chunnel/index.html)
