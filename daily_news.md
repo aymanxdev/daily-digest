@@ -7450,3 +7450,8 @@
 - [Show HN: I built a synth for my daughter](https://bitsnpieces.dev/posts/a-synth-for-my-daughter/)
 - [FreeMDU: Open-source Miele appliance diagnostic tools](https://github.com/medusalix/FreeMDU)
 - [Giving C a Superpower](https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/)
+## Morning Digest - 18-11-2025
+
+- [Ditch your (mut)ex, you deserve better](https://chrispenner.ca/posts/mutexes)
+- [How many video games include a marriage proposal? At least one](https://32bits.substack.com/p/under-the-microscope-ncaa-basketball)
+- [Unofficial "Tier 4" Rust Target for older Windows versions](https://github.com/rust9x/rust)
