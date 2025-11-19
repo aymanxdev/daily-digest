@@ -7460,3 +7460,8 @@
 - [Cloudflare Global Network experiencing issues](https://www.cloudflarestatus.com/?t=1)
 - [Nearly all UK drivers say headlights are too bright](https://www.bbc.com/news/articles/c1j8ewy1p86o)
 - [How Quake.exe got its TCP/IP stack](https://fabiensanglard.net/quake_chunnel/index.html)
+## Morning Digest - 19-11-2025
+
+- [Cloudflare outage on November 18, 2025 post mortem](https://blog.cloudflare.com/18-november-2025-outage/)
+- [Exploring the Limits of Large Language Models as Quant Traders](https://nof1.ai/blog/TechPost1)
+- [Gemini 3](https://blog.google/products/gemini/gemini-3/)
