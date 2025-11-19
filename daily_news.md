@@ -7465,3 +7465,8 @@
 - [Cloudflare outage on November 18, 2025 post mortem](https://blog.cloudflare.com/18-november-2025-outage/)
 - [Exploring the Limits of Large Language Models as Quant Traders](https://nof1.ai/blog/TechPost1)
 - [Gemini 3](https://blog.google/products/gemini/gemini-3/)
+## Afternoon/Evening Digest - 19-11-2025
+
+- [The Peaceful Transfer of Power in Open Source Projects](https://shkspr.mobi/blog/2025/11/the-peaceful-transfer-of-power-in-open-source-projects/)
+- [Your Smartphone, Their Rules: App Stores Enable Corporate-Government Censorship](https://www.aclu.org/news/free-speech/app-store-oligopoly)
+- [Multimodal Diffusion Language Models for Thinking-Aware Editing and Generation](https://github.com/tyfeld/MMaDA-Parallel)
