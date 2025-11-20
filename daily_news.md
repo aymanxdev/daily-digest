@@ -7470,3 +7470,8 @@
 - [The Peaceful Transfer of Power in Open Source Projects](https://shkspr.mobi/blog/2025/11/the-peaceful-transfer-of-power-in-open-source-projects/)
 - [Your Smartphone, Their Rules: App Stores Enable Corporate-Government Censorship](https://www.aclu.org/news/free-speech/app-store-oligopoly)
 - [Multimodal Diffusion Language Models for Thinking-Aware Editing and Generation](https://github.com/tyfeld/MMaDA-Parallel)
+## Morning Digest - 20-11-2025
+
+- [Why Zig Is Quietly Doing What Rust Couldn't: Staying Simple](https://freedium-mirror.cfd/@daxx5/why-zig-is-quietly-doing-what-rust-couldnt-staying-simple-a47f86b3a58a)
+- [Basalt Woven Textile](https://materialdistrict.com/material/basalt-woven-textile/)
+- [Android/Linux Dual Boot](https://wiki.postmarketos.org/wiki/Dual_Booting/WiP)
