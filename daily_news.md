@@ -7475,3 +7475,8 @@
 - [Why Zig Is Quietly Doing What Rust Couldn't: Staying Simple](https://freedium-mirror.cfd/@daxx5/why-zig-is-quietly-doing-what-rust-couldnt-staying-simple-a47f86b3a58a)
 - [Basalt Woven Textile](https://materialdistrict.com/material/basalt-woven-textile/)
 - [Android/Linux Dual Boot](https://wiki.postmarketos.org/wiki/Dual_Booting/WiP)
+## Afternoon/Evening Digest - 20-11-2025
+
+- [210 IQ Is Not Enough](https://taylor.town/iq-not-enough)
+- [Red Alert 2 in web browser](https://chronodivide.com/)
+- [Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in LLMs](https://arxiv.org/abs/2511.15304)
