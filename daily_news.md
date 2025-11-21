@@ -7480,3 +7480,8 @@
 - [210 IQ Is Not Enough](https://taylor.town/iq-not-enough)
 - [Red Alert 2 in web browser](https://chronodivide.com/)
 - [Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in LLMs](https://arxiv.org/abs/2511.15304)
+## Morning Digest - 21-11-2025
+
+- [Olmo 3: Charting a path through the model flow to lead open-source AI](https://allenai.org/blog/olmo3)
+- [It's Hard to Build an Oscillator](https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator)
+- [Nano Banana Pro](https://blog.google/technology/ai/nano-banana-pro/)
