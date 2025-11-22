@@ -7495,3 +7495,8 @@
 - [Superman copy found in mum's attic is most valuable comic ever at $9.12M](https://www.bbc.com/news/articles/c8e9rp0knj6o)
 - [Personal blogs are back, should niche blogs be next?](https://disassociated.com/personal-blogs-back-niche-blogs-next/)
 - [Helping Valve to power up Steam devices](https://www.igalia.com/2025/11/helpingvalve.html)
+## Afternoon/Evening Digest - 22-11-2025
+
+- [Agent design is still hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/)
+- [Personal blogs are back, should niche blogs be next?](https://disassociated.com/personal-blogs-back-niche-blogs-next/)
+- [Kodak ran a nuclear device in its basement for decades](https://www.popularmechanics.com/science/energy/a69147321/kodak-film-nuclear-reactor/)
