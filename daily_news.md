@@ -7490,3 +7490,8 @@
 - [Olmo 3: Charting a path through the model flow to lead open-source AI](https://allenai.org/blog/olmo3)
 - [Building a Minimal Viable Armv7 Emulator from Scratch](https://xnacly.me/posts/2025/building-a-minimal-viable-armv7-emulator/)
 - [It's hard to build an oscillator](https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator)
+## Morning Digest - 22-11-2025
+
+- [Superman copy found in mum's attic is most valuable comic ever at $9.12M](https://www.bbc.com/news/articles/c8e9rp0knj6o)
+- [Personal blogs are back, should niche blogs be next?](https://disassociated.com/personal-blogs-back-niche-blogs-next/)
+- [Helping Valve to power up Steam devices](https://www.igalia.com/2025/11/helpingvalve.html)
