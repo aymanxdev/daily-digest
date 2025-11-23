@@ -7500,3 +7500,8 @@
 - [Agent design is still hard](https://lucumr.pocoo.org/2025/11/21/agents-are-hard/)
 - [Personal blogs are back, should niche blogs be next?](https://disassociated.com/personal-blogs-back-niche-blogs-next/)
 - [Kodak ran a nuclear device in its basement for decades](https://www.popularmechanics.com/science/energy/a69147321/kodak-film-nuclear-reactor/)
+## Morning Digest - 23-11-2025
+
+- [Unusual circuits in the Intel 386's standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html)
+- [A monopoly ISP refuses to fix upstream infrastructure](https://sacbear.com/xfinity-wont-fix-internet/)
+- [GCC SC approves inclusion of Algol 68 Front End](https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html)
