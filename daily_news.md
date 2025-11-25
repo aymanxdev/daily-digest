@@ -7515,3 +7515,8 @@
 - [NSA and IETF, part 3: Dodging the issues at hand](https://blog.cr.yp.to/20251123-dodging.html)
 - [Fast Lua runtime written in Rust](https://astra.arkforge.net/)
 - [Show HN: Cynthia – Reliably play MIDI music files – MIT / Portable / Windows](https://www.blaizenterprises.com/cynthia.html)
+## Morning Digest - 25-11-2025
+
+- [Most Stable Raspberry Pi? 81% Better NTP with Thermal Management](https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/)
+- [Pebble Watch software is now 100% open source](https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source)
+- [What you can get for the price of a Netflix subscription](https://nmil.dev/what-you-can-get-for-the-price-of-a-netflix-subscription)
