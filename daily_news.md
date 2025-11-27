@@ -7530,3 +7530,8 @@
 - [Voyager 1 Is About to Reach One Light-Day from Earth](https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/)
 - [A cell so minimal that it challenges definitions of life](https://www.quantamagazine.org/a-cell-so-minimal-that-it-challenges-definitions-of-life-20251124/)
 - [Statistical Process Control in Python](https://timothyfraser.com/sigma/statistical-process-control-in-python.html)
+## Morning Digest - 27-11-2025
+
+- [Mixpanel Security Breach](https://mixpanel.com/blog/sms-security-incident/)
+- [Penpot: The Open-Source Figma](https://github.com/penpot/penpot)
+- [Interactive λ-Reduction](https://deltanets.org/)
