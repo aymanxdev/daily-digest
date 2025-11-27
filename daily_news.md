@@ -7535,3 +7535,8 @@
 - [Mixpanel Security Breach](https://mixpanel.com/blog/sms-security-incident/)
 - [Penpot: The Open-Source Figma](https://github.com/penpot/penpot)
 - [Interactive λ-Reduction](https://deltanets.org/)
+## Afternoon/Evening Digest - 27-11-2025
+
+- [Arthur Conan Doyle explored men’s mental health through Sherlock Holmes](https://scienceclock.com/arthur-conan-doyle-delved-into-mens-mental-health-through-his-sherlock-holmes-stories/)
+- [Linux Kernel Explorer](https://reverser.dev/linux-kernel-explorer)
+- [Penpot: The Open-Source Figma](https://github.com/penpot/penpot)
