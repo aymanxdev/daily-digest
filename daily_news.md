@@ -7540,3 +7540,8 @@
 - [Arthur Conan Doyle explored men’s mental health through Sherlock Holmes](https://scienceclock.com/arthur-conan-doyle-delved-into-mens-mental-health-through-his-sherlock-holmes-stories/)
 - [Linux Kernel Explorer](https://reverser.dev/linux-kernel-explorer)
 - [Penpot: The Open-Source Figma](https://github.com/penpot/penpot)
+## Morning Digest - 28-11-2025
+
+- [Show HN: Glasses to detect smart-glasses that have cameras](https://github.com/NullPxl/banrays)
+- [Pocketbase – open-source realtime back end in 1 file](https://pocketbase.io/)
+- [How Charles M Schulz created Charlie Brown and Snoopy (2024)](https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy)
