@@ -7545,3 +7545,8 @@
 - [Show HN: Glasses to detect smart-glasses that have cameras](https://github.com/NullPxl/banrays)
 - [Pocketbase – open-source realtime back end in 1 file](https://pocketbase.io/)
 - [How Charles M Schulz created Charlie Brown and Snoopy (2024)](https://www.bbc.com/culture/article/20241205-how-charles-m-schulz-created-charlie-brown-and-snoopy)
+## Afternoon/Evening Digest - 28-11-2025
+
+- [The mysterious black fungus from Chernobyl that may eat radiation](https://www.bbc.com/future/article/20251125-the-mysterious-black-fungus-from-chernobyl-that-appears-to-eat-radiation)
+- [Show HN: Glasses to detect smart-glasses that have cameras](https://github.com/NullPxl/banrays)
+- [Petition to formally recognize open source work as civic service in Germany](https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main)
