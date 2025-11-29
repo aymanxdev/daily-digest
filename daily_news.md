@@ -7550,3 +7550,8 @@
 - [The mysterious black fungus from Chernobyl that may eat radiation](https://www.bbc.com/future/article/20251125-the-mysterious-black-fungus-from-chernobyl-that-appears-to-eat-radiation)
 - [Show HN: Glasses to detect smart-glasses that have cameras](https://github.com/NullPxl/banrays)
 - [Petition to formally recognize open source work as civic service in Germany](https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main)
+## Morning Digest - 29-11-2025
+
+- [System 7 natively boots on the Mac mini G4](https://macos9lives.com/smforum/index.php?topic=7711.0)
+- [WinApps: Run Windows apps as if they were a part of the native Linux OS](https://github.com/winapps-org/winapps)
+- [The Great Downzoning](https://worksinprogress.co/issue/the-great-downzoning/)
