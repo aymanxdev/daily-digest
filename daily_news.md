@@ -7555,3 +7555,8 @@
 - [System 7 natively boots on the Mac mini G4](https://macos9lives.com/smforum/index.php?topic=7711.0)
 - [WinApps: Run Windows apps as if they were a part of the native Linux OS](https://github.com/winapps-org/winapps)
 - [The Great Downzoning](https://worksinprogress.co/issue/the-great-downzoning/)
+## Afternoon/Evening Digest - 29-11-2025
+
+- [DNS LOC Record (2014)](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records/)
+- [Hachi: An Image Search Engine](https://eagledot.xyz/hachi.md.html)
+- [It's Always the Process, Stupid](https://its.promp.td/its-always-the-process-stupid/)
