@@ -7560,3 +7560,8 @@
 - [DNS LOC Record (2014)](https://blog.cloudflare.com/the-weird-and-wonderful-world-of-dns-loc-records/)
 - [Hachi: An Image Search Engine](https://eagledot.xyz/hachi.md.html)
 - [It's Always the Process, Stupid](https://its.promp.td/its-always-the-process-stupid/)
+## Morning Digest - 30-11-2025
+
+- [Show HN: Boing](https://boing.greg.technology/)
+- [Zigbook Is Plagiarizing the Zigtools Playground](https://zigtools.org/blog/zigbook-plagiarizing-playground/)
+- [Bazzite: The next generation of Linux gaming](https://bazzite.gg/)
