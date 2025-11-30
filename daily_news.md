@@ -7565,3 +7565,8 @@
 - [Show HN: Boing](https://boing.greg.technology/)
 - [Zigbook Is Plagiarizing the Zigtools Playground](https://zigtools.org/blog/zigbook-plagiarizing-playground/)
 - [Bazzite: The next generation of Linux gaming](https://bazzite.gg/)
+## Afternoon/Evening Digest - 30-11-2025
+
+- [Advent of Code 2025](https://adventofcode.com/2025/about)
+- [Migrating Dillo from GitHub](https://dillo-browser.org/news/migration-from-github/)
+- [Windows drive letters are not limited to A-Z](https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/)
