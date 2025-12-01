@@ -7570,3 +7570,8 @@
 - [Advent of Code 2025](https://adventofcode.com/2025/about)
 - [Migrating Dillo from GitHub](https://dillo-browser.org/news/migration-from-github/)
 - [Windows drive letters are not limited to A-Z](https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/)
+## Morning Digest - 01-12-2025
+
+- [Search tool that only returns content created before ChatGPT's public release](https://tegabrain.com/Slop-Evader)
+- [Advent of Code 2025](https://adventofcode.com/2025/about)
+- [A Love Letter to FreeBSD](https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/)
