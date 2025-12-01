@@ -7575,3 +7575,8 @@
 - [Search tool that only returns content created before ChatGPT's public release](https://tegabrain.com/Slop-Evader)
 - [Advent of Code 2025](https://adventofcode.com/2025/about)
 - [A Love Letter to FreeBSD](https://www.tara.sh/posts/2025/2025-11-25_freebsd_letter/)
+## Afternoon/Evening Digest - 01-12-2025
+
+- [Why xor eax, eax?](https://xania.org/202512/01-xor-eax-eax)
+- [Self-hosting a Matrix server for 5 years](https://yaky.dev/2025-11-30-self-hosting-matrix/)
+- [Cartographers Have Been Hiding Covert Illustrations Inside of Switzerland's Maps](https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/)
