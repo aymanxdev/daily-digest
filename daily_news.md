@@ -7580,3 +7580,8 @@
 - [Why xor eax, eax?](https://xania.org/202512/01-xor-eax-eax)
 - [Self-hosting a Matrix server for 5 years](https://yaky.dev/2025-11-30-self-hosting-matrix/)
 - [Cartographers Have Been Hiding Covert Illustrations Inside of Switzerland's Maps](https://eyeondesign.aiga.org/for-decades-cartographers-have-been-hiding-covert-illustrations-inside-of-switzerlands-official-maps/)
+## Morning Digest - 02-12-2025
+
+- [What will enter the public domain in 2026?](https://publicdomainreview.org/features/entering-the-public-domain/2026/)
+- [Apple Releases Open Weights Video Model](https://starflow-v.github.io)
+- [Rootless Pings in Rust](https://bou.ke/blog/rust-ping/)
