@@ -7585,3 +7585,8 @@
 - [What will enter the public domain in 2026?](https://publicdomainreview.org/features/entering-the-public-domain/2026/)
 - [Apple Releases Open Weights Video Model](https://starflow-v.github.io)
 - [Rootless Pings in Rust](https://bou.ke/blog/rust-ping/)
+## Afternoon/Evening Digest - 02-12-2025
+
+- [Addressing the adding situation](https://xania.org/202512/02-adding-integers)
+- [Proximity to coworkers increases long-run development, lowers short-term output](https://pallais.scholars.harvard.edu/publications/power-proximity-coworkers-training-tomorrow-or-productivity-today)
+- [Advent of Compiler Optimisations 2025](https://xania.org/202511/advent-of-compiler-optimisation)
