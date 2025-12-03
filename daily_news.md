@@ -7590,3 +7590,8 @@
 - [Addressing the adding situation](https://xania.org/202512/02-adding-integers)
 - [Proximity to coworkers increases long-run development, lowers short-term output](https://pallais.scholars.harvard.edu/publications/power-proximity-coworkers-training-tomorrow-or-productivity-today)
 - [Advent of Compiler Optimisations 2025](https://xania.org/202511/advent-of-compiler-optimisation)
+## Morning Digest - 03-12-2025
+
+- [Accepting US car standards would risk European lives](https://etsc.eu/accepting-us-car-standards-would-risk-european-lives-warn-cities-and-civil-society/)
+- [Anthropic acquires Bun](https://bun.com/blog/bun-joins-anthropic)
+- [Zig quits GitHub, says Microsoft's AI obsession has ruined the service](https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/)
