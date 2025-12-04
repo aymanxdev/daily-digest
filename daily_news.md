@@ -7600,3 +7600,8 @@
 - [Congressional lawmakers 47% pts better at picking stocks](https://www.nber.org/papers/w34524)
 - [You Can't Fool the Optimizer](https://xania.org/202512/03-more-adding-integers)
 - [A Look at Rust from 2012](https://purplesyringa.moe/blog/a-look-at-rust-from-2012/)
+## Morning Digest - 04-12-2025
+
+- [Elites Could Shape Mass Preferences as AI Reduces Persuasion Costs](https://arxiv.org/abs/2512.04047)
+- [Ghostty is now non-profit](https://mitchellh.com/writing/ghostty-non-profit)
+- [Valve reveals it’s the architect behind a push to bring Windows games to Arm](https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais)
