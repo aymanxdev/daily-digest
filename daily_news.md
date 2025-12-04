@@ -7605,3 +7605,8 @@
 - [Elites Could Shape Mass Preferences as AI Reduces Persuasion Costs](https://arxiv.org/abs/2512.04047)
 - [Ghostty is now non-profit](https://mitchellh.com/writing/ghostty-non-profit)
 - [Valve reveals it’s the architect behind a push to bring Windows games to Arm](https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais)
+## Afternoon/Evening Digest - 04-12-2025
+
+- [It’s time to free JavaScript](https://javascript.tm/letter)
+- [Transparent Leadership Beats Servant Leadership](https://entropicthoughts.com/transparent-leadership-beats-servant-leadership)
+- [I ignore the spotlight as a staff engineer](https://lalitm.com/software-engineering-outside-the-spotlight/)
