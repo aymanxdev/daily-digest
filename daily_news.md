@@ -7615,3 +7615,8 @@
 - [UniFi 5G](https://blog.ui.com/article/introducing-unifi-5g)
 - [Netflix’s AV1 Journey: From Android to TVs and Beyond](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80)
 - [BMW PHEV: Safety fuse replacement is extremely expensive](https://evclinic.eu/2025/12/04/2021-phev-bmw-ibmucp-21f37e-post-crash-recovery-when-eu-engineering-becomes-a-synonym-for-unrepairable-generating-waste/)
+## Afternoon/Evening Digest - 05-12-2025
+
+- [Netflix to Acquire Warner Bros](https://about.netflix.com/en/news/netflix-to-acquire-warner-bros)
+- [Most technical problems are people problems](https://blog.joeschrag.com/2023/11/most-technical-problems-are-really.html)
+- [Making RSS More Fun](https://matduggan.com/making-rss-more-fun/)
