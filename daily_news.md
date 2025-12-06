@@ -7620,3 +7620,8 @@
 - [Netflix to Acquire Warner Bros](https://about.netflix.com/en/news/netflix-to-acquire-warner-bros)
 - [Most technical problems are people problems](https://blog.joeschrag.com/2023/11/most-technical-problems-are-really.html)
 - [Making RSS More Fun](https://matduggan.com/making-rss-more-fun/)
+## Morning Digest - 06-12-2025
+
+- [Self-hosting my photos with Immich](https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/)
+- [Guy Built a Compact Camera Using an Optical Mouse](https://petapixel.com/2025/11/13/this-guy-built-a-compact-camera-using-an-optical-mouse/)
+- [Wolfram Compute Services](https://writings.stephenwolfram.com/2025/12/instant-supercompute-launching-wolfram-compute-services/)
