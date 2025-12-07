@@ -7635,3 +7635,8 @@
 - [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)
 - [Kilauea erupts, destroying webcam [video]](https://www.youtube.com/watch?v=TK2N99BDw7A)
 - [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/)
+## Afternoon/Evening Digest - 07-12-2025
+
+- [Java Hello World, LLVM Edition](https://www.javaadvent.com/2025/12/java-hello-world-llvm-edition.html)
+- [Goodbye, Microsoft: Schleswig-Holstein Relies on Open Source and Saves Millions](https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html)
+- [At least 50 hallucinated citations found in ICLR 2026 submissions](https://gptzero.me/news/iclr-2026/)
