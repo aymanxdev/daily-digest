@@ -7630,3 +7630,8 @@
 - [Resolution Dynamics: Deriving the Fine Structure Constant from Shannon Capacity](https://zenodo.org/records/17821936)
 - [Tiny Core Linux: a 23 MB Linux distro with graphical desktop](http://www.tinycorelinux.net/)
 - [Self-hosting my photos with Immich](https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/)
+## Morning Digest - 07-12-2025
+
+- [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)
+- [Kilauea erupts, destroying webcam [video]](https://www.youtube.com/watch?v=TK2N99BDw7A)
+- [Z2 – Lithographically fabricated IC in a garage fab](https://sam.zeloof.xyz/second-ic/)
