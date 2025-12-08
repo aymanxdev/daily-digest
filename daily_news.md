@@ -7645,3 +7645,8 @@
 - [Applets Are Officially Gone, but Java in the Browser Is Better](https://frequal.com/java/AppletsGoneButJavaInTheBrowserBetterThanEver.html)
 - [Turtletoy](https://turtletoy.net/)
 - [Emacs is my new window manager](https://www.howardism.org/Technical/Emacs/new-window-manager.html)
+## Afternoon/Evening Digest - 08-12-2025
+
+- [IBM to Acquire Confluent](https://www.confluent.io/blog/ibm-to-acquire-confluent/)
+- [Flow: Actor-based language for C++, used by FoundationDB](https://github.com/apple/foundationdb/tree/main/flow)
+- [Alignment Is Capability](https://www.off-policy.com/alignment-is-capability/)
