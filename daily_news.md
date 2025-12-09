@@ -7655,3 +7655,8 @@
 - [The closer we look at time, the stranger it gets](https://www.sciencefocus.com/science/the-closer-we-look-at-time-the-stranger-it-gets)
 - [The universal weight subspace hypothesis](https://arxiv.org/abs/2512.05117)
 - [Icons in Menus Everywhere – Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
+## Afternoon/Evening Digest - 09-12-2025
+
+- [LLM from scratch, part 28 – training a base model from scratch on an RTX 3090](https://www.gilesthomas.com/2025/12/llm-from-scratch-28-training-a-base-model-from-scratch)
+- [The Joy of Playing Grandia, on Sega Saturn](https://www.segasaturnshiro.com/2025/11/27/the-joy-of-playing-grandia-on-sega-saturn/)
+- [Transformers know more than they can tell: Learning the Collatz sequence](https://www.arxiv.org/pdf/2511.10811)
