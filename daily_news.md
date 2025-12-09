@@ -7650,3 +7650,8 @@
 - [IBM to Acquire Confluent](https://www.confluent.io/blog/ibm-to-acquire-confluent/)
 - [Flow: Actor-based language for C++, used by FoundationDB](https://github.com/apple/foundationdb/tree/main/flow)
 - [Alignment Is Capability](https://www.off-policy.com/alignment-is-capability/)
+## Morning Digest - 09-12-2025
+
+- [The closer we look at time, the stranger it gets](https://www.sciencefocus.com/science/the-closer-we-look-at-time-the-stranger-it-gets)
+- [The universal weight subspace hypothesis](https://arxiv.org/abs/2512.05117)
+- [Icons in Menus Everywhere – Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
