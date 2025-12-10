@@ -7665,3 +7665,8 @@
 - [Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/)
 - [Revisiting "Let's Build a Compiler"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)
 - [Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now](https://dosaygo-studio.github.io/hn-front-page-2035/news)
+## Afternoon/Evening Digest - 10-12-2025
+
+- [Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now](https://dosaygo-studio.github.io/hn-front-page-2035/news)
+- [Map of All the Buildings in the World](https://gizmodo.com/literally-a-map-showing-all-the-buildings-in-the-world-2000694696)
+- [Revisiting "Let's Build a Compiler"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)
