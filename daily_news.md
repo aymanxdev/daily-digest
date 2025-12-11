@@ -7675,3 +7675,8 @@
 - [Size of Life](https://neal.fun/size-of-life/)
 - [The Cost of a Closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y)
 - [Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/)
+## Afternoon/Evening Digest - 11-12-2025
+
+- [The Walt Disney Company and OpenAI Partner on Sora](https://openai.com/index/disney-sora-agreement/)
+- [A “frozen” dictionary for Python](https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/)
+- [Show HN: WhatHappened – HN summaries, heatmaps, and contrarian picks](https://www.whathappened.tech/)
