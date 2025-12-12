@@ -7680,3 +7680,8 @@
 - [The Walt Disney Company and OpenAI Partner on Sora](https://openai.com/index/disney-sora-agreement/)
 - [A “frozen” dictionary for Python](https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/)
 - [Show HN: WhatHappened – HN summaries, heatmaps, and contrarian picks](https://www.whathappened.tech/)
+## Morning Digest - 12-12-2025
+
+- [The tiniest yet real telescope I've built](https://lucassifoni.info/blog/miniscope-tiny-telescope/)
+- [GPT-5.2](https://openai.com/index/introducing-gpt-5-2/)
+- [Nokia N900 Necromancy](https://yaky.dev/2025-12-11-nokia-n900-necromancy/)
