@@ -7695,3 +7695,8 @@
 - [OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI](https://simonwillison.net/2025/Dec/12/openai-skills/)
 - [Beautiful Abelian Sandpiles](https://eavan.blog/posts/beautiful-sandpiles.html)
 - [macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt](https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt)
+## Afternoon/Evening Digest - 13-12-2025
+
+- [We built another object storage](https://fractalbits.com/blog/why-we-built-another-object-storage/)
+- [Java FFM zero-copy transport using io_uring](https://www.mvp.express/)
+- [How exchanges turn order books into distributed logs](https://quant.engineering/exchange-order-book-distributed-logs.html)
