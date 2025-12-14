@@ -7700,3 +7700,8 @@
 - [We built another object storage](https://fractalbits.com/blog/why-we-built-another-object-storage/)
 - [Java FFM zero-copy transport using io_uring](https://www.mvp.express/)
 - [How exchanges turn order books into distributed logs](https://quant.engineering/exchange-order-book-distributed-logs.html)
+## Morning Digest - 14-12-2025
+
+- [Linux Sandboxes and Fil-C](https://fil-c.org/seccomp)
+- [Using E-Ink tablet as monitor for Linux](https://alavi.me/blog/e-ink-tablet-as-monitor-linux/)
+- [Recovering Anthony Bourdain's Li.st's](https://sandyuraz.com/blogs/bourdain/)
