@@ -7705,3 +7705,8 @@
 - [Linux Sandboxes and Fil-C](https://fil-c.org/seccomp)
 - [Using E-Ink tablet as monitor for Linux](https://alavi.me/blog/e-ink-tablet-as-monitor-linux/)
 - [Recovering Anthony Bourdain's Li.st's](https://sandyuraz.com/blogs/bourdain/)
+## Afternoon/Evening Digest - 14-12-2025
+
+- [AI and the ironies of automation – Part 2](https://www.ufried.com/blog/ironies_of_ai_2/)
+- [Apple Maps claims it's 29,905 miles away](https://mathstodon.xyz/@dpiponi/115651419771418748)
+- [Europeans' health data sold to US firm run by ex-Israeli spies](https://www.ftm.eu/articles/europe-health-data-us-firm-israel-spies)
