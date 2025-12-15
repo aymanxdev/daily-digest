@@ -7710,3 +7710,8 @@
 - [AI and the ironies of automation – Part 2](https://www.ufried.com/blog/ironies_of_ai_2/)
 - [Apple Maps claims it's 29,905 miles away](https://mathstodon.xyz/@dpiponi/115651419771418748)
 - [Europeans' health data sold to US firm run by ex-Israeli spies](https://www.ftm.eu/articles/europe-health-data-us-firm-israel-spies)
+## Afternoon/Evening Digest - 15-12-2025
+
+- [Carrier Landing in Top Gun for the NES](https://relaxing.run/blag/posts/top-gun-landing/)
+- [Avoid UUIDv4 Primary Keys](https://andyatkinson.com/avoid-uuid-version-4-primary-keys)
+- [Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’](https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/)
