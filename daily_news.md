@@ -7715,3 +7715,8 @@
 - [Carrier Landing in Top Gun for the NES](https://relaxing.run/blag/posts/top-gun-landing/)
 - [Avoid UUIDv4 Primary Keys](https://andyatkinson.com/avoid-uuid-version-4-primary-keys)
 - [Adafruit: Arduino’s Rules Are ‘Incompatible With Open Source’](https://thenewstack.io/adafruit-arduinos-rules-are-incompatible-with-open-source/)
+## Morning Digest - 16-12-2025
+
+- [Children with cancer scammed out of millions fundraised for their treatment](https://www.bbc.com/news/articles/ckgz318y8elo)
+- [SHARP, an approach to photorealistic view synthesis from a single image](https://apple.github.io/ml-sharp/)
+- [A linear-time alternative for Dimensionality Reduction and fast visualisation](https://medium.com/@roman.f/a-linear-time-alternative-to-t-sne-for-dimensionality-reduction-and-fast-visualisation-5cd1a7219d6f)
