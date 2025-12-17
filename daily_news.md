@@ -7730,3 +7730,8 @@
 - [AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 - [alpr.watch](https://alpr.watch/)
 - [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
+## Afternoon/Evening Digest - 17-12-2025
+
+- [Coursera to combine with Udemy](https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx)
+- [Learning the oldest programming language (2024)](https://uncenter.dev/posts/learning-fortran/)
+- [AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
