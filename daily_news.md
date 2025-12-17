@@ -7725,3 +7725,8 @@
 - [40 percent of fMRI signals do not correspond to actual brain activity](https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity)
 - [This is not the future](https://blog.mathieui.net/this-is-not-the-future.html)
 - [Rust GCC back end: Why and how](https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how)
+## Morning Digest - 17-12-2025
+
+- [AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+- [alpr.watch](https://alpr.watch/)
+- [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
