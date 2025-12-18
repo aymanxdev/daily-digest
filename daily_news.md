@@ -7735,3 +7735,8 @@
 - [Coursera to combine with Udemy](https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx)
 - [Learning the oldest programming language (2024)](https://uncenter.dev/posts/learning-fortran/)
 - [AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+## Morning Digest - 18-12-2025
+
+- [What is an elliptic curve? (2019)](https://www.johndcook.com/blog/2019/02/21/what-is-an-elliptic-curve/)
+- [Egyptian Hieroglyphs: Lesson 1](https://www.egyptianhieroglyphs.net/egyptian-hieroglyphs/lesson-1/)
+- [RCE via ND6 Router Advertisements in FreeBSD](https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc)
