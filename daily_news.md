@@ -7750,3 +7750,8 @@
 - [Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)
 - [Getting bitten by Intel's poor naming schemes](https://lorendb.dev/posts/getting-bitten-by-poor-naming-schemes/)
 - [1.5 TB of VRAM on Mac Studio – RDMA over Thunderbolt 5](https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5)
+## Afternoon/Evening Digest - 19-12-2025
+
+- [GotaTun -- Mullvad's WireGuard Implementation in Rust](https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn)
+- [Amazon will allow ePub and PDF downloads for DRM-free eBooks](https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US)
+- [Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)
