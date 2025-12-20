@@ -7755,3 +7755,8 @@
 - [GotaTun -- Mullvad's WireGuard Implementation in Rust](https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn)
 - [Amazon will allow ePub and PDF downloads for DRM-free eBooks](https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US)
 - [Beginning January 2026, all ACM publications will be made open access](https://dl.acm.org/openaccess)
+## Morning Digest - 20-12-2025
+
+- [Charles Proxy](https://www.charlesproxy.com/)
+- [Privacy doesn't mean anything anymore, anonymity does](https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/)
+- [CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
