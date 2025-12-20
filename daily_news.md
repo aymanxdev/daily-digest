@@ -7760,3 +7760,8 @@
 - [Charles Proxy](https://www.charlesproxy.com/)
 - [Privacy doesn't mean anything anymore, anonymity does](https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/)
 - [CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
+## Afternoon/Evening Digest - 20-12-2025
+
+- [Immersa: Open-source Web-based 3D Presentation Tool](https://github.com/ertugrulcetin/immersa)
+- [NTP at NIST Boulder Has Lost Power](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/)
+- [What Does a Database for SSDs Look Like?](https://brooker.co.za/blog/2025/12/15/database-for-ssd.html)
