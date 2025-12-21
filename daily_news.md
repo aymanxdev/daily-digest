@@ -7765,3 +7765,8 @@
 - [Immersa: Open-source Web-based 3D Presentation Tool](https://github.com/ertugrulcetin/immersa)
 - [NTP at NIST Boulder Has Lost Power](https://lists.nanog.org/archives/list/nanog@lists.nanog.org/message/ACADD3NKOG2QRWZ56OSNNG7UIEKKTZXL/)
 - [What Does a Database for SSDs Look Like?](https://brooker.co.za/blog/2025/12/15/database-for-ssd.html)
+## Morning Digest - 21-12-2025
+
+- [Flock and Cyble Inc. Weaponize "Cybercrime" Takedowns to Silence Critics](https://haveibeenflocked.com/news/cyble-downtime)
+- [Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
+- [Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world)
