@@ -7770,3 +7770,8 @@
 - [Flock and Cyble Inc. Weaponize "Cybercrime" Takedowns to Silence Critics](https://haveibeenflocked.com/news/cyble-downtime)
 - [Measuring AI Ability to Complete Long Tasks: Opus 4.5 has 50% horizon of 4h49M](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 - [Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world)
+## Afternoon/Evening Digest - 21-12-2025
+
+- [Coarse Is Better](https://borretti.me/article/coarse-is-better)
+- [Show HN: Shittp – Volatile Dotfiles over SSH](https://github.com/FOBshippingpoint/shittp)
+- [Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world)
