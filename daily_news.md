@@ -7775,3 +7775,8 @@
 - [Coarse Is Better](https://borretti.me/article/coarse-is-better)
 - [Show HN: Shittp – Volatile Dotfiles over SSH](https://github.com/FOBshippingpoint/shittp)
 - [Show HN: Jmail – Google Suite for Epstein files](https://www.jmail.world)
+## Morning Digest - 22-12-2025
+
+- [Inverse Parentheses](https://kellett.im/a/inverse-parentheses)
+- [A guide to local coding models](https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude)
+- [Deliberate Internet Shutdowns](https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html)
