@@ -7790,3 +7790,8 @@
 - [Show HN: CineCLI – Browse and torrent movies directly from your terminal](https://github.com/eyeblech/cinecli)
 - [Snitch – A friendlier ss/netstat](https://github.com/karol-broda/snitch)
 - [It's Always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
+## Afternoon/Evening Digest - 23-12-2025
+
+- [Adobe Photoshop 1.0 Source Code (1990)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
+- [Test, Don't (Just) Verify](https://alperenkeles.com/posts/test-dont-verify/)
+- [Executorch: On-device AI across mobile, embedded and edge for PyTorch](https://github.com/pytorch/executorch)
