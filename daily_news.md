@@ -7800,3 +7800,8 @@
 - [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
 - [X-ray: a Python library for finding bad redactions in PDF documents](https://github.com/freelawproject/x-ray)
 - [Some Epstein file redactions are being undone with hacks](https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media)
+## Afternoon/Evening Digest - 24-12-2025
+
+- [When Compilers Surprise You](https://xania.org/202512/24-cunning-clang)
+- [The Port I couldn't Ship](https://ammil.industries/the-port-i-couldnt-ship/)
+- [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
