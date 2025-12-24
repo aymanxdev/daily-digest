@@ -7795,3 +7795,8 @@
 - [Adobe Photoshop 1.0 Source Code (1990)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 - [Test, Don't (Just) Verify](https://alperenkeles.com/posts/test-dont-verify/)
 - [Executorch: On-device AI across mobile, embedded and edge for PyTorch](https://github.com/pytorch/executorch)
+## Morning Digest - 24-12-2025
+
+- [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
+- [X-ray: a Python library for finding bad redactions in PDF documents](https://github.com/freelawproject/x-ray)
+- [Some Epstein file redactions are being undone with hacks](https://www.theguardian.com/us-news/2025/dec/23/epstein-unredacted-files-social-media)
