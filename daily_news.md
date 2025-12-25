@@ -7805,3 +7805,8 @@
 - [When Compilers Surprise You](https://xania.org/202512/24-cunning-clang)
 - [The Port I couldn't Ship](https://ammil.industries/the-port-i-couldnt-ship/)
 - [Fabrice Bellard Releases MicroQuickJS](https://github.com/bellard/mquickjs/blob/main/README.md)
+## Afternoon/Evening Digest - 25-12-2025
+
+- [Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster](https://fidget-spinner.github.io/posts/no-longer-sorry.html)
+- [Phoenix: A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/)
+- [We invited a man into our home at Christmas and he stayed with us for 45 years](https://www.bbc.co.uk/news/articles/cdxwllqz1l0o)
