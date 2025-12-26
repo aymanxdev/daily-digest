@@ -7810,3 +7810,8 @@
 - [Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster](https://fidget-spinner.github.io/posts/no-longer-sorry.html)
 - [Phoenix: A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/)
 - [We invited a man into our home at Christmas and he stayed with us for 45 years](https://www.bbc.co.uk/news/articles/cdxwllqz1l0o)
+## Morning Digest - 26-12-2025
+
+- [Maybe the default settings are too high](https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/)
+- [Building an AI agent inside a 7-year-old Rails monolith](https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/)
+- [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.minimaxi.com/news/minimax-m21)
