@@ -7820,3 +7820,8 @@
 - [Package managers keep using Git as a database, it never works out](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html)
 - [LearnixOS](https://www.learnix-os.com)
 - [Rob Pike Goes Nuclear over GenAI](https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree)
+## Morning Digest - 27-12-2025
+
+- [AI Police Reports: Year in Review](https://www.eff.org/deeplinks/2025/12/ai-police-reports-year-review)
+- [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html)
+- [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)
