@@ -7825,3 +7825,8 @@
 - [AI Police Reports: Year in Review](https://www.eff.org/deeplinks/2025/12/ai-police-reports-year-review)
 - [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html)
 - [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)
+## Afternoon/Evening Digest - 27-12-2025
+
+- [Apple releases open-source model that instantly turns 2D photos into 3D views](https://github.com/apple/ml-sharp)
+- [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)
+- [Splice a Fibre](https://react-networks-lib.rackout.net/fibre)
