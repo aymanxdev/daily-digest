@@ -7830,3 +7830,8 @@
 - [Apple releases open-source model that instantly turns 2D photos into 3D views](https://github.com/apple/ml-sharp)
 - [Show HN: Ez FFmpeg – Video editing in plain English](http://npmjs.com/package/ezff)
 - [Splice a Fibre](https://react-networks-lib.rackout.net/fibre)
+## Morning Digest - 28-12-2025
+
+- [Calendar](https://neatnik.net/calendar/?year=2026)
+- [Replacing JavaScript with Just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)
+- [Fathers’ choices may be packaged and passed down in sperm RNA](https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/)
