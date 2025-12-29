@@ -7840,3 +7840,8 @@
 - [What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)
 - [Staying ahead of censors in 2025](https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898)
 - [Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB](https://github.com/HarryR/z80ai)
+## Afternoon/Evening Digest - 29-12-2025
+
+- [Show HN: Vibe coding a bookshelf with Claude Code](https://balajmarius.com/writings/vibe-coding-a-bookshelf-with-claude-code/)
+- [Kidnapped by Deutsche Bahn](https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/)
+- [What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)
