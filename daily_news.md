@@ -7845,3 +7845,8 @@
 - [Show HN: Vibe coding a bookshelf with Claude Code](https://balajmarius.com/writings/vibe-coding-a-bookshelf-with-claude-code/)
 - [Kidnapped by Deutsche Bahn](https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/)
 - [What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)
+## Morning Digest - 30-12-2025
+
+- [Google is dead. Where do we go now?](https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/)
+- [GOG is getting acquired by its original co-founder](https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/)
+- [Hacking Washing Machines [video]](https://media.ccc.de/v/39c3-hacking-washing-machines)
