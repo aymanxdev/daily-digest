@@ -7850,3 +7850,8 @@
 - [Google is dead. Where do we go now?](https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/)
 - [GOG is getting acquired by its original co-founder](https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/)
 - [Hacking Washing Machines [video]](https://media.ccc.de/v/39c3-hacking-washing-machines)
+## Afternoon/Evening Digest - 30-12-2025
+
+- [Netflix: Open Content](https://opencontent.netflix.com/)
+- [Non-Zero-Sum Games](https://nonzerosum.games/)
+- [Times New American: A Tale of Two Fonts](https://hsu.cy/2025/12/times-new-american/)
