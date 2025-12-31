@@ -7855,3 +7855,8 @@
 - [Netflix: Open Content](https://opencontent.netflix.com/)
 - [Non-Zero-Sum Games](https://nonzerosum.games/)
 - [Times New American: A Tale of Two Fonts](https://hsu.cy/2025/12/times-new-american/)
+## Morning Digest - 31-12-2025
+
+- [Animated AI](https://animatedai.github.io/)
+- [A faster heart for F-Droid](https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html)
+- [FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
