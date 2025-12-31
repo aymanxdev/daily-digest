@@ -7860,3 +7860,8 @@
 - [Animated AI](https://animatedai.github.io/)
 - [A faster heart for F-Droid](https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html)
 - [FediMeteo: A €4 FreeBSD VPS Became a Global Weather Service](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
+## Afternoon/Evening Digest - 31-12-2025
+
+- [Efficient method to capture CO2 from the atmosphere / Univ of Helsinki](https://www.helsinki.fi/en/news/innovations/efficient-method-capture-carbon-dioxide-atmosphere-developed-university-helsinki)
+- [Iron Beam: Israel's first operational anti drone laser system](https://mod.gov.il/en/press-releases/press-room/israel-mod-and-rafael-deliver-first-operational-high-power-laser-system-iron-beam-to-the-idf)
+- [Akin's Laws of Spacecraft Design [pdf]](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf)
