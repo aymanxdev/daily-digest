@@ -7870,3 +7870,8 @@
 - [2025: The Year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)
 - [I canceled my book deal](https://austinhenley.com/blog/canceledbookdeal.html)
 - [Flow5 released to open source](https://flow5.tech/docs/releasenotes.html)
+## Afternoon/Evening Digest - 01-01-2026
+
+- [Bluetooth Headphone Jacking: A Key to Your Phone [video]](https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone)
+- [2025: The Year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)
+- [Meta made scam ads harder to find instead of removing them](https://sherwood.news/tech/rather-than-fully-cracking-down-on-scam-ads-meta-worked-to-make-them-harder/)
