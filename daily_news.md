@@ -7865,3 +7865,8 @@
 - [Efficient method to capture CO2 from the atmosphere / Univ of Helsinki](https://www.helsinki.fi/en/news/innovations/efficient-method-capture-carbon-dioxide-atmosphere-developed-university-helsinki)
 - [Iron Beam: Israel's first operational anti drone laser system](https://mod.gov.il/en/press-releases/press-room/israel-mod-and-rafael-deliver-first-operational-high-power-laser-system-iron-beam-to-the-idf)
 - [Akin's Laws of Spacecraft Design [pdf]](https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf)
+## Morning Digest - 01-01-2026
+
+- [2025: The Year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)
+- [I canceled my book deal](https://austinhenley.com/blog/canceledbookdeal.html)
+- [Flow5 released to open source](https://flow5.tech/docs/releasenotes.html)
