@@ -7880,3 +7880,8 @@
 - [Happy Public Domain Day 2026](https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/)
 - [Round the tree, yes, but not round the squirrel](https://www.futilitycloset.com/2026/01/02/round-and-round/)
 - [Why users cannot create Issues directly](https://github.com/ghostty-org/ghostty/issues/3558)
+## Afternoon/Evening Digest - 02-01-2026
+
+- [FracturedJson](https://github.com/j-brooke/FracturedJson/wiki)
+- [10 years of personal finances in plain text files](https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/)
+- [Parental Controls Aren't for Parents](https://beasthacker.com/til/parental-controls-arent-for-parents.html)
