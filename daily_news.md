@@ -7890,3 +7890,8 @@
 - [Publish on your own site, syndicate elsewhere](https://indieweb.org/POSSE#)
 - [Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?](https://www.madebywindmill.com/tempi/blog/hbfs-bpm/)
 - [Of Boot Vectors and Double Glitches: Bypassing RP2350's Secure Boot](https://streaming.media.ccc.de/39c3/relive/2149)
+## Afternoon/Evening Digest - 03-01-2026
+
+- [Publish on your own site, syndicate elsewhere](https://indieweb.org/POSSE#)
+- [Trump says Venezuela’s Maduro captured after strikes](https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/)
+- [Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?](https://www.madebywindmill.com/tempi/blog/hbfs-bpm/)
