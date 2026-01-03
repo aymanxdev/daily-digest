@@ -7885,3 +7885,8 @@
 - [FracturedJson](https://github.com/j-brooke/FracturedJson/wiki)
 - [10 years of personal finances in plain text files](https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/)
 - [Parental Controls Aren't for Parents](https://beasthacker.com/til/parental-controls-arent-for-parents.html)
+## Morning Digest - 03-01-2026
+
+- [Publish on your own site, syndicate elsewhere](https://indieweb.org/POSSE#)
+- [Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?](https://www.madebywindmill.com/tempi/blog/hbfs-bpm/)
+- [Of Boot Vectors and Double Glitches: Bypassing RP2350's Secure Boot](https://streaming.media.ccc.de/39c3/relive/2149)
