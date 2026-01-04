@@ -7900,3 +7900,8 @@
 - [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 - [Total monthly number of StackOverflow questions over time](https://data.stackexchange.com/stackoverflow/query/1926661#graph)
 - [GDI Effects from the PC cracking scene](https://gdimayhem.temari.fr/index.php?p=all)
+## Afternoon/Evening Digest - 04-01-2026
+
+- [Street Fighter II, the World Warrier (2021)](https://fabiensanglard.net/sf2_warrier/)
+- [Jeffgeerling.com has been Migrated to Hugo](https://www.jeffgeerling.com/blog/2026/migrated-to-hugo/)
+- [Maybe comments should explain 'what' (2017)](https://www.hillelwayne.com/post/what-comments/)
