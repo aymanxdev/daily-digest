@@ -7895,3 +7895,8 @@
 - [Publish on your own site, syndicate elsewhere](https://indieweb.org/POSSE#)
 - [Trump says Venezuela’s Maduro captured after strikes](https://www.reuters.com/world/americas/loud-noises-heard-venezuela-capital-southern-area-without-electricity-2026-01-03/)
 - [Daft Punk Easter Egg in the BPM Tempo of Harder, Better, Faster, Stronger?](https://www.madebywindmill.com/tempi/blog/hbfs-bpm/)
+## Morning Digest - 04-01-2026
+
+- [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
+- [Total monthly number of StackOverflow questions over time](https://data.stackexchange.com/stackoverflow/query/1926661#graph)
+- [GDI Effects from the PC cracking scene](https://gdimayhem.temari.fr/index.php?p=all)
