@@ -7905,3 +7905,8 @@
 - [Street Fighter II, the World Warrier (2021)](https://fabiensanglard.net/sf2_warrier/)
 - [Jeffgeerling.com has been Migrated to Hugo](https://www.jeffgeerling.com/blog/2026/migrated-to-hugo/)
 - [Maybe comments should explain 'what' (2017)](https://www.hillelwayne.com/post/what-comments/)
+## Morning Digest - 05-01-2026
+
+- [Decorative Cryptography](https://www.dlp.rip/decorative-cryptography)
+- [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)
+- [Building a Rust-style static analyzer for C++ with AI](http://mpaxos.com/blog/rusty-cpp.html)
