@@ -7910,3 +7910,8 @@
 - [Decorative Cryptography](https://www.dlp.rip/decorative-cryptography)
 - [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)
 - [Building a Rust-style static analyzer for C++ with AI](http://mpaxos.com/blog/rusty-cpp.html)
+## Afternoon/Evening Digest - 05-01-2026
+
+- [It's hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)
+- [I switched from VSCode to Zed](https://tenthousandmeters.com/blog/i-switched-from-vscode-to-zed/)
+- [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)
