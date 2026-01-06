@@ -7915,3 +7915,8 @@
 - [It's hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)
 - [I switched from VSCode to Zed](https://tenthousandmeters.com/blog/i-switched-from-vscode-to-zed/)
 - [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)
+## Morning Digest - 06-01-2026
+
+- [enclose.horse](https://enclose.horse/)
+- [There were BGP anomalies during the Venezuela blackout](https://loworbitsecurity.com/radar/radar16/)
+- [The Post-American Internet](https://pluralistic.net/2026/01/01/39c3/)
