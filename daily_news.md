@@ -7920,3 +7920,8 @@
 - [enclose.horse](https://enclose.horse/)
 - [There were BGP anomalies during the Venezuela blackout](https://loworbitsecurity.com/radar/radar16/)
 - [The Post-American Internet](https://pluralistic.net/2026/01/01/39c3/)
+## Afternoon/Evening Digest - 06-01-2026
+
+- [Show HN: Prism.Tools – Free and privacy-focused developer utilities](https://blgardner.github.io/prism.tools/)
+- [enclose.horse](https://enclose.horse/)
+- [65% of Hacker News Posts Have Negative Sentiment, and They Outperform](https://philippdubach.com/standalone/hn-sentiment/)
