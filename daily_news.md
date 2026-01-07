@@ -7925,3 +7925,8 @@
 - [Show HN: Prism.Tools – Free and privacy-focused developer utilities](https://blgardner.github.io/prism.tools/)
 - [enclose.horse](https://enclose.horse/)
 - [65% of Hacker News Posts Have Negative Sentiment, and They Outperform](https://philippdubach.com/standalone/hn-sentiment/)
+## Morning Digest - 07-01-2026
+
+- [The creator of Claude Code's Claude setup](https://twitter.com/bcherny/status/2007179832300581177)
+- [Sergey Brin's Unretirement](https://www.inc.com/jessica-stillman/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us/91280208)
+- [Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone](https://github.com/rberg27/doom-coding)
