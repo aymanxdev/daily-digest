@@ -7930,3 +7930,8 @@
 - [The creator of Claude Code's Claude setup](https://twitter.com/bcherny/status/2007179832300581177)
 - [Sergey Brin's Unretirement](https://www.inc.com/jessica-stillman/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us/91280208)
 - [Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone](https://github.com/rberg27/doom-coding)
+## Afternoon/Evening Digest - 07-01-2026
+
+- [“Stop Designing Languages. Write Libraries Instead” (2016)](https://lbstanza.org/purpose_of_programming_languages.html)
+- [A4 Paper Stories](https://susam.net/a4-paper-stories.html)
+- [The Eric and Wendy Schmidt Observatory System](https://www.schmidtsciences.org/schmidt-observatory-system/)
