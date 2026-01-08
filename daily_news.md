@@ -7940,3 +7940,8 @@
 - [Project Patchouli: Open-source electromagnetic drawing tablet hardware](https://patchouli.readthedocs.io/en/latest/)
 - [A closer look at a BGP anomaly in Venezuela](https://blog.cloudflare.com/bgp-route-leak-venezuela/)
 - [The Napoleon Technique: Postponing Things to Increase Productivity](https://effectiviology.com/napoleon/)
+## Afternoon/Evening Digest - 08-01-2026
+
+- [The Jeff Dean Facts](https://github.com/LRitzdorf/TheJeffDeanFacts)
+- [Lights and Shadows (2020)](https://ciechanow.ski/lights-and-shadows/)
+- [Project Patchouli: Open-source electromagnetic drawing tablet hardware](https://patchouli.readthedocs.io/en/latest/)
