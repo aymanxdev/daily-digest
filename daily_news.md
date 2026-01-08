@@ -7935,3 +7935,8 @@
 - [“Stop Designing Languages. Write Libraries Instead” (2016)](https://lbstanza.org/purpose_of_programming_languages.html)
 - [A4 Paper Stories](https://susam.net/a4-paper-stories.html)
 - [The Eric and Wendy Schmidt Observatory System](https://www.schmidtsciences.org/schmidt-observatory-system/)
+## Morning Digest - 08-01-2026
+
+- [Project Patchouli: Open-source electromagnetic drawing tablet hardware](https://patchouli.readthedocs.io/en/latest/)
+- [A closer look at a BGP anomaly in Venezuela](https://blog.cloudflare.com/bgp-route-leak-venezuela/)
+- [The Napoleon Technique: Postponing Things to Increase Productivity](https://effectiviology.com/napoleon/)
