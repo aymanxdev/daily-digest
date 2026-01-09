@@ -7945,3 +7945,8 @@
 - [The Jeff Dean Facts](https://github.com/LRitzdorf/TheJeffDeanFacts)
 - [Lights and Shadows (2020)](https://ciechanow.ski/lights-and-shadows/)
 - [Project Patchouli: Open-source electromagnetic drawing tablet hardware](https://patchouli.readthedocs.io/en/latest/)
+## Morning Digest - 09-01-2026
+
+- [What Happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
+- [Do not mistake a resilient global economy for populist success](https://www.economist.com/leaders/2026/01/08/do-not-mistake-a-resilient-global-economy-for-populist-success)
+- [Mathematics for Computer Science (2018) [pdf]](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
