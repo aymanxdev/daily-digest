@@ -7950,3 +7950,8 @@
 - [What Happened to WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
 - [Do not mistake a resilient global economy for populist success](https://www.economist.com/leaders/2026/01/08/do-not-mistake-a-resilient-global-economy-for-populist-success)
 - [Mathematics for Computer Science (2018) [pdf]](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
+## Afternoon/Evening Digest - 09-01-2026
+
+- [Kagi releases alpha version of Orion for Linux](https://help.kagi.com/orion/misc/linux-status.html)
+- [Mathematics for Computer Science (2018) [pdf]](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
+- [Linux Runs on Raspberry Pi RP2350's Hazard3 RISC-V Cores (2024)](https://www.hackster.io/news/jesse-taube-gets-linux-up-and-running-on-the-raspberry-pi-rp2350-s-hazard3-risc-v-cores-19088b87bb2c)
