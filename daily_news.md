@@ -7970,3 +7970,8 @@
 - [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
 - [C++ std::move doesn't move anything: A deep dive into Value Categories](https://0xghost.dev/blog/std-move-deep-dive/)
 - [Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users](https://github.com/vojtapolasek/vojtux)
+## Afternoon/Evening Digest - 11-01-2026
+
+- [Gentoo Linux 2025 Review](https://www.gentoo.org/news/2026/01/05/new-year.html)
+- [Happy 50th Birthday KIM-1](https://github.com/netzherpes/KIM1-Demo)
+- ["Food JPEGs" in Super Smash Bros. & Kirby Air Riders](https://sethmlarson.dev/food-jpegs-in-super-smash-bros-and-kirby-air-riders)
