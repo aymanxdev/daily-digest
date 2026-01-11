@@ -7965,3 +7965,8 @@
 - [A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)](https://nightingaledvs.com/dark-sky-weather-data-viz/)
 - [Allow me to introduce, the Citroen C15](https://eupolicy.social/@jmaris/115860595238097654)
 - [New information extracted from Snowden PDFs through metadata version analysis](https://libroot.org/posts/going-through-snowden-documents-part-4/)
+## Morning Digest - 11-01-2026
+
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
+- [C++ std::move doesn't move anything: A deep dive into Value Categories](https://0xghost.dev/blog/std-move-deep-dive/)
+- [Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users](https://github.com/vojtapolasek/vojtux)
