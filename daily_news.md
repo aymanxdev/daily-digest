@@ -7975,3 +7975,8 @@
 - [Gentoo Linux 2025 Review](https://www.gentoo.org/news/2026/01/05/new-year.html)
 - [Happy 50th Birthday KIM-1](https://github.com/netzherpes/KIM1-Demo)
 - ["Food JPEGs" in Super Smash Bros. & Kirby Air Riders](https://sethmlarson.dev/food-jpegs-in-super-smash-bros-and-kirby-air-riders)
+## Morning Digest - 12-01-2026
+
+- [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
+- [CLI agents make self-hosting on a home server easier and fun](https://fulghum.io/self-hosting)
+- [JRR Tolkien reads from The Hobbit for 30 Minutes (1952)](https://www.openculture.com/2026/01/j-r-r-tolkien-reads-from-the-hobbit-for-30-minutes-1952.html)
