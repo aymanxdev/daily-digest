@@ -7980,3 +7980,8 @@
 - [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
 - [CLI agents make self-hosting on a home server easier and fun](https://fulghum.io/self-hosting)
 - [JRR Tolkien reads from The Hobbit for 30 Minutes (1952)](https://www.openculture.com/2026/01/j-r-r-tolkien-reads-from-the-hobbit-for-30-minutes-1952.html)
+## Afternoon/Evening Digest - 12-01-2026
+
+- [Floppy disks turn out to be the greatest TV remote for kids](https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/)
+- [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
+- [Zen-C: Write like a high-level language, run like C](https://github.com/z-libs/Zen-C)
