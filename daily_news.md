@@ -7990,3 +7990,8 @@
 - [Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)
 - [Text-Based Web Browsers](https://cssence.com/2026/text-based-web-browsers/)
 - [TimeCapsuleLLM: LLM trained only on data from 1800-1875](https://github.com/haykgrigo3/TimeCapsuleLLM)
+## Afternoon/Evening Digest - 13-01-2026
+
+- [Local Journalism Is How Democracy Shows Up Close to Home](https://buckscountybeacon.com/2026/01/opinion-local-journalism-is-how-democracy-shows-up-close-to-home/)
+- [Apple Creator Studio](https://www.apple.com/newsroom/2026/01/introducing-apple-creator-studio-an-inspiring-collection-of-creative-apps/)
+- [Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)
