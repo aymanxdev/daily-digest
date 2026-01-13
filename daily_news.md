@@ -7985,3 +7985,8 @@
 - [Floppy disks turn out to be the greatest TV remote for kids](https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/)
 - [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
 - [Zen-C: Write like a high-level language, run like C](https://github.com/z-libs/Zen-C)
+## Morning Digest - 13-01-2026
+
+- [Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)
+- [Text-Based Web Browsers](https://cssence.com/2026/text-based-web-browsers/)
+- [TimeCapsuleLLM: LLM trained only on data from 1800-1875](https://github.com/haykgrigo3/TimeCapsuleLLM)
