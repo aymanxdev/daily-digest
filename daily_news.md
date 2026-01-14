@@ -7995,3 +7995,8 @@
 - [Local Journalism Is How Democracy Shows Up Close to Home](https://buckscountybeacon.com/2026/01/opinion-local-journalism-is-how-democracy-shows-up-close-to-home/)
 - [Apple Creator Studio](https://www.apple.com/newsroom/2026/01/introducing-apple-creator-studio-an-inspiring-collection-of-creative-apps/)
 - [Cowork: Claude Code for the rest of your work](https://claude.com/blog/cowork-research-preview)
+## Morning Digest - 14-01-2026
+
+- [There's a ridiculous amount of tech in a disposable vape](https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html)
+- [1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards)
+- [ASCII Clouds](https://caidan.dev/portfolio/ascii_clouds/)
