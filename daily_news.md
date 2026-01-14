@@ -8000,3 +8000,8 @@
 - [There's a ridiculous amount of tech in a disposable vape](https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html)
 - [1000 Blank White Cards](https://en.wikipedia.org/wiki/1000_Blank_White_Cards)
 - [ASCII Clouds](https://caidan.dev/portfolio/ascii_clouds/)
+## Afternoon/Evening Digest - 14-01-2026
+
+- [SparkFun Officially Dropping AdaFruit due to CoC Violation](https://www.sparkfun.com/official-response)
+- [I Hate GitHub Actions with Passion](https://xlii.space/eng/i-hate-github-actions-with-passion/)
+- [There's a ridiculous amount of tech in a disposable vape](https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html)
