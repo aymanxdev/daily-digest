@@ -8010,3 +8010,8 @@
 - [The URL shortener that makes your links look as suspicious as possible](https://creepylink.com/)
 - [Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
 - [Claude Cowork exfiltrates files](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files)
+## Afternoon/Evening Digest - 15-01-2026
+
+- [The URL shortener that makes your links look as suspicious as possible](https://creepylink.com/)
+- [Show HN: Fine-tuned Qwen2.5-7B on 100 films for probabilistic story graphs](https://cinegraphs.ai/)
+- [Claude Cowork exfiltrates files](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files)
