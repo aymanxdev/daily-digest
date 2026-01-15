@@ -8005,3 +8005,8 @@
 - [SparkFun Officially Dropping AdaFruit due to CoC Violation](https://www.sparkfun.com/official-response)
 - [I Hate GitHub Actions with Passion](https://xlii.space/eng/i-hate-github-actions-with-passion/)
 - [There's a ridiculous amount of tech in a disposable vape](https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html)
+## Morning Digest - 15-01-2026
+
+- [The URL shortener that makes your links look as suspicious as possible](https://creepylink.com/)
+- [Raspberry Pi's New AI Hat Adds 8GB of RAM for Local LLMs](https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/)
+- [Claude Cowork exfiltrates files](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files)
