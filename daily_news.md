@@ -8015,3 +8015,8 @@
 - [The URL shortener that makes your links look as suspicious as possible](https://creepylink.com/)
 - [Show HN: Fine-tuned Qwen2.5-7B on 100 films for probabilistic story graphs](https://cinegraphs.ai/)
 - [Claude Cowork exfiltrates files](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files)
+## Morning Digest - 16-01-2026
+
+- [OpenBSD-current now runs as guest under Apple Hypervisor](https://www.undeadly.org/cgi?action=article;sid=20260115203619)
+- [List of individual trees](https://en.wikipedia.org/wiki/List_of_individual_trees)
+- [Apple is fighting for TSMC capacity as Nvidia takes center stage](https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc)
