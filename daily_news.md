@@ -8020,3 +8020,8 @@
 - [OpenBSD-current now runs as guest under Apple Hypervisor](https://www.undeadly.org/cgi?action=article;sid=20260115203619)
 - [List of individual trees](https://en.wikipedia.org/wiki/List_of_individual_trees)
 - [Apple is fighting for TSMC capacity as Nvidia takes center stage](https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc)
+## Afternoon/Evening Digest - 16-01-2026
+
+- [Astro Joining Cloudflare](https://astro.build/blog/joining-cloudflare/)
+- [Just the Browser](https://justthebrowser.com/)
+- [Michelangelo's First Painting, Created When He Was Only 12 or 13 Years Old](https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html)
