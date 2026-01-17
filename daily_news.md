@@ -8030,3 +8030,8 @@
 - [You have three minutes to escape the perpetual underclass – geohot](https://geohot.github.io//blog/jekyll/update/2026/01/17/three-minutes.html)
 - [East Germany balloon escape](https://en.wikipedia.org/wiki/East_Germany_balloon_escape)
 - [Cloudflare acquires Astro](https://astro.build/blog/joining-cloudflare/)
+## Afternoon/Evening Digest - 17-01-2026
+
+- [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
+- [The Dilbert Afterlife](https://www.astralcodexten.com/p/the-dilbert-afterlife)
+- [ClickHouse acquires Langfuse](https://langfuse.com/blog/joining-clickhouse)
