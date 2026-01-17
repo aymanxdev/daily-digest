@@ -8025,3 +8025,8 @@
 - [Astro Joining Cloudflare](https://astro.build/blog/joining-cloudflare/)
 - [Just the Browser](https://justthebrowser.com/)
 - [Michelangelo's First Painting, Created When He Was Only 12 or 13 Years Old](https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html)
+## Morning Digest - 17-01-2026
+
+- [You have three minutes to escape the perpetual underclass – geohot](https://geohot.github.io//blog/jekyll/update/2026/01/17/three-minutes.html)
+- [East Germany balloon escape](https://en.wikipedia.org/wiki/East_Germany_balloon_escape)
+- [Cloudflare acquires Astro](https://astro.build/blog/joining-cloudflare/)
