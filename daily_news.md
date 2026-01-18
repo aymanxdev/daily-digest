@@ -8035,3 +8035,8 @@
 - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
 - [The Dilbert Afterlife](https://www.astralcodexten.com/p/the-dilbert-afterlife)
 - [ClickHouse acquires Langfuse](https://langfuse.com/blog/joining-clickhouse)
+## Morning Digest - 18-01-2026
+
+- [Iconify: Library of Open Source Icons](https://icon-sets.iconify.design/)
+- [Spirit of ThinkPad](https://thinknextdesign.com/home.html)
+- [Lopado­temacho­selacho­galeo­kranio­leipsano­drim­hypo­trimmato­silphio­karab](https://en.wikipedia.org/wiki/Lopado%C2%ADtemacho%C2%ADselacho%C2%ADgaleo%C2%ADkranio%C2%ADleipsano%C2%ADdrim%C2%ADhypo%C2%ADtrimmato%C2%ADsilphio%C2%ADkarabo%C2%ADmelito%C2%ADkatakechy%C2%ADmeno%C2%ADkichl%C2%ADepi%C2%ADkossypho%C2%ADphatto%C2%ADperister%C2%ADalektryon%C2%ADopte%C2%ADkephallio%C2%ADkigklo%C2%ADpeleio%C2%ADlagoio%C2%ADsiraio%C2%ADbaphe%C2%ADtragano%C2%ADpterygon)
