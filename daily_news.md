@@ -8045,3 +8045,8 @@
 - [The A in AGI Stands for Ads](https://ossa-ma.github.io/blog/openads)
 - [The guide to real-world EV battery health](https://www.geotab.com/blog/ev-battery-health/)
 - [Starting from scratch: Training a 30M Topological Transformer](https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer)
+## Morning Digest - 19-01-2026
+
+- [A decentralized peer-to-peer messaging application that operates over Bluetooth](https://bitchat.free/)
+- [MTOTP: Wouldn't it be nice if you were the 2FA device?](https://github.com/VBranimir/mTOTP/tree/develop)
+- [Gaussian Splatting – A$AP Rocky "Helicopter" music video](https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting)
