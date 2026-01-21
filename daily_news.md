@@ -8065,3 +8065,8 @@
 - [Anthropic's original take home assignment open sourced](https://github.com/anthropics/original_performance_takehome)
 - [The Agentic AI Handbook: Production-Ready Patterns](https://www.nibzard.com/agentic-handbook)
 - [200 MB RAM FreeBSD Desktop](https://vermaden.wordpress.com/2026/01/18/200-mb-ram-freebsd-desktop/)
+## Afternoon/Evening Digest - 21-01-2026
+
+- [Vibecoding #2](https://matklad.github.io/2026/01/20/vibecoding-2.html)
+- [Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)](https://github.com/ChartGPU/ChartGPU)
+- [Nested Code Fences in Markdown](https://susam.net/nested-code-fences.html)
