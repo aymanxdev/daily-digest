@@ -8060,3 +8060,8 @@
 - [IP Addresses Through 2025](https://www.potaroo.net/ispcol/2026-01/addr2025.html)
 - [Running Claude Code dangerously (safely)](https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/)
 - [Show HN: Ocrbase – pdf → .md/.json document OCR and structured extraction API](https://github.com/majcheradam/ocrbase)
+## Morning Digest - 21-01-2026
+
+- [Anthropic's original take home assignment open sourced](https://github.com/anthropics/original_performance_takehome)
+- [The Agentic AI Handbook: Production-Ready Patterns](https://www.nibzard.com/agentic-handbook)
+- [200 MB RAM FreeBSD Desktop](https://vermaden.wordpress.com/2026/01/18/200-mb-ram-freebsd-desktop/)
