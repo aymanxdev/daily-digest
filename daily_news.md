@@ -8070,3 +8070,8 @@
 - [Vibecoding #2](https://matklad.github.io/2026/01/20/vibecoding-2.html)
 - [Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)](https://github.com/ChartGPU/ChartGPU)
 - [Nested Code Fences in Markdown](https://susam.net/nested-code-fences.html)
+## Morning Digest - 22-01-2026
+
+- [Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete](https://huggingface.co/sweepai/sweep-next-edit-1.5B)
+- [Doctors in Brazil using tilapia fish skin to treat burn victims](https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims)
+- [In Praise of APL (1977)](https://www.jsoftware.com/papers/perlis77.htm)
