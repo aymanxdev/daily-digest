@@ -8075,3 +8075,8 @@
 - [Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete](https://huggingface.co/sweepai/sweep-next-edit-1.5B)
 - [Doctors in Brazil using tilapia fish skin to treat burn victims](https://www.pbs.org/newshour/health/brazilian-city-uses-tilapia-fish-skin-treat-burn-victims)
 - [In Praise of APL (1977)](https://www.jsoftware.com/papers/perlis77.htm)
+## Afternoon/Evening Digest - 22-01-2026
+
+- [Design Thinking Books You Must Read](https://www.designorate.com/design-thinking-books/)
+- [Douglas Adams on the English–American cultural divide over "heroes"](https://shreevatsa.net/post/douglas-adams-cultural-divide/)
+- [We will ban you and ridicule you in public if you waste our time on crap reports](https://curl.se/.well-known/security.txt)
