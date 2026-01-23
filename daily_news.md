@@ -8085,3 +8085,8 @@
 - [Proton Spam and the AI Consent Problem](https://dbushell.com/2026/01/22/proton-spam/)
 - [I built a light that reacts to radio waves [video]](https://www.youtube.com/watch?v=moBCOEiqiPs)
 - [Capital One to acquire Brex for $5.15B](https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/)
+## Afternoon/Evening Digest - 23-01-2026
+
+- [Radicle: The Sovereign Forge](https://radicle.xyz)
+- [Booting from a vinyl record (2020)](https://boginjr.com/it/sw/dev/vinyl-boot/)
+- [AI is a horse (2024)](https://kconner.com/2024/08/02/ai-is-a-horse.html)
