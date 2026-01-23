@@ -8080,3 +8080,8 @@
 - [Design Thinking Books You Must Read](https://www.designorate.com/design-thinking-books/)
 - [Douglas Adams on the English–American cultural divide over "heroes"](https://shreevatsa.net/post/douglas-adams-cultural-divide/)
 - [We will ban you and ridicule you in public if you waste our time on crap reports](https://curl.se/.well-known/security.txt)
+## Morning Digest - 23-01-2026
+
+- [Proton Spam and the AI Consent Problem](https://dbushell.com/2026/01/22/proton-spam/)
+- [I built a light that reacts to radio waves [video]](https://www.youtube.com/watch?v=moBCOEiqiPs)
+- [Capital One to acquire Brex for $5.15B](https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/)
