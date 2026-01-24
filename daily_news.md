@@ -8095,3 +8095,8 @@
 - [Internet Archive's Storage](https://blog.dshr.org/2026/01/internet-archives-storage.html)
 - [80386 Multiplication and Division](https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/)
 - [Unrolling the Codex agent loop](https://openai.com/index/unrolling-the-codex-agent-loop/)
+## Afternoon/Evening Digest - 24-01-2026
+
+- [Doing gigabit Ethernet over my British phone wires](https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/)
+- [How I Estimate Work as a Staff Software Engineer](https://www.seangoedecke.com/how-i-estimate-work/)
+- [Many Small Queries Are Efficient in SQLite](https://www.sqlite.org/np1queryprob.html)
