@@ -8090,3 +8090,8 @@
 - [Radicle: The Sovereign Forge](https://radicle.xyz)
 - [Booting from a vinyl record (2020)](https://boginjr.com/it/sw/dev/vinyl-boot/)
 - [AI is a horse (2024)](https://kconner.com/2024/08/02/ai-is-a-horse.html)
+## Morning Digest - 24-01-2026
+
+- [Internet Archive's Storage](https://blog.dshr.org/2026/01/internet-archives-storage.html)
+- [80386 Multiplication and Division](https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/)
+- [Unrolling the Codex agent loop](https://openai.com/index/unrolling-the-codex-agent-loop/)
