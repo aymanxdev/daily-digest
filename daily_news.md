@@ -8100,3 +8100,8 @@
 - [Doing gigabit Ethernet over my British phone wires](https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/)
 - [How I Estimate Work as a Staff Software Engineer](https://www.seangoedecke.com/how-i-estimate-work/)
 - [Many Small Queries Are Efficient in SQLite](https://www.sqlite.org/np1queryprob.html)
+## Morning Digest - 25-01-2026
+
+- [Google confirms 'high-friction' sideloading flow is coming to Android](https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/)
+- [Adoption of EVs tied to real-world reductions in air pollution: study](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
+- [BirdyChat becomes first European chat app that is interoperable with WhatsApp](https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp)
