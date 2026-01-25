@@ -8105,3 +8105,8 @@
 - [Google confirms 'high-friction' sideloading flow is coming to Android](https://www.androidauthority.com/google-sideloading-android-high-friction-process-3633468/)
 - [Adoption of EVs tied to real-world reductions in air pollution: study](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 - [BirdyChat becomes first European chat app that is interoperable with WhatsApp](https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp)
+## Afternoon/Evening Digest - 25-01-2026
+
+- [This paper has been cited more than 6k times. It's fatally flawed.](https://statmodeling.stat.columbia.edu/2026/01/22/aking/)
+- [UN Declares That the World Has Entered an Era of 'Global Water Bankruptcy'](https://www.smithsonianmag.com/smart-news/united-nations-declares-that-the-world-has-entered-an-era-of-global-water-bankruptcy-180988045/)
+- [Deutsche Telekom is violating Net Neutrality](https://netzbremse.de/en/)
