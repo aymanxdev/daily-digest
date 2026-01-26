@@ -8110,3 +8110,8 @@
 - [This paper has been cited more than 6k times. It's fatally flawed.](https://statmodeling.stat.columbia.edu/2026/01/22/aking/)
 - [UN Declares That the World Has Entered an Era of 'Global Water Bankruptcy'](https://www.smithsonianmag.com/smart-news/united-nations-declares-that-the-world-has-entered-an-era-of-global-water-bankruptcy-180988045/)
 - [Deutsche Telekom is violating Net Neutrality](https://netzbremse.de/en/)
+## Morning Digest - 26-01-2026
+
+- [The browser is the sandbox](https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/)
+- [The Holy Grail of Linux Binary Compatibility: Musl and Dlopen](https://github.com/quaadgras/graphics.gd/discussions/242)
+- [Things I've learned in my 10 years as an engineering manager](https://www.jampa.dev/p/lessons-learned-after-10-years-as)
