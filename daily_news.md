@@ -8120,3 +8120,8 @@
 - [MapLibre Tile: a modern and efficient vector tile format](https://maplibre.org/news/2026-01-23-mlt-release/)
 - [Porting 100k lines from TypeScript to Rust using Claude Code in a month](https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html)
 - [After two years of vibecoding, I'm back to writing by hand](https://atmoio.substack.com/p/after-two-years-of-vibecoding-im)
+## Morning Digest - 27-01-2026
+
+- [Heathrow scraps liquid container limit](https://www.bbc.com/news/articles/c1evvx89559o)
+- [Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model](https://www.kimi.com/blog/kimi-k2-5.html)
+- [A list of fun destinations for telnet](https://telnet.org/htm/places.htm)
