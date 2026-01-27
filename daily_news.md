@@ -8125,3 +8125,8 @@
 - [Heathrow scraps liquid container limit](https://www.bbc.com/news/articles/c1evvx89559o)
 - [Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model](https://www.kimi.com/blog/kimi-k2-5.html)
 - [A list of fun destinations for telnet](https://telnet.org/htm/places.htm)
+## Afternoon/Evening Digest - 27-01-2026
+
+- [Xfwl4 – The Roadmap for a Xfce Wayland Compositor](https://alexxcons.github.io/blogpost_15.html)
+- [I made my own Git](https://tonystr.net/blog/git_immitation)
+- [Heathrow scraps liquid container limit](https://www.bbc.com/news/articles/c1evvx89559o)
