@@ -8130,3 +8130,8 @@
 - [Xfwl4 – The Roadmap for a Xfce Wayland Compositor](https://alexxcons.github.io/blogpost_15.html)
 - [I made my own Git](https://tonystr.net/blog/git_immitation)
 - [Heathrow scraps liquid container limit](https://www.bbc.com/news/articles/c1evvx89559o)
+## Morning Digest - 28-01-2026
+
+- [ASML firing 1700 people, mostly managers](https://www.ed.nl/binnenland/asml-wil-veel-managementbanen-schrappen-rekent-op-1700-ontslagen~a04807f1/)
+- [I Stopped Following the News](https://mertbulan.com/2026/01/28/why-i-stopped-following-the-news/)
+- [There's only one Woz, but we can all learn from him](https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award)
