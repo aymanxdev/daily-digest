@@ -8135,3 +8135,8 @@
 - [ASML firing 1700 people, mostly managers](https://www.ed.nl/binnenland/asml-wil-veel-managementbanen-schrappen-rekent-op-1700-ontslagen~a04807f1/)
 - [I Stopped Following the News](https://mertbulan.com/2026/01/28/why-i-stopped-following-the-news/)
 - [There's only one Woz, but we can all learn from him](https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award)
+## Afternoon/Evening Digest - 28-01-2026
+
+- [Airfoil](https://ciechanow.ski/airfoil/)
+- [Microsoft forced me to switch to Linux](https://www.himthe.dev/blog/microsoft-to-linux)
+- [Show HN: The HN Arcade](https://andrewgy8.github.io/hnarcade/)
