@@ -8145,3 +8145,8 @@
 - [Europe's next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images)
 - [Render Mermaid diagrams as SVGs or ASCII art](https://github.com/lukilabs/beautiful-mermaid)
 - [We can't send mail farther than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
+## Afternoon/Evening Digest - 29-01-2026
+
+- [Claude Code Daily Benchmarks for Degradation Tracking](https://marginlab.ai/trackers/claude-code/)
+- [A lot of population numbers are fake](https://davidoks.blog/p/a-lot-of-population-numbers-are-fake)
+- [Europe’s next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images)
