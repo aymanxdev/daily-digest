@@ -8155,3 +8155,8 @@
 - [Moltbook](https://www.moltbook.com/)
 - [OpenClaw – Moltbot Renamed Again](https://openclaw.ai/blog/introducing-openclaw)
 - [How AI Impacts Skill Formation](https://arxiv.org/abs/2601.20245)
+## Afternoon/Evening Digest - 30-01-2026
+
+- [Wisconsin communities signed secrecy deals for billion-dollar data centers](https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers)
+- [Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron](https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/)
+- [Moltbook](https://www.moltbook.com/)
