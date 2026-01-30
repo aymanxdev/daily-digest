@@ -8150,3 +8150,8 @@
 - [Claude Code Daily Benchmarks for Degradation Tracking](https://marginlab.ai/trackers/claude-code/)
 - [A lot of population numbers are fake](https://davidoks.blog/p/a-lot-of-population-numbers-are-fake)
 - [Europe’s next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images)
+## Morning Digest - 30-01-2026
+
+- [Moltbook](https://www.moltbook.com/)
+- [OpenClaw – Moltbot Renamed Again](https://openclaw.ai/blog/introducing-openclaw)
+- [How AI Impacts Skill Formation](https://arxiv.org/abs/2601.20245)
