@@ -8165,3 +8165,8 @@
 - [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)
 - [Sumerian Star Map Recorded the Impact of an Asteroid (2024)](https://archaeologyworlds.com/5500-year-old-sumerian-star-map-recorded/)
 - [Show HN: I trained a 9M speech model to fix my Mandarin tones](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/)
+## Afternoon/Evening Digest - 31-01-2026
+
+- [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)
+- [We have ipinfo at home or how to geolocate IPs in your CLI using latency](https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/)
+- [NASA's WB-57 crash lands at Houston](https://arstechnica.com/space/2026/01/one-of-nasas-three-wb-57-aircraft-just-did-a-belly-landing-in-houston/)
