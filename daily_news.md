@@ -8175,3 +8175,8 @@
 - [The Book of PF, 4th edition](https://nostarch.com/book-of-pf-4th-edition)
 - [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)
 - [Sometimes Your Job Is to Stay the Hell Out of the Way](https://randsinrepose.com/archives/sometimes-your-job-is-to-stay-the-hell-out-of-the-way/)
+## Afternoon/Evening Digest - 01-02-2026
+
+- [Netbird – Open Source Zero Trust Networking](https://netbird.io/)
+- [Adventure Game Studio: OSS software for creating adventure games](https://www.adventuregamestudio.co.uk/)
+- [What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/)
