@@ -8170,3 +8170,8 @@
 - [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)
 - [We have ipinfo at home or how to geolocate IPs in your CLI using latency](https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/)
 - [NASA's WB-57 crash lands at Houston](https://arstechnica.com/space/2026/01/one-of-nasas-three-wb-57-aircraft-just-did-a-belly-landing-in-houston/)
+## Morning Digest - 01-02-2026
+
+- [The Book of PF, 4th edition](https://nostarch.com/book-of-pf-4th-edition)
+- [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)
+- [Sometimes Your Job Is to Stay the Hell Out of the Way](https://randsinrepose.com/archives/sometimes-your-job-is-to-stay-the-hell-out-of-the-way/)
