@@ -8180,3 +8180,8 @@
 - [Netbird – Open Source Zero Trust Networking](https://netbird.io/)
 - [Adventure Game Studio: OSS software for creating adventure games](https://www.adventuregamestudio.co.uk/)
 - [What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/)
+## Morning Digest - 02-02-2026
+
+- [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)
+- [Apple's MacBook Pro DFU port documentation is wrong](https://lapcatsoftware.com/articles/2026/2/1.html)
+- [My iPhone 16 Pro Max produces garbage output when running MLX LLMs](https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/)
