@@ -8190,3 +8190,8 @@
 - [Nano-vLLM: How a vLLM-style inference engine works](https://neutree.ai/blog/nano-vllm-part-1)
 - [My fast zero-allocation webserver using OxCaml](https://anil.recoil.org/notes/oxcaml-httpz)
 - [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)
+## Morning Digest - 03-02-2026
+
+- [Floppinux – An Embedded Linux on a Single Floppy, 2025 Edition](https://krzysztofjankowski.com/floppinux/floppinux-2025.html)
+- [The Codex App](https://openai.com/index/introducing-the-codex-app/)
+- [How does misalignment scale with model intelligence and task complexity?](https://alignment.anthropic.com/2026/hot-mess-of-ai/)
