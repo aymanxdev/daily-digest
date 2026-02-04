@@ -8205,3 +8205,8 @@
 - [I miss thinking hard](https://www.jernesto.com/articles/thinking_hard)
 - [Lessons learned shipping 500 units of my first hardware product](https://www.simonberens.com/p/lessons-learned-shipping-500-units)
 - [Data centers in space makes no sense](https://civai.org/blog/space-data-centers)
+## Afternoon/Evening Digest - 04-02-2026
+
+- [Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation](https://arxiv.org/abs/2602.00294)
+- [FBI couldn't get into WaPo reporter's iPhone because Lockdown Mode enabled](https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/)
+- [A sane but bull case on Clawdbot / OpenClaw](https://brandon.wang/2026/clawdbot)
