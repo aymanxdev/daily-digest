@@ -8200,3 +8200,8 @@
 - [Agent Skills](https://agentskills.io/home)
 - [What's up with all those equals signs anyway?](https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/)
 - [GitHub Browser Plugin for AI Contribution Blame in Pull Requests](https://blog.rbby.dev/posts/github-ai-contribution-blame-for-pull-requests/)
+## Morning Digest - 04-02-2026
+
+- [I miss thinking hard](https://www.jernesto.com/articles/thinking_hard)
+- [Lessons learned shipping 500 units of my first hardware product](https://www.simonberens.com/p/lessons-learned-shipping-500-units)
+- [Data centers in space makes no sense](https://civai.org/blog/space-data-centers)
