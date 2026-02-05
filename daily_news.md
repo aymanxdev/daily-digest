@@ -8210,3 +8210,8 @@
 - [Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation](https://arxiv.org/abs/2602.00294)
 - [FBI couldn't get into WaPo reporter's iPhone because Lockdown Mode enabled](https://www.404media.co/fbi-couldnt-get-into-wapo-reporters-iphone-because-it-had-lockdown-mode-enabled/)
 - [A sane but bull case on Clawdbot / OpenClaw](https://brandon.wang/2026/clawdbot)
+## Morning Digest - 05-02-2026
+
+- [Don't rent the cloud, own instead](https://blog.comma.ai/datacenter/)
+- [When internal hostnames are leaked to the clown](https://rachelbythebay.com/w/2026/02/03/badnas/)
+- [Wirth's Revenge](https://jmoiron.net/blog/wirths-revenge/)
