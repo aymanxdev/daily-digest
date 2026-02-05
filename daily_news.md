@@ -8215,3 +8215,8 @@
 - [Don't rent the cloud, own instead](https://blog.comma.ai/datacenter/)
 - [When internal hostnames are leaked to the clown](https://rachelbythebay.com/w/2026/02/03/badnas/)
 - [Wirth's Revenge](https://jmoiron.net/blog/wirths-revenge/)
+## Afternoon/Evening Digest - 05-02-2026
+
+- [Don't rent the cloud, own instead](https://blog.comma.ai/datacenter/)
+- [Company as Code](https://blog.42futures.com/p/company-as-code)
+- [The New Collabora Office for Desktop](https://www.collaboraonline.com/collabora-office/)
