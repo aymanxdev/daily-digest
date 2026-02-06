@@ -853,3 +853,4 @@ Cats can be right-pawed or left-pawed.
 A cat has approximately 60 to 80 million olfactory cells (a human has between 5 and 20 million).
 The Amur leopard is one of the most endangered animals in the world.
 Cats respond most readily to names that end in an \ee\" sound."""
+Cats have the largest eyes of any mammal.
