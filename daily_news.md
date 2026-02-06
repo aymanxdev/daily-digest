@@ -8225,3 +8225,8 @@
 - [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)
 - [Things Unix can do atomically (2010)](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
 - [Systems Thinking](http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html)
+## Afternoon/Evening Digest - 06-02-2026
+
+- [LLMs could be, but shouldn't be compilers](https://alperenkeles.com/posts/llms-could-be-but-shouldnt-be-compilers/)
+- [I now assume that all ads on Apple news are scams](https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/)
+- [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)
