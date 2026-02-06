@@ -8220,3 +8220,8 @@
 - [Don't rent the cloud, own instead](https://blog.comma.ai/datacenter/)
 - [Company as Code](https://blog.42futures.com/p/company-as-code)
 - [The New Collabora Office for Desktop](https://www.collaboraonline.com/collabora-office/)
+## Morning Digest - 06-02-2026
+
+- [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)
+- [Things Unix can do atomically (2010)](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
+- [Systems Thinking](http://theprogrammersparadox.blogspot.com/2026/02/systems-thinking.html)
