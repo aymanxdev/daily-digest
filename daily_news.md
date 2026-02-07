@@ -8230,3 +8230,8 @@
 - [LLMs could be, but shouldn't be compilers](https://alperenkeles.com/posts/llms-could-be-but-shouldnt-be-compilers/)
 - [I now assume that all ads on Apple news are scams](https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/)
 - [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)
+## Morning Digest - 07-02-2026
+
+- [OpenCiv3: Open-source, cross-platform reimagining of Civilization III](https://openciv3.org/)
+- [The Waymo World Model](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation)
+- [How we made geo joins 400× faster with H3 indexes](https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes)
