@@ -8235,3 +8235,8 @@
 - [OpenCiv3: Open-source, cross-platform reimagining of Civilization III](https://openciv3.org/)
 - [The Waymo World Model](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation)
 - [How we made geo joins 400× faster with H3 indexes](https://floedb.ai/blog/how-we-made-geo-joins-400-faster-with-h3-indexes)
+## Afternoon/Evening Digest - 07-02-2026
+
+- [France's homegrown open source online office suite](https://github.com/suitenumerique)
+- [Start all of your commands with a comma (2009)](https://rhodesmill.org/brandon/2009/commands-with-comma/)
+- [Hoot: Scheme on WebAssembly](https://www.spritely.institute/hoot/)
