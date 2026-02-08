@@ -8240,3 +8240,8 @@
 - [France's homegrown open source online office suite](https://github.com/suitenumerique)
 - [Start all of your commands with a comma (2009)](https://rhodesmill.org/brandon/2009/commands-with-comma/)
 - [Hoot: Scheme on WebAssembly](https://www.spritely.institute/hoot/)
+## Morning Digest - 08-02-2026
+
+- [DoNotNotify is now Open Source](https://donotnotify.com/opensource.html)
+- [Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://github.com/localgpt-app/localgpt)
+- [Haskell for all: Beyond agentic coding](https://haskellforall.com/2026/02/beyond-agentic-coding)
