@@ -8245,3 +8245,8 @@
 - [DoNotNotify is now Open Source](https://donotnotify.com/opensource.html)
 - [Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://github.com/localgpt-app/localgpt)
 - [Haskell for all: Beyond agentic coding](https://haskellforall.com/2026/02/beyond-agentic-coding)
+## Afternoon/Evening Digest - 08-02-2026
+
+- [AI fatigue Is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real)
+- [RFC 3092 – Etymology of "Foo" (2001)](https://datatracker.ietf.org/doc/html/rfc3092)
+- [GitHub Agentic Workflows](https://github.github.io/gh-aw/)
