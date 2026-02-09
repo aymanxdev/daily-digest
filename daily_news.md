@@ -8250,3 +8250,8 @@
 - [AI fatigue Is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 - [RFC 3092 – Etymology of "Foo" (2001)](https://datatracker.ietf.org/doc/html/rfc3092)
 - [GitHub Agentic Workflows](https://github.github.io/gh-aw/)
+## Morning Digest - 09-02-2026
+
+- [Art of Roads in Games](https://sandboxspirit.com/blog/art-of-roads-in-games/)
+- [Vouch](https://github.com/mitchellh/vouch)
+- [LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation](https://github.com/naver/lispe)
