@@ -8255,3 +8255,8 @@
 - [Art of Roads in Games](https://sandboxspirit.com/blog/art-of-roads-in-games/)
 - [Vouch](https://github.com/mitchellh/vouch)
 - [LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation](https://github.com/naver/lispe)
+## Afternoon/Evening Digest - 09-02-2026
+
+- [UEFI Bindings for JavaScript](https://codeberg.org/smnx/promethee)
+- [Thoughts on Generating C](https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c)
+- [Show HN: Algorithmically Finding the Longest Line of Sight on Earth](https://alltheviews.world)
