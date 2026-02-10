@@ -8260,3 +8260,8 @@
 - [UEFI Bindings for JavaScript](https://codeberg.org/smnx/promethee)
 - [Thoughts on Generating C](https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c)
 - [Show HN: Algorithmically Finding the Longest Line of Sight on Earth](https://alltheviews.world)
+## Morning Digest - 10-02-2026
+
+- [Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://arxiv.org/abs/2512.20798)
+- [Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser](https://github.com/TrevorS/voxtral-mini-realtime-rs)
+- [Discord will require a face scan or ID for full access next month](https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out)
