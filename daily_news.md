@@ -8270,3 +8270,8 @@
 - [Oxide raises $200M Series C](https://oxide.computer/blog/our-200m-series-c)
 - [Simplifying Vulkan One Subsystem at a Time](https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time)
 - [Clean-room implementation of Half-Life 2 on the Quake 1 engine](https://code.idtech.space/fn/hl2)
+## Morning Digest - 11-02-2026
+
+- [Windows Notepad App Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-20841)
+- [The Feynman Lectures on Physics (1961-1964)](https://www.feynmanlectures.caltech.edu/)
+- [The AI Vampire](https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163)
