@@ -8280,3 +8280,8 @@
 - [Who Smeared Feynman](https://blog.nuclearsecrecy.com/2014/07/11/smeared-richard-feynman/)
 - [FDA says companies can claim "no artificial colors" if they use natural dyes](https://www.foodpolitics.com/2026/02/fda-says-food-companies-can-claim-no-artificial-colors-if-they-use-natural-dyes/)
 - [GLM5 Released on Z.ai Platform](https://chat.z.ai/)
+## Morning Digest - 12-02-2026
+
+- [Warcraft III Peon Voice Notifications for Claude Code](https://github.com/tonyyont/peon-ping)
+- [Discord/Twitch/Snapchat age verification bypass](https://age-verifier.kibty.town/)
+- [65 Lines of Markdown, a Claude Code Sensation](https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html)
