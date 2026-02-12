@@ -8285,3 +8285,8 @@
 - [Warcraft III Peon Voice Notifications for Claude Code](https://github.com/tonyyont/peon-ping)
 - [Discord/Twitch/Snapchat age verification bypass](https://age-verifier.kibty.town/)
 - [65 Lines of Markdown, a Claude Code Sensation](https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html)
+## Afternoon/Evening Digest - 12-02-2026
+
+- [Email is tough: Major European Payment Processor's Emails aren't RFC-Compliant](https://atha.io/blog/2026-02-12-viva)
+- [Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed](http://blog.can.ac/2026/02/12/the-harness-problem/)
+- [The "Crown of Nobles" Noble Gas Tube Display (2024)](https://theshamblog.com/the-crown-of-nobles-noble-gas-tube-display/)
