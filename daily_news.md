@@ -8290,3 +8290,8 @@
 - [Email is tough: Major European Payment Processor's Emails aren't RFC-Compliant](https://atha.io/blog/2026-02-12-viva)
 - [Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed](http://blog.can.ac/2026/02/12/the-harness-problem/)
 - [The "Crown of Nobles" Noble Gas Tube Display (2024)](https://theshamblog.com/the-crown-of-nobles-noble-gas-tube-display/)
+## Morning Digest - 13-02-2026
+
+- [MinIO repository is no longer maintained](https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f)
+- [Resizing windows on macOS Tahoe – the saga continues](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/)
+- [MMAcevedo aka Lena by qntm](https://qntm.org/mmacevedo)
