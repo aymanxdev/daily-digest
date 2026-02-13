@@ -8295,3 +8295,8 @@
 - [MinIO repository is no longer maintained](https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f)
 - [Resizing windows on macOS Tahoe – the saga continues](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/)
 - [MMAcevedo aka Lena by qntm](https://qntm.org/mmacevedo)
+## Afternoon/Evening Digest - 13-02-2026
+
+- [Zed editor switching graphics lib from blade to wgpu](https://github.com/zed-industries/zed/pull/46758)
+- [Monosketch](https://monosketch.io/)
+- [Open Source Is Not About You (2018)](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
