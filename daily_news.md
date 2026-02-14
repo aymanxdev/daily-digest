@@ -8305,3 +8305,8 @@
 - [Zig – io_uring and Grand Central Dispatch std.Io implementations landed](https://ziglang.org/devlog/2026/#2026-02-13)
 - [Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL](https://github.com/mickamy/sql-tap)
 - [The Three Year Myth](https://green.spacedino.net/the-three-year-myth/)
+## Afternoon/Evening Digest - 14-02-2026
+
+- [Ooh.directory: a place to find good blogs that interest you](https://ooh.directory/)
+- [Zig – io_uring and Grand Central Dispatch std.Io implementations landed](https://ziglang.org/devlog/2026/#2026-02-13)
+- [Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB](https://github.com/datavorous/sameshi)
