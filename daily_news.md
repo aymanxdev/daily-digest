@@ -8300,3 +8300,8 @@
 - [Zed editor switching graphics lib from blade to wgpu](https://github.com/zed-industries/zed/pull/46758)
 - [Monosketch](https://monosketch.io/)
 - [Open Source Is Not About You (2018)](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9)
+## Morning Digest - 14-02-2026
+
+- [Zig – io_uring and Grand Central Dispatch std.Io implementations landed](https://ziglang.org/devlog/2026/#2026-02-13)
+- [Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL](https://github.com/mickamy/sql-tap)
+- [The Three Year Myth](https://green.spacedino.net/the-three-year-myth/)
