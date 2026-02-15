@@ -8315,3 +8315,8 @@
 - [I love the work of the ArchWiki maintainers](https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/)
 - [Flashpoint Archive – Over 200k web games and animations preserved](https://flashpointarchive.org)
 - [Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library](https://oat.ink/)
+## Afternoon/Evening Digest - 15-02-2026
+
+- [I Fixed Windows Native Development](https://marler8997.github.io/blog/fixed-windows/)
+- [I love the work of the ArchWiki maintainers](https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/)
+- [Kimi Claw](https://www.kimi.com/bot)
