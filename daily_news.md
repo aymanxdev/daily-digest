@@ -8310,3 +8310,8 @@
 - [Ooh.directory: a place to find good blogs that interest you](https://ooh.directory/)
 - [Zig – io_uring and Grand Central Dispatch std.Io implementations landed](https://ziglang.org/devlog/2026/#2026-02-13)
 - [Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB](https://github.com/datavorous/sameshi)
+## Morning Digest - 15-02-2026
+
+- [I love the work of the ArchWiki maintainers](https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/)
+- [Flashpoint Archive – Over 200k web games and animations preserved](https://flashpointarchive.org)
+- [Oat – Ultra-lightweight, semantic, zero-dependency HTML UI component library](https://oat.ink/)
