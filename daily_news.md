@@ -8325,3 +8325,8 @@
 - [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw)
 - [I want to wash my car. The car wash is 50 meters away. Should I walk or drive?](https://mastodon.world/@knowmadd/116072773118828295)
 - [Building SQLite with a small swarm](https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html)
+## Afternoon/Evening Digest - 16-02-2026
+
+- [Ministry of Justice orders deletion of the UK's largest court reporting database](https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/)
+- [Running My Own XMPP Server](https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/)
+- [Ghidra by NSA](https://github.com/NationalSecurityAgency/ghidra)
