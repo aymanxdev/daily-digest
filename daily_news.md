@@ -8320,3 +8320,8 @@
 - [I Fixed Windows Native Development](https://marler8997.github.io/blog/fixed-windows/)
 - [I love the work of the ArchWiki maintainers](https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/)
 - [Kimi Claw](https://www.kimi.com/bot)
+## Morning Digest - 16-02-2026
+
+- [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw)
+- [I want to wash my car. The car wash is 50 meters away. Should I walk or drive?](https://mastodon.world/@knowmadd/116072773118828295)
+- [Building SQLite with a small swarm](https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html)
