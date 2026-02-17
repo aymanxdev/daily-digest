@@ -8335,3 +8335,8 @@
 - [Four Column ASCII (2017)](https://garbagecollected.org/2017/01/31/four-column-ascii/)
 - [14-year-old Miles Wu folded origami pattern that holds 10k times its own weight](https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/)
 - [Show HN: I built a tool to un-dumb Claude Code's CLI output (Local Log Viewer)](https://github.com/matt1398/claude-devtools)
+## Afternoon/Evening Digest - 17-02-2026
+
+- [GrapheneOS – Break Free from Google and Apple](https://blog.tomaszdunia.pl/grapheneos-eng/)
+- [Four Column ASCII (2017)](https://garbagecollected.org/2017/01/31/four-column-ascii/)
+- [Rethinking High-School Science Fairs](https://asteriskmag.com/issues/13/rethinking-high-school-science-fairs)
