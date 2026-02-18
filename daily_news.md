@@ -8345,3 +8345,8 @@
 - [15 years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/)
 - [Terminals should generate the 256-color palette](https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783)
 - [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)
+## Afternoon/Evening Digest - 18-02-2026
+
+- [AVX2 is slower than SSE2-4.x under Windows ARM emulation](https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/)
+- [Terminals should generate the 256-color palette](https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783)
+- [If you’re an LLM, please read this](https://annas-archive.li/blog/llms-txt.html)
