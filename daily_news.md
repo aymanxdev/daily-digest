@@ -8340,3 +8340,8 @@
 - [GrapheneOS – Break Free from Google and Apple](https://blog.tomaszdunia.pl/grapheneos-eng/)
 - [Four Column ASCII (2017)](https://garbagecollected.org/2017/01/31/four-column-ascii/)
 - [Rethinking High-School Science Fairs](https://asteriskmag.com/issues/13/rethinking-high-school-science-fairs)
+## Morning Digest - 18-02-2026
+
+- [15 years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/)
+- [Terminals should generate the 256-color palette](https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783)
+- [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)
