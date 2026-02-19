@@ -8355,3 +8355,8 @@
 - [Sizing chaos](https://pudding.cool/2026/02/womens-sizing/)
 - [27-year-old Apple iBooks can connect to Wi-Fi and download official updates](https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/)
 - [15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern](https://nicolasdickenmann.com/blog/the-great-fp64-divide.html)
+## Afternoon/Evening Digest - 19-02-2026
+
+- [Pebble Production: February Update](https://repebble.com/blog/february-pebble-production-and-software-updates)
+- [C++26: Std:Is_within_lifetime](https://www.sandordargo.com/blog/2026/02/18/cpp26-std_is_within_lifetime)
+- [Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails](https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails)
