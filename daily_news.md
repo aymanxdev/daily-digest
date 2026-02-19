@@ -8350,3 +8350,8 @@
 - [AVX2 is slower than SSE2-4.x under Windows ARM emulation](https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/)
 - [Terminals should generate the 256-color palette](https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783)
 - [If you’re an LLM, please read this](https://annas-archive.li/blog/llms-txt.html)
+## Morning Digest - 19-02-2026
+
+- [Sizing chaos](https://pudding.cool/2026/02/womens-sizing/)
+- [27-year-old Apple iBooks can connect to Wi-Fi and download official updates](https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/)
+- [15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern](https://nicolasdickenmann.com/blog/the-great-fp64-divide.html)
