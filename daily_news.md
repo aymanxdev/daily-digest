@@ -8375,3 +8375,8 @@
 - [Keep Android Open](https://f-droid.org/2026/02/20/twif.html)
 - [Turn Dependabot off](https://words.filippo.io/dependabot/)
 - [I found a Vulnerability. They found a Lawyer](https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer)
+## Afternoon/Evening Digest - 21-02-2026
+
+- [I Verified My LinkedIn Identity. Here's What I Handed Over](https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/)
+- [Keep Android Open](https://f-droid.org/2026/02/20/twif.html)
+- [Turn Dependabot off](https://words.filippo.io/dependabot/)
