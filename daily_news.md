@@ -8370,3 +8370,8 @@
 - [Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI](https://github.com/ggml-org/llama.cpp/discussions/19759)
 - [I found a useful Git one liner buried in leaked CIA developer docs](https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html)
 - [How to Stop Being Boring](https://www.joanwestenberg.com/how-to-stop-being-boring/)
+## Morning Digest - 21-02-2026
+
+- [Keep Android Open](https://f-droid.org/2026/02/20/twif.html)
+- [Turn Dependabot off](https://words.filippo.io/dependabot/)
+- [I found a Vulnerability. They found a Lawyer](https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer)
