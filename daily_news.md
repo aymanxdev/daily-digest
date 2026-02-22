@@ -8380,3 +8380,8 @@
 - [I Verified My LinkedIn Identity. Here's What I Handed Over](https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/)
 - [Keep Android Open](https://f-droid.org/2026/02/20/twif.html)
 - [Turn Dependabot off](https://words.filippo.io/dependabot/)
+## Morning Digest - 22-02-2026
+
+- [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)
+- [Japanese Woodblock Print Search](https://ukiyo-e.org/)
+- [How Taalas "prints" LLM onto a chip?](https://www.anuragk.com/blog/posts/Taalas.html)
