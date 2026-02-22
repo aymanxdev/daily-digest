@@ -8385,3 +8385,8 @@
 - [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)
 - [Japanese Woodblock Print Search](https://ukiyo-e.org/)
 - [How Taalas "prints" LLM onto a chip?](https://www.anuragk.com/blog/posts/Taalas.html)
+## Afternoon/Evening Digest - 22-02-2026
+
+- [Attention Media ≠ Social Networks](https://susam.net/attention-media-vs-social-networks.html)
+- [What Is a Database Transaction?](https://planetscale.com/blog/database-transactions)
+- [Back to FreeBSD: Part 1](https://hypha.pub/back-to-freebsd-part-1)
