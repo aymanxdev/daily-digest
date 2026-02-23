@@ -8395,3 +8395,8 @@
 - [Sub-$200 Lidar could reshuffle auto sensor economics](https://spectrum.ieee.org/solid-state-lidar-microvision-adas)
 - [I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html)
 - [0 A.D. Release 28: Boiorix](https://play0ad.com/new-release-0-a-d-release-28-boiorix/)
+## Afternoon/Evening Digest - 23-02-2026
+
+- [The Age Verification Trap, Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification)
+- [Ladybird Browser adopts Rust](https://ladybird.org/posts/adopting-rust/)
+- [The peculiar case of Japanese web design](https://sabrinas.space)
