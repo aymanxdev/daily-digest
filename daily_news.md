@@ -8390,3 +8390,8 @@
 - [Attention Media ≠ Social Networks](https://susam.net/attention-media-vs-social-networks.html)
 - [What Is a Database Transaction?](https://planetscale.com/blog/database-transactions)
 - [Back to FreeBSD: Part 1](https://hypha.pub/back-to-freebsd-part-1)
+## Morning Digest - 23-02-2026
+
+- [Sub-$200 Lidar could reshuffle auto sensor economics](https://spectrum.ieee.org/solid-state-lidar-microvision-adas)
+- [I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html)
+- [0 A.D. Release 28: Boiorix](https://play0ad.com/new-release-0-a-d-release-28-boiorix/)
