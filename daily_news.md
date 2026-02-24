@@ -8405,3 +8405,8 @@
 - [Terence Tao, at 8 years old (1984) [pdf]](https://gwern.net/doc/iq/high/smpy/1984-clements.pdf)
 - [Firefox 148 Launches with AI Kill Switch Feature and More Enhancements](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
 - [Show HN: enveil – hide your .env secrets from prAIng eyes](https://github.com/GreatScott/enveil)
+## Afternoon/Evening Digest - 24-02-2026
+
+- [I Pitched a Roller Coaster to Disneyland at Age 10 in 1978](https://wordglyph.xyz/one-piece-at-a-time)
+- [IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight](https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html)
+- [Diode – Build, program, and simulate hardware](https://www.withdiode.com/)
