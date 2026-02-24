@@ -8400,3 +8400,8 @@
 - [The Age Verification Trap, Verifying age undermines everyone's data protection](https://spectrum.ieee.org/age-verification)
 - [Ladybird Browser adopts Rust](https://ladybird.org/posts/adopting-rust/)
 - [The peculiar case of Japanese web design](https://sabrinas.space)
+## Morning Digest - 24-02-2026
+
+- [Terence Tao, at 8 years old (1984) [pdf]](https://gwern.net/doc/iq/high/smpy/1984-clements.pdf)
+- [Firefox 148 Launches with AI Kill Switch Feature and More Enhancements](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
+- [Show HN: enveil – hide your .env secrets from prAIng eyes](https://github.com/GreatScott/enveil)
