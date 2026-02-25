@@ -8415,3 +8415,8 @@
 - [Sovereignty in a System Prompt](https://pop.rdi.sh/sovereignty-in-a-system-prompt/)
 - [I'm helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/)
 - [Show HN: Quantifying opportunity cost with a deliberately "simple" web app](https://shouldhavebought.com/)
+## Afternoon/Evening Digest - 25-02-2026
+
+- [Never Buy A .online Domain](https://www.0xsid.com/blog/online-tld-is-pain)
+- [Show HN: Clocksimulator.com – A minimalist, distraction-free analog clock](https://www.clocksimulator.com/)
+- [How to fold the Blade Runner origami unicorn (1996)](https://web.archive.org/web/20011104015933/www.linkclub.or.jp/~null/index_br.html)
