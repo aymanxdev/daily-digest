@@ -8410,3 +8410,8 @@
 - [I Pitched a Roller Coaster to Disneyland at Age 10 in 1978](https://wordglyph.xyz/one-piece-at-a-time)
 - [IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight](https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html)
 - [Diode – Build, program, and simulate hardware](https://www.withdiode.com/)
+## Morning Digest - 25-02-2026
+
+- [Sovereignty in a System Prompt](https://pop.rdi.sh/sovereignty-in-a-system-prompt/)
+- [I'm helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/)
+- [Show HN: Quantifying opportunity cost with a deliberately "simple" web app](https://shouldhavebought.com/)
