@@ -8420,3 +8420,8 @@
 - [Never Buy A .online Domain](https://www.0xsid.com/blog/online-tld-is-pain)
 - [Show HN: Clocksimulator.com – A minimalist, distraction-free analog clock](https://www.clocksimulator.com/)
 - [How to fold the Blade Runner origami unicorn (1996)](https://web.archive.org/web/20011104015933/www.linkclub.or.jp/~null/index_br.html)
+## Morning Digest - 26-02-2026
+
+- [Google API keys weren't secrets, but then Gemini changed the rules](https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules)
+- [Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)
+- [First Website (1992)](https://info.cern.ch)
