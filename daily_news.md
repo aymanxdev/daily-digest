@@ -8440,3 +8440,8 @@
 - [Statement from Dario Amodei on our discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war)
 - [We deserve a better streams API for JavaScript](https://blog.cloudflare.com/a-better-web-streams-api/)
 - [Can you reverse engineer our neural network?](https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/)
+## Morning Digest - 28-02-2026
+
+- [We Will Not Be Divided](https://notdivided.org)
+- [How do I cancel my ChatGPT subscription?](https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription)
+- [Croatia declared free of landmines after 31 years](https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533)
