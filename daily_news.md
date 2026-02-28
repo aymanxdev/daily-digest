@@ -8445,3 +8445,8 @@
 - [We Will Not Be Divided](https://notdivided.org)
 - [How do I cancel my ChatGPT subscription?](https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription)
 - [Croatia declared free of landmines after 31 years](https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533)
+## Afternoon/Evening Digest - 28-02-2026
+
+- [OpenAI – How to delete your account](https://help.openai.com/en/articles/6378407-how-to-delete-your-account)
+- [Don't trust AI agents](https://nanoclaw.dev/blog/nanoclaw-security-model)
+- [Timeline: Anthropic, OpenAI, and U.S. Government](https://anthropic-timeline.vercel.app)
