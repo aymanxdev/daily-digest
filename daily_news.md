@@ -8455,3 +8455,8 @@
 - [Microgpt](http://karpathy.github.io/2026/02/12/microgpt/)
 - [Switch to Claude without starting over](https://claude.com/import-memory)
 - [We do not think Anthropic should be designated as a supply chain risk](https://twitter.com/OpenAI/status/2027846016423321831)
+## Afternoon/Evening Digest - 01-03-2026
+
+- [AI Made Writing Code Easier. It Made Being an Engineer Harder](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
+- [Microgpt](http://karpathy.github.io/2026/02/12/microgpt/)
+- [Ghostty – Terminal Emulator](https://ghostty.org/docs)
