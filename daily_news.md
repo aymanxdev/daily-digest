@@ -8450,3 +8450,8 @@
 - [OpenAI – How to delete your account](https://help.openai.com/en/articles/6378407-how-to-delete-your-account)
 - [Don't trust AI agents](https://nanoclaw.dev/blog/nanoclaw-security-model)
 - [Timeline: Anthropic, OpenAI, and U.S. Government](https://anthropic-timeline.vercel.app)
+## Morning Digest - 01-03-2026
+
+- [Microgpt](http://karpathy.github.io/2026/02/12/microgpt/)
+- [Switch to Claude without starting over](https://claude.com/import-memory)
+- [We do not think Anthropic should be designated as a supply chain risk](https://twitter.com/OpenAI/status/2027846016423321831)
