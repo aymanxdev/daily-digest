@@ -8465,3 +8465,8 @@
 - [Motorola announces a partnership with GrapheneOS Foundation](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
 - [Making Video Games in 2025 (without an engine)](https://www.noelberry.ca/posts/making_games_in_2025/)
 - [Computer-generated dream world: Virtual reality for a 286 processor](https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/)
+## Afternoon/Evening Digest - 02-03-2026
+
+- [Motorola announces a partnership with GrapheneOS Foundation](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
+- [Anthropic Cowork feature creates 10GB VM bundle on macOS without warning](https://github.com/anthropics/claude-code/issues/22543)
+- [/e/OS is a complete "deGoogled", mobile ecosystem](https://e.foundation/e-os/)
