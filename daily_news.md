@@ -8460,3 +8460,8 @@
 - [AI Made Writing Code Easier. It Made Being an Engineer Harder](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
 - [Microgpt](http://karpathy.github.io/2026/02/12/microgpt/)
 - [Ghostty – Terminal Emulator](https://ghostty.org/docs)
+## Morning Digest - 02-03-2026
+
+- [Motorola announces a partnership with GrapheneOS Foundation](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
+- [Making Video Games in 2025 (without an engine)](https://www.noelberry.ca/posts/making_games_in_2025/)
+- [Computer-generated dream world: Virtual reality for a 286 processor](https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/)
