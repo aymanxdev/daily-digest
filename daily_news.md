@@ -8470,3 +8470,8 @@
 - [Motorola announces a partnership with GrapheneOS Foundation](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
 - [Anthropic Cowork feature creates 10GB VM bundle on macOS without warning](https://github.com/anthropics/claude-code/issues/22543)
 - [/e/OS is a complete "deGoogled", mobile ecosystem](https://e.foundation/e-os/)
+## Morning Digest - 03-03-2026
+
+- [Meta’s AI smart glasses and data privacy concerns](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
+- [Arm's Cortex X925: Reaching Desktop Performance](https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop)
+- [British Columbia is permanently adopting daylight time](https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657)
