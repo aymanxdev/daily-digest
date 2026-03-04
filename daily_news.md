@@ -8485,3 +8485,8 @@
 - [Motorola GrapheneOS devices will be bootloader unlockable/relockable](https://grapheneos.social/@GrapheneOS/116160393783585567)
 - [RFC 9849. TLS Encrypted Client Hello](https://www.rfc-editor.org/rfc/rfc9849.html)
 - [Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/)
+## Afternoon/Evening Digest - 04-03-2026
+
+- [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
+- [Motorola GrapheneOS devices will be bootloader unlockable/relockable](https://grapheneos.social/@GrapheneOS/116160393783585567)
+- [Qwen3.5 Fine-Tuning Guide – Unsloth Documentation](https://unsloth.ai/docs/models/qwen3.5/fine-tune)
