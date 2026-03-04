@@ -8480,3 +8480,8 @@
 - [I'm reluctant to verify my identity or age for any online services](https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/)
 - [India's top court angry after junior judge cites fake AI-generated orders](https://www.bbc.com/news/articles/c178zzw780xo)
 - [Apple introduces the new MacBook Air with M5](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/)
+## Morning Digest - 04-03-2026
+
+- [Motorola GrapheneOS devices will be bootloader unlockable/relockable](https://grapheneos.social/@GrapheneOS/116160393783585567)
+- [RFC 9849. TLS Encrypted Client Hello](https://www.rfc-editor.org/rfc/rfc9849.html)
+- [Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/)
