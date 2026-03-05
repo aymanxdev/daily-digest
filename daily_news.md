@@ -8495,3 +8495,8 @@
 - [Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift](https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23)
 - [Google Workspace CLI](https://github.com/googleworkspace/cli)
 - [MacBook Neo](https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/)
+## Afternoon/Evening Digest - 05-03-2026
+
+- [Judge Orders Government to Begin Refunding More Than $130B in Tariffs](https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c)
+- [Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift](https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23)
+- [Google Workspace CLI](https://github.com/googleworkspace/cli)
