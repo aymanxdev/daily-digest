@@ -8500,3 +8500,8 @@
 - [Judge Orders Government to Begin Refunding More Than $130B in Tariffs](https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c)
 - [Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift](https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23)
 - [Google Workspace CLI](https://github.com/googleworkspace/cli)
+## Morning Digest - 06-03-2026
+
+- [System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/)
+- [GPL upgrades via section 14 proxy delegation](https://runxiyu.org/comp/gplproxy/)
+- [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)
