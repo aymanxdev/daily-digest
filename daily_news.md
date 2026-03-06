@@ -8505,3 +8505,8 @@
 - [System76 on Age Verification Laws](https://blog.system76.com/post/system76-on-age-verification/)
 - [GPL upgrades via section 14 proxy delegation](https://runxiyu.org/comp/gplproxy/)
 - [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)
+## Afternoon/Evening Digest - 06-03-2026
+
+- [Global Warming Has Accelerated Significantly](https://www.researchgate.net/publication/389855619_Global_Warming_has_Accelerated_Significantly)
+- [Workers who love 'synergizing paradigms' might be bad at their jobs](https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs)
+- [US economy unexpectedly sheds 92,000 jobs in February](https://www.bbc.com/news/articles/cjd98091g28o)
