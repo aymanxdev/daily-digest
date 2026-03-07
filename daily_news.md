@@ -8510,3 +8510,8 @@
 - [Global Warming Has Accelerated Significantly](https://www.researchgate.net/publication/389855619_Global_Warming_has_Accelerated_Significantly)
 - [Workers who love 'synergizing paradigms' might be bad at their jobs](https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs)
 - [US economy unexpectedly sheds 92,000 jobs in February](https://www.bbc.com/news/articles/cjd98091g28o)
+## Morning Digest - 07-03-2026
+
+- [Plasma Bigscreen – 10-foot interface for KDE plasma](https://plasma-bigscreen.org)
+- [UUID package coming to Go standard library](https://github.com/golang/go/issues/62026)
+- [this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/)
