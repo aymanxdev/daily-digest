@@ -8515,3 +8515,8 @@
 - [Plasma Bigscreen – 10-foot interface for KDE plasma](https://plasma-bigscreen.org)
 - [UUID package coming to Go standard library](https://github.com/golang/go/issues/62026)
 - [this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/)
+## Morning Digest - 08-03-2026
+
+- [SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI](https://arxiv.org/abs/2603.03823)
+- [Cloud VM benchmarks 2026](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)
+- ["Warn about PyPy being unmaintained"](https://github.com/astral-sh/uv/pull/17643)
