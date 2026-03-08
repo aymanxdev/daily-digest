@@ -8520,3 +8520,8 @@
 - [SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI](https://arxiv.org/abs/2603.03823)
 - [Cloud VM benchmarks 2026](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)
 - ["Warn about PyPy being unmaintained"](https://github.com/astral-sh/uv/pull/17643)
+## Afternoon/Evening Digest - 08-03-2026
+
+- [Notes on Writing WASM](https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm)
+- [Why can't you tune your guitar? (2019)](https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/)
+- [CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git](https://github.com/kantord/blogtato)
