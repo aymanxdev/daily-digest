@@ -8530,3 +8530,8 @@
 - [US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]](https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf)
 - [Agent Safehouse – macOS-native sandboxing for local agents](https://agent-safehouse.dev/)
 - [Show HN: Mcp2cli – One CLI for every API, 96-99% fewer tokens than native MCP](https://github.com/knowsuchagency/mcp2cli)
+## Afternoon/Evening Digest - 09-03-2026
+
+- [Fontcrafter: Turn Your Handwriting into a Real Font](https://arcade.pirillo.com/fontcrafter.html)
+- [Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)](https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/)
+- [Reverse-engineering the UniFi inform protocol](https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol)
