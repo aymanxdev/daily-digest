@@ -8540,3 +8540,8 @@
 - [Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy](https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md)
 - [Lotus 1-2-3 on the PC with DOS](https://stonetools.ghost.io/lotus123-dos/)
 - [Two Years of Emacs Solo](https://www.rahuljuliato.com/posts/emacs-solo-two-years)
+## Afternoon/Evening Digest - 10-03-2026
+
+- [Turing Award winner and former Oxford professor Tony Hoare passed away](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html)
+- [Rebasing in Magit](https://entropicthoughts.com/rebasing-in-magit)
+- [Debian decides not to decide on AI-generated contributions](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
