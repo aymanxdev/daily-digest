@@ -8535,3 +8535,8 @@
 - [Fontcrafter: Turn Your Handwriting into a Real Font](https://arcade.pirillo.com/fontcrafter.html)
 - [Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)](https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/)
 - [Reverse-engineering the UniFi inform protocol](https://tamarack.cloud/blog/reverse-engineering-unifi-inform-protocol)
+## Morning Digest - 10-03-2026
+
+- [Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy](https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md)
+- [Lotus 1-2-3 on the PC with DOS](https://stonetools.ghost.io/lotus123-dos/)
+- [Two Years of Emacs Solo](https://www.rahuljuliato.com/posts/emacs-solo-two-years)
