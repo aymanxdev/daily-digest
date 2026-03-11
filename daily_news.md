@@ -8545,3 +8545,8 @@
 - [Turing Award winner and former Oxford professor Tony Hoare passed away](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html)
 - [Rebasing in Magit](https://entropicthoughts.com/rebasing-in-magit)
 - [Debian decides not to decide on AI-generated contributions](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
+## Morning Digest - 11-03-2026
+
+- [Why does AI tell you to use Terminal so much?](https://eclecticlight.co/2026/03/11/why-does-ai-tell-you-to-use-terminal-so-much/)
+- [Zig – Type Resolution Redesign and Language Changes](https://ziglang.org/devlog/2026/#2026-03-10)
+- [Create value for others and don’t worry about the returns](https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html)
