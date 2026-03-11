@@ -886,3 +886,4 @@ A cat's normal pulse is 140-240 beats per minute, with an average of 195.
 Cats make about 100 different sounds. Dogs make only about 10.
 Cats' hearing stops at 65 khz (kilohertz); humans' hearing stops at 20 khz.
 Tylenol and chocolate are both poisionous to cats.
+Cats' hearing is much more sensitive than humans and dogs.
