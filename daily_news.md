@@ -8560,3 +8560,8 @@
 - [SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]](https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf)
 - [Show HN: s@: decentralized social networking over static sites](http://satproto.org/)
 - [3D-Knitting: The Ultimate Guide](https://www.oliver-charles.com/pages/3d-knitting)
+## Afternoon/Evening Digest - 12-03-2026
+
+- [ATMs didn't kill bank Teller jobs, but the iPhone did](https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller)
+- [US banks' exposure to private credit hits $300B (2025)](https://alternativecreditinvestor.com/2025/10/22/us-banks-exposure-to-private-credit-hits-300bn/)
+- [Show HN: We analyzed 1,573 Claude Code sessions to see how AI agents work](https://github.com/obsessiondb/rudel)
