@@ -8555,3 +8555,8 @@
 - [Lego's 0.002 mm Specification and Its Implications for Manufacturing (2025)](https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/)
 - [Microsoft BitNet: 100B Param 1-Bit model for local CPUs](https://github.com/microsoft/BitNet)
 - [The entities enabling scientific fraud at scale are large, resilient and growing](https://doi.org/10.1073/pnas.2420092122)
+## Morning Digest - 12-03-2026
+
+- [SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]](https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf)
+- [Show HN: s@: decentralized social networking over static sites](http://satproto.org/)
+- [3D-Knitting: The Ultimate Guide](https://www.oliver-charles.com/pages/3d-knitting)
