@@ -8565,3 +8565,8 @@
 - [ATMs didn't kill bank Teller jobs, but the iPhone did](https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller)
 - [US banks' exposure to private credit hits $300B (2025)](https://alternativecreditinvestor.com/2025/10/22/us-banks-exposure-to-private-credit-hits-300bn/)
 - [Show HN: We analyzed 1,573 Claude Code sessions to see how AI agents work](https://github.com/obsessiondb/rudel)
+## Morning Digest - 13-03-2026
+
+- [Bucketsquatting Is (Finally) Dead](https://onecloudplease.com/blog/bucketsquatting-is-finally-dead)
+- [Willingness to look stupid](https://sharif.io/looking-stupid)
+- [Executing programs inside transformers with exponentially faster inference](https://www.percepta.ai/blog/can-llms-be-computers)
