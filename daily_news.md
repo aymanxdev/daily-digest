@@ -8570,3 +8570,8 @@
 - [Bucketsquatting Is (Finally) Dead](https://onecloudplease.com/blog/bucketsquatting-is-finally-dead)
 - [Willingness to look stupid](https://sharif.io/looking-stupid)
 - [Executing programs inside transformers with exponentially faster inference](https://www.percepta.ai/blog/can-llms-be-computers)
+## Afternoon/Evening Digest - 13-03-2026
+
+- [TUI Studio – visual terminal UI design tool](https://tui.studio/)
+- [Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas](https://www.getspine.ai/)
+- [I traced $2B in grants and 45 states' lobbying behind age‑verification bills](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/)
