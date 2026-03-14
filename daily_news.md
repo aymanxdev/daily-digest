@@ -8580,3 +8580,8 @@
 - [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga)
 - [A Survival Guide to a PhD (2016)](http://karpathy.github.io/2016/09/07/phd/)
 - [Emacs and Vim in the Age of AI](https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/)
+## Afternoon/Evening Digest - 14-03-2026
+
+- [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga)
+- [Baochip-1x: What It Is, Why I'm Doing It Now and How It Came About](https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about)
+- [XML Is a Cheap DSL](https://unplannedobsolescence.com/blog/xml-cheap-dsl/)
