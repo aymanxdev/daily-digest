@@ -8575,3 +8575,8 @@
 - [TUI Studio – visual terminal UI design tool](https://tui.studio/)
 - [Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas](https://www.getspine.ai/)
 - [I traced $2B in grants and 45 states' lobbying behind age‑verification bills](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/)
+## Morning Digest - 14-03-2026
+
+- [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga)
+- [A Survival Guide to a PhD (2016)](http://karpathy.github.io/2016/09/07/phd/)
+- [Emacs and Vim in the Age of AI](https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/)
