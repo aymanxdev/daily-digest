@@ -8590,3 +8590,8 @@
 - [Rack-mount hydroponics](https://sa.lj.am/rack-mount-hydroponics/)
 - [Why Mathematica does not simplify sinh(arccosh(x))](https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/)
 - [Treasure hunter freed from jail after refusing to turn over shipwreck gold](https://www.bbc.com/news/articles/cg4g7kn99q3o)
+## Afternoon/Evening Digest - 15-03-2026
+
+- [100 hour gap between a vibecoded prototype and a working product](https://kanfa.macbudkowski.com/vibecoding-cryptosaurus)
+- [A Visual Introduction to Machine Learning (2015)](https://r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
