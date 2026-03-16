@@ -8595,3 +8595,8 @@
 - [100 hour gap between a vibecoded prototype and a working product](https://kanfa.macbudkowski.com/vibecoding-cryptosaurus)
 - [A Visual Introduction to Machine Learning (2015)](https://r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
+## Morning Digest - 16-03-2026
+
+- [Canada's bill C-22 mandates mass metadata surveillance](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/)
+- [I may 'hire' AI instead of a graduate student](https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student)
+- [Starlink Mini as a Failover](https://www.jackpearce.co.uk/posts/starlink-failover/)
