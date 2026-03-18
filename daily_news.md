@@ -8620,3 +8620,8 @@
 - [JPEG Compression](https://www.sophielwang.com/blog/jpeg)
 - [Write up of my homebrew CPU build](https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/)
 - [Mistral AI Releases Forge](https://mistral.ai/news/forge)
+## Afternoon/Evening Digest - 18-03-2026
+
+- [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
+- [Nightingale – open-source karaoke app that works with any song on your computer](https://nightingale.cafe/)
+- [Pandas Exercises for Data Analysis (Interactive)](https://machinelearningplus.com/python/101-pandas-exercises-python-interactive/)
