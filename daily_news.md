@@ -8615,3 +8615,8 @@
 - [Kagi Small Web](https://kagi.com/smallweb/)
 - [Kagi Translate now supports LinkedIn Speak as an output language](https://translate.kagi.com/?from=en&to=LinkedIn+speak)
 - [Why Node.js needs a virtual file system](https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system)
+## Morning Digest - 18-03-2026
+
+- [JPEG Compression](https://www.sophielwang.com/blog/jpeg)
+- [Write up of my homebrew CPU build](https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/)
+- [Mistral AI Releases Forge](https://mistral.ai/news/forge)
