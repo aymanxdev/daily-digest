@@ -8630,3 +8630,8 @@
 - [Conway's Game of Life, in real life](https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life)
 - [Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe](https://gitlab.com/IsolatedOctopi/nvidia_greenboost)
 - [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
+## Afternoon/Evening Digest - 19-03-2026
+
+- [Astral to Join OpenAI](https://astral.sh/blog/openai)
+- [OpenBSD: PF queues break the 4 Gbps barrier](https://undeadly.org/cgi?action=article;sid=20260319125859)
+- [Juggalo Makeup Blocks Facial Recognition Technology (2019)](https://consequence.net/2019/07/juggalo-makeup-facial-recognition/)
