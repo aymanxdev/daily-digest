@@ -8625,3 +8625,8 @@
 - [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
 - [Nightingale – open-source karaoke app that works with any song on your computer](https://nightingale.cafe/)
 - [Pandas Exercises for Data Analysis (Interactive)](https://machinelearningplus.com/python/101-pandas-exercises-python-interactive/)
+## Morning Digest - 19-03-2026
+
+- [Conway's Game of Life, in real life](https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life)
+- [Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe](https://gitlab.com/IsolatedOctopi/nvidia_greenboost)
+- [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
