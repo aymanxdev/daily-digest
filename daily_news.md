@@ -8635,3 +8635,8 @@
 - [Astral to Join OpenAI](https://astral.sh/blog/openai)
 - [OpenBSD: PF queues break the 4 Gbps barrier](https://undeadly.org/cgi?action=article;sid=20260319125859)
 - [Juggalo Makeup Blocks Facial Recognition Technology (2019)](https://consequence.net/2019/07/juggalo-makeup-facial-recognition/)
+## Morning Digest - 20-03-2026
+
+- [ArXiv Declares Independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell)
+- [FSF Threatens Anthropic over Infringed Copyright: Share Your LLMs Freel](https://www.fsf.org/blogs/licensing/2026-anthropic-settlement)
+- [Google details new 24-hour process to sideload unverified Android apps](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/)
