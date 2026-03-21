@@ -8640,3 +8640,8 @@
 - [ArXiv Declares Independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell)
 - [FSF Threatens Anthropic over Infringed Copyright: Share Your LLMs Freel](https://www.fsf.org/blogs/licensing/2026-anthropic-settlement)
 - [Google details new 24-hour process to sideload unverified Android apps](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/)
+## Morning Digest - 21-03-2026
+
+- [OpenCode – Open source AI coding agent](https://opencode.ai/)
+- [Mamba-3](https://www.together.ai/blog/mamba-3)
+- [FFmpeg 101 (2024)](https://blogs.igalia.com/llepage/ffmpeg-101/)
