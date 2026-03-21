@@ -8645,3 +8645,8 @@
 - [OpenCode – Open source AI coding agent](https://opencode.ai/)
 - [Mamba-3](https://www.together.ai/blog/mamba-3)
 - [FFmpeg 101 (2024)](https://blogs.igalia.com/llepage/ffmpeg-101/)
+## Afternoon/Evening Digest - 21-03-2026
+
+- [OpenCode – Open source AI coding agent](https://opencode.ai/)
+- [Mamba-3](https://www.together.ai/blog/mamba-3)
+- [Meta's Omnilingual MT for 1,600 Languages](https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/?_fb_noscript=1)
