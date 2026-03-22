@@ -8650,3 +8650,8 @@
 - [OpenCode – Open source AI coding agent](https://opencode.ai/)
 - [Mamba-3](https://www.together.ai/blog/mamba-3)
 - [Meta's Omnilingual MT for 1,600 Languages](https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/?_fb_noscript=1)
+## Morning Digest - 22-03-2026
+
+- [The three pillars of JavaScript bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat)
+- [My first patch to the Linux kernel](https://pooladkhay.com/posts/first-kernel-patch/)
+- [Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence](https://zenodo.org/records/18976656)
