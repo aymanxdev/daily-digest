@@ -8665,3 +8665,8 @@
 - [POSSE – Publish on your Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE)
 - [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/)
 - [Walmart: ChatGPT checkout converted 3x worse than website](https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071)
+## Afternoon/Evening Digest - 23-03-2026
+
+- [If Dspy is so great, why isn't anyone using it?](https://skylarbpayne.com/posts/dspy-engineering-patterns/)
+- [Study: 'Security Fatigue' May Weaken Digital Defenses](https://www.albany.edu/news-center/news/2026-study-security-fatigue-may-weaken-digital-defenses)
+- [Cyber.mil serving file downloads using TLS certificate which expired 3 days ago](https://www.cyber.mil/stigs/downloads)
