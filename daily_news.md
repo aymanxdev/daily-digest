@@ -8675,3 +8675,8 @@
 - [Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home](https://www.jackhogan.me/blog/box-of-secrets/)
 - [Log File Viewer for the Terminal](https://lnav.org/)
 - [Opera: Rewind The Web to 1996 (Opera at 30)](https://www.web-rewind.com)
+## Afternoon/Evening Digest - 24-03-2026
+
+- [LiteLLM Python package compromised by supply-chain attack](https://github.com/BerriAI/litellm/issues/24512)
+- [Major insider trading on oil detected ahead of Iran talks](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-24-2026/card/mystery-jump-in-oil-trading-ahead-of-trump-post-draws-scrutiny-56sgwdXtlOlonqIKDsL6)
+- [Hypothesis, Antithesis, Synthesis](https://antithesis.com/blog/2026/hegel/)
