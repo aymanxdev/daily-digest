@@ -8670,3 +8670,8 @@
 - [If Dspy is so great, why isn't anyone using it?](https://skylarbpayne.com/posts/dspy-engineering-patterns/)
 - [Study: 'Security Fatigue' May Weaken Digital Defenses](https://www.albany.edu/news-center/news/2026-study-security-fatigue-may-weaken-digital-defenses)
 - [Cyber.mil serving file downloads using TLS certificate which expired 3 days ago](https://www.cyber.mil/stigs/downloads)
+## Morning Digest - 24-03-2026
+
+- [Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home](https://www.jackhogan.me/blog/box-of-secrets/)
+- [Log File Viewer for the Terminal](https://lnav.org/)
+- [Opera: Rewind The Web to 1996 (Opera at 30)](https://www.web-rewind.com)
