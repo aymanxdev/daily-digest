@@ -8685,3 +8685,8 @@
 - [Why I forked httpx](https://tildeweb.nl/~michiel/httpxyz.html)
 - [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
 - [VitruvianOS – Desktop Linux Inspired by the BeOS](https://v-os.dev)
+## Afternoon/Evening Digest - 25-03-2026
+
+- [Local LLM App by Ente](https://ente.com/blog/ensu/)
+- [My Astrophotography in the Movie Project Hail Mary](https://rpastro.square.site/s/stories/phm)
+- [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
