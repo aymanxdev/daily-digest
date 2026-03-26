@@ -8695,3 +8695,8 @@
 - [Personal Encyclopedias](https://whoami.wiki/blog/personal-encyclopedias)
 - [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
 - [What came after the 486?](https://dfarq.homeip.net/what-came-after-486/)
+## Afternoon/Evening Digest - 26-03-2026
+
+- [Moving from GitHub to Codeberg, for lazy people](https://unterwaditzer.net/2025/codeberg.html)
+- [European Parliament decided that Chat Control 1.0 must stop](https://bsky.app/profile/tuta.com/post/3mhxkfowv322c)
+- [Personal Encyclopedias](https://whoami.wiki/blog/personal-encyclopedias)
