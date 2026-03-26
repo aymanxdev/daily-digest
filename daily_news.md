@@ -8690,3 +8690,8 @@
 - [Local LLM App by Ente](https://ente.com/blog/ensu/)
 - [My Astrophotography in the Movie Project Hail Mary](https://rpastro.square.site/s/stories/phm)
 - [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+## Morning Digest - 26-03-2026
+
+- [Personal Encyclopedias](https://whoami.wiki/blog/personal-encyclopedias)
+- [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
+- [What came after the 486?](https://dfarq.homeip.net/what-came-after-486/)
