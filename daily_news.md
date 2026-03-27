@@ -8705,3 +8705,8 @@
 - [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/)
 - [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks)
 - [The European AllSky7 fireball network](https://www.allsky7.net/#archive)
+## Afternoon/Evening Digest - 27-03-2026
+
+- [Anatomy of the .claude/ Folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
+- [The 'Paperwork Flood': How I Drowned a Bureaucrat Before Dinner](https://sightlessscribbles.com/posts/the-paperwork-flood/)
+- [Installing a Let's Encrypt TLS Certificate on a Brother Printer with Certbot](https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare))
