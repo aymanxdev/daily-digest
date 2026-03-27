@@ -8700,3 +8700,8 @@
 - [Moving from GitHub to Codeberg, for lazy people](https://unterwaditzer.net/2025/codeberg.html)
 - [European Parliament decided that Chat Control 1.0 must stop](https://bsky.app/profile/tuta.com/post/3mhxkfowv322c)
 - [Personal Encyclopedias](https://whoami.wiki/blog/personal-encyclopedias)
+## Morning Digest - 27-03-2026
+
+- [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/)
+- [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks)
+- [The European AllSky7 fireball network](https://www.allsky7.net/#archive)
