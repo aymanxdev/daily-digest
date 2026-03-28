@@ -8715,3 +8715,8 @@
 - [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/)
 - [CERN uses tiny AI models burned into silicon for real-time LHC data filtering](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering)
 - [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/)
+## Afternoon/Evening Digest - 28-03-2026
+
+- [I put all 8,642 Spanish laws in Git – every reform is a commit](https://github.com/EnriqueLop/legalize-es)
+- [AI chatbots are "Yes-Men" that reinforce bad relationship decisions, study finds](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
+- [Britain today generating 90%+ of electricity from renewables](https://grid.iamkate.com/)
