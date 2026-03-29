@@ -8725,3 +8725,8 @@
 - [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/)
 - [When Do We Become Adults, Really?](https://www.newyorker.com/culture/annals-of-inquiry/when-do-we-become-adults-really)
 - [The road to electric – in charts and data [UK]](https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/)
+## Afternoon/Evening Digest - 29-03-2026
+
+- [Overestimation of microplastics potentially caused by scientists' gloves](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/)
+- [Miasma: A tool to trap AI web scrapers in an endless poison pit](https://github.com/austin-weeks/miasma)
+- [Building a Mostly IPv6 Only Home Network](https://varunpriolkar.com/2026/03/building-a-mostly-ipv6-only-home-network/)
