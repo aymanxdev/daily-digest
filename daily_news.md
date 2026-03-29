@@ -8720,3 +8720,8 @@
 - [I put all 8,642 Spanish laws in Git – every reform is a commit](https://github.com/EnriqueLop/legalize-es)
 - [AI chatbots are "Yes-Men" that reinforce bad relationship decisions, study finds](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research)
 - [Britain today generating 90%+ of electricity from renewables](https://grid.iamkate.com/)
+## Morning Digest - 29-03-2026
+
+- [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/)
+- [When Do We Become Adults, Really?](https://www.newyorker.com/culture/annals-of-inquiry/when-do-we-become-adults-really)
+- [The road to electric – in charts and data [UK]](https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/)
