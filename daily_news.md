@@ -8730,3 +8730,8 @@
 - [Overestimation of microplastics potentially caused by scientists' gloves](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/)
 - [Miasma: A tool to trap AI web scrapers in an endless poison pit](https://github.com/austin-weeks/miasma)
 - [Building a Mostly IPv6 Only Home Network](https://varunpriolkar.com/2026/03/building-a-mostly-ipv6-only-home-network/)
+## Morning Digest - 30-03-2026
+
+- [The curious case of retro demo scene graphics](https://www.datagubbe.se/aipixels/)
+- [I use excalidraw to manage my diagrams for my blog](https://blog.lysk.tech/excalidraw-frame-export/)
+- [ChatGPT won't let you type until Cloudflare reads your React state](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
