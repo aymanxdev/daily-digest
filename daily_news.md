@@ -8735,3 +8735,8 @@
 - [The curious case of retro demo scene graphics](https://www.datagubbe.se/aipixels/)
 - [I use excalidraw to manage my diagrams for my blog](https://blog.lysk.tech/excalidraw-frame-export/)
 - [ChatGPT won't let you type until Cloudflare reads your React state](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
+## Afternoon/Evening Digest - 30-03-2026
+
+- [How to Turn Anything into a Router](https://nbailey.ca/post/router/)
+- [Parrots pack twice as many neurons as primate brains of the same mass](https://www.dhanishsemar.com/writing/bird-brains)
+- [Mathematical methods and human thought in the age of AI](https://arxiv.org/abs/2603.26524)
