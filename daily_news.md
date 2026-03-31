@@ -8740,3 +8740,8 @@
 - [How to Turn Anything into a Router](https://nbailey.ca/post/router/)
 - [Parrots pack twice as many neurons as primate brains of the same mass](https://www.dhanishsemar.com/writing/bird-brains)
 - [Mathematical methods and human thought in the age of AI](https://arxiv.org/abs/2603.26524)
+## Morning Digest - 31-03-2026
+
+- [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan)
+- [Ollama is now powered by MLX on Apple Silicon in preview](https://ollama.com/blog/mlx)
+- [Artemis II is not safe to fly](https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm)
