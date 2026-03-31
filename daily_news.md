@@ -8745,3 +8745,8 @@
 - [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan)
 - [Ollama is now powered by MLX on Apple Silicon in preview](https://ollama.com/blog/mlx)
 - [Artemis II is not safe to fly](https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm)
+## Afternoon/Evening Digest - 31-03-2026
+
+- [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan)
+- [Open source CAD in the browser (Solvespace)](https://solvespace.com/webver.pl)
+- [Oracle slashes 30k jobs with a cold 6 a.m. email](https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/)
