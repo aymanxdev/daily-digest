@@ -8750,3 +8750,8 @@
 - [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan)
 - [Open source CAD in the browser (Solvespace)](https://solvespace.com/webver.pl)
 - [Oracle slashes 30k jobs with a cold 6 a.m. email](https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/)
+## Morning Digest - 01-04-2026
+
+- [CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts)
+- [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/)
+- [Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)](https://github.com/yannick-cw/korb)
