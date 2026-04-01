@@ -8755,3 +8755,8 @@
 - [CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts)
 - [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/)
 - [Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)](https://github.com/yannick-cw/korb)
+## Afternoon/Evening Digest - 01-04-2026
+
+- [Is BGP Safe Yet? No. Test Your ISP](https://isbgpsafeyet.com/)
+- [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/)
+- [CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts)
