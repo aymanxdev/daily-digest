@@ -8760,3 +8760,8 @@
 - [Is BGP Safe Yet? No. Test Your ISP](https://isbgpsafeyet.com/)
 - [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/)
 - [CERN levels up with new superconducting karts](https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts)
+## Morning Digest - 02-04-2026
+
+- [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing)
+- [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/)
+- [Live: Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/)
