@@ -8765,3 +8765,8 @@
 - [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing)
 - [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/)
 - [Live: Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/)
+## Afternoon/Evening Digest - 02-04-2026
+
+- [LinkedIn Is Illegally Searching Your Computer](https://browsergate.eu/)
+- [Qwen3.6-Plus: Towards Real World Agents](https://qwen.ai/blog?id=qwen3.6)
+- [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai)
