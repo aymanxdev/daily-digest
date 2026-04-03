@@ -8770,3 +8770,8 @@
 - [LinkedIn Is Illegally Searching Your Computer](https://browsergate.eu/)
 - [Qwen3.6-Plus: Towards Real World Agents](https://qwen.ai/blog?id=qwen3.6)
 - [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai)
+## Morning Digest - 03-04-2026
+
+- [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/)
+- [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion)
+- [ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO](https://www.espressif.com/en/news/ESP32_S31_Release)
