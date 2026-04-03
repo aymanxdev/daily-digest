@@ -8775,3 +8775,8 @@
 - [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/)
 - [Decisions that eroded trust in Azure – by a former Azure Core engineer](https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion)
 - [ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO](https://www.espressif.com/en/news/ESP32_S31_Release)
+## Afternoon/Evening Digest - 03-04-2026
+
+- [Marc Andreessen is wrong about introspection](https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/)
+- [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/)
+- [Solar and batteries can power the world](https://nworbmot.org/blog/solar-battery-world.html)
