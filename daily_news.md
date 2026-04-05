@@ -8780,3 +8780,8 @@
 - [Marc Andreessen is wrong about introspection](https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/)
 - [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/)
 - [Solar and batteries can power the world](https://nworbmot.org/blog/solar-battery-world.html)
+## Morning Digest - 05-04-2026
+
+- [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/)
+- [Introduction to Computer Music (2009) [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf)
+- [OpenScreen is an open-source alternative to Screen Studio](https://github.com/siddharthvaddem/openscreen)
