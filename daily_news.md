@@ -8785,3 +8785,8 @@
 - [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/)
 - [Introduction to Computer Music (2009) [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf)
 - [OpenScreen is an open-source alternative to Screen Studio](https://github.com/siddharthvaddem/openscreen)
+## Afternoon/Evening Digest - 05-04-2026
+
+- [Someone at BrowserStack Is Leaking Users' Email Address](https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/)
+- [Finnish sauna heat exposure induces stronger immune cell than cytokine responses](https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract)
+- [The threat is comfortable drift toward not understanding what you're doing](https://ergosphere.blog/posts/the-machines-are-fine/)
