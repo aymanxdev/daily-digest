@@ -8790,3 +8790,8 @@
 - [Someone at BrowserStack Is Leaking Users' Email Address](https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/)
 - [Finnish sauna heat exposure induces stronger immune cell than cytokine responses](https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract)
 - [The threat is comfortable drift toward not understanding what you're doing](https://ergosphere.blog/posts/the-machines-are-fine/)
+## Morning Digest - 06-04-2026
+
+- [Euro-Office – Your sovereign office](https://github.com/Euro-Office)
+- [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm)
+- [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337)
