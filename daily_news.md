@@ -8805,3 +8805,8 @@
 - [Every GPU That Mattered](https://sheets.works/data-viz/every-gpu)
 - [My Experience as a Rice Farmer](https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html)
 - [Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)
+## Afternoon/Evening Digest - 07-04-2026
+
+- [Claude Code is locking people out for hours](https://github.com/anthropics/claude-code/issues/44257)
+- [Show HN: Brutalist Concrete Laptop Stand (2024)](https://sam-burns.com/posts/concrete-laptop-stand/)
+- [We found an undocumented bug in the Apollo 11 guidance computer code](https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/)
