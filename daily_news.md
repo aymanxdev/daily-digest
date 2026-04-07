@@ -8800,3 +8800,8 @@
 - [I Won't Download Your App. The Web Version Is A-OK](https://www.0xsid.com/blog/wont-download-your-app)
 - [Germany Doxes "UNKN," Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
 - [What Being Ripped Off Taught Me](https://belief.horse/notes/what-being-ripped-off-taught-me/)
+## Morning Digest - 07-04-2026
+
+- [Every GPU That Mattered](https://sheets.works/data-viz/every-gpu)
+- [My Experience as a Rice Farmer](https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html)
+- [Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)
