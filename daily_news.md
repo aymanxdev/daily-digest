@@ -8810,3 +8810,8 @@
 - [Claude Code is locking people out for hours](https://github.com/anthropics/claude-code/issues/44257)
 - [Show HN: Brutalist Concrete Laptop Stand (2024)](https://sam-burns.com/posts/concrete-laptop-stand/)
 - [We found an undocumented bug in the Apollo 11 guidance computer code](https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/)
+## Morning Digest - 08-04-2026
+
+- [Veracrypt Project Update](https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/)
+- [Revision Demoparty 2026: Razor1911 [video]](https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s)
+- [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
