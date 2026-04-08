@@ -8815,3 +8815,8 @@
 - [Veracrypt Project Update](https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/)
 - [Revision Demoparty 2026: Razor1911 [video]](https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s)
 - [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
+## Afternoon/Evening Digest - 08-04-2026
+
+- [Git commands I run before reading any code](https://piechowski.io/post/git-commands-before-reading-code/)
+- [MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU](https://arxiv.org/abs/2604.05091)
+- [Show HN: We fingerprinted 178 AI models' writing styles and similarity clusters](https://rival.tips/research/model-similarity)
