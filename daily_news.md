@@ -8825,3 +8825,8 @@
 - [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
 - [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral)
 - [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)
+## Afternoon/Evening Digest - 09-04-2026
+
+- [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
+- [Clean code in the age of coding agents](https://www.yanist.com/clean-code-in-the-age-of-coding-agents/)
+- [A WebGPU Implementation of Augmented Vertex Block Descent](https://github.com/jure/webphysics)
