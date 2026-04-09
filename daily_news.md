@@ -8820,3 +8820,8 @@
 - [Git commands I run before reading any code](https://piechowski.io/post/git-commands-before-reading-code/)
 - [MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU](https://arxiv.org/abs/2604.05091)
 - [Show HN: We fingerprinted 178 AI models' writing styles and similarity clusters](https://rival.tips/research/model-similarity)
+## Morning Digest - 09-04-2026
+
+- [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
+- [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral)
+- [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)
