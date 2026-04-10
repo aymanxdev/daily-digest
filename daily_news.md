@@ -8835,3 +8835,8 @@
 - [How NASA built Artemis II’s fault-tolerant computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/)
 - [I still prefer MCP over skills](https://david.coffee/i-still-prefer-mcp-over-skills/)
 - [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
+## Afternoon/Evening Digest - 10-04-2026
+
+- [Mysteries of Dropbox: Property-Based Testing of a Distributed Sync Service [pdf]](https://www.cis.upenn.edu/~bcpierce/papers/mysteriesofdropbox.pdf)
+- [Code is run more than read (2023)](https://olano.dev/blog/code-is-run-more-than-read/)
+- [CPU-Z and HWMonitor Compromised](https://old.reddit.com/r/pcmasterrace/comments/1sh4e5l/warning_hwmonitor_163_download_on_the_official/)
