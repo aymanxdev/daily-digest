@@ -8830,3 +8830,8 @@
 - [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
 - [Clean code in the age of coding agents](https://www.yanist.com/clean-code-in-the-age-of-coding-agents/)
 - [A WebGPU Implementation of Augmented Vertex Block Descent](https://github.com/jure/webphysics)
+## Morning Digest - 10-04-2026
+
+- [How NASA built Artemis II’s fault-tolerant computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/)
+- [I still prefer MCP over skills](https://david.coffee/i-still-prefer-mcp-over-skills/)
+- [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
