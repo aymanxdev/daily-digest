@@ -8845,3 +8845,8 @@
 - [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/)
 - [Starfling: A one-tap endless orbital slingshot game in a single HTML file](https://playstarfling.com)
 - [1D Chess](https://rowan441.github.io/1dchess/chess.html)
+## Afternoon/Evening Digest - 11-04-2026
+
+- [Cirrus Labs to join OpenAI](https://cirruslabs.org/)
+- [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/)
+- [Cooperative Vectors Introduction](https://www.evolvebenchmark.com/blog-posts/cooperative-vectors-introduction)
