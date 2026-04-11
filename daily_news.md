@@ -8840,3 +8840,8 @@
 - [Mysteries of Dropbox: Property-Based Testing of a Distributed Sync Service [pdf]](https://www.cis.upenn.edu/~bcpierce/papers/mysteriesofdropbox.pdf)
 - [Code is run more than read (2023)](https://olano.dev/blog/code-is-run-more-than-read/)
 - [CPU-Z and HWMonitor Compromised](https://old.reddit.com/r/pcmasterrace/comments/1sh4e5l/warning_hwmonitor_163_download_on_the_official/)
+## Morning Digest - 11-04-2026
+
+- [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/)
+- [Starfling: A one-tap endless orbital slingshot game in a single HTML file](https://playstarfling.com)
+- [1D Chess](https://rowan441.github.io/1dchess/chess.html)
