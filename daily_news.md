@@ -8850,3 +8850,8 @@
 - [Cirrus Labs to join OpenAI](https://cirruslabs.org/)
 - [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/)
 - [Cooperative Vectors Introduction](https://www.evolvebenchmark.com/blog-posts/cooperative-vectors-introduction)
+## Morning Digest - 12-04-2026
+
+- [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
+- [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack)
+- [Anthropic silently downgraded cache TTL from 1h → 5M on March 6th](https://github.com/anthropics/claude-code/issues/46829)
