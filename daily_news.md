@@ -8860,3 +8860,8 @@
 - [Pro Max 5x Quota Exhausted in 1.5 Hours Despite Moderate Usage](https://github.com/anthropics/claude-code/issues/45756)
 - [Bring Back Idiomatic Design](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design)
 - [Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)](https://github.com/rochus-keller/OberonSystem3Native/releases)
+## Morning Digest - 13-04-2026
+
+- [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)
+- [The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind](https://www.viktorcessan.com/the-economics-of-software-teams/)
+- [Taking on CUDA with ROCm: 'One Step After Another'](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/)
