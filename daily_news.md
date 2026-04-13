@@ -8865,3 +8865,8 @@
 - [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)
 - [The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind](https://www.viktorcessan.com/the-economics-of-software-teams/)
 - [Taking on CUDA with ROCm: 'One Step After Another'](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/)
+## Afternoon/Evening Digest - 13-04-2026
+
+- [Make Tmux Pretty and Usable](https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
+- [Servo is now available on crates.io](https://servo.org/blog/2026/04/13/servo-0.1.0-release/)
+- [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)
