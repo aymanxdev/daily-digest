@@ -8870,3 +8870,8 @@
 - [Make Tmux Pretty and Usable](https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
 - [Servo is now available on crates.io](https://servo.org/blog/2026/04/13/servo-0.1.0-release/)
 - [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)
+## Morning Digest - 14-04-2026
+
+- [DaVinci Resolve – Photo](https://www.blackmagicdesign.com/products/davinciresolve/photo)
+- [A new spam policy for “back button hijacking”](https://developers.google.com/search/blog/2026/04/back-button-hijacking)
+- [An AI Vibe Coding Horror Story](https://www.tobru.ch/an-ai-vibe-coding-horror-story/)
