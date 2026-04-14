@@ -8875,3 +8875,8 @@
 - [DaVinci Resolve – Photo](https://www.blackmagicdesign.com/products/davinciresolve/photo)
 - [A new spam policy for “back button hijacking”](https://developers.google.com/search/blog/2026/04/back-button-hijacking)
 - [An AI Vibe Coding Horror Story](https://www.tobru.ch/an-ai-vibe-coding-horror-story/)
+## Afternoon/Evening Digest - 14-04-2026
+
+- [Rare concert records going on Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/)
+- [What is jj and why should I care?](https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html)
+- [DaVinci Resolve – Photo](https://www.blackmagicdesign.com/products/davinciresolve/photo)
