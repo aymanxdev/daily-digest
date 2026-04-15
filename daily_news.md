@@ -8880,3 +8880,8 @@
 - [Rare concert records going on Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/)
 - [What is jj and why should I care?](https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html)
 - [DaVinci Resolve – Photo](https://www.blackmagicdesign.com/products/davinciresolve/photo)
+## Morning Digest - 15-04-2026
+
+- [Fixing a 20-year-old bug in Enlightenment E16](https://iczelia.net/posts/e16-20-year-old-bug/)
+- [Wacli – WhatsApp CLI: sync, search, send](https://github.com/steipete/wacli)
+- [My adventure in designing API keys](https://vjay15.github.io/blog/apikeys/)
