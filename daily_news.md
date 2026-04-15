@@ -8885,3 +8885,8 @@
 - [Fixing a 20-year-old bug in Enlightenment E16](https://iczelia.net/posts/e16-20-year-old-bug/)
 - [Wacli – WhatsApp CLI: sync, search, send](https://github.com/steipete/wacli)
 - [My adventure in designing API keys](https://vjay15.github.io/blog/apikeys/)
+## Afternoon/Evening Digest - 15-04-2026
+
+- [God Sleeps in the Minerals](https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/)
+- [The Future of Everything Is Lies, I Guess: New Jobs](https://aphyr.com/posts/419-the-future-of-everything-is-lies-i-guess-new-jobs)
+- [Show HN: Every CEO and CFO change at US public companies, live from SEC](https://tracksuccession.com/explore)
