@@ -8895,3 +8895,8 @@
 - [IPv6 traffic crosses the 50% mark](https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197)
 - [Darkbloom – Private inference on idle Macs](https://darkbloom.dev)
 - [FSF trying to contact Google about spammer sending 10k+ mails from Gmail account](https://daedal.io/@thomzane/116410863009847575)
+## Afternoon/Evening Digest - 16-04-2026
+
+- [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+- [Laravel raised money and now injects ads directly into your agent](https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/)
+- [Cloudflare Email Service](https://blog.cloudflare.com/email-for-agents/)
