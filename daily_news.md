@@ -8905,3 +8905,8 @@
 - [Ada, Its Design, and the Language That Built the Languages](https://www.iqiipi.com/the-quiet-colossus.html)
 - [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
 - [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/)
+## Afternoon/Evening Digest - 17-04-2026
+
+- [We Reproduced Anthropic's Mythos Findings with Public Models](https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models)
+- [Isaac Asimov: The Last Question (1956)](https://hex.ooo/library/last_question.html)
+- [Middle schooler finds coin from Troy in Berlin](https://www.thehistoryblog.com/archives/75848)
