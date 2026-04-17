@@ -8900,3 +8900,8 @@
 - [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
 - [Laravel raised money and now injects ads directly into your agent](https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/)
 - [Cloudflare Email Service](https://blog.cloudflare.com/email-for-agents/)
+## Morning Digest - 17-04-2026
+
+- [Ada, Its Design, and the Language That Built the Languages](https://www.iqiipi.com/the-quiet-colossus.html)
+- [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+- [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/)
