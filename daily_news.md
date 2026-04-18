@@ -8910,3 +8910,8 @@
 - [We Reproduced Anthropic's Mythos Findings with Public Models](https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models)
 - [Isaac Asimov: The Last Question (1956)](https://hex.ooo/library/last_question.html)
 - [Middle schooler finds coin from Troy in Berlin](https://www.thehistoryblog.com/archives/75848)
+## Morning Digest - 18-04-2026
+
+- [Category Theory Illustrated – Orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/)
+- [Amiga Graphics](https://amiga.lychesis.net/)
+- [Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs)
