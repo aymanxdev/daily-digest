@@ -8915,3 +8915,8 @@
 - [Category Theory Illustrated – Orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/)
 - [Amiga Graphics](https://amiga.lychesis.net/)
 - [Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs)
+## Afternoon/Evening Digest - 18-04-2026
+
+- [Migrating from DigitalOcean to Hetzner: From $1,432 to $233 With Zero Downtime](https://isayeter.com/posts/digitalocean-to-hetzner-migration/)
+- [State of Kdenlive](https://kdenlive.org/news/2026/state-2026/)
+- [Why Japan has such good railways](https://worksinprogress.co/issue/why-japan-has-such-good-railways/)
