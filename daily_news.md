@@ -8925,3 +8925,8 @@
 - [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf]](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
 - [Game Devs Explain the Tricks Involved with Letting You Pause a Game](https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339)
 - [NIST scientists create 'any wavelength' lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits)
+## Afternoon/Evening Digest - 19-04-2026
+
+- [Archive of Byte magazine, starting with issue #1 in 1975](https://archive.org/details/byte-magazine-1975-09)
+- [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
+- [Game devs explain the tricks involved with letting you pause a game](https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339)
