@@ -8930,3 +8930,8 @@
 - [Archive of Byte magazine, starting with issue #1 in 1975](https://archive.org/details/byte-magazine-1975-09)
 - [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
 - [Game devs explain the tricks involved with letting you pause a game](https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339)
+## Morning Digest - 20-04-2026
+
+- [GitHub's Fake Star Economy](https://awesomeagents.ai/news/github-fake-stars-investigation/)
+- [OpenClaw isn't fooling me. I remember MS-DOS](https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/)
+- [SDF Public Access Unix System](https://sdf.org/?ssh)
