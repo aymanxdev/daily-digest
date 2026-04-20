@@ -8935,3 +8935,8 @@
 - [GitHub's Fake Star Economy](https://awesomeagents.ai/news/github-fake-stars-investigation/)
 - [OpenClaw isn't fooling me. I remember MS-DOS](https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/)
 - [SDF Public Access Unix System](https://sdf.org/?ssh)
+## Afternoon/Evening Digest - 20-04-2026
+
+- [Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving](https://qwen.ai/blog?id=qwen3.6-max-preview)
+- [Atlassian Enables Default Data Collection to Train AI](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
+- [All phones sold in the EU to have replaceable batteries from 2027](https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/)
