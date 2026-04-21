@@ -8945,3 +8945,8 @@
 - [John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
 - [Anthropic says OpenClaw-style Claude CLI usage is allowed again](https://docs.openclaw.ai/providers/anthropic)
 - [Louis Zocchi, inventor of the d100, has died](https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice)
+## Afternoon/Evening Digest - 21-04-2026
+
+- [Laws of Software Engineering](https://lawsofsoftwareengineering.com)
+- [As Oceans Warm, Great White Sharks Are Overheating](https://e360.yale.edu/digest/great-white-sharks-climate)
+- [Fusion Power Plant Simulator](https://www.fusionenergybase.com/fusion-power-plant-simulator)
