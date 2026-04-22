@@ -8950,3 +8950,8 @@
 - [Laws of Software Engineering](https://lawsofsoftwareengineering.com)
 - [As Oceans Warm, Great White Sharks Are Overheating](https://e360.yale.edu/digest/great-white-sharks-climate)
 - [Fusion Power Plant Simulator](https://www.fusionenergybase.com/fusion-power-plant-simulator)
+## Morning Digest - 22-04-2026
+
+- [Making RAM at Home [video]](https://www.youtube.com/watch?v=h6GWikWlAQA)
+- [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/)
+- [Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma](https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics)
