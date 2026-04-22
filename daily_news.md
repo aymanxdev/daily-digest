@@ -8955,3 +8955,8 @@
 - [Making RAM at Home [video]](https://www.youtube.com/watch?v=h6GWikWlAQA)
 - [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/)
 - [Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma](https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics)
+## Afternoon/Evening Digest - 22-04-2026
+
+- [Windows 9x Subsystem for Linux](https://social.hails.org/@hailey/116446826733136456)
+- [3.4M Solar Panels](https://tech.marksblogg.com/american-solar-farms-v2.html)
+- [Our eighth generation TPUs: two chips for the agentic era](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/)
