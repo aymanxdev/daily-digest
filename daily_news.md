@@ -8965,3 +8965,8 @@
 - [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
 - [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)
 - [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
+## Afternoon/Evening Digest - 23-04-2026
+
+- [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://socket.dev/blog/bitwarden-cli-compromised)
+- [Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite](https://github.com/russellromney/honker)
+- [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
