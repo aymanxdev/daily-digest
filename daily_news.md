@@ -8960,3 +8960,8 @@
 - [Windows 9x Subsystem for Linux](https://social.hails.org/@hailey/116446826733136456)
 - [3.4M Solar Panels](https://tech.marksblogg.com/american-solar-farms-v2.html)
 - [Our eighth generation TPUs: two chips for the agentic era](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/)
+## Morning Digest - 23-04-2026
+
+- [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
+- [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)
+- [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/)
