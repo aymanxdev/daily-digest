@@ -8975,3 +8975,8 @@
 - [DeepSeek v4](https://api-docs.deepseek.com/)
 - [Composition Shouldn't be this Hard](https://www.cambra.dev/blog/announcement/)
 - [Why I Write (1946)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/)
+## Afternoon/Evening Digest - 24-04-2026
+
+- [Sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/)
+- [Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817)
+- [Spinel: Ruby AOT Native Compiler](https://github.com/matz/spinel)
