@@ -8970,3 +8970,8 @@
 - [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://socket.dev/blog/bitwarden-cli-compromised)
 - [Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite](https://github.com/russellromney/honker)
 - [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
+## Morning Digest - 24-04-2026
+
+- [DeepSeek v4](https://api-docs.deepseek.com/)
+- [Composition Shouldn't be this Hard](https://www.cambra.dev/blog/announcement/)
+- [Why I Write (1946)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/)
