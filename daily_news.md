@@ -8980,3 +8980,8 @@
 - [Sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/)
 - [Different Language Models Learn Similar Number Representations](https://arxiv.org/abs/2604.20817)
 - [Spinel: Ruby AOT Native Compiler](https://github.com/matz/spinel)
+## Morning Digest - 25-04-2026
+
+- [Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)](https://github.com/nex-crm/wuphf)
+- [New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/)
+- [Google plans to invest up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic)
