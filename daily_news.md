@@ -9000,3 +9000,8 @@
 - [Asahi Linux Progress Linux 7.0](https://asahilinux.org/2026/04/progress-report-7-0/)
 - [Why SWE-bench Verified no longer measures frontier coding capabilities](https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/)
 - [Statecharts: hierarchical state machines](https://statecharts.dev/)
+## Morning Digest - 27-04-2026
+
+- [Flipdiscs](https://flipdisc.io)
+- [I bought Friendster for $30k – Here's what I'm doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d)
+- [Bob Odenkirk would like to remind you that life is a meaningless farce](https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html)
