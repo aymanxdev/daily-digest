@@ -9005,3 +9005,8 @@
 - [Flipdiscs](https://flipdisc.io)
 - [I bought Friendster for $30k – Here's what I'm doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d)
 - [Bob Odenkirk would like to remind you that life is a meaningless farce](https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html)
+## Afternoon/Evening Digest - 27-04-2026
+
+- ["Why not just use Lean?"](https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html)
+- [Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview](https://github.com/dirac-run/dirac)
+- [Pgbackrest is no longer being maintained](https://github.com/pgbackrest/pgbackrest)
