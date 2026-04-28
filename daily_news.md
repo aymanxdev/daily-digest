@@ -9010,3 +9010,8 @@
 - ["Why not just use Lean?"](https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html)
 - [Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview](https://github.com/dirac-run/dirac)
 - [Pgbackrest is no longer being maintained](https://github.com/pgbackrest/pgbackrest)
+## Morning Digest - 28-04-2026
+
+- [GTFOBins](https://gtfobins.org/)
+- [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie)
+- [Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai)
