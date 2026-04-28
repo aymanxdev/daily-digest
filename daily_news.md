@@ -9015,3 +9015,8 @@
 - [GTFOBins](https://gtfobins.org/)
 - [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie)
 - [Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai)
+## Afternoon/Evening Digest - 28-04-2026
+
+- [Localsend: An open-source cross-platform alternative to AirDrop](https://github.com/localsend/localsend)
+- [Microsoft VibeVoice: Open-Source Frontier Voice AI](https://github.com/microsoft/VibeVoice)
+- [Show HN: Live Sun and Moon Dashboard with NASA Footage](https://www.lumara-space.app/)
