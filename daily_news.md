@@ -9025,3 +9025,8 @@
 - [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
 - [Bugs Rust won't catch](https://corrode.dev/blog/bugs-rust-wont-catch/)
 - [HardenedBSD Is Now Officially on Radicle](https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle)
+## Afternoon/Evening Digest - 29-04-2026
+
+- [Zed is 1.0](https://zed.dev/blog/zed-1-0)
+- [Tangled – We need a federation of forges](https://blog.tangled.org/federation/)
+- [Soft launch of open-source code platform for government](https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/)
