@@ -9020,3 +9020,8 @@
 - [Localsend: An open-source cross-platform alternative to AirDrop](https://github.com/localsend/localsend)
 - [Microsoft VibeVoice: Open-Source Frontier Voice AI](https://github.com/microsoft/VibeVoice)
 - [Show HN: Live Sun and Moon Dashboard with NASA Footage](https://www.lumara-space.app/)
+## Morning Digest - 29-04-2026
+
+- [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
+- [Bugs Rust won't catch](https://corrode.dev/blog/bugs-rust-wont-catch/)
+- [HardenedBSD Is Now Officially on Radicle](https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle)
