@@ -9035,3 +9035,8 @@
 - [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/)
 - [Noctua releases official 3D CAD models for its cooling fans](https://www.noctua.at/en/3d-cad-models)
 - [Zed 1.0](https://zed.dev/blog/zed-1-0)
+## Afternoon/Evening Digest - 30-04-2026
+
+- [Belgium stops decommissioning nuclear power plants](https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/)
+- [Meta in row after workers who saw smart glasses users having sex lose jobs](https://www.bbc.com/news/articles/c5y7yvgy0w6o)
+- [How an Oil Refinery Works](https://www.construction-physics.com/p/how-an-oil-refinery-works)
