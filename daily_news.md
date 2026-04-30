@@ -9030,3 +9030,8 @@
 - [Zed is 1.0](https://zed.dev/blog/zed-1-0)
 - [Tangled – We need a federation of forges](https://blog.tangled.org/federation/)
 - [Soft launch of open-source code platform for government](https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/)
+## Morning Digest - 30-04-2026
+
+- [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/)
+- [Noctua releases official 3D CAD models for its cooling fans](https://www.noctua.at/en/3d-cad-models)
+- [Zed 1.0](https://zed.dev/blog/zed-1-0)
