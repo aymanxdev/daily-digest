@@ -9045,3 +9045,8 @@
 - [Grok 4.3](https://docs.x.ai/developers/models/grok-4.3)
 - [Auto Polo](https://en.wikipedia.org/wiki/Auto_polo)
 - [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/)
+## Afternoon/Evening Digest - 01-05-2026
+
+- [GhostBox – disposable little machines from the Global Free Tier.](https://www.ghost.charity/)
+- [Your Website Is Not for You](https://websmith.studio/blog/your-website-is-not-for-you/)
+- [Running Adobe's 1991 PostScript Interpreter in the Browser](https://www.pagetable.com/?p=1854)
