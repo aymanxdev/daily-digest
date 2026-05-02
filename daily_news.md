@@ -9050,3 +9050,8 @@
 - [GhostBox – disposable little machines from the Global Free Tier.](https://www.ghost.charity/)
 - [Your Website Is Not for You](https://websmith.studio/blog/your-website-is-not-for-you/)
 - [Running Adobe's 1991 PostScript Interpreter in the Browser](https://www.pagetable.com/?p=1854)
+## Morning Digest - 02-05-2026
+
+- [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)
+- [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
+- [Show HN: Browser-based light pollution simulator using real photometric data](https://iesna.eu/?wasm=skyglow_demo)
