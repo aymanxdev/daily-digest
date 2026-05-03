@@ -9060,3 +9060,8 @@
 - [How fast is a macOS VM, and how small could it be?](https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/)
 - [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)
 - [Open Design: Use Your Coding Agent as a Design Engine](https://github.com/nexu-io/open-design)
+## Morning Digest - 03-05-2026
+
+- [A Couple Million Lines of Haskell: Production Engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/)
+- [This Month in Ladybird - April 2026](https://ladybird.org/newsletter/2026-04-30/)
+- [Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML](https://acai.sh/blog/specsmaxxing)
