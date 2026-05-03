@@ -9065,3 +9065,8 @@
 - [A Couple Million Lines of Haskell: Production Engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/)
 - [This Month in Ladybird - April 2026](https://ladybird.org/newsletter/2026-04-30/)
 - [Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML](https://acai.sh/blog/specsmaxxing)
+## Afternoon/Evening Digest - 03-05-2026
+
+- [Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case](https://arxiv.org/abs/2604.25679)
+- [Alert-Driven Monitoring](https://simpleobservability.com/docs/alert-driven-monitoring)
+- [Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web](https://github.com/bring-shrubbery/ml-sharp-web)
