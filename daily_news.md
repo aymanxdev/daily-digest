@@ -9070,3 +9070,8 @@
 - [Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case](https://arxiv.org/abs/2604.25679)
 - [Alert-Driven Monitoring](https://simpleobservability.com/docs/alert-driven-monitoring)
 - [Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web](https://github.com/bring-shrubbery/ml-sharp-web)
+## Morning Digest - 04-05-2026
+
+- [Using “underdrawings” for accurate text and numbers](https://samcollins.blog/underdrawings/)
+- [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)
+- [Texico: Learn the principles of programming without even touching a computer](https://www3.nhk.or.jp/nhkworld/en/shows/texico/)
