@@ -9075,3 +9075,8 @@
 - [Using “underdrawings” for accurate text and numbers](https://samcollins.blog/underdrawings/)
 - [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)
 - [Texico: Learn the principles of programming without even touching a computer](https://www3.nhk.or.jp/nhkworld/en/shows/texico/)
+## Afternoon/Evening Digest - 04-05-2026
+
+- [Removable batteries in smartphones will be mandatory in the EU starting in 2027](https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/)
+- [Talking to 35 Strangers at the Gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/)
+- [GameStop makes $55.5B takeover offer for eBay](https://www.bbc.co.uk/news/articles/cn0p8yled1do)
