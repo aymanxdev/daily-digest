@@ -9080,3 +9080,8 @@
 - [Removable batteries in smartphones will be mandatory in the EU starting in 2027](https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/)
 - [Talking to 35 Strangers at the Gym](https://thienantran.com/talking-to-35-strangers-at-the-gym/)
 - [GameStop makes $55.5B takeover offer for eBay](https://www.bbc.co.uk/news/articles/cn0p8yled1do)
+## Morning Digest - 05-05-2026
+
+- [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)
+- [Lessons for Agentic Coding: What should we do when code is cheap?](https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html)
+- [Hand Drawn QR Codes](https://sethmlarson.dev/hand-drawn-qr-codes)
