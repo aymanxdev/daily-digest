@@ -9085,3 +9085,8 @@
 - [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)
 - [Lessons for Agentic Coding: What should we do when code is cheap?](https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html)
 - [Hand Drawn QR Codes](https://sethmlarson.dev/hand-drawn-qr-codes)
+## Afternoon/Evening Digest - 05-05-2026
+
+- [The best is over: The fun has been optimized out of the Internet](https://muddy.jprs.me/posts/2026-05-03-the-best-is-over/)
+- [AI didn't delete your database, you did](https://idiallo.com/blog/ai-didnt-delete-your-database-you-did)
+- [iOS 27 is adding a 'Create a Pass' button to Apple Wallet](https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/)
