@@ -9095,3 +9095,8 @@
 - [Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/)
 - [StarFighter 16-Inch](https://us.starlabs.systems/pages/starfighter)
 - [CARA 2.0 – “I Built a Better Robot Dog”](https://www.aaedmusa.com/projects/cara2)
+## Afternoon/Evening Digest - 06-05-2026
+
+- [Show HN: Red Squares – GitHub outages as contributions](https://red-squares.cian.lol/)
+- [The bottleneck was never the code](https://www.thetypicalset.com/blog/thoughts-on-coding-agents)
+- [Setting up a Sun Ray server on OpenIndiana Hipster 2025.10](https://catstret.ch/202605/srss-hipster202510/)
