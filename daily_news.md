@@ -9090,3 +9090,8 @@
 - [The best is over: The fun has been optimized out of the Internet](https://muddy.jprs.me/posts/2026-05-03-the-best-is-over/)
 - [AI didn't delete your database, you did](https://idiallo.com/blog/ai-didnt-delete-your-database-you-did)
 - [iOS 27 is adding a 'Create a Pass' button to Apple Wallet](https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/)
+## Morning Digest - 06-05-2026
+
+- [Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/)
+- [StarFighter 16-Inch](https://us.starlabs.systems/pages/starfighter)
+- [CARA 2.0 – “I Built a Better Robot Dog”](https://www.aaedmusa.com/projects/cara2)
