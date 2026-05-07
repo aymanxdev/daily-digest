@@ -9100,3 +9100,8 @@
 - [Show HN: Red Squares – GitHub outages as contributions](https://red-squares.cian.lol/)
 - [The bottleneck was never the code](https://www.thetypicalset.com/blog/thoughts-on-coding-agents)
 - [Setting up a Sun Ray server on OpenIndiana Hipster 2025.10](https://catstret.ch/202605/srss-hipster202510/)
+## Morning Digest - 07-05-2026
+
+- [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)
+- [Appearing productive in the workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/)
+- [Permacomputing Principles](https://permacomputing.net/principles/)
