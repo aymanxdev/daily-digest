@@ -9105,3 +9105,8 @@
 - [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)
 - [Appearing productive in the workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/)
 - [Permacomputing Principles](https://permacomputing.net/principles/)
+## Afternoon/Evening Digest - 07-05-2026
+
+- [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/)
+- [AlphaEvolve: Gemini-powered coding agent scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/)
+- [I Want to Live Like Costco People](https://tastecooking.com/i-want-to-live-like-costco-people/)
