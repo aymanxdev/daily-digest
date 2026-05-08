@@ -9110,3 +9110,8 @@
 - [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/)
 - [AlphaEvolve: Gemini-powered coding agent scaling impact across fields](https://deepmind.google/blog/alphaevolve-impact/)
 - [I Want to Live Like Costco People](https://tastecooking.com/i-want-to-live-like-costco-people/)
+## Morning Digest - 08-05-2026
+
+- [Canvas is down as ShinyHunters threatens to leak schools’ data](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
+- [Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/)
+- [Cloudflare to cut about 20% workforce](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/)
