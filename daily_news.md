@@ -9115,3 +9115,8 @@
 - [Canvas is down as ShinyHunters threatens to leak schools’ data](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
 - [Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/)
 - [Cloudflare to cut about 20% workforce](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/)
+## Afternoon/Evening Digest - 08-05-2026
+
+- [Poland is now among the 20 largest economies. How it happened](https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa)
+- [An Introduction to Meshtastic](https://meshtastic.org/docs/introduction/)
+- [PC Engine CPU](https://jsgroth.dev/blog/posts/pc-engine-cpu/)
