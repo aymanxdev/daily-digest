@@ -9125,3 +9125,8 @@
 - [A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)
 - [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)
 - [Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935)
+## Afternoon/Evening Digest - 09-05-2026
+
+- [Internet Archive Switzerland](https://internetarchive.ch/)
+- [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)
+- [Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935)
