@@ -9135,3 +9135,8 @@
 - [Rotten Dot Com](https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/)
 - [Show HN: Building a web server in assembly to give my life (a lack of) meaning](https://github.com/imtomt/ymawky)
 - [Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc](https://twitter.com/jarredsumner/status/2053047748191232310)
+## Afternoon/Evening Digest - 10-05-2026
+
+- [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)
+- [I returned to AWS, and was reminded why I left](http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html)
+- [What's a Mathematician to Do?](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do)
