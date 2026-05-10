@@ -9130,3 +9130,8 @@
 - [Internet Archive Switzerland](https://internetarchive.ch/)
 - [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)
 - [Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935)
+## Morning Digest - 10-05-2026
+
+- [Rotten Dot Com](https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/)
+- [Show HN: Building a web server in assembly to give my life (a lack of) meaning](https://github.com/imtomt/ymawky)
+- [Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc](https://twitter.com/jarredsumner/status/2053047748191232310)
