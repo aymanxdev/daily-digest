@@ -9145,3 +9145,8 @@
 - [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)
 - [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/)
 - [The greatest shot in television: James Burke had one chance to nail this scene (2024)](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html)
+## Afternoon/Evening Digest - 11-05-2026
+
+- [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/)
+- [Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s](https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html)
+- [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)
