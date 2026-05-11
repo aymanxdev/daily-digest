@@ -9140,3 +9140,8 @@
 - [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)
 - [I returned to AWS, and was reminded why I left](http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html)
 - [What's a Mathematician to Do?](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do)
+## Morning Digest - 11-05-2026
+
+- [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)
+- [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/)
+- [The greatest shot in television: James Burke had one chance to nail this scene (2024)](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html)
