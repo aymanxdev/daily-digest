@@ -9150,3 +9150,8 @@
 - [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/)
 - [Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s](https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html)
 - [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)
+## Morning Digest - 12-05-2026
+
+- [Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html)
+- [Postmortem: TanStack NPM supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
+- [Screenshots of Old Desktop OSes](http://www.typewritten.org/Media/)
