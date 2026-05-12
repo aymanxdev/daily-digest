@@ -9155,3 +9155,8 @@
 - [Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html)
 - [Postmortem: TanStack NPM supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
 - [Screenshots of Old Desktop OSes](http://www.typewritten.org/Media/)
+## Afternoon/Evening Digest - 12-05-2026
+
+- [Bambu Lab is abusing the open source social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/)
+- [Rendering the Sky, Sunsets, and Planets](https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/)
+- [Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html)
