@@ -9160,3 +9160,8 @@
 - [Bambu Lab is abusing the open source social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/)
 - [Rendering the Sky, Sunsets, and Planets](https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/)
 - [Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html)
+## Morning Digest - 13-05-2026
+
+- [Deterministic Fully-Static Whole-Binary Translation Without Heuristics](https://arxiv.org/abs/2605.08419)
+- [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
+- [The vi family](https://lpar.ATH0.com/posts/2026/05/the-vi-family/)
