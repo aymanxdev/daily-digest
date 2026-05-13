@@ -9165,3 +9165,8 @@
 - [Deterministic Fully-Static Whole-Binary Translation Without Heuristics](https://arxiv.org/abs/2605.08419)
 - [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
 - [The vi family](https://lpar.ATH0.com/posts/2026/05/the-vi-family/)
+## Afternoon/Evening Digest - 13-05-2026
+
+- [Why I'm leaving GitHub for Forgejo](https://jorijn.com/en/blog/leaving-github-for-forgejo/)
+- [I Moved My Digital Stack to Europe](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/)
+- [Setting up a free *.city.state.us locality domain](https://fredchan.org/blog/locality-domains-guide/)
