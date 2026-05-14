@@ -9170,3 +9170,8 @@
 - [Why I'm leaving GitHub for Forgejo](https://jorijn.com/en/blog/leaving-github-for-forgejo/)
 - [I Moved My Digital Stack to Europe](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/)
 - [Setting up a free *.city.state.us locality domain](https://fredchan.org/blog/locality-domains-guide/)
+## Morning Digest - 14-05-2026
+
+- [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)
+- [Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7](https://classic7.lol/)
+- [Scorched Earth 2000 – Web](http://www.scorch2000.com/web/)
