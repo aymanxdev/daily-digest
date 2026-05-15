@@ -9185,3 +9185,8 @@
 - [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/)
 - [Show HN: GlycemicGPT – Open-source AI-powered diabetes management](https://github.com/GlycemicGPT/GlycemicGPT)
 - [Explore Wikipedia Like a Windows XP Desktop](https://explorer.samismith.com/)
+## Afternoon/Evening Digest - 15-05-2026
+
+- [The Wonders of AI: We Are Retiring Our Bug Bounty Program](https://turso.tech/blog/the-wonders-of-ai)
+- [A 0-click exploit chain for the Pixel 10](https://projectzero.google/2026/05/pixel-10-exploit.html)
+- [O(x)Caml in Space](https://gazagnaire.org/blog/2026-05-14-borealis.html)
