@@ -9190,3 +9190,8 @@
 - [The Wonders of AI: We Are Retiring Our Bug Bounty Program](https://turso.tech/blog/the-wonders-of-ai)
 - [A 0-click exploit chain for the Pixel 10](https://projectzero.google/2026/05/pixel-10-exploit.html)
 - [O(x)Caml in Space](https://gazagnaire.org/blog/2026-05-14-borealis.html)
+## Morning Digest - 16-05-2026
+
+- [Frontier AI has broken the open CTF format](https://kabir.au/blog/the-ctf-scene-is-dead)
+- [Project Gutenberg – keeps getting better](https://www.gutenberg.org/)
+- [SQL patterns I use to catch transaction fraud](https://analytics.fixelsmith.com/posts/sql-fraud-patterns/)
