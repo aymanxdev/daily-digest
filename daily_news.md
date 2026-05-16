@@ -9195,3 +9195,8 @@
 - [Frontier AI has broken the open CTF format](https://kabir.au/blog/the-ctf-scene-is-dead)
 - [Project Gutenberg – keeps getting better](https://www.gutenberg.org/)
 - [SQL patterns I use to catch transaction fraud](https://analytics.fixelsmith.com/posts/sql-fraud-patterns/)
+## Afternoon/Evening Digest - 16-05-2026
+
+- [SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/)
+- [Accelerando (2005)](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html)
+- [Δ-Mem: Efficient Online Memory for Large Language Models](https://arxiv.org/abs/2605.12357)
