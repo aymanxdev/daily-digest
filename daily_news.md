@@ -9215,3 +9215,8 @@
 - [The foundations of a provably secure operating system (PSOS) (1979) [pdf]](http://www.csl.sri.com/users/neumann/psos.pdf)
 - [GenCAD](https://gencad.github.io/)
 - [Crystals found inside wreckage from the first nuclear bomb test](https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/)
+## Afternoon/Evening Digest - 18-05-2026
+
+- [We stopped AI bot spam in our GitHub repo using Git's –author flag](https://archestra.ai/blog/only-responsible-ai)
+- [Show HN: Files.md – Open-source alternative to Obsidian](https://github.com/zakirullin/files.md)
+- [1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries](https://github.com/2b2tplace/1m_release)
