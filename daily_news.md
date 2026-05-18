@@ -9210,3 +9210,8 @@
 - [I don't think AI will make your processes go faster](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/)
 - [Native all the way, until you need text](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/)
 - [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb)
+## Morning Digest - 18-05-2026
+
+- [The foundations of a provably secure operating system (PSOS) (1979) [pdf]](http://www.csl.sri.com/users/neumann/psos.pdf)
+- [GenCAD](https://gencad.github.io/)
+- [Crystals found inside wreckage from the first nuclear bomb test](https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/)
