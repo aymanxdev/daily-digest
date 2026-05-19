@@ -9225,3 +9225,8 @@
 - [I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert](https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314)
 - [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/)
 - [Peter Neumann has died](https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html)
+## Afternoon/Evening Digest - 19-05-2026
+
+- [New accessibility features powered by Apple Intelligence](https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/)
+- [I’ve joined Anthropic](https://twitter.com/karpathy/status/2056753169888334312)
+- [Gaussian Splat of a Strawberry](https://superspl.at/scene/84df8849)
