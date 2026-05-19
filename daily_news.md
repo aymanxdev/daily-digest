@@ -9220,3 +9220,8 @@
 - [We stopped AI bot spam in our GitHub repo using Git's –author flag](https://archestra.ai/blog/only-responsible-ai)
 - [Show HN: Files.md – Open-source alternative to Obsidian](https://github.com/zakirullin/files.md)
 - [1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries](https://github.com/2b2tplace/1m_release)
+## Morning Digest - 19-05-2026
+
+- [I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert](https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314)
+- [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/)
+- [Peter Neumann has died](https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html)
