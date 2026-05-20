@@ -9235,3 +9235,8 @@
 - [Everything in C is undefined behavior](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html)
 - [FiveThirtyEight articles on the Internet Archive](https://fivethirtyeightindex.com/)
 - [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)
+## Afternoon/Evening Digest - 20-05-2026
+
+- [Meta blocks human rights accounts from reaching audiences in Arabia and the UAE](https://www.alqst.org/ar/posts/1190)
+- [Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment](https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html)
+- [Qwen3.7-Max: The Agent Frontier](https://qwen.ai/blog?id=qwen3.7)
