@@ -9230,3 +9230,8 @@
 - [New accessibility features powered by Apple Intelligence](https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/)
 - [I’ve joined Anthropic](https://twitter.com/karpathy/status/2056753169888334312)
 - [Gaussian Splat of a Strawberry](https://superspl.at/scene/84df8849)
+## Morning Digest - 20-05-2026
+
+- [Everything in C is undefined behavior](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html)
+- [FiveThirtyEight articles on the Internet Archive](https://fivethirtyeightindex.com/)
+- [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)
