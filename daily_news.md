@@ -9240,3 +9240,8 @@
 - [Meta blocks human rights accounts from reaching audiences in Arabia and the UAE](https://www.alqst.org/ar/posts/1190)
 - [Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment](https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html)
 - [Qwen3.7-Max: The Agent Frontier](https://qwen.ai/blog?id=qwen3.7)
+## Morning Digest - 21-05-2026
+
+- [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
+- [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/)
+- [Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK](https://github.com/helvesec/rmux)
