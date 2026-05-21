@@ -9245,3 +9245,8 @@
 - [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
 - [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/)
 - [Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK](https://github.com/helvesec/rmux)
+## Afternoon/Evening Digest - 21-05-2026
+
+- [Waymo pauses Atlanta service as its robotaxis keep driving into floods](https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/)
+- [Flipper One – we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/)
+- [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/)
