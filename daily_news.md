@@ -9255,3 +9255,8 @@
 - [Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark](https://modelrift.com/blog/openscad-llm-benchmark/)
 - [The case against boolean logic](https://abuseofnotation.github.io/boolean-thinking/)
 - [Steve Wozniak cheered after telling students they have AI – actual intelligence](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
+## Afternoon/Evening Digest - 22-05-2026
+
+- [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
+- [U.S. researchers face new restrictions on publishing with foreign collaborators](https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators)
+- [A Forth-inspired language for writing websites](https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites)
