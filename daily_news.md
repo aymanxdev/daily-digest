@@ -9250,3 +9250,8 @@
 - [Waymo pauses Atlanta service as its robotaxis keep driving into floods](https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/)
 - [Flipper One – we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/)
 - [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/)
+## Morning Digest - 22-05-2026
+
+- [Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark](https://modelrift.com/blog/openscad-llm-benchmark/)
+- [The case against boolean logic](https://abuseofnotation.github.io/boolean-thinking/)
+- [Steve Wozniak cheered after telling students they have AI – actual intelligence](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5)
