@@ -9265,3 +9265,8 @@
 - [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda)
 - [Rubish: A Unix shell written in pure Ruby](https://github.com/amatsuda/rubish)
 - [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
+## Afternoon/Evening Digest - 23-05-2026
+
+- [On The <dl>](https://benmyers.dev/blog/on-the-dl/)
+- [80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/)
+- [Oura says it gets government demands for user data. Will it share how many?](https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/)
