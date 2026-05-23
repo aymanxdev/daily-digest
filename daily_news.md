@@ -9260,3 +9260,8 @@
 - [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
 - [U.S. researchers face new restrictions on publishing with foreign collaborators](https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators)
 - [A Forth-inspired language for writing websites](https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites)
+## Morning Digest - 23-05-2026
+
+- [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda)
+- [Rubish: A Unix shell written in pure Ruby](https://github.com/amatsuda/rubish)
+- [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
