@@ -9270,3 +9270,8 @@
 - [On The <dl>](https://benmyers.dev/blog/on-the-dl/)
 - [80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/)
 - [Oura says it gets government demands for user data. Will it share how many?](https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/)
+## Morning Digest - 24-05-2026
+
+- [Microsoft open-sources "the earliest DOS source code discovered to date"](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/)
+- [Why is Vivado 2026.1 dropping Linux support for free tier?](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US)
+- [Silk: Open-source cooperative fiber scheduler](https://github.com/ClickHouse/silk)
