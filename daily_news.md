@@ -9275,3 +9275,8 @@
 - [Microsoft open-sources "the earliest DOS source code discovered to date"](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/)
 - [Why is Vivado 2026.1 dropping Linux support for free tier?](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US)
 - [Silk: Open-source cooperative fiber scheduler](https://github.com/ClickHouse/silk)
+## Afternoon/Evening Digest - 24-05-2026
+
+- [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/)
+- [Mastering Dyalog APL](https://mastering.dyalog.com/README.html)
+- [Childhood Computing](https://susam.net/childhood-computing.html)
