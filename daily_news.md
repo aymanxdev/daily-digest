@@ -9285,3 +9285,8 @@
 - [Magnifica Humanitas (Encyclical Letter)](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
 - [IBM Spins Off the First Pure-Play Quantum Chip Foundry](https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/)
 - [Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/)
+## Afternoon/Evening Digest - 25-05-2026
+
+- [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
+- [C extensions, portability, and alternative compilers](https://lemon.rip/w/6-c-extensions-compilers/)
+- [Launch HN: Chert (YC P26) – Twilio for iMessage](https://www.trychert.com)
