@@ -9290,3 +9290,8 @@
 - [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
 - [C extensions, portability, and alternative compilers](https://lemon.rip/w/6-c-extensions-compilers/)
 - [Launch HN: Chert (YC P26) – Twilio for iMessage](https://www.trychert.com)
+## Afternoon/Evening Digest - 26-05-2026
+
+- [The Ballad of TIGIT](https://www.owlposting.com/p/the-ballad-of-tigit)
+- [Is "colorectal cancer" rising in "young people"?](https://dynomight.net/crc-rates/)
+- [Launch HN: Minicor (YC P26) – Windows desktop automations at scale](https://www.minicor.com/)
