@@ -9295,3 +9295,8 @@
 - [The Ballad of TIGIT](https://www.owlposting.com/p/the-ballad-of-tigit)
 - [Is "colorectal cancer" rising in "young people"?](https://dynomight.net/crc-rates/)
 - [Launch HN: Minicor (YC P26) – Windows desktop automations at scale](https://www.minicor.com/)
+## Afternoon/Evening Digest - 27-05-2026
+
+- [I'm Tired of Talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
+- [Mini Micro Fantasy Computer](https://miniscript.org/MiniMicro/index.html#about)
+- [The Melancholy of Slaying Monsters](https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/)
