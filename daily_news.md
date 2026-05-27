@@ -9300,3 +9300,8 @@
 - [I'm Tired of Talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
 - [Mini Micro Fantasy Computer](https://miniscript.org/MiniMicro/index.html#about)
 - [The Melancholy of Slaying Monsters](https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/)
+## Afternoon/Evening Digest - 27-05-2026
+
+- [I'm Tired of Talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
+- [Tech CEOs are apparently suffering from AI psychosis](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
+- [DuckDuckGo search saw 28% more visits after Google said people love AI mode](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)
