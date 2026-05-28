@@ -9310,3 +9310,8 @@
 - [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
 - [A Eureka machine that thinks like nature and explores what AI cannot](https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/)
 - [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site)
+## Afternoon/Evening Digest - 28-05-2026
+
+- [Indoor Wi-Fi Roaming with OpenWRT](https://taoofmac.com/space/blog/2026/05/26/1730)
+- [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
+- [Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue](https://llmgame.scalex.dev)
