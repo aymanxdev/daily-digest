@@ -9305,3 +9305,8 @@
 - [I'm Tired of Talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
 - [Tech CEOs are apparently suffering from AI psychosis](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
 - [DuckDuckGo search saw 28% more visits after Google said people love AI mode](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)
+## Afternoon/Evening Digest - 28-05-2026
+
+- [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
+- [A Eureka machine that thinks like nature and explores what AI cannot](https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/)
+- [Hallucinate – Massively Multiplayer Online Rave](https://hallucinate.site)
