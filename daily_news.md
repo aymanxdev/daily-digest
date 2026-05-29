@@ -9315,3 +9315,8 @@
 - [Indoor Wi-Fi Roaming with OpenWRT](https://taoofmac.com/space/blog/2026/05/26/1730)
 - [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
 - [Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue](https://llmgame.scalex.dev)
+## Morning Digest - 29-05-2026
+
+- [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
+- [Bricks and Minifigs Stole a Man's $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection)
+- [I made a million dollar product from my dorm room (2025)](https://nick.winans.io/blog/nice-nano/)
