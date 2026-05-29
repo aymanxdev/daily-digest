@@ -9320,3 +9320,8 @@
 - [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
 - [Bricks and Minifigs Stole a Man's $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection)
 - [I made a million dollar product from my dorm room (2025)](https://nick.winans.io/blog/nice-nano/)
+## Afternoon/Evening Digest - 29-05-2026
+
+- [Bijou64: A variable-length integer encoding](https://www.inkandswitch.com/tangents/bijou64/)
+- [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/)
+- [The Dead Economy Theory](https://www.owenmcgrann.com/p/the-dead-economy-theory)
