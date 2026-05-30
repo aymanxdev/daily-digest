@@ -9330,3 +9330,8 @@
 - [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/)
 - [Algebraic Effects for the Rest of Us](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
 - [Danish pension fund excludes SpaceX citing governance and valuation](https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/)
+## Afternoon/Evening Digest - 30-05-2026
+
+- [Anthropic surpasses OpenAI to become most valuable AI startup](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)
+- [Voxel Space](https://s-macke.github.io/VoxelSpace/)
+- [Pandoc Templates](https://pandoc-templates.org/)
