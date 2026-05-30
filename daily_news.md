@@ -9325,3 +9325,8 @@
 - [Bijou64: A variable-length integer encoding](https://www.inkandswitch.com/tangents/bijou64/)
 - [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/)
 - [The Dead Economy Theory](https://www.owenmcgrann.com/p/the-dead-economy-theory)
+## Morning Digest - 30-05-2026
+
+- [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/)
+- [Algebraic Effects for the Rest of Us](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
+- [Danish pension fund excludes SpaceX citing governance and valuation](https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/)
