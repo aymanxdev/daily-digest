@@ -9340,3 +9340,8 @@
 - [The Website Specification](https://specification.website/)
 - [London's Free Roof Terraces](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html)
 - [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/)
+## Afternoon/Evening Digest - 31-05-2026
+
+- [Dav2d](https://jbkempf.com/blog/2026/dav2d/)
+- [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)
+- [The solution might be cancelling my AI subscription](https://thoughts.hmmz.org/2026-05-31.html)
