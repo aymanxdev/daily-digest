@@ -9335,3 +9335,8 @@
 - [Anthropic surpasses OpenAI to become most valuable AI startup](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)
 - [Voxel Space](https://s-macke.github.io/VoxelSpace/)
 - [Pandoc Templates](https://pandoc-templates.org/)
+## Morning Digest - 31-05-2026
+
+- [The Website Specification](https://specification.website/)
+- [London's Free Roof Terraces](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html)
+- [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/)
