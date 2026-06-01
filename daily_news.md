@@ -9350,3 +9350,8 @@
 - [A 10 year old Xeon is all you need](https://point.free/blog/gemma-4-on-a-2016-xeon/)
 - [Chuwi Minibook X](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/)
 - [Tracing HTTP Requests with Go's net/HTTP/httptrace](https://blainsmith.com/articles/httptrace-with-go/)
+## Afternoon/Evening Digest - 01-06-2026
+
+- [DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms](https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/)
+- [Lifelike biochemistry continued to unfold in sterilized soil](https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/)
+- [The Newest Instagram "Exploit" Is the Goofiest I've Seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
