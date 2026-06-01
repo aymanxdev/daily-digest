@@ -9345,3 +9345,8 @@
 - [Dav2d](https://jbkempf.com/blog/2026/dav2d/)
 - [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)
 - [The solution might be cancelling my AI subscription](https://thoughts.hmmz.org/2026-05-31.html)
+## Morning Digest - 01-06-2026
+
+- [A 10 year old Xeon is all you need](https://point.free/blog/gemma-4-on-a-2016-xeon/)
+- [Chuwi Minibook X](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/)
+- [Tracing HTTP Requests with Go's net/HTTP/httptrace](https://blainsmith.com/articles/httptrace-with-go/)
