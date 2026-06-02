@@ -9355,3 +9355,8 @@
 - [DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms](https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/)
 - [Lifelike biochemistry continued to unfold in sterilized soil](https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/)
 - [The Newest Instagram "Exploit" Is the Goofiest I've Seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
+## Morning Digest - 02-06-2026
+
+- [Why Janet?](https://ianthehenry.com/posts/why-janet/)
+- [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
+- [Can the stockmarket swallow Anthropic, SpaceX and OpenAI?](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai)
