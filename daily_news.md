@@ -9370,3 +9370,8 @@
 - [Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2](https://handwritten.danieljanus.pl/2026-06-01-edsger.html)
 - [1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/)
 - [Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)](https://github.com/s-macke/Test-Drive-3-Maps)
+## Afternoon/Evening Digest - 03-06-2026
+
+- [DaVinci Resolve 21](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew)
+- [A Post-Quantum Future for Let's Encrypt](https://letsencrypt.org/2026/06/03/pq-certs)
+- [Hacking your PC using your speaker without ever touching it](https://blog.nns.ee/2026/06/03/katana-badusb/)
