@@ -9380,3 +9380,8 @@
 - [UK media fails to disclose defence sector links in nearly 60% of cases](https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/)
 - [They’re made out of weights](https://maxleiter.com/blog/weights)
 - [Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites](https://uruky.com/?il=en)
+## Afternoon/Evening Digest - 04-06-2026
+
+- [VoidZero Is Joining Cloudflare](https://blog.cloudflare.com/voidzero-joins-cloudflare/)
+- [Ian's Secure Shoelace Knot](https://www.fieggen.com/shoelace/secureknot.htm)
+- [They’re made out of weights](https://maxleiter.com/blog/weights)
