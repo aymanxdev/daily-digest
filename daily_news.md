@@ -9385,3 +9385,8 @@
 - [VoidZero Is Joining Cloudflare](https://blog.cloudflare.com/voidzero-joins-cloudflare/)
 - [Ian's Secure Shoelace Knot](https://www.fieggen.com/shoelace/secureknot.htm)
 - [They’re made out of weights](https://maxleiter.com/blog/weights)
+## Morning Digest - 05-06-2026
+
+- [Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
+- [C++: The Documentary](https://herbsutter.com/2026/06/04/c-the-documentary-released-today/)
+- [Entanglement Builds Space-Time. Now "Magic" Gives It Gravity](https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/)
