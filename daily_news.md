@@ -9390,3 +9390,8 @@
 - [Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
 - [C++: The Documentary](https://herbsutter.com/2026/06/04/c-the-documentary-released-today/)
 - [Entanglement Builds Space-Time. Now "Magic" Gives It Gravity](https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/)
+## Afternoon/Evening Digest - 05-06-2026
+
+- [Astronauts on ISS told to shelter as repairs under way to fix air leaks](https://www.bbc.com/news/live/c4g44ew3g1kt)
+- [Mouseless – keyboard-driven control of macOS/Linux/Windows](https://mouseless.click)
+- [Cooldown Support for Ruby Bundler](https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html)
