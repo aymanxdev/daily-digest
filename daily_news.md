@@ -9395,3 +9395,8 @@
 - [Astronauts on ISS told to shelter as repairs under way to fix air leaks](https://www.bbc.com/news/live/c4g44ew3g1kt)
 - [Mouseless – keyboard-driven control of macOS/Linux/Windows](https://mouseless.click)
 - [Cooldown Support for Ruby Bundler](https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html)
+## Morning Digest - 06-06-2026
+
+- [GrapheneOS user reported to authorities for using GrapheneOS](https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos)
+- [Zig Zen Update](https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2)
+- [How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/)
