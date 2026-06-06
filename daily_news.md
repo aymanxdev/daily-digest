@@ -9400,3 +9400,8 @@
 - [GrapheneOS user reported to authorities for using GrapheneOS](https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos)
 - [Zig Zen Update](https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2)
 - [How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/)
+## Afternoon/Evening Digest - 06-06-2026
+
+- [Moving beyond fork() + exec()](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/)
+- [Benchmarks in Leipzig](https://arxiv.org/abs/2606.05818)
+- [How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/)
