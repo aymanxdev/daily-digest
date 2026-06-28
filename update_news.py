@@ -1,45 +1,45 @@
-import os
 import requests
 from datetime import datetime
 
 API_URL = "https://hacker-news.firebaseio.com/v0/topstories.json?print=pretty"
 ITEM_URL = "https://hacker-news.firebaseio.com/v0/item/{}.json?print=pretty"
-# NEWS_FILE_PATH = "daily_news.md"
-README_PATH = "README.md"
+NEWS_FILE_PATH = "daily_news.md"
 
-# Fetch the IDs of the top stories
-response = requests.get(API_URL)
-top_stories = response.json()[:3]  # Fetch only top 3 stories
 
-news_list = []
+def fetch_top_stories(limit=3):
+    """Return a list of (title, url) tuples for the current top HN stories."""
+    response = requests.get(API_URL, timeout=30)
+    response.raise_for_status()
+    top_ids = response.json()[:limit]
 
-for story_id in top_stories:
-    response = requests.get(ITEM_URL.format(story_id))
-    item = response.json()
-    # Some stories (e.g. "Ask HN") have no external URL; fall back to the
-    # Hacker News discussion link so we never KeyError.
-    url = item.get('url', f"https://news.ycombinator.com/item?id={story_id}")
-    news_list.append((item['title'], url))
+    stories = []
+    for story_id in top_ids:
+        item = requests.get(ITEM_URL.format(story_id), timeout=30).json()
+        # Some stories (e.g. "Ask HN") have no external URL; fall back to the
+        # Hacker News discussion link so we never KeyError.
+        url = item.get("url", f"https://news.ycombinator.com/item?id={story_id}")
+        stories.append((item["title"], url))
+    return stories
 
-# Current date for the title
-current_date = datetime.now().strftime('%d-%m-%Y')
 
-# Determine if it's morning or afternoon/evening
-current_hour = datetime.now().hour
-if current_hour < 12:
-    time_of_day = "Morning"
-else:
-    time_of_day = "Afternoon/Evening"
+def format_digest(stories, now=None):
+    """Render a list of (title, url) tuples as a dated Markdown digest block."""
+    now = now or datetime.now()
+    time_of_day = "Morning" if now.hour < 12 else "Afternoon/Evening"
+    current_date = now.strftime("%d-%m-%Y")
 
-# Format data for Markdown
-# formatted_data = "# Daily Dev News Summary\n\n"
-formatted_data = f"## {time_of_day} Digest - {current_date}\n\n"
-for title, url in news_list:
-    formatted_data += f"- [{title}]({url})\n"
+    block = f"## {time_of_day} Digest - {current_date}\n\n"
+    for title, url in stories:
+        block += f"- [{title}]({url})\n"
+    return block
 
-# Write to the news Markdown file
-with open("daily_news.md", 'a') as file:  
-    file.write(formatted_data)
 
-# with open(README_PATH, 'a') as readme:
-#     readme.write(f"\n[Click here for the {time_of_day} Digest - {current_date}](daily_news.md)")
+def main():
+    stories = fetch_top_stories()
+    block = format_digest(stories)
+    with open(NEWS_FILE_PATH, "a") as file:
+        file.write(block)
+
+
+if __name__ == "__main__":
+    main()

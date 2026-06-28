@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Daily Dev News — searchable archive</title>
+<style>
+  :root {
+    --bg: #0d1117;
+    --panel: #161b22;
+    --border: #30363d;
+    --text: #e6edf3;
+    --muted: #8b949e;
+    --accent: #58a6ff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.5;
+  }
+  header {
+    border-bottom: 1px solid var(--border);
+    padding: 2rem 1rem 1.5rem;
+    text-align: center;
+  }
+  h1 { margin: 0 0 .25rem; font-size: 1.8rem; }
+  .tagline { color: var(--muted); margin: 0 0 1rem; }
+  .stats { display: flex; gap: .5rem; justify-content: center; flex-wrap: wrap; }
+  .chip {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 2rem;
+    padding: .25rem .9rem;
+    font-size: .85rem;
+    color: var(--muted);
+  }
+  .chip b { color: var(--text); }
+  main { max-width: 760px; margin: 0 auto; padding: 1.5rem 1rem 4rem; }
+  #search {
+    width: 100%;
+    padding: .8rem 1rem;
+    font-size: 1rem;
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: .6rem;
+    color: var(--text);
+    margin-bottom: .5rem;
+  }
+  #search:focus { outline: none; border-color: var(--accent); }
+  #meta { color: var(--muted); font-size: .85rem; margin: 0 0 1.5rem; }
+  .digest { margin-bottom: 1.75rem; }
+  .digest h2 {
+    font-size: .8rem;
+    text-transform: uppercase;
+    letter-spacing: .05em;
+    color: var(--muted);
+    border-bottom: 1px solid var(--border);
+    padding-bottom: .35rem;
+    margin: 0 0 .6rem;
+  }
+  ul { list-style: none; margin: 0; padding: 0; }
+  li { margin: 0 0 .5rem; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .src { color: var(--muted); font-size: .8rem; margin-left: .35rem; }
+  mark { background: #bb800940; color: inherit; border-radius: 2px; }
+  footer { text-align: center; color: var(--muted); font-size: .8rem; padding: 2rem 1rem; }
+  .empty { color: var(--muted); padding: 2rem 0; text-align: center; }
+</style>
+</head>
+<body>
+<header>
+  <h1>📰 Daily Dev News</h1>
+  <p class="tagline">An auto-updating, searchable archive of the Hacker News front page.</p>
+  <div class="stats" id="stats"></div>
+</header>
+<main>
+  <input id="search" type="search" placeholder="Search every headline ever archived…" autocomplete="off" autofocus>
+  <p id="meta"></p>
+  <div id="results"><p class="empty">Loading archive…</p></div>
+</main>
+<footer>
+  Built automatically from <a href="https://github.com/aymanxdev/daily-digest">aymanxdev/daily-digest</a>.
+</footer>
+
+<script>
+const DEFAULT_DIGESTS = 50;   // digests shown before searching
+const MAX_RESULTS = 300;      // cap when searching, for snappiness
+
+const state = { digests: [], flat: [] };
+
+function hostOf(url) {
+  try { return new URL(url).hostname.replace(/^www\./, ""); }
+  catch { return ""; }
+}
+
+function escapeHtml(s) {
+  return s.replace(/[&<>"']/g, c => (
+    { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]
+  ));
+}
+
+function highlight(text, query) {
+  const safe = escapeHtml(text);
+  if (!query) return safe;
+  const i = text.toLowerCase().indexOf(query);
+  if (i === -1) return safe;
+  // Re-escape around the matched slice of the original string.
+  const before = escapeHtml(text.slice(0, i));
+  const match = escapeHtml(text.slice(i, i + query.length));
+  const after = escapeHtml(text.slice(i + query.length));
+  return `${before}<mark>${match}</mark>${after}`;
+}
+
+function storyLi(story, query) {
+  const host = hostOf(story.url);
+  const src = host ? `<span class="src">(${escapeHtml(host)})</span>` : "";
+  return `<li><a href="${escapeHtml(story.url)}" target="_blank" rel="noopener">`
+    + `${highlight(story.title, query)}</a>${src}</li>`;
+}
+
+function renderDefault() {
+  const slice = state.digests.slice(0, DEFAULT_DIGESTS);
+  const html = slice.map(d => {
+    const label = d.date ? `${d.period} Digest — ${d.date}` : d.period;
+    const items = d.stories.map(s => storyLi(s, "")).join("");
+    return `<section class="digest"><h2>${escapeHtml(label)}</h2><ul>${items}</ul></section>`;
+  }).join("");
+  document.getElementById("results").innerHTML = html;
+  document.getElementById("meta").textContent =
+    `Showing the ${slice.length} most recent digests. Start typing to search all ${state.flat.length} headlines.`;
+}
+
+function renderSearch(query) {
+  const matches = state.flat.filter(s => s.title.toLowerCase().includes(query));
+  const shown = matches.slice(0, MAX_RESULTS);
+  if (!matches.length) {
+    document.getElementById("results").innerHTML =
+      `<p class="empty">No headlines match “${escapeHtml(query)}”.</p>`;
+    document.getElementById("meta").textContent = "";
+    return;
+  }
+  const items = shown.map(s => {
+    const date = s.date ? `<span class="src">${escapeHtml(s.date)}</span>` : "";
+    return `<li><a href="${escapeHtml(s.url)}" target="_blank" rel="noopener">`
+      + `${highlight(s.title, query)}</a> ${date}</li>`;
+  }).join("");
+  document.getElementById("results").innerHTML =
+    `<section class="digest"><ul>${items}</ul></section>`;
+  document.getElementById("meta").textContent =
+    `${matches.length} headline${matches.length === 1 ? "" : "s"} match`
+    + (matches.length > MAX_RESULTS ? ` (showing first ${MAX_RESULTS})` : "") + ".";
+}
+
+function onSearch() {
+  const query = document.getElementById("search").value.trim().toLowerCase();
+  if (query) renderSearch(query); else renderDefault();
+}
+
+fetch("data.json")
+  .then(r => r.json())
+  .then(data => {
+    state.digests = data.digests || [];
+    state.flat = state.digests.flatMap(d =>
+      d.stories.map(s => ({ ...s, date: d.date, period: d.period })));
+    document.getElementById("search").addEventListener("input", onSearch);
+    renderDefault();
+  })
+  .catch(() => {
+    document.getElementById("results").innerHTML =
+      `<p class="empty">Could not load the archive.</p>`;
+  });
+
+fetch("stats.json")
+  .then(r => r.json())
+  .then(s => {
+    document.getElementById("stats").innerHTML =
+      `<span class="chip"><b>${s.stories.toLocaleString()}</b> stories</span>`
+      + `<span class="chip"><b>${s.digests.toLocaleString()}</b> digests</span>`
+      + `<span class="chip"><b>${s.facts.toLocaleString()}</b> cat facts</span>`
+      + `<span class="chip">updated <b>${escapeHtml(s.updated)}</b></span>`;
+  })
+  .catch(() => {});
+</script>
+</body>
+</html>
