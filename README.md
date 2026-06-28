@@ -21,6 +21,7 @@ stays alive on its own.
 | `update_news.py` | Fetches the top Hacker News stories and appends a dated digest to `daily_news.md`. |
 | `daily_fact_bot.py` | Fetches a short cat fact and appends it to `facts.txt`. |
 | `build_site.py` | Parses the whole archive into `docs/data.json` + `docs/stats.json` that power the site. |
+| `cleanup_news.py` | Prunes `daily_news.md` to roughly the last month so it doesn't grow forever. |
 | `docs/` | A dependency-free static site (GitHub Pages) with live client-side search over every headline. |
 
 The workflows authenticate using the built-in, repo-scoped `GITHUB_TOKEN`
@@ -32,6 +33,7 @@ The workflows authenticate using the built-in, repo-scoped `GITHUB_TOKEN`
 | --- | --- |
 | Daily Dev News | 09:00 and 15:00 |
 | Daily Fact Bot | 16:00 |
+| Monthly News Cleanup | 05:00 on the 1st of each month |
 
 Both can also be run on demand from the **Actions** tab.
 
