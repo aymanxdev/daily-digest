@@ -1,0 +1,37 @@
+name: Monthly News Cleanup
+
+on:
+  schedule:
+    - cron: '0 5 1 * *' # 05:00 UTC on the 1st of each month
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup_news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Prune news older than a month
+        run: python ./cleanup_news.py
+
+      - name: Rebuild digest site
+        run: python ./build_site.py
+
+      - name: Commit and push if there are changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add daily_news.md docs
+          git diff --staged --quiet || git commit -m "Prune news older than a month"
+          git pull --rebase origin main
+          git push

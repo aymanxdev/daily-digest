@@ -1,6 +1,7 @@
 from datetime import datetime, timezone
 
 import build_site
+import cleanup_news
 import daily_fact_bot
 import update_news
 
@@ -62,3 +63,25 @@ def test_write_fact(tmp_path):
     path = tmp_path / "facts.txt"
     daily_fact_bot.write_fact("Cats sleep a lot", str(path))
     assert path.read_text(encoding="utf-8") == "Cats sleep a lot\n"
+
+
+def test_prune_keeps_recent_drops_old():
+    now = datetime(2026, 6, 28, 12, 0)
+    text = (
+        "## Morning Digest - 01-01-2020\n\n- [Old](https://old.example)\n"
+        "## Morning Digest - 20-06-2026\n\n- [Recent](https://recent.example)\n"
+    )
+    out = cleanup_news.prune(text, now=now)
+    assert "Recent" in out and "20-06-2026" in out
+    assert "Old" not in out and "01-01-2020" not in out
+
+
+def test_prune_output_is_reparseable():
+    now = datetime(2026, 6, 28, 12, 0)
+    text = (
+        "## Morning Digest - 20-06-2026\n\n"
+        "- [A](https://a.example)\n- [B](https://b.example)\n"
+    )
+    digests = build_site.parse_archive(cleanup_news.prune(text, now=now))
+    assert len(digests) == 1
+    assert [s["title"] for s in digests[0]["stories"]] == ["A", "B"]
