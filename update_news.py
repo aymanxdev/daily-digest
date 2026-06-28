@@ -16,7 +16,10 @@ news_list = []
 for story_id in top_stories:
     response = requests.get(ITEM_URL.format(story_id))
     item = response.json()
-    news_list.append((item['title'], item['url']))
+    # Some stories (e.g. "Ask HN") have no external URL; fall back to the
+    # Hacker News discussion link so we never KeyError.
+    url = item.get('url', f"https://news.ycombinator.com/item?id={story_id}")
+    news_list.append((item['title'], url))
 
 # Current date for the title
 current_date = datetime.now().strftime('%d-%m-%Y')
