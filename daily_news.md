@@ -9405,3 +9405,8 @@
 - [Moving beyond fork() + exec()](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/)
 - [Benchmarks in Leipzig](https://arxiv.org/abs/2606.05818)
 - [How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/)
+## Afternoon/Evening Digest - 28-06-2026
+
+- [5k Restaurant Menus, Years 1880-1920](https://pudding.cool/2026/06/menu-collection/)
+- [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html)
+- [Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)](https://www.openculture.com/2020/10/daisugi.html)
