@@ -57,6 +57,25 @@ def test_build_writes_json(tmp_path):
     assert stats["updated"] == "2026-06-28"
     assert (out / "data.json").exists()
     assert (out / "stats.json").exists()
+    assert (out / "chart.svg").exists()
+
+
+def test_top_domains_counts_and_strips_www():
+    digests = build_site.parse_archive(
+        "## Morning Digest - 20-06-2026\n\n"
+        "- [One](https://www.example.com/a)\n"
+        "- [Two](https://example.com/b)\n"
+        "- [Three](https://other.org/c)\n"
+    )
+    counts = dict(build_site.top_domains(digests))
+    assert counts["example.com"] == 2
+    assert counts["other.org"] == 1
+
+
+def test_render_chart_svg_is_wellformed():
+    svg = build_site.render_chart_svg([("example.com", 3), ("other.org", 1)])
+    assert svg.startswith("<svg") and svg.endswith("</svg>")
+    assert "example.com" in svg
 
 
 def test_write_fact(tmp_path):
