@@ -9410,3 +9410,8 @@
 - [5k Restaurant Menus, Years 1880-1920](https://pudding.cool/2026/06/menu-collection/)
 - [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html)
 - [Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)](https://www.openculture.com/2020/10/daisugi.html)
+## Morning Digest - 29-06-2026
+
+- [HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](https://danunparsed.com/p/hackerrank-open-source-ats)
+- [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
+- [Dissecting Apple's Sparse Image Format (ASIF)](https://schamper.dev/dissecting-apples-sparse-image-format-asif/)
