@@ -93,3 +93,8 @@
 - [The labor share of income in the US is at its lowest post-war level](https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/)
 - [Looking Ahead to Postgres 19](https://www.snowflake.com/en/blog/engineering/postgresql-19-features-beta/)
 - [Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)](https://www.gutenberg.org/ebooks/24518)
+## Morning Digest - 01-07-2026
+
+- [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
+- [Newly discovered spider builds spring loaded snare to catch ants](https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html)
+- [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
