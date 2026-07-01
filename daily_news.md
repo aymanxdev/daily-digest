@@ -98,3 +98,8 @@
 - [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
 - [Newly discovered spider builds spring loaded snare to catch ants](https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html)
 - [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
+## Afternoon/Evening Digest - 01-07-2026
+
+- [For First Time, a Cell Built from Scratch Grows and Divides](https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/)
+- [Asahi Linux 7.1 Progress Report](https://asahilinux.org/2026/06/progress-report-7-1/)
+- [SpudCell: The first synthetic cell with a complete cell cycle](https://biotic.org/research/spudcell/)
