@@ -103,3 +103,8 @@
 - [For First Time, a Cell Built from Scratch Grows and Divides](https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/)
 - [Asahi Linux 7.1 Progress Report](https://asahilinux.org/2026/06/progress-report-7-1/)
 - [SpudCell: The first synthetic cell with a complete cell cycle](https://biotic.org/research/spudcell/)
+## Morning Digest - 02-07-2026
+
+- [A new Android malware from Google](https://f-droid.org/2026/07/01/adv-malware.html)
+- [Kimi K2.7 Code is generally available in GitHub Copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/)
+- [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en)
