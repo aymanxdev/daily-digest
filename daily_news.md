@@ -108,3 +108,8 @@
 - [A new Android malware from Google](https://f-droid.org/2026/07/01/adv-malware.html)
 - [Kimi K2.7 Code is generally available in GitHub Copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/)
 - [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en)
+## Afternoon/Evening Digest - 02-07-2026
+
+- [Launch HN: Manufact (YC S25) – MCP Cloud](https://manufact.com)
+- [Android Developer Verification: Threat masquerading as protection](https://f-droid.org/2026/07/01/adv-malware.html)
+- [Show HN: Mail Memories – A desktop app to rescue photos from Gmail](https://mailmemories.com)
