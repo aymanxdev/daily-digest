@@ -113,3 +113,8 @@
 - [Launch HN: Manufact (YC S25) – MCP Cloud](https://manufact.com)
 - [Android Developer Verification: Threat masquerading as protection](https://f-droid.org/2026/07/01/adv-malware.html)
 - [Show HN: Mail Memories – A desktop app to rescue photos from Gmail](https://mailmemories.com)
+## Morning Digest - 03-07-2026
+
+- [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
+- [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)
+- [Half-Baked Product](https://weli.dev/blog/half-baked-product/)
