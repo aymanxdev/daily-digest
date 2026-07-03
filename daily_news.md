@@ -118,3 +118,8 @@
 - [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
 - [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)
 - [Half-Baked Product](https://weli.dev/blog/half-baked-product/)
+## Afternoon/Evening Digest - 03-07-2026
+
+- [Half-Baked Product](https://weli.dev/blog/half-baked-product/)
+- [It Still Can't Do My Job: Four Years of Moving Goalposts (2022–2026)](https://publicznyprofil.github.io/ai_cant_do_your_work/)
+- [PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit](https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit)
