@@ -123,3 +123,8 @@
 - [Half-Baked Product](https://weli.dev/blog/half-baked-product/)
 - [It Still Can't Do My Job: Four Years of Moving Goalposts (2022–2026)](https://publicznyprofil.github.io/ai_cant_do_your_work/)
 - [PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit](https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit)
+## Morning Digest - 04-07-2026
+
+- [The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
+- [Agentic coding notes from Galapagos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)
+- [Performance per dollar is getting faster and cheaper](https://www.wafer.ai/blog/glm52-amd)
