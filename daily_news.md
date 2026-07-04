@@ -128,3 +128,8 @@
 - [The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
 - [Agentic coding notes from Galapagos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)
 - [Performance per dollar is getting faster and cheaper](https://www.wafer.ai/blog/glm52-amd)
+## Afternoon/Evening Digest - 04-07-2026
+
+- [Potential session/cache leakage between workspace instances or consumer accounts](https://github.com/anthropics/claude-code/issues/74066)
+- [Explanation of everything you can see in htop/top on Linux](https://peteris.rocks/blog/htop/)
+- [Astrophysicists Puzzle over Webb’s New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/)
