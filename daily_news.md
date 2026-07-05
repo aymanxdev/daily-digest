@@ -133,3 +133,8 @@
 - [Potential session/cache leakage between workspace instances or consumer accounts](https://github.com/anthropics/claude-code/issues/74066)
 - [Explanation of everything you can see in htop/top on Linux](https://peteris.rocks/blog/htop/)
 - [Astrophysicists Puzzle over Webb’s New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/)
+## Morning Digest - 05-07-2026
+
+- [Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog)
+- [If you're a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)
+- [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)
