@@ -138,3 +138,8 @@
 - [Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog)
 - [If you're a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)
 - [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)
+## Afternoon/Evening Digest - 05-07-2026
+
+- [Organic Maps](https://organicmaps.app/)
+- [Phosh 0.56.0](https://phosh.mobi/releases/rel-0.56.0/)
+- [Introduction to Compilers and Language Design](https://dthain.github.io/books/compiler/)
