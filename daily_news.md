@@ -143,3 +143,8 @@
 - [Organic Maps](https://organicmaps.app/)
 - [Phosh 0.56.0](https://phosh.mobi/releases/rel-0.56.0/)
 - [Introduction to Compilers and Language Design](https://dthain.github.io/books/compiler/)
+## Morning Digest - 06-07-2026
+
+- [Real-time map of Great Britain's rail network](https://www.map.signalbox.io)
+- [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)
+- [Has_not_been_viewed_much](https://iamwillwang.com/notes/has-not-been-viewed-much/)
