@@ -148,3 +148,8 @@
 - [Real-time map of Great Britain's rail network](https://www.map.signalbox.io)
 - [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)
 - [Has_not_been_viewed_much](https://iamwillwang.com/notes/has-not-been-viewed-much/)
+## Afternoon/Evening Digest - 06-07-2026
+
+- [Do you really need separate systems when you already have Postgres?](https://postgresisenough.dev/)
+- [Aluminum foil (2021)](https://dernocua.github.io/notes/aluminum-foil.html)
+- [How Kalshi Infects the News](https://www.publicnotice.co/p/kalshi-cnn-cnbc)
