@@ -158,3 +158,8 @@
 - [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
 - [CoMaps – FOSS Offline Maps](https://www.comaps.app/)
 - [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
+## Afternoon/Evening Digest - 07-07-2026
+
+- [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/)
+- [A better way to tie your gym shorts. (Or any drawstring) [video]](https://www.youtube.com/watch?v=3R0Lp86GEBk)
+- [98% Isn't Much](https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/)
