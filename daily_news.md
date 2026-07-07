@@ -153,3 +153,8 @@
 - [Do you really need separate systems when you already have Postgres?](https://postgresisenough.dev/)
 - [Aluminum foil (2021)](https://dernocua.github.io/notes/aluminum-foil.html)
 - [How Kalshi Infects the News](https://www.publicnotice.co/p/kalshi-cnn-cnbc)
+## Morning Digest - 07-07-2026
+
+- [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
+- [CoMaps – FOSS Offline Maps](https://www.comaps.app/)
+- [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
