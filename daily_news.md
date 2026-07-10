@@ -188,3 +188,8 @@
 - [GPT-5.6](https://openai.com/index/gpt-5-6/)
 - [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri)
 - [EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/)
+## Afternoon/Evening Digest - 10-07-2026
+
+- [Write code like a human will maintain it](https://unstack.io/write-code-like-a-human-will-maintain-it)
+- [Late Bronze Age Collapse](https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/)
+- [Successful Companies Go Blind](https://ianreppel.org/how-successful-companies-go-blind/)
