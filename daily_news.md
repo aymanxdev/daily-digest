@@ -183,3 +183,8 @@
 - [Show HN: 18 Words](https://18words.com/)
 - [No leap second will be introduced at the end of December 2026](https://datacenter.iers.org/data/latestVersion/bulletinC.txt)
 - [Launch HN: Context.dev (YC S26) – API to get structured data from any website](https://www.context.dev)
+## Morning Digest - 10-07-2026
+
+- [GPT-5.6](https://openai.com/index/gpt-5-6/)
+- [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri)
+- [EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/)
