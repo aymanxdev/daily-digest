@@ -198,3 +198,8 @@
 - [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
 - [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/)
 - [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)
+## Afternoon/Evening Digest - 11-07-2026
+
+- [Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/)
+- [Your code is fast – if you're lucky](https://tiki.li/blog/lucky_code.html)
+- [USAA closed 51% of home insurance claims without making a payment in 2025](https://www.expressnews.com/business/article/san-antonio-usaa-insurance-claims-rejected-22293061.php)
