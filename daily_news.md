@@ -193,3 +193,8 @@
 - [Write code like a human will maintain it](https://unstack.io/write-code-like-a-human-will-maintain-it)
 - [Late Bronze Age Collapse](https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/)
 - [Successful Companies Go Blind](https://ianreppel.org/how-successful-companies-go-blind/)
+## Morning Digest - 11-07-2026
+
+- [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
+- [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/)
+- [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)
