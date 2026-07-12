@@ -208,3 +208,8 @@
 - [Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase](https://github.com/cosmtrek/mindwalk)
 - [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm)
 - [Vint Cerf, a “father of the Internet”, is retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
+## Afternoon/Evening Digest - 12-07-2026
+
+- [Old and new apps, via modern coding agents by Terry Tao](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/)
+- [AI Boosts Research Careers but Flattens Scientific Discovery](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
+- [Understanding the Odin Programming Language](https://odinbook.com/)
