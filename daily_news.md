@@ -203,3 +203,8 @@
 - [Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/)
 - [Your code is fast – if you're lucky](https://tiki.li/blog/lucky_code.html)
 - [USAA closed 51% of home insurance claims without making a payment in 2025](https://www.expressnews.com/business/article/san-antonio-usaa-insurance-claims-rejected-22293061.php)
+## Morning Digest - 12-07-2026
+
+- [Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase](https://github.com/cosmtrek/mindwalk)
+- [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm)
+- [Vint Cerf, a “father of the Internet”, is retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
