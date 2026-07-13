@@ -213,3 +213,8 @@
 - [Old and new apps, via modern coding agents by Terry Tao](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/)
 - [AI Boosts Research Careers but Flattens Scientific Discovery](https://spectrum.ieee.org/ai-science-research-flattens-discovery)
 - [Understanding the Odin Programming Language](https://odinbook.com/)
+## Morning Digest - 13-07-2026
+
+- [Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/)
+- [Interrail: 6,379Km and 13 Countries over 7 weeks](https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/)
+- [Backtrack-Free Cursive](https://mmapped.blog/posts/52-backtrack-free-cursive)
