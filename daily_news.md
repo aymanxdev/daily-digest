@@ -218,3 +218,8 @@
 - [Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/)
 - [Interrail: 6,379Km and 13 Countries over 7 weeks](https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/)
 - [Backtrack-Free Cursive](https://mmapped.blog/posts/52-backtrack-free-cursive)
+## Afternoon/Evening Digest - 13-07-2026
+
+- [The art and engineering of Sega CD Silpheed](https://fabiensanglard.net/silpheed/index.html)
+- [A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese](https://jivx.com/densha)
+- [Grok uploaded my user directory to xAI's servers](https://twitter.com/a_green_being/status/2076598897779020159)
