@@ -228,3 +228,8 @@
 - [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
 - [Alternative(s) to run CUDA on non-Nvidia hardware](https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/)
 - [YouTrackDB is a general-use object-oriented graph database](https://github.com/JetBrains/youtrackdb)
+## Afternoon/Evening Digest - 14-07-2026
+
+- [Agnes Callard’s theory of the uni-context](https://www.derekthompson.org/p/a-philosophers-one-word-theory-to)
+- [Your 'app' could have been a webpage (so I fixed it for you)](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/)
+- [Beautiful Type Erasure with C++26 Reflection](https://ryanjk5.github.io/posts/rjk-duck/)
