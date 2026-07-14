@@ -223,3 +223,8 @@
 - [The art and engineering of Sega CD Silpheed](https://fabiensanglard.net/silpheed/index.html)
 - [A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese](https://jivx.com/densha)
 - [Grok uploaded my user directory to xAI's servers](https://twitter.com/a_green_being/status/2076598897779020159)
+## Morning Digest - 14-07-2026
+
+- [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
+- [Alternative(s) to run CUDA on non-Nvidia hardware](https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/)
+- [YouTrackDB is a general-use object-oriented graph database](https://github.com/JetBrains/youtrackdb)
