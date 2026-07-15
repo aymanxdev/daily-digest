@@ -238,3 +238,8 @@
 - [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
 - [RISC-V Is Inevitable: State of the Union Keynote Argues](https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/)
 - [I tricked Claude into leaking your deepest, darkest secrets](https://www.ayush.digital/blog/the-memory-heist)
+## Afternoon/Evening Digest - 15-07-2026
+
+- [Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)
+- [Mysteries of Telegram Data Centers](https://dev.moe/en/3025)
+- [Prioritize mental health, and why communication is so important](https://ramones.dev/posts/mental-health/)
