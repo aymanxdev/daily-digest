@@ -243,3 +243,8 @@
 - [Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)
 - [Mysteries of Telegram Data Centers](https://dev.moe/en/3025)
 - [Prioritize mental health, and why communication is so important](https://ramones.dev/posts/mental-health/)
+## Morning Digest - 16-07-2026
+
+- [The lost joy of music piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming)
+- [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)
+- [What's the story behind the names of Cloudflare's name servers? (2013)](https://blog.cloudflare.com/whats-the-story-behind-the-names-of-cloudflares-name-servers/)
