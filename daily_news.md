@@ -248,3 +248,8 @@
 - [The lost joy of music piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming)
 - [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)
 - [What's the story behind the names of Cloudflare's name servers? (2013)](https://blog.cloudflare.com/whats-the-story-behind-the-names-of-cloudflares-name-servers/)
+## Afternoon/Evening Digest - 16-07-2026
+
+- [Kimi K3 is now live](https://www.kimi.com/en)
+- [OnePlus halts operations in USA and Europe](https://community.oneplus.com/thread/2170715118587871237)
+- [Goes-19 weather satellite enters Safe Hold mode](https://www.spaceweather.gov/news/goes-19-safe-hold)
