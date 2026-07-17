@@ -253,3 +253,8 @@
 - [Kimi K3 is now live](https://www.kimi.com/en)
 - [OnePlus halts operations in USA and Europe](https://community.oneplus.com/thread/2170715118587871237)
 - [Goes-19 weather satellite enters Safe Hold mode](https://www.spaceweather.gov/news/goes-19-safe-hold)
+## Morning Digest - 17-07-2026
+
+- [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)
+- [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
+- [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/)
