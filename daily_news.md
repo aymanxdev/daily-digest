@@ -263,3 +263,8 @@
 - [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241)
 - [Mozilla: The state of open source AI](https://stateofopensource.ai/)
 - [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo)
+## Morning Digest - 18-07-2026
+
+- [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
+- [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241)
+- [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551)
