@@ -278,3 +278,8 @@
 - [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp)
 - [Qwen3.8 is launching and going open-weight soon](https://twitter.com/Alibaba_Qwen/status/2078759124914098291)
 - [Speech Recognition and TTS in less than 500kb](https://github.com/moonshine-ai/moonshine/tree/main/micro)
+## Afternoon/Evening Digest - 19-07-2026
+
+- [Qwen 3.8](https://twitter.com/Alibaba_Qwen/status/2078759124914098291)
+- [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4)
+- [Blender 5.2 LTS](https://www.blender.org/download/releases/5-2/)
