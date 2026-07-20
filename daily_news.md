@@ -283,3 +283,8 @@
 - [Qwen 3.8](https://twitter.com/Alibaba_Qwen/status/2078759124914098291)
 - [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4)
 - [Blender 5.2 LTS](https://www.blender.org/download/releases/5-2/)
+## Morning Digest - 20-07-2026
+
+- [Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/)
+- [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606)
+- [Moonshine: Lets you stream games from your PC to any device running Moonlight](https://github.com/hgaiser/moonshine)
