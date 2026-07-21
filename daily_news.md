@@ -293,3 +293,8 @@
 - [Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/)
 - [We're Squandering LEDs' Potential to Save Our Night Skies](https://spectrum.ieee.org/led-light-pollution)
 - [Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion](https://nothings.org/gamedev/ssao/)
+## Morning Digest - 21-07-2026
+
+- [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0)
+- [Incremental – A library for incremental computations](https://github.com/janestreet/incremental)
+- [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
