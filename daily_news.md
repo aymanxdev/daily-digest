@@ -308,3 +308,8 @@
 - [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
 - [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable)
 - [Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11)
+## Afternoon/Evening Digest - 22-07-2026
+
+- [The startup's Postgres survival guide](https://hatchet.run/blog/postgres-survival-guide)
+- [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
+- [10 REM"_(C2SLFF4](https://beej.us/blog/data/mystery-comment/)
