@@ -328,3 +328,8 @@
 - [Flux 3](https://bfl.ai/blog/flux-3)
 - [The PImpl idiom and the C++26 std:indirect type](https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/)
 - [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
+## Afternoon/Evening Digest - 24-07-2026
+
+- [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/)
+- [India's first privately-developed rocket reaches orbit on dramatic debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/)
+- [Flux 3 X Mimic: The Next Generation of Video-Action Models](https://bfl.ai/blog/flux-3-mimic)
