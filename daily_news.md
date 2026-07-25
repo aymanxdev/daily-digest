@@ -338,3 +338,8 @@
 - [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
 - [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
 - [GC and Exceptions in Wasmtime](https://bytecodealliance.org/articles/wasmtime-gc)
+## Afternoon/Evening Digest - 25-07-2026
+
+- [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
+- [The Silurian Hypothesis (2020)](https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/)
+- [My Images Are Dithered](https://dead.garden/blog/how-my-images-are-dithered.html)
