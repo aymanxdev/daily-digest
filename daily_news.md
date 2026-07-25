@@ -333,3 +333,8 @@
 - [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/)
 - [India's first privately-developed rocket reaches orbit on dramatic debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/)
 - [Flux 3 X Mimic: The Next Generation of Video-Action Models](https://bfl.ai/blog/flux-3-mimic)
+## Morning Digest - 25-07-2026
+
+- [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
+- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
+- [GC and Exceptions in Wasmtime](https://bytecodealliance.org/articles/wasmtime-gc)
