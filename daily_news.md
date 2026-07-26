@@ -348,3 +348,8 @@
 - [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
 - [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)
 - [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
+## Afternoon/Evening Digest - 26-07-2026
+
+- [Go Analysis Framework: modular static analysis by go team](https://pkg.go.dev/golang.org/x/tools/go/analysis)
+- [Ruff v0.16.0 – Significant new updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0)
+- [Park by Robot at London Gatwick Airport](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
