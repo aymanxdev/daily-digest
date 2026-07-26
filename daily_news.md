@@ -343,3 +343,8 @@
 - [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
 - [The Silurian Hypothesis (2020)](https://www.theparisreview.org/blog/2020/01/23/the-silurian-hypothesis/)
 - [My Images Are Dithered](https://dead.garden/blog/how-my-images-are-dithered.html)
+## Morning Digest - 26-07-2026
+
+- [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
+- [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)
+- [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
