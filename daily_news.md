@@ -358,3 +358,8 @@
 - [Kimi-K3 Releases on HuggingFace 7/27](https://huggingface.co/moonshotai/Kimi-K3)
 - [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
 - [Show HN: Physically accurate black hole you can put in your room](https://blackhole.plav.in)
+## Afternoon/Evening Digest - 27-07-2026
+
+- [Kimi-K3 Technical Report [pdf]](https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf)
+- [Kimi-K3 Releases on HuggingFace 7/27](https://huggingface.co/moonshotai/Kimi-K3)
+- [The Computer That Helped Win World War II](https://spectrum.ieee.org/colossus-computer-ieee-milestone)
