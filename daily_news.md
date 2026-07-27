@@ -353,3 +353,8 @@
 - [Go Analysis Framework: modular static analysis by go team](https://pkg.go.dev/golang.org/x/tools/go/analysis)
 - [Ruff v0.16.0 – Significant new updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0)
 - [Park by Robot at London Gatwick Airport](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
+## Morning Digest - 27-07-2026
+
+- [Kimi-K3 Releases on HuggingFace 7/27](https://huggingface.co/moonshotai/Kimi-K3)
+- [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
+- [Show HN: Physically accurate black hole you can put in your room](https://blackhole.plav.in)
