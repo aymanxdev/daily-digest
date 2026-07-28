@@ -363,3 +363,8 @@
 - [Kimi-K3 Technical Report [pdf]](https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf)
 - [Kimi-K3 Releases on HuggingFace 7/27](https://huggingface.co/moonshotai/Kimi-K3)
 - [The Computer That Helped Win World War II](https://spectrum.ieee.org/colossus-computer-ieee-milestone)
+## Morning Digest - 28-07-2026
+
+- [7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en)
+- [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models)
+- [A $500 RL fine-tune of a 9B open model beat frontier models on catalog review](https://fermisense.com/when-machines-take-the-wheel/)
