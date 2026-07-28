@@ -368,3 +368,8 @@
 - [7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en)
 - [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models)
 - [A $500 RL fine-tune of a 9B open model beat frontier models on catalog review](https://fermisense.com/when-machines-take-the-wheel/)
+## Afternoon/Evening Digest - 28-07-2026
+
+- [7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en)
+- [New HIV vaccine shows unprecedented success in preclinical study](https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/)
+- [Harmony Explained: Progress Towards a Scientific Theory of Music (2012)](https://arxiv.org/abs/1202.4212)
