@@ -373,3 +373,8 @@
 - [7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en)
 - [New HIV vaccine shows unprecedented success in preclinical study](https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/)
 - [Harmony Explained: Progress Towards a Scientific Theory of Music (2012)](https://arxiv.org/abs/1202.4212)
+## Morning Digest - 29-07-2026
+
+- [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
+- [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/)
+- [SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers](https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers)
