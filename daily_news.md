@@ -378,3 +378,8 @@
 - [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
 - [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/)
 - [SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers](https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers)
+## Afternoon/Evening Digest - 29-07-2026
+
+- [KOReader](https://koreader.rocks/)
+- [Handbook.md shows that long policy documents do not reliably govern agents](https://arxiv.org/abs/2607.25398)
+- [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare)
