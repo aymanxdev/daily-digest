@@ -383,3 +383,8 @@
 - [KOReader](https://koreader.rocks/)
 - [Handbook.md shows that long policy documents do not reliably govern agents](https://arxiv.org/abs/2607.25398)
 - [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare)
+## Morning Digest - 30-07-2026
+
+- [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
+- [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/)
+- [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare)
