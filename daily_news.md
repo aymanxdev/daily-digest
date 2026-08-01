@@ -308,3 +308,8 @@
 - [Is AI Reasoning Right for the Wrong Reasons?](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/)
 - [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga)
 - [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/)
+## Morning Digest - 01-08-2026
+
+- [RamenHaus](https://ramen.haus/)
+- [AI doesn't generate working products, that's still your job](https://weeraman.com/the-prototype-isnt-the-product/)
+- [Elevators](https://john.fun/elevators)
