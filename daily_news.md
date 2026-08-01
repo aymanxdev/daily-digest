@@ -313,3 +313,8 @@
 - [RamenHaus](https://ramen.haus/)
 - [AI doesn't generate working products, that's still your job](https://weeraman.com/the-prototype-isnt-the-product/)
 - [Elevators](https://john.fun/elevators)
+## Afternoon/Evening Digest - 01-08-2026
+
+- [A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention](https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/)
+- [The Art of 64-bit Assembly](https://nostarch.com/art-64-bit-assembly-v2)
+- [RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494)
