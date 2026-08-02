@@ -323,3 +323,8 @@
 - [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html)
 - [Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built](https://github.com/tom-ilan/cycloidal_gearbox)
 - [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
+## Afternoon/Evening Digest - 02-08-2026
+
+- [Ursula K. Le Guin: A Rant About "Technology" (2005)](https://www.ursulakleguin.com/a-rant-about-technology)
+- [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
+- [F*: A general-purpose proof-oriented programming language](https://fstar-lang.org/)
