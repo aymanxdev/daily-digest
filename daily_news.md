@@ -328,3 +328,8 @@
 - [Ursula K. Le Guin: A Rant About "Technology" (2005)](https://www.ursulakleguin.com/a-rant-about-technology)
 - [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
 - [F*: A general-purpose proof-oriented programming language](https://fstar-lang.org/)
+## Morning Digest - 03-08-2026
+
+- [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/)
+- [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
+- [Bonsai: Janestreet's UI Library](https://github.com/janestreet/bonsai)
