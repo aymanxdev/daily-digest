@@ -333,3 +333,8 @@
 - [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/)
 - [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
 - [Bonsai: Janestreet's UI Library](https://github.com/janestreet/bonsai)
+## Afternoon/Evening Digest - 03-08-2026
+
+- [Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
+- [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source)
+- [Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days](https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/)
