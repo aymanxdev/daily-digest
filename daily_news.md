@@ -338,3 +338,8 @@
 - [Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
 - [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source)
 - [Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days](https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/)
+## Morning Digest - 04-08-2026
+
+- [FFmpeg 9.0](https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES)
+- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
+- [Harness Engineering for Self-Improvement](https://lilianweng.github.io/posts/2026-07-04-harness/)
