@@ -378,3 +378,8 @@
 - [A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava](https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/)
 - [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
 - [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/)
+## Afternoon/Evening Digest - 08-08-2026
+
+- [A domain can now say it is for sale, in DNS](https://specification.website/spec/foundations/for-sale-dns/)
+- [DeepMind's WeatherNext model achieves breakthrough forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/)
+- [Voyager 1 FDS Computer Emulator](https://zaneham.github.io/voyager-fds-emulator/)
