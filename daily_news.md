@@ -373,3 +373,8 @@
 - [99% of My Website Traffic Is Bots](https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/)
 - [US strikes $1.2B deal to pay German firm to halt offshore wind projects](https://www.bbc.com/news/articles/c1e1vg0gjl5o)
 - [Show HN: Wyzer Programming Language](https://github.com/Wyzer-Lang/wyzer)
+## Morning Digest - 08-08-2026
+
+- [A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava](https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/)
+- [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
+- [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/)
