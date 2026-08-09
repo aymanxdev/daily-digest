@@ -388,3 +388,8 @@
 - [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword)
 - [My server is a phone now](https://seg6.space/posts/phone-server/)
 - [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/)
+## Afternoon/Evening Digest - 09-08-2026
+
+- [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
+- [Show HN: A Project Oberon System version running on RISC-V instead of RISC-5](https://github.com/rochus-keller/OberonSystem/tree/op2-rv32)
+- [There Are Magic Hexagons of Every Order](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html)
