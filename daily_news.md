@@ -383,3 +383,8 @@
 - [A domain can now say it is for sale, in DNS](https://specification.website/spec/foundations/for-sale-dns/)
 - [DeepMind's WeatherNext model achieves breakthrough forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/)
 - [Voyager 1 FDS Computer Emulator](https://zaneham.github.io/voyager-fds-emulator/)
+## Morning Digest - 09-08-2026
+
+- [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword)
+- [My server is a phone now](https://seg6.space/posts/phone-server/)
+- [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/)
