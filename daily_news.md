@@ -398,3 +398,8 @@
 - [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
 - [What Happened to HackerOne?](https://blog.teknogeek.io/posts/what-happened-to-hackerone/)
 - [Run Android ARM64 VR APKs on Apple Vision Pro](https://github.com/shinyquagsire23/Klepton)
+## Afternoon/Evening Digest - 10-08-2026
+
+- [Meta Muse Glimmer – open weights 30B local coding model](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
+- [Squeak/Smalltalk 6.1 Release Notes](https://squeak.org/release_notes/6.1/)
+- [50k Boat Names](https://www.beautifulpublicdata.com/boat-names/)
