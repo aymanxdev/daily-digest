@@ -393,3 +393,8 @@
 - [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
 - [Show HN: A Project Oberon System version running on RISC-V instead of RISC-5](https://github.com/rochus-keller/OberonSystem/tree/op2-rv32)
 - [There Are Magic Hexagons of Every Order](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html)
+## Morning Digest - 10-08-2026
+
+- [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
+- [What Happened to HackerOne?](https://blog.teknogeek.io/posts/what-happened-to-hackerone/)
+- [Run Android ARM64 VR APKs on Apple Vision Pro](https://github.com/shinyquagsire23/Klepton)
