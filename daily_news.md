@@ -408,3 +408,8 @@
 - [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c)
 - [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/)
 - [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
+## Afternoon/Evening Digest - 11-08-2026
+
+- [England set to be one of the first countries to eliminate hepatitis C](https://www.bbc.com/news/articles/c75gk620r22o)
+- [Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md)
+- [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/)
