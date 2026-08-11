@@ -403,3 +403,8 @@
 - [Meta Muse Glimmer – open weights 30B local coding model](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
 - [Squeak/Smalltalk 6.1 Release Notes](https://squeak.org/release_notes/6.1/)
 - [50k Boat Names](https://www.beautifulpublicdata.com/boat-names/)
+## Morning Digest - 11-08-2026
+
+- [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c)
+- [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/)
+- [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
