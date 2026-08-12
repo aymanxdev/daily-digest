@@ -418,3 +418,8 @@
 - [LinkedIn CringeBot 3000](https://www.cringebot3000.com/)
 - [The hardest working font in Manhattan (2025)](https://aresluna.org/the-hardest-working-font-in-manhattan/)
 - [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
+## Afternoon/Evening Digest - 12-08-2026
+
+- [License Plate Reader Searches Should Require a Warrant](https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/)
+- [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/)
+- [Obituary: AmigaDOS developer Dr. Tim King has passed away](https://amiga-news.de/en/news/AN-2026-08-00070-EN.html)
