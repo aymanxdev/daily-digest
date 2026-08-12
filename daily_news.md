@@ -413,3 +413,8 @@
 - [England set to be one of the first countries to eliminate hepatitis C](https://www.bbc.com/news/articles/c75gk620r22o)
 - [Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md)
 - [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/)
+## Morning Digest - 12-08-2026
+
+- [LinkedIn CringeBot 3000](https://www.cringebot3000.com/)
+- [The hardest working font in Manhattan (2025)](https://aresluna.org/the-hardest-working-font-in-manhattan/)
+- [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
