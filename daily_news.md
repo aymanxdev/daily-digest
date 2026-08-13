@@ -428,3 +428,8 @@
 - [ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/)
 - [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)
 - [Tracking down the 16-year-old WAL-reset SQLite bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
+## Afternoon/Evening Digest - 13-08-2026
+
+- [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
+- [Spaghettifying DRAM](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+- [Gloomberb](https://gloom.sh/)
