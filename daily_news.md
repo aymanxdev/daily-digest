@@ -423,3 +423,8 @@
 - [License Plate Reader Searches Should Require a Warrant](https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/)
 - [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/)
 - [Obituary: AmigaDOS developer Dr. Tim King has passed away](https://amiga-news.de/en/news/AN-2026-08-00070-EN.html)
+## Morning Digest - 13-08-2026
+
+- [ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/)
+- [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)
+- [Tracking down the 16-year-old WAL-reset SQLite bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
