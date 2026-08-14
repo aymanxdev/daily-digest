@@ -433,3 +433,8 @@
 - [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
 - [Spaghettifying DRAM](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
 - [Gloomberb](https://gloom.sh/)
+## Morning Digest - 14-08-2026
+
+- [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3)
+- [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)
+- [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)
