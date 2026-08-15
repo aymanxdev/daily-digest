@@ -448,3 +448,8 @@
 - [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
 - [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)
 - [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
+## Afternoon/Evening Digest - 15-08-2026
+
+- [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/)
+- [Writergate: Zig I/O Interface Overhaul](https://alexrios.me/blog/writergate/)
+- [Working with AI Feels More Like Leadership Than Coding](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
