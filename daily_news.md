@@ -443,3 +443,8 @@
 - [Every Fucking Website](https://lxe.github.io/everywebsite/)
 - [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3)
 - [In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half](https://e360.yale.edu/digest/australia-home-batteries)
+## Morning Digest - 15-08-2026
+
+- [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
+- [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)
+- [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
