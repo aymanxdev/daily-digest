@@ -453,3 +453,8 @@
 - [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/)
 - [Writergate: Zig I/O Interface Overhaul](https://alexrios.me/blog/writergate/)
 - [Working with AI Feels More Like Leadership Than Coding](https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/)
+## Morning Digest - 16-08-2026
+
+- [What happens when an LLM never sees material beyond fifth grade?](https://littlelearner-ll.github.io/)
+- [Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/)
+- [Asynchronous I/O in DuckDB: Work, Thread, Work](https://duckdb.org/2026/07/31/asynchronous-io)
