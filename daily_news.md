@@ -458,3 +458,8 @@
 - [What happens when an LLM never sees material beyond fifth grade?](https://littlelearner-ll.github.io/)
 - [Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/)
 - [Asynchronous I/O in DuckDB: Work, Thread, Work](https://duckdb.org/2026/07/31/asynchronous-io)
+## Afternoon/Evening Digest - 16-08-2026
+
+- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
+- [Firefox for iOS now has a native adblocker](https://support.mozilla.org/en-US/kb/block-ads-firefox-ios)
+- [Does anyone run Postgres without PgBouncer?](https://brandur.org/fragments/postgres-without-pgbouncer)
