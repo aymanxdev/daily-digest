@@ -463,3 +463,8 @@
 - [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
 - [Firefox for iOS now has a native adblocker](https://support.mozilla.org/en-US/kb/block-ads-firefox-ios)
 - [Does anyone run Postgres without PgBouncer?](https://brandur.org/fragments/postgres-without-pgbouncer)
+## Morning Digest - 17-08-2026
+
+- [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
+- [GIMP Development Update](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
+- [Linear algebra done right](https://linear.axler.net/)
