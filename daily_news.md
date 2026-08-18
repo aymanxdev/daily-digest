@@ -478,3 +478,8 @@
 - [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/)
 - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
 - [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol)
+## Afternoon/Evening Digest - 18-08-2026
+
+- [The Amazon Tax](https://seths.blog/2026/08/the-amazon-tax/)
+- [Using the railway network as a flatbed scanner](https://philo.gay/linecam/)
+- [Fixing a Bricked Framework Laptop](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/)
