@@ -473,3 +473,8 @@
 - [Apple's App Tracking Transparency treated its own apps better than rivals](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html)
 - [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights)
 - [AI-Generated GitHub Copilot "Autofix" Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+## Morning Digest - 18-08-2026
+
+- [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/)
+- [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
+- [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol)
