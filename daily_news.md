@@ -488,3 +488,8 @@
 - [OpenLogi](https://openlogi.org/en)
 - [Where Human Sleep Went Wrong](https://nautil.us/where-human-sleep-went-wrong-1283797)
 - [Cerebras CS-4](https://www.cerebras.ai/cs4)
+## Afternoon/Evening Digest - 19-08-2026
+
+- [GrapheneOS in 2027 available on high-end Motorola phones](https://grapheneos.social/@GrapheneOS/117078064184215730)
+- [Geolocating a random island using geometry and CUDA programming](https://yassa9.github.io/osint/gralhix-004/)
+- [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
