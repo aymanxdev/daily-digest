@@ -483,3 +483,8 @@
 - [The Amazon Tax](https://seths.blog/2026/08/the-amazon-tax/)
 - [Using the railway network as a flatbed scanner](https://philo.gay/linecam/)
 - [Fixing a Bricked Framework Laptop](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/)
+## Morning Digest - 19-08-2026
+
+- [OpenLogi](https://openlogi.org/en)
+- [Where Human Sleep Went Wrong](https://nautil.us/where-human-sleep-went-wrong-1283797)
+- [Cerebras CS-4](https://www.cerebras.ai/cs4)
