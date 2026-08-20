@@ -498,3 +498,8 @@
 - [Don't Paste the AI, please](https://dontpastetheai.com/)
 - [Windows brings out the Rorschach test in everyone](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
 - [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
+## Afternoon/Evening Digest - 20-08-2026
+
+- [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
+- [Malicious Rust Crate Arrayref Runs a Build-Time Payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/)
+- [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/)
