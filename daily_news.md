@@ -508,3 +508,8 @@
 - [The Lost Treasure of Sid Meier's Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
 - [We Rebuilt the Linux MicroVM Stack on Apple Silicon](https://encore.dev/blog/firecracker-apple-silicon)
 - [The August 17 outage](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
+## Afternoon/Evening Digest - 21-08-2026
+
+- [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296)
+- [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html)
+- [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)
