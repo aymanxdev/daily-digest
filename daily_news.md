@@ -518,3 +518,8 @@
 - [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
 - [Felony Bench](https://www.felonybench.com/)
 - [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
+## Afternoon/Evening Digest - 22-08-2026
+
+- [A Kantian Critique of "Sorry" by Justin Bieber](https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/)
+- [The New MCP Roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)
+- [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)
