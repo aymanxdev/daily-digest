@@ -513,3 +513,8 @@
 - [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296)
 - [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html)
 - [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)
+## Morning Digest - 22-08-2026
+
+- [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
+- [Felony Bench](https://www.felonybench.com/)
+- [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
