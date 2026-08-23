@@ -528,3 +528,8 @@
 - [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/)
 - [JIT Compiling Code in 5μs](https://malisper.me/jit-compiling-code-in-5-us/)
 - [To become a better writer, read as much as you can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/)
+## Afternoon/Evening Digest - 23-08-2026
+
+- [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/)
+- [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes)
+- [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/)
