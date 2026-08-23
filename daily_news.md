@@ -523,3 +523,8 @@
 - [A Kantian Critique of "Sorry" by Justin Bieber](https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/)
 - [The New MCP Roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/)
 - [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)
+## Morning Digest - 23-08-2026
+
+- [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/)
+- [JIT Compiling Code in 5μs](https://malisper.me/jit-compiling-code-in-5-us/)
+- [To become a better writer, read as much as you can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/)
