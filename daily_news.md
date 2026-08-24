@@ -533,3 +533,8 @@
 - [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/)
 - [My favorite nonfiction books about cults, scams, and schemes](https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes)
 - [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/)
+## Morning Digest - 24-08-2026
+
+- [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
+- [I were 17, I'd learn how to build LLMs from scratch](https://twitter.com/paulg/status/2091544343589060625)
+- [FDA clears blood test to aid evaluation for Alzheimer's disease](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
