@@ -543,3 +543,8 @@
 - [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs)
 - [SeL4 security proofs now complete on AArch64](https://proofcraft.systems/news-2026/#2026-08-21)
 - [Hot Chips 2026: Applying High Bandwidth Flash (HBF)](https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth)
+## Morning Digest - 25-08-2026
+
+- [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
+- [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926)
+- [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/)
