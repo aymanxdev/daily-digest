@@ -553,3 +553,8 @@
 - [Apple Introduces New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/)
 - [Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs](https://e360.yale.edu/digest/bomb-fishing-coral-reefs)
 - [Apple's new Mac mini, featuring M6 and M5 Pro](https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/)
+## Morning Digest - 26-08-2026
+
+- [The End of Programming](https://pauldix.com/the-end-of-programming)
+- [Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]](https://www.youtube.com/watch?v=656058JxTM0)
+- [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
