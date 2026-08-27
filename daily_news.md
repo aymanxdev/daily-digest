@@ -563,3 +563,8 @@
 - [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8)
 - [Pollen Robotics (Hugging Face) Microduck](https://pollen-robotics.com/microduck/)
 - [Tell HN: PayPal Blocks GrapheneOS](https://news.ycombinator.com/item?id=49462253)
+## Afternoon/Evening Digest - 27-08-2026
+
+- [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
+- [507 Mechanical Movements](https://507movements.com/)
+- [Small Models Have Arrived](https://calv.info/small-models-have-arrived)
