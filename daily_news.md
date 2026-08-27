@@ -558,3 +558,8 @@
 - [The End of Programming](https://pauldix.com/the-end-of-programming)
 - [Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]](https://www.youtube.com/watch?v=656058JxTM0)
 - [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
+## Afternoon/Evening Digest - 27-08-2026
+
+- [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8)
+- [Pollen Robotics (Hugging Face) Microduck](https://pollen-robotics.com/microduck/)
+- [Tell HN: PayPal Blocks GrapheneOS](https://news.ycombinator.com/item?id=49462253)
