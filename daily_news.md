@@ -573,3 +573,8 @@
 - [Hilariously Fast Volume Computation with the Divergence Theorem](https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html)
 - [OpenAI: Migrating to HTTPX2](https://github.com/openai/openai-python/blob/main/httpx2.md)
 - [Show HN: SubSmith – Turn your own videos into language-learning material](https://subsmith.app)
+## Afternoon/Evening Digest - 28-08-2026
+
+- [Get your Windows license refund](https://en.refund4freedom.org/)
+- [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
+- [Just the rumour of a bug is enough to find an exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit)
