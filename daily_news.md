@@ -568,3 +568,8 @@
 - [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
 - [507 Mechanical Movements](https://507movements.com/)
 - [Small Models Have Arrived](https://calv.info/small-models-have-arrived)
+## Afternoon/Evening Digest - 28-08-2026
+
+- [Hilariously Fast Volume Computation with the Divergence Theorem](https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html)
+- [OpenAI: Migrating to HTTPX2](https://github.com/openai/openai-python/blob/main/httpx2.md)
+- [Show HN: SubSmith – Turn your own videos into language-learning material](https://subsmith.app)
