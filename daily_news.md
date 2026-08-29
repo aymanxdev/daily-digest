@@ -583,3 +583,8 @@
 - [Samsung's Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
 - [Europe's last regular standard-gauge steam passenger service](https://parowozowniawolsztyn.pl/?page_id=2141)
 - [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
+## Afternoon/Evening Digest - 29-08-2026
+
+- [Debian votes to allow "responsible use of generative AI"](https://lwn.net/Articles/1091231/)
+- [Indirect Calling of Nested Functions on GCC Without Executable Stack](https://uecker.codeberg.page/2026-08-29.html)
+- [Samsung's Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
