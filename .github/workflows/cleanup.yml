@@ -29,8 +29,8 @@ jobs:
 
       - name: Commit and push if there are changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "aymanxdev"
+          git config user.email "61881131+aymanxdev@users.noreply.github.com"
           git add daily_news.md docs
           git diff --staged --quiet || git commit -m "Prune news older than a month"
           git pull --rebase origin main
