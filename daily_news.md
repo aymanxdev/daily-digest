@@ -588,3 +588,8 @@
 - [Debian votes to allow "responsible use of generative AI"](https://lwn.net/Articles/1091231/)
 - [Indirect Calling of Nested Functions on GCC Without Executable Stack](https://uecker.codeberg.page/2026-08-29.html)
 - [Samsung's Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
+## Morning Digest - 30-08-2026
+
+- [RISC-V is now officially supported by CPython](https://blog.python.org/2026/08/riscv-now-officially-supported/)
+- [Hy4 preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
+- [Bug Blindness](https://danluu.com/bug-blind/)
