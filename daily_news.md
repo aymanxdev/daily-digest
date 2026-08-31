@@ -598,3 +598,8 @@
 - [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
 - [Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/)
 - [No AI Fridays](https://noaifridays.com/)
+## Morning Digest - 31-08-2026
+
+- [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/)
+- [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
+- [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
