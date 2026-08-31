@@ -603,3 +603,8 @@
 - [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/)
 - [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
 - [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
+## Afternoon/Evening Digest - 31-08-2026
+
+- [OpenShot 4.0: Record, Edit, and Color Like Never Before](https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/)
+- [ChatGPT Work Tool and Skill Reference](https://codex-tool-reference.simonw.chatgpt.site/)
+- [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/)
