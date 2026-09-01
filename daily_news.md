@@ -303,3 +303,8 @@
 - [GPU World](https://www.gpuworld.org/)
 - [Fastpotify](https://fastpotify.rocks/)
 - [Tmp.0ut Volume 5](https://tmpout.sh/5/)
+## Afternoon/Evening Digest - 01-09-2026
+
+- [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656)
+- [44% on ARC-AGI-1 in 67 cents](https://mvakde.github.io/blog/44-on-arc-1/)
+- [Io_uring Without Readahead](https://frn.sh/io-uring/)
