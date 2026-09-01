@@ -298,3 +298,8 @@
 - [OpenShot 4.0: Record, Edit, and Color Like Never Before](https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/)
 - [ChatGPT Work Tool and Skill Reference](https://codex-tool-reference.simonw.chatgpt.site/)
 - [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/)
+## Morning Digest - 01-09-2026
+
+- [GPU World](https://www.gpuworld.org/)
+- [Fastpotify](https://fastpotify.rocks/)
+- [Tmp.0ut Volume 5](https://tmpout.sh/5/)
