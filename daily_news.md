@@ -313,3 +313,8 @@
 - [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
 - [The Emergent Symbolic Structure of Artificial Neural Networks](https://arxiv.org/abs/2608.29530)
 - [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)
+## Afternoon/Evening Digest - 02-09-2026
+
+- [A Note from LWN](https://lwn.net/Articles/1090585/)
+- [Three sites made 215,128 “best software” pages for AI. Perplexity cites them](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
+- [GrapheneOS says Pixel 11 has MTE support after all](https://grapheneos.social/@GrapheneOS/117194007157499435)
