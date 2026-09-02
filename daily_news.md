@@ -308,3 +308,8 @@
 - [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656)
 - [44% on ARC-AGI-1 in 67 cents](https://mvakde.github.io/blog/44-on-arc-1/)
 - [Io_uring Without Readahead](https://frn.sh/io-uring/)
+## Morning Digest - 02-09-2026
+
+- [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
+- [The Emergent Symbolic Structure of Artificial Neural Networks](https://arxiv.org/abs/2608.29530)
+- [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)
