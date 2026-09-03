@@ -323,3 +323,8 @@
 - [Pre-Release of Polars 2.0](https://pola.rs/posts/announcing-polars-2/)
 - [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
 - [Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)](https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/)
+## Afternoon/Evening Digest - 03-09-2026
+
+- [Audacity 4.0](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0)
+- [ChatGPT Is Throwing 404](https://chatgpt.com/)
+- [Elevated Errors for Multiple Models](https://status.claude.com/incidents/461yvfrzpwtt)
