@@ -318,3 +318,8 @@
 - [A Note from LWN](https://lwn.net/Articles/1090585/)
 - [Three sites made 215,128 “best software” pages for AI. Perplexity cites them](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
 - [GrapheneOS says Pixel 11 has MTE support after all](https://grapheneos.social/@GrapheneOS/117194007157499435)
+## Morning Digest - 03-09-2026
+
+- [Pre-Release of Polars 2.0](https://pola.rs/posts/announcing-polars-2/)
+- [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
+- [Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)](https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/)
