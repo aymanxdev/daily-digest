@@ -328,3 +328,8 @@
 - [Audacity 4.0](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0)
 - [ChatGPT Is Throwing 404](https://chatgpt.com/)
 - [Elevated Errors for Multiple Models](https://status.claude.com/incidents/461yvfrzpwtt)
+## Morning Digest - 04-09-2026
+
+- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
+- [.name Termination](https://neil.fraser.name/news/2026/09/03/)
+- [Carbon-aware electricity pricing, measured daily on 38 grids](https://carbonawarepricing.com/)
