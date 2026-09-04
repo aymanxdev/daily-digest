@@ -333,3 +333,8 @@
 - [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
 - [.name Termination](https://neil.fraser.name/news/2026/09/03/)
 - [Carbon-aware electricity pricing, measured daily on 38 grids](https://carbonawarepricing.com/)
+## Afternoon/Evening Digest - 04-09-2026
+
+- [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
+- [Google AI Mode shows same products 21.6% more expensive than traditional search](https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products)
+- [Solving the Jane Street Reverse Engineering Challenge](https://jestoph.com/2026/09/04/jane-street-challenge.html)
