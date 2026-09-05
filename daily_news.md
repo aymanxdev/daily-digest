@@ -338,3 +338,8 @@
 - [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
 - [Google AI Mode shows same products 21.6% more expensive than traditional search](https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products)
 - [Solving the Jane Street Reverse Engineering Challenge](https://jestoph.com/2026/09/04/jane-street-challenge.html)
+## Morning Digest - 05-09-2026
+
+- [AI handles incidents, engineers lose touch with their systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
+- [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
+- [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
