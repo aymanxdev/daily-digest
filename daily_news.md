@@ -358,3 +358,8 @@
 - [Intellectual Fly Is Open (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/)
 - [A/I shuts down – Stay human](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/)
 - [Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight)
+## Morning Digest - 07-09-2026
+
+- [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
+- [Programming is Art](https://orchidfiles.com/programming-is-art/)
+- [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
