@@ -363,3 +363,8 @@
 - [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
 - [Programming is Art](https://orchidfiles.com/programming-is-art/)
 - [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
+## Afternoon/Evening Digest - 07-09-2026
+
+- [De-Brainrot Vacations](https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/)
+- [bzip3](https://github.com/iczelia/bzip3)
+- [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
