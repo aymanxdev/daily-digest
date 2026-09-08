@@ -373,3 +373,8 @@
 - [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
 - [Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/)
 - [We built our house for LAN parties](https://lanparty.house/)
+## Afternoon/Evening Digest - 08-09-2026
+
+- [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03)
+- [LibreOffice breaks download records after declaring it has no AI features](https://manualdousuario.net/en/libreoffice-download-record-no-ai/)
+- [Show HN: Copperhead – Hardware as Fast as Software](https://copperhead.sh/)
