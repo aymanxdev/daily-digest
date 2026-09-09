@@ -383,3 +383,8 @@
 - [How GPT‑5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments/)
 - [Muse – Meta’s personal AI agent](https://ai.meta.com/muse/)
 - [On Really Trying (2009)](https://gwern.net/on-really-trying)
+## Afternoon/Evening Digest - 09-09-2026
+
+- [Tailwind Labs is joining Shopify](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
+- [Flock Wants a Closely Surveilled World with No Exit](https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit)
+- [Desert Ant Labs: local, fast models that run on device](https://desertant.com/blog/introducing-desert-ant-labs/)
