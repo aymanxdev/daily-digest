@@ -378,3 +378,8 @@
 - [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03)
 - [LibreOffice breaks download records after declaring it has no AI features](https://manualdousuario.net/en/libreoffice-download-record-no-ai/)
 - [Show HN: Copperhead – Hardware as Fast as Software](https://copperhead.sh/)
+## Morning Digest - 09-09-2026
+
+- [How GPT‑5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments/)
+- [Muse – Meta’s personal AI agent](https://ai.meta.com/muse/)
+- [On Really Trying (2009)](https://gwern.net/on-really-trying)
