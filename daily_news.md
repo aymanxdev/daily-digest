@@ -393,3 +393,8 @@
 - [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)
 - [iPhone Duo](https://www.apple.com/iphone-duo/)
 - [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
+## Afternoon/Evening Digest - 10-09-2026
+
+- [Shopify moves back to Native from React Native](https://shopify.engineering/back-to-native)
+- [Rust Is Tier-1 Language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/)
+- [Amazon pilots ad services in ChatGPT](https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/)
