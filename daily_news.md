@@ -403,3 +403,8 @@
 - [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native)
 - [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)
 - [Working with Git Worktrees in Magit](https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/)
+## Afternoon/Evening Digest - 11-09-2026
+
+- [Houthis 'take control' of key island in global shipping route](https://www.bbc.com/news/live/cmd683p01eljt)
+- [The Waymo effect: how AI is quietly making research less collaborative](https://www.researchagenda.news/articles/the-waymo-effect.html)
+- [Logo Programming Language](https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html)
