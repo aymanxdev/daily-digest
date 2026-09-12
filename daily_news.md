@@ -413,3 +413,8 @@
 - [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html)
 - [A misalignment of AI in mathematics](https://mathandai.org/)
 - [google.com/goto: Google's anti-scraping update](https://www.autom.dev/blog/google-search-goto-links)
+## Afternoon/Evening Digest - 12-09-2026
+
+- [A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html)
+- [IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI)
+- [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
