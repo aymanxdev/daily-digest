@@ -408,3 +408,8 @@
 - [Houthis 'take control' of key island in global shipping route](https://www.bbc.com/news/live/cmd683p01eljt)
 - [The Waymo effect: how AI is quietly making research less collaborative](https://www.researchagenda.news/articles/the-waymo-effect.html)
 - [Logo Programming Language](https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html)
+## Morning Digest - 12-09-2026
+
+- [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html)
+- [A misalignment of AI in mathematics](https://mathandai.org/)
+- [google.com/goto: Google's anti-scraping update](https://www.autom.dev/blog/google-search-goto-links)
