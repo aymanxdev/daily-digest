@@ -418,3 +418,8 @@
 - [A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html)
 - [IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI)
 - [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
+## Morning Digest - 13-09-2026
+
+- [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini)
+- [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
+- [The Interim Computer Museum](https://icm.museum/)
