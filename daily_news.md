@@ -423,3 +423,8 @@
 - [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini)
 - [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
 - [The Interim Computer Museum](https://icm.museum/)
+## Afternoon/Evening Digest - 13-09-2026
+
+- [Flock worker calls police on reporter filming public camera installation](https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/)
+- [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini)
+- ['Fingerprints' inside the Sun could reveal if it once swallowed a planet](https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet)
