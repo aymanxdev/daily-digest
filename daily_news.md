@@ -433,3 +433,8 @@
 - [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
 - [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/)
 - [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
+## Afternoon/Evening Digest - 14-09-2026
+
+- [New $100K H-1B Visa Fee Pushes Tech Jobs Offshore](https://spectrum.ieee.org/h-1b-visa-us-government)
+- [How to Write an Effective Software Design Document](https://refactoringenglish.com/excerpts/write-an-effective-design-doc/)
+- [Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama](https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/)
