@@ -428,3 +428,8 @@
 - [Flock worker calls police on reporter filming public camera installation](https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/)
 - [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini)
 - ['Fingerprints' inside the Sun could reveal if it once swallowed a planet](https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet)
+## Morning Digest - 14-09-2026
+
+- [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
+- [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/)
+- [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
