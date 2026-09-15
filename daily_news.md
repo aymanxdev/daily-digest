@@ -443,3 +443,8 @@
 - [I can't stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua)
 - [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/)
 - [OpenArm: An open-source 7DOF humanoid arm](https://github.com/enactic/OpenArm)
+## Afternoon/Evening Digest - 15-09-2026
+
+- [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
+- [A Cop Searched 19,000 Flock Cameras Across 1,558 Cities. His Reason: 'LMAO'](https://www.techtimes.co.uk/police-flock-search-licence-plate-lmao-1808683)
+- [Java 27 Released](https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/)
