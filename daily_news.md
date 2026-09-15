@@ -438,3 +438,8 @@
 - [New $100K H-1B Visa Fee Pushes Tech Jobs Offshore](https://spectrum.ieee.org/h-1b-visa-us-government)
 - [How to Write an Effective Software Design Document](https://refactoringenglish.com/excerpts/write-an-effective-design-doc/)
 - [Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama](https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/)
+## Morning Digest - 15-09-2026
+
+- [I can't stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua)
+- [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/)
+- [OpenArm: An open-source 7DOF humanoid arm](https://github.com/enactic/OpenArm)
