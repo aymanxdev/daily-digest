@@ -448,3 +448,8 @@
 - [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
 - [A Cop Searched 19,000 Flock Cameras Across 1,558 Cities. His Reason: 'LMAO'](https://www.techtimes.co.uk/police-flock-search-licence-plate-lmao-1808683)
 - [Java 27 Released](https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/)
+## Morning Digest - 16-09-2026
+
+- [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
+- [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/)
+- [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
