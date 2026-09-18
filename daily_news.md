@@ -473,3 +473,8 @@
 - [Jemalloc 5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
 - [The scourge of x86 emulation](https://fex-emu.com/Scourge-of-emulation/)
 - [Astra for Law](https://openai.com/index/astra-for-law/)
+## Afternoon/Evening Digest - 18-09-2026
+
+- [An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804)
+- [I Vibed a Proof of Conway's Conjecture](https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/)
+- [Bend 2 and the Vibe-Coding Trap](https://blog.liampwll.com/posts/bend_vibe_coding/)
