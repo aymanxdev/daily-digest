@@ -468,3 +468,8 @@
 - [Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02)
 - [One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
 - [Show HN: I built a new version of my fun spatial 3D online meeting app](https://flat.social)
+## Morning Digest - 18-09-2026
+
+- [Jemalloc 5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
+- [The scourge of x86 emulation](https://fex-emu.com/Scourge-of-emulation/)
+- [Astra for Law](https://openai.com/index/astra-for-law/)
