@@ -483,3 +483,8 @@
 - [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
 - [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
 - [GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)
+## Afternoon/Evening Digest - 19-09-2026
+
+- [Laya the open source version of Jev](https://laya.convaiinnovations.com/)
+- [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
+- [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk)
