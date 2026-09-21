@@ -503,3 +503,8 @@
 - [Grim Fandango Puzzle Document (1996) [pdf]](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf)
 - [Kev: Tiny Jev-like family of decision models built on top of Qwen3.5](https://github.com/jaredpalmer/kev/tree/main)
 - [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
+## Afternoon/Evening Digest - 21-09-2026
+
+- [What Sun Got Wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/)
+- [ZuckOff Know when a camera is in the room](https://zuckoff.app/)
+- [Uber arbitration award over Emily Normandin-Parker's death](https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death)
