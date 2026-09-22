@@ -508,3 +508,8 @@
 - [What Sun Got Wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/)
 - [ZuckOff Know when a camera is in the room](https://zuckoff.app/)
 - [Uber arbitration award over Emily Normandin-Parker's death](https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death)
+## Morning Digest - 22-09-2026
+
+- [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
+- [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
+- [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
