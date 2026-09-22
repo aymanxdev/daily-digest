@@ -513,3 +513,8 @@
 - [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
 - [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
 - [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
+## Afternoon/Evening Digest - 22-09-2026
+
+- [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
+- [OpenAI is about to eat Jev's lunch – Arcturus Labs](https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/)
+- [Jev – a curation of Jev demos on X, tools, skills, and integrations](https://github.com/Amal-David/awesome-jev)
