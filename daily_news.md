@@ -523,3 +523,8 @@
 - [Jev in 25 Lines of Python](https://www.nobodywho.ai/posts/jev-in-25-lines/)
 - [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
 - [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
+## Afternoon/Evening Digest - 23-09-2026
+
+- [Claude Code reads AGENTS.md only when telemetry is on](https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/)
+- [I Don't Want the Details](https://michaelheap.com/i-dont-want-the-details/)
+- [Stripe built its internal AI platform](https://stripe.dev/blog/meet-stripes-knowledge-ai-platform)
