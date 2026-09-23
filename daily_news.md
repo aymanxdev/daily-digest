@@ -518,3 +518,8 @@
 - [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
 - [OpenAI is about to eat Jev's lunch – Arcturus Labs](https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/)
 - [Jev – a curation of Jev demos on X, tools, skills, and integrations](https://github.com/Amal-David/awesome-jev)
+## Morning Digest - 23-09-2026
+
+- [Jev in 25 Lines of Python](https://www.nobodywho.ai/posts/jev-in-25-lines/)
+- [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
+- [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
