@@ -528,3 +528,8 @@
 - [Claude Code reads AGENTS.md only when telemetry is on](https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/)
 - [I Don't Want the Details](https://michaelheap.com/i-dont-want-the-details/)
 - [Stripe built its internal AI platform](https://stripe.dev/blog/meet-stripes-knowledge-ai-platform)
+## Morning Digest - 24-09-2026
+
+- [Early rogue AI agent activity and attempts to hack found on urlquery.net](https://transluce.org/agent-activity)
+- [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
+- [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
