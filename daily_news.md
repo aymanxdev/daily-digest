@@ -533,3 +533,8 @@
 - [Early rogue AI agent activity and attempts to hack found on urlquery.net](https://transluce.org/agent-activity)
 - [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
 - [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
+## Afternoon/Evening Digest - 24-09-2026
+
+- [Nokia Design Archive (2025)](https://nokiadesignarchive.aalto.fi/index.html)
+- [Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering](https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram)
+- [Enjoy Every Sandwich](https://bradmontague.substack.com/p/enjoy-every-sandwich)
