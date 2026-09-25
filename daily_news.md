@@ -538,3 +538,8 @@
 - [Nokia Design Archive (2025)](https://nokiadesignarchive.aalto.fi/index.html)
 - [Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering](https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram)
 - [Enjoy Every Sandwich](https://bradmontague.substack.com/p/enjoy-every-sandwich)
+## Morning Digest - 25-09-2026
+
+- [CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2](https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2)
+- [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
+- [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation)
