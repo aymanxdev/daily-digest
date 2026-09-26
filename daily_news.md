@@ -548,3 +548,8 @@
 - [Dutch governments builds alternative for Microsoft based on NixOS](https://www.dawo.community/en/)
 - [Allow Carriers on Planes](https://www.jefftk.com/p/allow-carriers-on-planes)
 - [Platform-Independent SIMD in Go](https://go.dev/blog/simd-experiment)
+## Morning Digest - 26-09-2026
+
+- [CAPTCHAs don't prove you're human – they prove you're American](https://shkspr.mobi/blog/2017/11/captchas-dont-prove-youre-human-they-prove-youre-american/)
+- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
+- [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)
