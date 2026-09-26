@@ -553,3 +553,8 @@
 - [CAPTCHAs don't prove you're human – they prove you're American](https://shkspr.mobi/blog/2017/11/captchas-dont-prove-youre-human-they-prove-youre-american/)
 - [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
 - [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)
+## Afternoon/Evening Digest - 26-09-2026
+
+- [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
+- [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)
+- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
