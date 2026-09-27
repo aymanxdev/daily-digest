@@ -558,3 +558,8 @@
 - [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
 - [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)
 - [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
+## Morning Digest - 27-09-2026
+
+- [OpenAI Feared "Optics" of what might appear on Hacker News](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)
+- [Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later)
+- [Flip Fluid on Flip Dots](https://mitxela.com/projects/flipflip)
