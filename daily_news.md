@@ -563,3 +563,8 @@
 - [OpenAI Feared "Optics" of what might appear on Hacker News](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)
 - [Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later)
 - [Flip Fluid on Flip Dots](https://mitxela.com/projects/flipflip)
+## Afternoon/Evening Digest - 27-09-2026
+
+- [In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html)
+- [Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/)
+- [10 Tells of a Slop UI](https://hereticpleb.vercel.app/blog/10-tells-of-slop)
