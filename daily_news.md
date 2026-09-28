@@ -573,3 +573,8 @@
 - [Prompting Claude Opus 5.5](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5)
 - [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html)
 - [Thinking fast and slow in AI: The role of metacognition (2021)](https://arxiv.org/abs/2110.01834)
+## Afternoon/Evening Digest - 28-09-2026
+
+- [Parley: Federated, decentralised chat that speaks plain IRC](https://git.mills.io/prologic/parley)
+- [Show HN: Hntui – A TUI for Hacker News](https://github.com/ahmd-sh/hntui)
+- [Coding Is Not Solved – Alex Ewerlöf Notes](https://blog.alexewerlof.com/p/coding-is-not-solved)
