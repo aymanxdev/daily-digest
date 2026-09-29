@@ -578,3 +578,8 @@
 - [Parley: Federated, decentralised chat that speaks plain IRC](https://git.mills.io/prologic/parley)
 - [Show HN: Hntui – A TUI for Hacker News](https://github.com/ahmd-sh/hntui)
 - [Coding Is Not Solved – Alex Ewerlöf Notes](https://blog.alexewerlof.com/p/coding-is-not-solved)
+## Morning Digest - 29-09-2026
+
+- [Using any C++ library in Godot](https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html)
+- [Phyllotaxis: An audio-reactive LED display](https://jagi.studio/posts/phyllotaxis/)
+- [The systems that no one will test](https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/)
