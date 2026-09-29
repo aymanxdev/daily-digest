@@ -583,3 +583,8 @@
 - [Using any C++ library in Godot](https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html)
 - [Phyllotaxis: An audio-reactive LED display](https://jagi.studio/posts/phyllotaxis/)
 - [The systems that no one will test](https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/)
+## Afternoon/Evening Digest - 29-09-2026
+
+- [Claude partial outage](https://status.claude.com/incidents/4xvtc2gnq73l)
+- [How Delhi Cut Electricity Loss from 50 to 5 Percent](https://spectrum.ieee.org/delhi-electricity-loss)
+- [AI companies leak data to advertisers [pdf]](https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf)
