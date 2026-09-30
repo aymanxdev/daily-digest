@@ -588,3 +588,8 @@
 - [Claude partial outage](https://status.claude.com/incidents/4xvtc2gnq73l)
 - [How Delhi Cut Electricity Loss from 50 to 5 Percent](https://spectrum.ieee.org/delhi-electricity-loss)
 - [AI companies leak data to advertisers [pdf]](https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf)
+## Morning Digest - 30-09-2026
+
+- [September 2026: The world today, as seen by one Polish guy](https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/)
+- [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
+- [Solving Factorio Quality](https://exyr.org/2026/solving-factorio-quality/)
