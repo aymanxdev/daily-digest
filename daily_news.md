@@ -593,3 +593,8 @@
 - [September 2026: The world today, as seen by one Polish guy](https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/)
 - [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
 - [Solving Factorio Quality](https://exyr.org/2026/solving-factorio-quality/)
+## Afternoon/Evening Digest - 30-09-2026
+
+- [Pi.dev: You Said No MCP](https://earendil.com/posts/you-said-no-mcp/)
+- [SDF vs. MSDF vs. Slug: GPU Text Rendering](https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/)
+- [Show HN: JBR-001 – An open-source 3D printable desktop robot](https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96)
