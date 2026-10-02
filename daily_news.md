@@ -323,3 +323,8 @@
 - [Pi 1.0](https://earendil.com/posts/pi-1-0/)
 - [Shimano Bicycle Museum Review](https://inrng.com/2026/10/shimano-bicycle-museum/)
 - [How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works)
+## Afternoon/Evening Digest - 02-10-2026
+
+- [The Legend of von Neumann [pdf]](https://gwern.net/doc/math/1973-halmos.pdf)
+- [Pi 1.0](https://earendil.com/posts/pi-1-0/)
+- [Shimano Bicycle Museum Review](https://inrng.com/2026/10/shimano-bicycle-museum/)
