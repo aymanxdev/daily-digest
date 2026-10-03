@@ -328,3 +328,8 @@
 - [The Legend of von Neumann [pdf]](https://gwern.net/doc/math/1973-halmos.pdf)
 - [Pi 1.0](https://earendil.com/posts/pi-1-0/)
 - [Shimano Bicycle Museum Review](https://inrng.com/2026/10/shimano-bicycle-museum/)
+## Morning Digest - 03-10-2026
+
+- [Understanding Frontier Artificial Intelligence](https://casp.ac/reports/intelligence-explosion)
+- [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/)
+- [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
