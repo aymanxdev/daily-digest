@@ -333,3 +333,8 @@
 - [Understanding Frontier Artificial Intelligence](https://casp.ac/reports/intelligence-explosion)
 - [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/)
 - [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
+## Afternoon/Evening Digest - 03-10-2026
+
+- [Kolibri is an open-weight LLM from Aleph Alpha for German and English](https://tej.as/blog/aleph-alpha-kolibri)
+- [Woking Electrical Control Room (2016)](http://www.darbiansphotography.com/woking-electrical-control-room-urbex)
+- [Kolibri Has Landed: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/)
