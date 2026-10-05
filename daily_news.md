@@ -348,3 +348,8 @@
 - [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)
 - [Car is a smartphone on wheels. Here's who's listening](https://automatictransmission.khoury.northeastern.edu/)
 - [Glashütte Trash Clock – A 30-minute pendulum clock made from trash](https://niklasroy.com/gtc/)
+## Morning Digest - 05-10-2026
+
+- [Huawei and Qualcomm Announce Broad Patent License Agreement](https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement)
+- [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)
+- [Sales of sub-€25,000 electric car models set to rise sevenfold](https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold)
