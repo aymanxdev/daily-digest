@@ -363,3 +363,8 @@
 - [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam)
 - [Accountability mechanisms can be joyful (2024)](https://liquidbrain.net/blog/accountability-and-joy/)
 - [Find the flattest route between any two points in SF](https://flattensf.com/)
+## Afternoon/Evening Digest - 06-10-2026
+
+- [Mistral Large 4](https://docs.mistral.ai/models/mistral-large-4-0)
+- [Mistral Large 4: "Le Chonk"](https://mistral.ai/news/mistral-large-4/)
+- [Release of Polars 2.0](https://pola.rs/posts/release-polars-2/)
