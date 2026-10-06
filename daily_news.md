@@ -358,3 +358,8 @@
 - [Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped](https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped)
 - [Europe's new robotics unicorn: Germany's RobCo hits $1B valuation](https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/)
 - [Denmark Data Breach Exposes 8.8M People's Personal Data](https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger)
+## Morning Digest - 06-10-2026
+
+- [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam)
+- [Accountability mechanisms can be joyful (2024)](https://liquidbrain.net/blog/accountability-and-joy/)
+- [Find the flattest route between any two points in SF](https://flattensf.com/)
