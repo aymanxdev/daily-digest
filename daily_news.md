@@ -373,3 +373,8 @@
 - [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)
 - [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/)
 - [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions)
+## Afternoon/Evening Digest - 07-10-2026
+
+- [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome)
+- [SynthID Detector](https://synthid.com/)
+- [Google Playground](https://labs.google/playground)
