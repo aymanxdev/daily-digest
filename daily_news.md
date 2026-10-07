@@ -368,3 +368,8 @@
 - [Mistral Large 4](https://docs.mistral.ai/models/mistral-large-4-0)
 - [Mistral Large 4: "Le Chonk"](https://mistral.ai/news/mistral-large-4/)
 - [Release of Polars 2.0](https://pola.rs/posts/release-polars-2/)
+## Morning Digest - 07-10-2026
+
+- [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)
+- [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/)
+- [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions)
