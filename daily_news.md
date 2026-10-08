@@ -383,3 +383,8 @@
 - [“Math 2.0” will need to value mathematical progress more holistically](https://mathstodon.xyz/@tao/117395269325940185)
 - [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
 - [Classic PC demoscene productions running natively in the browser](https://treylorswift.github.io/demoscene-recomp/web/)
+## Afternoon/Evening Digest - 08-10-2026
+
+- [Beauty in DVD Menus](https://vale.rocks/posts/dvd-menus)
+- [“Math 2.0” will need to value mathematical progress more holistically](https://mathstodon.xyz/@tao/117395269325940185)
+- [Show HN: I've been paying for a rural Tanzanian's education for 10 years](https://tanzaniaeducationproject.org/)
