@@ -378,3 +378,8 @@
 - [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome)
 - [SynthID Detector](https://synthid.com/)
 - [Google Playground](https://labs.google/playground)
+## Morning Digest - 08-10-2026
+
+- [“Math 2.0” will need to value mathematical progress more holistically](https://mathstodon.xyz/@tao/117395269325940185)
+- [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
+- [Classic PC demoscene productions running natively in the browser](https://treylorswift.github.io/demoscene-recomp/web/)
