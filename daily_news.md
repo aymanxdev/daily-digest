@@ -388,3 +388,8 @@
 - [Beauty in DVD Menus](https://vale.rocks/posts/dvd-menus)
 - [“Math 2.0” will need to value mathematical progress more holistically](https://mathstodon.xyz/@tao/117395269325940185)
 - [Show HN: I've been paying for a rural Tanzanian's education for 10 years](https://tanzaniaeducationproject.org/)
+## Morning Digest - 09-10-2026
+
+- [OTel-Native by Design – Building Products That Export to Any Observability Stack](https://opentelemetry.io/blog/2026/otel-native-by-design/)
+- [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/)
+- [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
