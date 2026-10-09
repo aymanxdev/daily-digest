@@ -393,3 +393,8 @@
 - [OTel-Native by Design – Building Products That Export to Any Observability Stack](https://opentelemetry.io/blog/2026/otel-native-by-design/)
 - [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/)
 - [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
+## Afternoon/Evening Digest - 09-10-2026
+
+- [Deno Is Joining Cloudflare](https://deno.com/blog/cloudflare)
+- [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d)
+- [Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
