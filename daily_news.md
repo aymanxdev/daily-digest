@@ -398,3 +398,8 @@
 - [Deno Is Joining Cloudflare](https://deno.com/blog/cloudflare)
 - [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d)
 - [Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
+## Morning Digest - 10-10-2026
+
+- [REA Reverse – Engineer Anything](https://rea.tools/)
+- [Computers Cannot Make Decisions](https://wiki.cateat.fish/art:computers_cannot_make_decisions)
+- [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
