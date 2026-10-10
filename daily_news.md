@@ -403,3 +403,8 @@
 - [REA Reverse – Engineer Anything](https://rea.tools/)
 - [Computers Cannot Make Decisions](https://wiki.cateat.fish/art:computers_cannot_make_decisions)
 - [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
+## Afternoon/Evening Digest - 10-10-2026
+
+- [`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/)
+- [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750)
+- [Lobbying Is Corruption](https://carette.xyz/posts/lobbying_and_corruption/)
