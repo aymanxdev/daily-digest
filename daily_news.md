@@ -413,3 +413,8 @@
 - [LineageOS 24.0](https://lineageos.org/Changelog-32/)
 - [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
 - [3rd Yandex Cloud Data Center Was Hit](https://status.yandex.cloud/en/incidents/2136)
+## Afternoon/Evening Digest - 11-10-2026
+
+- [Internal files add to evidence of an ExxonMobil climate deception campaign](https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/)
+- [I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/)
+- [LineageOS 24.0](https://lineageos.org/Changelog-32/)
