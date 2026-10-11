@@ -408,3 +408,8 @@
 - [`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/)
 - [Bitwarden Dual License Model](https://community.bitwarden.com/t/published-version-update-in-app-stores/102750)
 - [Lobbying Is Corruption](https://carette.xyz/posts/lobbying_and_corruption/)
+## Morning Digest - 11-10-2026
+
+- [LineageOS 24.0](https://lineageos.org/Changelog-32/)
+- [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
+- [3rd Yandex Cloud Data Center Was Hit](https://status.yandex.cloud/en/incidents/2136)
