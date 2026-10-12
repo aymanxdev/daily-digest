@@ -418,3 +418,8 @@
 - [Internal files add to evidence of an ExxonMobil climate deception campaign](https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/)
 - [I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/)
 - [LineageOS 24.0](https://lineageos.org/Changelog-32/)
+## Morning Digest - 12-10-2026
+
+- [Postgres isn't slow, your storage is](https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is)
+- [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
+- [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
