@@ -423,3 +423,8 @@
 - [Postgres isn't slow, your storage is](https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is)
 - [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
 - [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
+## Afternoon/Evening Digest - 12-10-2026
+
+- [Why aren't AI companies being charged for hacking?](https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/)
+- [Incident with Actions, Pull Requests and Issues](https://www.githubstatus.com/incidents/93njd414rpbx)
+- [The Making Of Super Mario 64 – full Giles Goddard interview (2001)](https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/)
