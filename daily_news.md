@@ -428,3 +428,8 @@
 - [Why aren't AI companies being charged for hacking?](https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/)
 - [Incident with Actions, Pull Requests and Issues](https://www.githubstatus.com/incidents/93njd414rpbx)
 - [The Making Of Super Mario 64 – full Giles Goddard interview (2001)](https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/)
+## Morning Digest - 13-10-2026
+
+- [Where is all the new, good software?](https://www.natemeyvis.com/where-is-all-the-new-good-software/)
+- [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/)
+- [GLM-Legal](https://z.ai/blog/glm-legal)
