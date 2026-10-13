@@ -433,3 +433,8 @@
 - [Where is all the new, good software?](https://www.natemeyvis.com/where-is-all-the-new-good-software/)
 - [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/)
 - [GLM-Legal](https://z.ai/blog/glm-legal)
+## Afternoon/Evening Digest - 13-10-2026
+
+- [Apple HomeView](https://www.apple.com/apple-homeview/)
+- [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)
+- [A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices](https://machinelearning.apple.com/research/distributed-gpu-cloud)
