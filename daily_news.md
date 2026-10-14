@@ -438,3 +438,8 @@
 - [Apple HomeView](https://www.apple.com/apple-homeview/)
 - [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)
 - [A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices](https://machinelearning.apple.com/research/distributed-gpu-cloud)
+## Morning Digest - 14-10-2026
+
+- [Gemini 4 Argon](https://deepmind.google/models/gemini/)
+- [Sound – Bartosz Ciechanowski (2022)](https://ciechanow.ski/sound/)
+- [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260)
