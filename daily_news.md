@@ -443,3 +443,8 @@
 - [Gemini 4 Argon](https://deepmind.google/models/gemini/)
 - [Sound – Bartosz Ciechanowski (2022)](https://ciechanow.ski/sound/)
 - [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260)
+## Afternoon/Evening Digest - 14-10-2026
+
+- [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)
+- [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)
+- [ASML's strong orders ease fears AI spending boom is running out of steam](https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/)
