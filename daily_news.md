@@ -463,3 +463,8 @@
 - [Meta’s new commercial terms will allow the scraping of news sites: experts](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
 - [New York City's iconic horse-drawn carriages expected to take their last trot](https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban)
 - [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)
+## Afternoon/Evening Digest - 16-10-2026
+
+- [Hello Toronto – Waymo Is En Route](https://waymo.com/blog/2026/10/waymo-in-toronto/)
+- [I Love Software Rendering](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)
+- [Gyroscopes Got So Small [video]](https://www.youtube.com/watch?v=0Zc_6xB5W3Y)
