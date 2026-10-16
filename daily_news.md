@@ -458,3 +458,8 @@
 - [Libreboot 26.10 "Ominous Olive" released with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html)
 - [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)
 - [Prompt injection in HTTP headers: what 217M web responses show](https://www.signalscorps.com/blog/prompt-injection-in-http-headers/)
+## Morning Digest - 16-10-2026
+
+- [Meta’s new commercial terms will allow the scraping of news sites: experts](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
+- [New York City's iconic horse-drawn carriages expected to take their last trot](https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban)
+- [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)
