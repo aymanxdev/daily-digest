@@ -473,3 +473,8 @@
 - [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine)
 - [Tesla Roadster](https://www.tesla.com/roadster)
 - [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
+## Afternoon/Evening Digest - 17-10-2026
+
+- [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
+- [Making Chicken Transparent Using Dorito Dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)
+- [Solar surpasses nuclear power globally for first time – pv magazine Global](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)
