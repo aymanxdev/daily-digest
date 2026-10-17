@@ -468,3 +468,8 @@
 - [Hello Toronto – Waymo Is En Route](https://waymo.com/blog/2026/10/waymo-in-toronto/)
 - [I Love Software Rendering](https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/)
 - [Gyroscopes Got So Small [video]](https://www.youtube.com/watch?v=0Zc_6xB5W3Y)
+## Morning Digest - 17-10-2026
+
+- [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine)
+- [Tesla Roadster](https://www.tesla.com/roadster)
+- [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)
