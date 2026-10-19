@@ -493,3 +493,8 @@
 - [Linux 7.3 Released](https://lwn.net/Articles/1101143/)
 - [Rabbits were a medieval royal luxury in England until the Black Death](https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html)
 - [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
+## Afternoon/Evening Digest - 19-10-2026
+
+- [Wine Ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
+- [Linux 7.3 Released](https://lwn.net/Articles/1101143/)
+- [Timestral: Mistral release time-series foundation models](https://mistral.ai/news/timestral/)
