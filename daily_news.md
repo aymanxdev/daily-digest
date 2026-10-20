@@ -498,3 +498,8 @@
 - [Wine Ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
 - [Linux 7.3 Released](https://lwn.net/Articles/1101143/)
 - [Timestral: Mistral release time-series foundation models](https://mistral.ai/news/timestral/)
+## Morning Digest - 20-10-2026
+
+- [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono)
+- [OpenBSD 8.0](https://www.openbsd.org/80.html)
+- [Restoration of Retinal Regenerative Potential](https://www.nature.com/articles/s41467-025-58290-8)
