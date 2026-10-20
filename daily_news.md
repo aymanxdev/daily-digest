@@ -503,3 +503,8 @@
 - [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono)
 - [OpenBSD 8.0](https://www.openbsd.org/80.html)
 - [Restoration of Retinal Regenerative Potential](https://www.nature.com/articles/s41467-025-58290-8)
+## Afternoon/Evening Digest - 20-10-2026
+
+- [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)
+- [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
+- [EMudhra Intermediate CA Compromise](https://emudhra.we-have-a-problem.com/)
