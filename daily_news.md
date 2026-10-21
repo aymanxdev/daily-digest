@@ -513,3 +513,8 @@
 - [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
 - [Show HN: SimCity, but with Permits](https://permit.petercai.com/)
 - [Upcoming critical PHP security release (CVE-2026-109618 / -109619)](https://news-web.php.net/php.announce/509)
+## Afternoon/Evening Digest - 21-10-2026
+
+- [PHP 8.2.35](https://github.com/php/php-src/releases/tag/php-8.2.35)
+- [PHP2Shell: AI uncovers critical RCE in PHP](https://www.wiz.io/blog/php2shell-php-rce)
+- [DuckDB 2.0.0 LTS "Cinnamon Teal"](https://duckdb.org/2026/10/21/announcing-duckdb-200)
