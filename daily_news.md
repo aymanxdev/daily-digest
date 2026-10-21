@@ -508,3 +508,8 @@
 - [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)
 - [Apple broke an essential presentation feature of iPads](https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/)
 - [EMudhra Intermediate CA Compromise](https://emudhra.we-have-a-problem.com/)
+## Morning Digest - 21-10-2026
+
+- [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
+- [Show HN: SimCity, but with Permits](https://permit.petercai.com/)
+- [Upcoming critical PHP security release (CVE-2026-109618 / -109619)](https://news-web.php.net/php.announce/509)
