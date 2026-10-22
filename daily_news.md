@@ -518,3 +518,8 @@
 - [PHP 8.2.35](https://github.com/php/php-src/releases/tag/php-8.2.35)
 - [PHP2Shell: AI uncovers critical RCE in PHP](https://www.wiz.io/blog/php2shell-php-rce)
 - [DuckDB 2.0.0 LTS "Cinnamon Teal"](https://duckdb.org/2026/10/21/announcing-duckdb-200)
+## Morning Digest - 22-10-2026
+
+- [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
+- [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
+- [Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
