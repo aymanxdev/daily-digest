@@ -523,3 +523,8 @@
 - [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
 - [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
 - [Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
+## Afternoon/Evening Digest - 22-10-2026
+
+- [eMudhra to Exit Global SSL/TLS Certificate Business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)
+- [What's Getting Pwned](https://pwn.watch/)
+- [Crystal 1.22.0 Is Released](https://crystal-lang.org/2026/10/12/1.22.0-released/)
