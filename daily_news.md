@@ -528,3 +528,8 @@
 - [eMudhra to Exit Global SSL/TLS Certificate Business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)
 - [What's Getting Pwned](https://pwn.watch/)
 - [Crystal 1.22.0 Is Released](https://crystal-lang.org/2026/10/12/1.22.0-released/)
+## Morning Digest - 23-10-2026
+
+- [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
+- [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
+- [How does Fable 5.1 hide messages in images?](https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images)
