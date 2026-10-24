@@ -543,3 +543,8 @@
 - [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
 - [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
 - [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)
+## Afternoon/Evening Digest - 24-10-2026
+
+- [TornadoVM 7 Enables GPU-Native Workloads from Java Applications](https://www.infoq.com/news/2026/10/tornadovm-7-gpu/)
+- [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
+- [I Don't Understand Quantum Physics (2018)](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
