@@ -538,3 +538,8 @@
 - [Investor-owned utilities charge 23% more for electricity than public providers](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities)
 - [OpenSSL 4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
 - [Phone Is About to Stop Being Yours: 70 Days Until Lockdown](https://keepandroidopen.org/?)
+## Morning Digest - 24-10-2026
+
+- [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
+- [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
+- [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)
