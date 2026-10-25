@@ -553,3 +553,8 @@
 - [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
 - [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
 - [How Japanese Dried Bonito Is Made](https://kottke.org/26/10/how-japanese-dried-bonito-is-made)
+## Afternoon/Evening Digest - 25-10-2026
+
+- [Tool book of a Nuremberg knight from 1505](https://loeffelholz-codex.org/en/)
+- [Show HN: Farol – a risk map of a pull request for the person who approves it](https://github.com/winnin/farol)
+- [fheroes2: A recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2)
