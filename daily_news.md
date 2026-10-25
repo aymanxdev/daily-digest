@@ -548,3 +548,8 @@
 - [TornadoVM 7 Enables GPU-Native Workloads from Java Applications](https://www.infoq.com/news/2026/10/tornadovm-7-gpu/)
 - [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
 - [I Don't Understand Quantum Physics (2018)](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
+## Morning Digest - 25-10-2026
+
+- [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
+- [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
+- [How Japanese Dried Bonito Is Made](https://kottke.org/26/10/how-japanese-dried-bonito-is-made)
