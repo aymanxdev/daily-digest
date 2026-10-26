@@ -1093,3 +1093,4 @@ A cat's normal temperature varies around 101 degrees Fahrenheit.
 The cat appears to be the only domestic companion animal not mentioned in the Bible.
 A cat has approximately 60 to 80 million olfactory cells (a human has between 5 and 20 million).
 Cats are the world's most popular pets, outnumbering dogs by as many as three to one
+Cats' hearing stops at 65 khz (kilohertz); humans' hearing stops at 20 khz.
