@@ -558,3 +558,8 @@
 - [Tool book of a Nuremberg knight from 1505](https://loeffelholz-codex.org/en/)
 - [Show HN: Farol – a risk map of a pull request for the person who approves it](https://github.com/winnin/farol)
 - [fheroes2: A recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2)
+## Morning Digest - 26-10-2026
+
+- [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
+- [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)
+- [The result of the C++26 DIS ballot](https://train-it.eu/blog/cpp26-contracts-the-ballot-result/)
