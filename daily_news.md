@@ -563,3 +563,8 @@
 - [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
 - [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)
 - [The result of the C++26 DIS ballot](https://train-it.eu/blog/cpp26-contracts-the-ballot-result/)
+## Afternoon/Evening Digest - 26-10-2026
+
+- [Fixing Tool-Call Accuracy in vLLM](https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm)
+- [Birdwatching rewires the brain and slows cognitive decline](https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline)
+- [One of the Greatest Inventions in the History of Human Transport](https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html)
