@@ -578,3 +578,8 @@
 - [PHP2Shell: Exploitation Attempts and Remediation Trends](https://www.wiz.io/blog/php2shell-exploitation-so-far)
 - [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
 - [Wikipedia's Cleanup of AI-Generated Content](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup)
+## Morning Digest - 28-10-2026
+
+- [Git for the US Code](https://lexifina.com/blog/git-for-the-us-code)
+- [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
+- [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
