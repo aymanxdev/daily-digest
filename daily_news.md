@@ -583,3 +583,8 @@
 - [Git for the US Code](https://lexifina.com/blog/git-for-the-us-code)
 - [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
 - [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
+## Afternoon/Evening Digest - 28-10-2026
+
+- [Ten days later, Git on macOS still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
+- [The Agent SDK](https://cursor.com/blog/agent-sdk)
+- [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
