@@ -588,3 +588,8 @@
 - [Ten days later, Git on macOS still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
 - [The Agent SDK](https://cursor.com/blog/agent-sdk)
 - [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
+## Morning Digest - 29-10-2026
+
+- [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
+- [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
+- [Getting debug access on a Brother printer over Telnet](https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/)
