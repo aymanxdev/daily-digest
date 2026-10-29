@@ -593,3 +593,8 @@
 - [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
 - [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
 - [Getting debug access on a Brother printer over Telnet](https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/)
+## Afternoon/Evening Digest - 29-10-2026
+
+- [Mistral Large 4 (Le Chonk) is now Open Weight](https://mistral.ai/news/mistral-large-4-oss/)
+- [Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1)
+- [Read the letter the FBI sent MLK to try to convince him to kill himself (2014)](https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter)
