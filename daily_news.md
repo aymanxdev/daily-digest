@@ -603,3 +603,8 @@
 - [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
 - [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)
 - [Cuis: The Modern Smalltalk-80](https://cuis.st/)
+## Afternoon/Evening Digest - 30-10-2026
+
+- [elect.horse](https://elect.horse/)
+- [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
+- [Azure's Weakest Link – Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case)
