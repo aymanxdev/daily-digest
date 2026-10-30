@@ -598,3 +598,8 @@
 - [Mistral Large 4 (Le Chonk) is now Open Weight](https://mistral.ai/news/mistral-large-4-oss/)
 - [Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1)
 - [Read the letter the FBI sent MLK to try to convince him to kill himself (2014)](https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter)
+## Morning Digest - 30-10-2026
+
+- [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
+- [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)
+- [Cuis: The Modern Smalltalk-80](https://cuis.st/)
