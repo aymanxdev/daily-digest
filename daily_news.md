@@ -613,3 +613,8 @@
 - [Switch Lowering in GCC](https://xoranth.net/gcc-switch/)
 - [Show HN: Marelleo, an open-source story box I built for my kids using ESP32](https://zebra.rodeo/en/blog/marelleo/)
 - [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
+## Afternoon/Evening Digest - 31-10-2026
+
+- [Molly(Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)
+- [Prospero: A new coding harness for a more civilized age](https://nullprogram.com/blog/2026/10/31/)
+- [We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
