@@ -308,3 +308,8 @@
 - [Molly(Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)
 - [Prospero: A new coding harness for a more civilized age](https://nullprogram.com/blog/2026/10/31/)
 - [We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
+## Morning Digest - 01-11-2026
+
+- [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
+- [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
+- [The AI cost of JavaScript frameworks](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
