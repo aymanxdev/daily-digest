@@ -318,3 +318,8 @@
 - [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)
 - [Mathematics has changed. Let's act like it](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/)
 - [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
+## Afternoon/Evening Digest - 02-11-2026
+
+- [Show HN: Subvocal – Talk to your computer without making noise](https://subvocal.company/)
+- [Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](https://momentic.ai/)
+- [US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names)
