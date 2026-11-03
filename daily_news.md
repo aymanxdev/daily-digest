@@ -323,3 +323,8 @@
 - [Show HN: Subvocal – Talk to your computer without making noise](https://subvocal.company/)
 - [Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](https://momentic.ai/)
 - [US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names)
+## Afternoon/Evening Digest - 03-11-2026
+
+- [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/)
+- [Fujifilm to boost tape production 5x as AI fuels archiving demand](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/)
+- [The 'Astra can read and write weights to improve Qwen' post is misleading](https://honnibal.dev/blog/astra-read-write-misleading)
