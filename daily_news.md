@@ -333,3 +333,8 @@
 - [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)
 - [Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent (2016)](https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/)
 - [Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux](https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop)
+## Afternoon/Evening Digest - 05-11-2026
+
+- [Sshole](https://sshhole.com)
+- [Alpine Linux Security advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)
+- [Motorola Signature 27 with GrapheneOS support](https://motorolanews.com/motorola-signature-27-2/)
