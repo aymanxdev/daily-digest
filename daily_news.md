@@ -338,3 +338,8 @@
 - [Sshole](https://sshhole.com)
 - [Alpine Linux Security advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)
 - [Motorola Signature 27 with GrapheneOS support](https://motorolanews.com/motorola-signature-27-2/)
+## Afternoon/Evening Digest - 06-11-2026
+
+- [Deus Ex](https://www.filfre.net/2026/11/deus-ex/)
+- [Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105)
+- [FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control](https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air)
