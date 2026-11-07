@@ -343,3 +343,8 @@
 - [Deus Ex](https://www.filfre.net/2026/11/deus-ex/)
 - [Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105)
 - [FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control](https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air)
+## Afternoon/Evening Digest - 07-11-2026
+
+- [The $8 Linux Computer (2022)](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
+- [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)
+- [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
