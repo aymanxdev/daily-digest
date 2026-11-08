@@ -348,3 +348,8 @@
 - [The $8 Linux Computer (2022)](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
 - [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)
 - [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
+## Afternoon/Evening Digest - 08-11-2026
+
+- [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)
+- [Porting Android 16 to my blind mother's keypad phone](https://z1x.us/blog/four-hundred-bucks-of-e-waste)
+- [Quadrillion-parameter transformers and how to train them](https://qlabs.sh/research/parameters)
