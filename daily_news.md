@@ -353,3 +353,8 @@
 - [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)
 - [Porting Android 16 to my blind mother's keypad phone](https://z1x.us/blog/four-hundred-bucks-of-e-waste)
 - [Quadrillion-parameter transformers and how to train them](https://qlabs.sh/research/parameters)
+## Afternoon/Evening Digest - 09-11-2026
+
+- [Too many men suffering in silence, national health report finds (Canada)](https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds)
+- [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
+- [Our Smallest, Most Efficient Model: Muse Ember](https://research.meta.ai/blog/muse-ember)
