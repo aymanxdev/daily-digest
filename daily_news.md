@@ -358,3 +358,8 @@
 - [Too many men suffering in silence, national health report finds (Canada)](https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds)
 - [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
 - [Our Smallest, Most Efficient Model: Muse Ember](https://research.meta.ai/blog/muse-ember)
+## Afternoon/Evening Digest - 10-11-2026
+
+- [Blender 5.3 released with Gaussian Splat support](https://www.blender.org/download/releases/5-3/)
+- [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
+- [The Hardest Tarball?](https://stoppels.ch/2026/11/07/the-hardest-tarball.html)
