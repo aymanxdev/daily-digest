@@ -363,3 +363,8 @@
 - [Blender 5.3 released with Gaussian Splat support](https://www.blender.org/download/releases/5-3/)
 - [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
 - [The Hardest Tarball?](https://stoppels.ch/2026/11/07/the-hardest-tarball.html)
+## Afternoon/Evening Digest - 11-11-2026
+
+- [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya)
+- [Pharo in the Browser with WebAssembly](https://massimo-nocentini.github.io/pharo-vm/world.html)
+- [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/)
