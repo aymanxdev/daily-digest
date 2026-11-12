@@ -368,3 +368,8 @@
 - [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya)
 - [Pharo in the Browser with WebAssembly](https://massimo-nocentini.github.io/pharo-vm/world.html)
 - [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/)
+## Afternoon/Evening Digest - 12-11-2026
+
+- [NVIDIA Announces CEO Transition](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition)
+- [Anthropic IPO](https://ipo.anthropic.com/us/)
+- [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
