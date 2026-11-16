@@ -388,3 +388,8 @@
 - [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
 - [The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/)
 - [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
+## Afternoon/Evening Digest - 16-11-2026
+
+- [Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains)
+- [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/)
+- [The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/)
