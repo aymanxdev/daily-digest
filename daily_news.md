@@ -393,3 +393,8 @@
 - [Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains)
 - [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/)
 - [The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/)
+## Afternoon/Evening Digest - 17-11-2026
+
+- [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
+- [What is the best harness for each model?](https://runta.com/blog/introducing-frontierharness-eval-v1-1/)
+- [Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off](https://alloyhtml.com/example.html)
