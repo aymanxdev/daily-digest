@@ -398,3 +398,8 @@
 - [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
 - [What is the best harness for each model?](https://runta.com/blog/introducing-frontierharness-eval-v1-1/)
 - [Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off](https://alloyhtml.com/example.html)
+## Afternoon/Evening Digest - 18-11-2026
+
+- [Pre-auth RCE in Nginx HTTP/2 handling](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
+- [Inside Deutsche Bank](https://www.inside-db.com/)
+- [Microsoft AI: Seven new world-class models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
