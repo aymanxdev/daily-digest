@@ -403,3 +403,8 @@
 - [Pre-auth RCE in Nginx HTTP/2 handling](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
 - [Inside Deutsche Bank](https://www.inside-db.com/)
 - [Microsoft AI: Seven new world-class models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
+## Afternoon/Evening Digest - 19-11-2026
+
+- [Everything you need to survive and rebuild society](https://lastbook.org/)
+- [Pete warden on local AI, open models, voice interfaces, the future of hardware](https://thedataexchange.media/pete-warden-moonshine/)
+- [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/)
