@@ -408,3 +408,8 @@
 - [Everything you need to survive and rebuild society](https://lastbook.org/)
 - [Pete warden on local AI, open models, voice interfaces, the future of hardware](https://thedataexchange.media/pete-warden-moonshine/)
 - [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/)
+## Afternoon/Evening Digest - 20-11-2026
+
+- [Anthropic employee claims general proof of the Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
+- [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)
+- [I'll never buy Framework hardware again](https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/)
