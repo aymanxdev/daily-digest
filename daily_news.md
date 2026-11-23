@@ -423,3 +423,8 @@
 - [Open Social Web Alliance](https://osw-alliance.net/en/)
 - [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
 - [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)
+## Afternoon/Evening Digest - 23-11-2026
+
+- ["Per ARM's Request, This Site Will Be Discontinued on 4 December 2026"](https://arm.jonpalmisc.com/)
+- [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
+- [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
