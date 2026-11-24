@@ -428,3 +428,8 @@
 - ["Per ARM's Request, This Site Will Be Discontinued on 4 December 2026"](https://arm.jonpalmisc.com/)
 - [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
 - [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
+## Afternoon/Evening Digest - 24-11-2026
+
+- [What Cloudflare Doesn't Tell You](https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/)
+- [Active Intrusion Campaign Against Check Point Security Management Servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
+- [Canada's median health-care wait time hits 30.7 weeks–longest ever recorded](https://www.fraserinstitute.org/studies/waiting-your-turn-wait-times-for-health-care-in-canada-2026)
