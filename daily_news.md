@@ -433,3 +433,8 @@
 - [What Cloudflare Doesn't Tell You](https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/)
 - [Active Intrusion Campaign Against Check Point Security Management Servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
 - [Canada's median health-care wait time hits 30.7 weeks–longest ever recorded](https://www.fraserinstitute.org/studies/waiting-your-turn-wait-times-for-health-care-in-canada-2026)
+## Afternoon/Evening Digest - 25-11-2026
+
+- [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
+- [A few questions for the guy who went snorkeling in a Home Depot retention pond](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts)
+- [Google releases Cogentic papers on integer factorization, discrete logs and more](https://github.com/google-research/google-research/tree/master/cogentic_research_papers)
