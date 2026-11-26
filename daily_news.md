@@ -438,3 +438,8 @@
 - [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
 - [A few questions for the guy who went snorkeling in a Home Depot retention pond](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts)
 - [Google releases Cogentic papers on integer factorization, discrete logs and more](https://github.com/google-research/google-research/tree/master/cogentic_research_papers)
+## Afternoon/Evening Digest - 26-11-2026
+
+- [Tracking Diseases Cured by AI](https://diseasescuredbyai.com/)
+- [AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp)
+- [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
