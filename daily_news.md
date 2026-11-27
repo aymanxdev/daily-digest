@@ -443,3 +443,8 @@
 - [Tracking Diseases Cured by AI](https://diseasescuredbyai.com/)
 - [AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp)
 - [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
+## Afternoon/Evening Digest - 27-11-2026
+
+- [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer)
+- [Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/)
+- [False computer-checked proofs](https://cr.yp.to/proofs/falseccp.html)
